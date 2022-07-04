@@ -1,6 +1,6 @@
 ---
 layout: rubrique
-title: Résidences
+title: Les résidences
 permalink: /residences/
 ---
 {: .sommaire }
