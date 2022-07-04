@@ -1,7 +1,7 @@
 ---
 draft: false
 layout: post
-title: Résidence "Sixt-sur-Aff 2046"
+title: Résidence Sixt-sur-Aff 2046
 date: 2022-07-04T14:53:41.165Z
 artiste:
   - Camille Bondon
