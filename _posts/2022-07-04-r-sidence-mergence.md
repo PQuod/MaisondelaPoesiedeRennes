@@ -8,9 +8,9 @@ artiste:
 categories: residence
 date_debut: 2022-02-28
 date_fin: 2022-04-10
-dates_publiees: 28 février 2022 → 10 avril 2022
+dates_publiees: 28 février → 10 avril 2022
 lieu: Maison de la Poésie de Rennes
-partenaires: Ville de Rennes,
+partenaires: Ville de Rennes
 ---
 Pour sa résidence d'écriture, Mia Brion a pour *working title* (titre qui la travaille) *combien d'un nom es-tu contre toi*, dans lequel on lit une "solution de continuité", terme à l'étrange matérialité avec laquelle elle entre en contact. 
 
