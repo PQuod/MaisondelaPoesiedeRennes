@@ -36,16 +36,16 @@ layout: default
   </ul>
   <h1 class="liste_titre">Événements passés</h1>
   <ul class="liste-posts">
+    {% assign count = 0 %}
     {% assign sorted = site.posts | sort: 'date_debut'| reverse %}
     {% for post in sorted %}
       {% if post.draft != true %}
         {% capture findate %}{{ post.date_fin | date: "%Y-%m-%d"}}{% endcapture %}
         {% capture debutdate %}{{ post.date_debut | date: "%Y-%m-%d"}}{% endcapture %}
         {% capture nowdate %}{{ "now" | date: "%Y-%m-%d" }}{% endcapture %}
-        {% capture nowmonth %}{{ "now" | date: "%m" }}{% endcapture %}
-        {% capture postmonth %}{{ post.date_debut | date: "%m" }}{% endcapture %}
           {% if findate <= nowdate and debutdate <= nowdate %}
             <li>
+              {% assign count = count | plus:1 %}
               <div class="event_dates">
                 <p class="event_type">{{post.dates_publiees}}</p>
               </div>
@@ -65,6 +65,7 @@ layout: default
               <p class="event_type">{% if post.tarif %}{{post.tarif}}{% endif %}</p>
               <p>{% if post.lieu %}{{post.lieu}}{% endif %}</p>
               </li>
+              {% if count == 10 %}{% break %}{% endif %}
               <img class="ptte-ligne" src="/imgs/ptte-ligne.gif"/>
         {% endif %}
       {% endif %}
