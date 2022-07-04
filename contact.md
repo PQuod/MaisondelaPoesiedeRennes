@@ -1,7 +1,7 @@
 ---
+layout: rubrique
 title: Contact
 permalink: /contact/
-ordre: 4
 ---
 # Infos
 - 47 rue Armand Rébillon, 35000 RENNES

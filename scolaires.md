@@ -1,7 +1,7 @@
 ---
+layout: rubrique
 title: Scolaires
 permalink: /scolaires/
-ordre: 3
 ---
 {: .sommaire }
 

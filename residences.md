@@ -1,8 +1,14 @@
 ---
+layout: rubrique
 title: Résidences
 permalink: /residences/
-ordre: 2
 ---
+{: .sommaire }
+* [À la Maison de la Poésie](#maipo)
+* [En milieu scolaire](#scolaires)
+
+
+
 # À la Maison de la poésie <a class="anchor" id="maipo"></a>
 
 Les candidatures pour les deux résidences de création de la saison 2023 (octobre-décembre) - 2024 (avril-juin) sont ouvertes jusqu'au 31 août 2022. [L'appel à candidature se trouve ici](/appel/2022/05/02/appels-residences-23-24.html).

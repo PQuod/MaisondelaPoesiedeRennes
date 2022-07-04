@@ -1,7 +1,7 @@
 ---
+layout: rubrique
 title: La Maison
 permalink: /maison/
-ordre: 1
 ---
 {: .sommaire }
   * [Le projet](#projet)
