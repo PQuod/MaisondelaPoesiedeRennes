@@ -3,13 +3,8 @@ layout: rubrique
 title: Les résidences
 permalink: /residences/
 ---
-{: .sommaire }
-* [À la Maison de la Poésie](#maipo)
-* [En milieu scolaire](#scolaires)
 
-
-
-# À la Maison de la poésie <a class="anchor" id="maipo"></a>
+## À la Maison de la poésie
 
 Les candidatures pour les deux résidences de création de la saison 2023 (octobre-décembre) - 2024 (avril-juin) sont ouvertes jusqu'au 31 août 2022. [L'appel à candidature se trouve ici](/appel/2022/05/02/appels-residences-23-24.html).
 
@@ -22,7 +17,7 @@ Deux mois, deux fois par an, un poète ou une poétesse, choisi.e par le comité
 
 - - -
 
-# En milieu scolaire <a class="anchor" id="scolaires"></a>
+## En milieu scolaire
 
 La Maison de la Poésie sera ravie de vous rencontrer et de construire avec vous un projet de résidence en milieu scolaire, qui pourra rayonner sur le territoire dans lequel il sera implanté. La meilleure période pour commencer à réfléchir ensemble à un projet de ce type est vers la fin du deuxième trimestre de l'année scolaire.
 
