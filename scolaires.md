@@ -12,7 +12,7 @@ Ecrivez à Lucie Desaubliaux, notre médiatrice scolaire : lucie.desaubliaux@mai
 
 # Nos activités cette année
 
-### Poètes en classe, mars 2022 <a class="anchor" id="pec"></a>
+## Poètes en classe, mars 2022
 
 **Du CP au CM2**
 
@@ -24,7 +24,7 @@ Les artistes ont rencontré les élèves des écoles Suzanne Lacorre (St-Jacques
 
 ---
 
-### Prix des Découvreurs, mars & avril 2022 <a class="anchor" id="decouvreurs"></a>
+## Prix des Découvreurs, mars & avril 2022
 
 **De la 3ème à la Terminale**
 
@@ -44,39 +44,39 @@ Elle a rencontré les élèves des lycées La Champagne (Vitré) et Anita Conti 
 
 ---
 
-### Artistes en Résidence à la Maison de la Poésie <a class="anchor" id="residencesmaipo"></a>
+## Artistes en Résidence à la Maison de la Poésie
 
 **Tous niveaux**
 
-#### Résidence d'automne
+### Résidence d'automne
 
 *Du 18 octobre au 12 décembre 2021*
 **Julie Sas** a animé une série d'ateliers d'écriture, suivis d'une restitution papier, avec des étudiants de Licence 3 Arts de l'UBO de Brest (29).
 
-#### Résidence de printemps
+### Résidence de printemps
 
 *Du 11 avril au 05 mai 2022*
 **[Marie de Quatrebarbes](/residence/2022/05/02/residences-marie-dequatrebarbes.html)** a tenu 6 ateliers d'écriture auprès des élèves des collèges Les Ormeaux et Sainte-Joséphine-Bakhita (Rennes, 35).
 
 ---
 
-### Artistes en Résidence sur les territoires <a class="anchor" id="residencesterritoire"></a>
+## Artistes en Résidence sur les territoires
 
 **Tous niveaux**
 
-#### Juliette Mézenc
+### Juliette Mézenc
 
 *Du 20 septembre 2021 au 28 janvier 2022*
 Après un report d'un an, **Juliette Mézenc** est venue résider 9 semaines en Bretagne Romantique. Elle y a mené des ateliers avec les enfants de CM2 de l'école Abbé Pierre à Hédé et de 6ème du collège Saint-Joseph à Tinténiac.
 
-#### Camille Bondon
+### Camille Bondon
 
 *Du 29 novembre au 10 décembre 2021*
 **Camille Bondon** a passé une semaine au sein de l'école Michel Serrault de Six-sur-Aff. Tous les élèves de l'école, de la grande section au CM2, ont réalisé un programme utopique pour leur ville du futur et une campagne d'affichage de 60 affiches colorées placardées sur tous les murs de la ville.
 
 ---
 
-### Autres formats de rencontres <a class="anchor" id="autres"></a>
+## Autres formats de rencontres
 
 **Tous niveaux** : Rencontres avec un.e auteur.trice de la programmation
 
