@@ -34,6 +34,5 @@ Nous acceptons les services de presse des livres de poésie et de prose contempo
 Station Anatole France ou Sainte-Anne
 
 
-
 # VÉLO STAR
 Station Auberge de Jeunesse
