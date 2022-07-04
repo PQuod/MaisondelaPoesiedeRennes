@@ -1,6 +1,6 @@
 <nav>
-  <ul>{% assign sorted_pages = site.data.pagelist.pages | sort:"page.ordre" %}
-     {% for item in sorted_pages %}
+  <ul>
+     {% for item in site.data.pagelist.pages %}
     <a href="{{ item.url | absolute_url }}"><li >
         {{ item.title }}
     </li>
