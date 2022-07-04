@@ -3,13 +3,6 @@ layout: rubrique
 title: Scolaires
 permalink: /scolaires/
 ---
-{: .sommaire }
-
-* [Poètes en classe](#pec)
-* [Prix des Découvreurs](#decouvreurs)
-* [Résidences à la Maison](#residencesmaipo)
-* [Résidences en territoire](#residencesterritoire)
-* [Autres formats](#autres)
 
 Vous souhaitez construire un projet scolaire ou assister à une lecture ? Toute l'année, vous pouvez nous solliciter pour les projets de classe à PAC, des projets Karta ou autres. Nous mettons à votre disposition tous les outils nécessaires pour vous préparer : dossiers pédagogiques, extraits vidéos et textes, etc.
 
