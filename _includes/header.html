@@ -6,14 +6,16 @@
     <a href="{{site.url}}">
   <h1 class="titre-site">{{site.title}}</h1>
   </a>
+  <!-- Legende
   <div class="legende">
     <div class="legende_res">Résidences</div>
     <div class="legende_renc">Rencontres</div>
     <div class="legende_asso">Associatif</div>
     <div class="legende_pod">Podcasts</div>
-    <div class="legende_div">Divers</div>  
+    <div class="legende_div">Divers</div>
   </div>
   <p>
+  -->
     {% capture day %}{{ "now" | date: "%a" }}{% endcapture %}
     {% capture hour %}{{ "now" | date: "%H"}}{% endcapture %}
     {% assign hour = hour | plus:0 %}
