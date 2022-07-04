@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 layout: post
 title: Résidence émergence
 date: 2022-07-04T14:22:00.229Z
