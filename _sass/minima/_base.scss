@@ -1,0 +1,65 @@
+:root {
+  --text-font:'Amaranth', sans-serif;
+  --line-height:30px;
+  --text-color:black;
+  --hover-color:gray;
+  --color_res:#e8dff5;
+  --color_renc:#fce1e4;
+  --color_asso:#fcf4dd;
+  --color_pod:#daeaf6;
+  --color_autres:#ddedea;
+
+}
+
+*{
+  margin:0;
+  padding:0;
+}
+
+body{
+  font-family:var(--text-font);
+  letter-spacing: 1px;
+}
+
+a{
+  color:var(--text-color);
+}
+
+a:hover{
+  text-decoration: none;
+}
+
+ul, li{
+  list-style: none;
+}
+
+hr{
+height:95px;
+background: #fff url(/imgs/line.gif) no-repeat scroll center;
+border:none;
+}
+
+h1{
+  font-size:30px;
+}
+
+h2{
+  font-size:28px;
+}
+
+h3{
+  font-size:26px;
+}
+
+h4{
+  font-size:24px;
+}
+
+h5{
+  font-size:22px;
+}
+
+p, li{
+  font-size:22px;
+  line-height: var(--line-height);
+}

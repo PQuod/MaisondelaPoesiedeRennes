@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<article>
+    <div class="encart_rubrique color_res">
+        <div class="titre_page"><h1>{{ page.title }}</h1></div>
+    </div>
+    <div class="post_descript">
+    {{ page.content | markdownify }}
+    </div>
+{% if page.title == "Résidences" %}
+  {% include residence_list.html %}
+{% endif %}
+
+</article>

@@ -1,0 +1,22 @@
+pages_list: Pages du site
+pages:
+- title: La Maison
+  url: /maison/
+
+- title: La bibliothèque
+  url: /bibli/
+
+- title: Scolaires
+  url: /scolaires/
+
+- title: Résidences
+  url: /residences/
+
+- title: Archives
+  url: /archives/
+
+- title: Contact
+  url: /contact/
+
+- title: Journal
+  url: /journal/

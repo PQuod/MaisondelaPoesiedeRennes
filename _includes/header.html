@@ -1,0 +1,32 @@
+<header>
+  <a href="{{site.url}}">
+  <img src="{{ site.baseurl }}/imgs/logo.png" alt="logo" class="logo"/>
+  </a>
+  <div class="en-tete">
+    <a href="{{site.url}}">
+  <h1 class="titre-site">{{site.title}}</h1>
+  </a>
+  <div class="legende">
+    <div class="legende_res">Résidences</div>
+    <div class="legende_renc">Rencontres</div>
+    <div class="legende_asso">Associatif</div>
+    <div class="legende_pod">Podcasts</div>
+    <div class="legende_div">Divers</div>  
+  </div>
+  <p>
+    {% capture day %}{{ "now" | date: "%a" }}{% endcapture %}
+    {% capture hour %}{{ "now" | date: "%H"}}{% endcapture %}
+    {% assign hour = hour | plus:0 %}
+    {% if day == "Mon" or day == "Tue" or day == "Wed" or day == "Thu" or day == "Fri" %}
+      {% if hour >= 9 and hour <= 17 %}
+      Ouvert actuellement &middot;
+      {% else %}
+      Fermé actuellement &middot;
+      {% endif %}
+    {% else %}
+    Fermé actuellement &middot;
+    {% endif %}
+    De 9h à 17h, du lundi au vendredi &middot; 47 rue Armand Rébillon</p>
+  </div>
+
+</header>

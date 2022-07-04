@@ -1,0 +1,49 @@
+---
+layout: default
+---
+<div class="evenements">
+  <h1 class="liste_titre">Événements passés</h1>
+  <ul class="liste-posts">
+  {% assign sorted = site.posts | sort: 'date_debut'| reverse %}
+  {% for post in sorted %}
+    {% if post.draft != true %}
+      {% capture findate %}{{ post.date_fin | date: "%Y-%m-%d"}}{% endcapture %}
+      {% capture debutdate %}{{ post.date_debut | date: "%Y-%m-%d"}}{% endcapture %}
+      {% capture nowdate %}{{ "now" | date: "%Y-%m-%d" }}{% endcapture %}
+      {% capture year_of_current_post %}{{ post.date | date: "%Y" }}{% endcapture %}
+      {% capture year_of_next_post %}{{ post.next.date | date: "%Y" }}{% endcapture %}
+    {% if forloop.first %}
+      <div class="archive_year">{{ year_of_current_post }}</div>
+    {% endif %}
+    {% unless post.categories contains "artiste" %}
+      {% if findate <= nowdate and debutdate <= nowdate %}
+          {% if year_of_current_post != year_of_next_post %}
+          <div class="archive_year">{{ year_of_current_post }}</div>
+          {% endif %}
+          <li>
+              <div class="event_dates">
+                <p class="event_type">{{post.dates_publiees}}</p>
+              </div>
+              <a href="{{ post.url }}">
+                {% if post.categories contains "residence" %}<h3 class="color_res event_titre">
+                {% elsif post.categories contains "evenement" %}<h3 class="color_renc event_titre">
+                {% elsif post.categories contains "associatif" %}<h3 class="color_asso event_titre">
+                {% elsif post.categories contains "podcast" %}<h3 class="color_pod event_titre">
+                {% else %}<h3 class="color_autres event_titre">{% endif %}{{ post.title }}</h3>
+              </a>
+              {% for artiste in post.artiste %}
+                {% for item in artiste %}
+                  <h4 class="event_art">{{ item }}</h4>
+                {% endfor %}
+              {% endfor %}
+              {% if post.categories contains "podcast" %}{{ post.content}}{% endif %}
+              <p class="event_type">{% if post.tarif %}{{post.tarif}}{% endif %}</p>
+              <p>{% if post.lieu %}{{post.lieu}}{% endif %}</p>
+              </li>
+              <img class="ptte-ligne" src="/imgs/ptte-ligne.gif"/>
+      {% endif %}
+    {% endunless %}
+    {% endif %}
+  {% endfor %}
+  </ul>
+  </div>

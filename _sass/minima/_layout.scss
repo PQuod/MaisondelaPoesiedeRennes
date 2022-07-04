@@ -1,0 +1,359 @@
+header{
+  max-width:100%;
+  height:5em;
+    padding:20px;
+}
+
+.legende{
+  display:inline-block;
+  position:absolute;
+  top:-95px;
+  right:95px;
+  transform: rotate(-90deg);
+}
+.legende_res, .legende_renc, .legende_asso, .legende_pod, .legende_div{
+  border: 1px solid black;
+margin-bottom:20px;
+height:20px;
+padding:10px;
+text-transform: uppercase;
+}
+
+.legende_res{
+  background: var(--color_res);
+}
+.legende_renc{
+  background: var(--color_renc);
+}
+.legende_asso{
+  background: var(--color_asso);
+}
+.legende_pod{
+  background: var(--color_pod);
+}
+.legende_div{
+  background: var(--color_autres);
+}
+
+.logo{
+  height:100%;
+  width:auto;
+  position:relative;
+  float:left;
+}
+.en-tete{
+    margin-left:150px;
+}
+
+.titre-site:hover{
+  color:white;
+  -webkit-text-stroke:1px black;
+}
+
+.titre-site{
+  text-transform: uppercase;
+  display:inline-block;
+  font-size: 3.2em;
+}
+
+nav{
+  width:14%;
+  text-transform: uppercase;
+  position:relative;
+  float:left;
+  font-weight: bold;
+  text-align: right;
+  padding-top:20px;
+}
+
+nav a{
+  text-decoration:none;
+}
+
+nav li{
+  font-size:20px;
+  margin-bottom:var(--line-height);
+  padding:5px;
+  border: 1px solid black;
+}
+
+
+nav li:hover{
+  background-color:black;
+  color:white;
+}
+
+.social{
+  border:1px solid black;
+  padding:5px;
+  width:20px;
+  height:20px;
+  margin:5px;
+  display:inline-block;
+  text-align:center;
+  cursor:pointer;
+}
+
+.social:hover{
+  background:black;
+  color:white;
+}
+
+main{
+  width:80%;
+  padding:20px;
+  position:relative;
+  float:right;
+}
+
+.actus{
+  width:35%;
+  position:relative;
+  float:right;
+}
+
+.actus a{
+  text-decoration: none;
+}
+
+.actus a:hover{
+  text-decoration: underline;
+}
+
+.evenements{
+  width:60%;
+  position:relative;
+  float:left;
+}
+
+
+/**Evenements**/
+.liste_titre{
+  text-align:center;
+  text-transform:uppercase;
+  padding-top:calc(var(--line-height)/2);
+  padding-bottom:calc(var(--line-height)/2);
+  margin-bottom:20px;
+  border: 1px solid black;
+}
+
+.liste-posts{
+  width:100%;
+}
+
+.liste-posts a{
+    text-decoration:none;
+}
+
+.ptte-ligne:last-of-type{
+  display:none;
+}
+
+
+.event_titre{
+  text-transform:uppercase;
+  padding:3px;
+  margin-top:5px;
+  margin-bottom:5px;
+}
+
+.event_titre:hover{
+  background-color: black;
+  color:white;
+}
+
+.event_dates{
+  font-style: italic;
+}
+
+.event_art{
+  display:inline-block;
+    margin-bottom:5px;
+}
+
+.event_art:not(:last-of-type):after{
+  content:", ";
+}
+
+.event_type{
+  text-transform: capitalize;
+}
+
+/** Encarts **/
+.encart{
+padding:20px;
+margin-bottom:20px;
+}
+
+.encart_res:not(:last-of-type){
+  margin-bottom:var(--line-height);
+}
+
+.encart_res h2{
+  margin-bottom:0px;
+}
+
+.encart_titre{
+  text-align:center;
+  margin-bottom:20px;
+  text-transform: uppercase;
+}
+
+.encart_artiste{
+    margin-bottom:5px;
+}
+
+.encart_infos{
+  font-size:0.8em;
+  margin-bottom:5px;
+}
+
+.liencat{
+  display:block;
+  text-align:right;
+  width:100%;
+  font-weight:bold;
+}
+
+.liencat:before{
+  content:"→ ";
+}
+
+
+/**Couleurs**/
+.color_res{
+  background-color:var(--color_res);
+  border:1px solid black;
+}
+.color_renc{
+  background-color:var(--color_renc);
+  border:1px solid black;
+}
+.color_asso{
+  background-color:var(--color_asso);
+  border:1px solid black;
+}
+.color_pod{
+  background-color:var(--color_pod);
+  border:1px solid black;
+}
+.color_autres{
+  background-color:var(--color_autres);
+  border:1px solid black;
+}
+
+/* Archives */
+.archive_year{
+  position:absolute;
+  width:20%;
+  right:-200px;
+  padding:20px;
+  font-size:50px;
+}
+
+/* Journal */
+.journal_titre{
+  margin-bottom:var(--line-height);
+  text-transform: uppercase; 
+}
+
+/*PAGES */
+
+article{
+  width:60%;
+}
+
+.encart_rubrique{
+padding:20px;
+margin-bottom:20px;
+}
+
+.titre_page{
+  text-align:center;
+  text-transform:uppercase;
+}
+
+
+.post_descript p{
+  margin-bottom:var(--line-height);
+}
+
+.post_descript img{
+  filter: grayscale(100%);
+  max-width:50%;
+  height: auto;
+transform: translate(50%, 0%);
+}
+
+
+.post_descript img:hover{
+  filter:none;
+}
+
+.chapeau_artistes:not(:last-child)::after{
+  content: ', '
+}
+
+.artiste_bio p{
+    margin-bottom:var(--line-height);
+}
+
+.post_descript h1, h2{
+    margin-bottom:var(--line-height);
+}
+
+article li:last-of-type{
+    margin-bottom:var(--line-height);
+}
+
+.sommaire{
+  position:fixed;
+  width:20%;
+  top:140px;
+  right:70px;
+  padding-right:100px;
+  background-color: var(--color_res);
+  border:1px solid black;
+  padding:20px;
+}
+.sommaire li:last-of-type{
+    margin-bottom:0px;
+}
+
+ul ul{
+  padding-left:20px;
+}
+
+label{
+  font-size:20px;
+}
+
+input{
+  border:none;
+  border-bottom:1px solid black;
+  background:none;
+  width:100%;
+}
+
+button{
+  border:1px solid black;
+  background:none;
+  padding:5px;
+  width:100%;
+  margin-top:10px;
+  cursor:pointer;
+}
+
+button:hover{
+  background:black;
+  color:white;
+}
+
+/** Page_residences **/
+#list_res p:not(:last-of-type){
+  margin:0;
+}
+
+#list_res_scol p:not(:last-of-type){
+  margin:0;
+}

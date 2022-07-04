@@ -1,0 +1,93 @@
+local_backend: true
+
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+publish_mode: editorial_workflow
+media_folder: 'imgs'
+logo_url: "/imgs/logo.png"
+slug:
+  encoding: "ascii"
+collections:
+  - name: "evenements" # Used in routes, e.g., /admin/collections/blog
+    label: "Evenements" # Used in the UI
+    folder: "_posts" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Invisible", name: "draft", widget: "boolean", required: false, default: true}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Titre fichier", name: "title", widget: "string", hint: "Ecrire ici le nom du post sans accent ou ponctuation"}
+      - {label: "Date", name: "date", widget: "datetime"}
+      - {label: "Artiste(s)", name: "artiste", widget: "relation", required: false,
+        collection: "artistes",
+        value_field: "name",
+        multiple: true,
+        display_fields: [ "name" ],
+        search_fields: [ "name" ] }
+      - {label: "Categorie", name: "categories", widget: "select", options: [{label: 'Podcast', value: 'podcast'}, {label: "Résidence", value: 'residence'}, {label: 'Associatif', value: 'associatif'}, {label: 'Rencontre', value: 'rencontre'}, {label: 'Appel à candidature', value: 'appel'}, {label: 'Divers', value: 'divers'}]}
+      - {label: "Date de début", name: "date_debut", widget: "date", format: "YYYY-MM-DD"}
+      - {label: "Date de fin", name: "date_fin", widget: "date", format: "YYYY-MM-DD", required: false}
+      - {label: "Dates publiées", name: "dates_publiees", widget: "string"}
+      - {label: "Lieu", name: "lieu", widget: "string", required: false}
+      - {label: "Tarif", name: "tarif", widget: "string", required: false}
+      - {label: "Partenaire(s)", name: "partenaires", widget: "string", required: false}
+      - {label: 'Description', name: 'body', widget: 'markdown'}
+
+  - name: "artistes"
+    label: "Artistes"
+    folder: "_artistes"
+    create: true
+    slug: "{{name | slugify }}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Nom", name: "name", widget: "string"}
+      - {label: 'Bio', name: 'body', widget: 'markdown'}
+
+  - name: "journal"
+    label: "Journal"
+    folder: "_journal"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Invisible", name: "draft", widget: "boolean", required: false, default: true}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Titre", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime"}
+      - {label: 'Description', name: 'body', widget: 'markdown'}
+
+  - name: "pages"
+    label: "Pages"
+    files:
+      - label: "Contact"
+        name: "contact"
+        file: "contact.md"
+        fields:
+          - {label: "Layout", name : "layout", widget: "hidden", default: "rubrique"}
+          - {label: "Titre", name: "title", widget: "string"}
+          - {label: "Permalink", name: "permalink", widget: "string"}
+          - {label: 'Description', name: 'body', widget: 'markdown'}
+      - label: "Maison"
+        name: "maison"
+        file: "maison.markdown"
+        fields:
+          - {label: "Layout", name : "layoutgitgit", widget: "hidden", default: "rubrique"}
+          - {label: "Titre", name: "title", widget: "string"}
+          - {label: "Permalink", name: "permalink", widget: "string"}
+          - {label: 'Description', name: 'body', widget: 'markdown'}
+      - label: "Résidences"
+        name: "residences"
+        file: "residences.md"
+        fields:
+          - {label: "Layout", name : "layout", widget: "hidden", default: "rubrique"}
+          - {label: "Titre", name: "title", widget: "string"}
+          - {label: "Permalink", name: "permalink", widget: "string"}
+          - {label: 'Description', name: 'body', widget: 'markdown'}
+      - label: "Scolaires"
+        name: "scolaires"
+        file: "scolaires.md"
+        fields:
+          - {label: "Layout", name : "layout", widget: "hidden", default: "rubrique"}
+          - {label: "Titre", name: "title", widget: "string"}
+          - {label: "Permalink", name: "permalink", widget: "string"}
+          - {label: 'Description', name: 'body', widget: 'markdown'}
