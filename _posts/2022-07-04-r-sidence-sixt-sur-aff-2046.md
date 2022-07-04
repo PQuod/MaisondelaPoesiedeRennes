@@ -1,7 +1,7 @@
 ---
 draft: false
 layout: post
-title: Résidence "Sixt-sur-Aff 2046"
+title: Résidence Sixt-sur-Aff 2046
 date: 2022-07-04T14:53:41.165Z
 artiste:
   - Camille Bondon
@@ -15,6 +15,6 @@ lieu: Sixt-sur-Aff
 
 De ces explorations naîtront de grandes affiches colorées placardées dans la ville, composant "un texte-poème éclaté à recomposer" au fil des rues et des balades.
 
-Les ateliers à l'école ont lieu du **29 novembre au 02 décembre**. 
+Les ateliers à l'école ont lieu du **29 novembre au 02 décembre**.
 
 Une déambulation pour admirer les affiches créées lors des ateliers et collées sur les murs de la ville aura lieu le **10 décembre 2021** à partir de **17h45**. Le départ se fera à l'école publique Michel Serrault. Les affiches resteront ensuite tout le week-end voire un peu plus si la météo est clémente !
