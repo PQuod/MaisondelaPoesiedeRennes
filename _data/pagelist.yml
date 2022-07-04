@@ -1,15 +1,15 @@
 pages_list: Pages du site
 pages:
-- title: La Maison
+- title: Maison
   url: /maison/
 
-- title: Les scolaires
+- title: Scolaires
   url: /scolaires/
 
-- title: Les résidences
+- title: Résidences
   url: /residences/
 
-- title: La bibliothèque
+- title: Bibliothèque
   url: /bibli/
 
 - title: Contact
