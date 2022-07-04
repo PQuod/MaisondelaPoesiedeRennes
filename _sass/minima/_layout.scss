@@ -175,10 +175,6 @@ main{
   content:", ";
 }
 
-.event_type{
-  text-transform: capitalize;
-}
-
 /** Encarts **/
 .encart{
 padding:20px;
@@ -254,7 +250,7 @@ margin-bottom:20px;
 /* Journal */
 .journal_titre{
   margin-bottom:var(--line-height);
-  text-transform: uppercase; 
+  text-transform: uppercase;
 }
 
 /*PAGES */
