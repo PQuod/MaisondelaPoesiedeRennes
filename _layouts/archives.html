@@ -15,7 +15,7 @@ layout: default
     {% if forloop.first %}
       <div class="archive_year">{{ year_of_current_post }}</div>
     {% endif %}
-    {% unless post.categories contains "artiste" %}
+    {% unless post.categories contains "podcast" %}
       {% if findate <= nowdate and debutdate <= nowdate %}
           {% if year_of_current_post != year_of_next_post %}
           <div class="archive_year">{{ year_of_current_post }}</div>

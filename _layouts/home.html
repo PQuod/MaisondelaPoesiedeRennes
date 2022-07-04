@@ -43,6 +43,7 @@ layout: default
       {% assign sorted = site.posts | sort: 'date_debut'| reverse %}
       {% for post in sorted %}
         {% if post.draft != true %}
+          {% unless post.categories contains "podcast" %}
           {% capture findate %}{{ post.date_fin | date: "%Y-%m-%d"}}{% endcapture %}
           {% capture debutdate %}{{ post.date_debut | date: "%Y-%m-%d"}}{% endcapture %}
           {% capture nowdate %}{{ "now" | date: "%Y-%m-%d" }}{% endcapture %}
@@ -64,13 +65,13 @@ layout: default
                     <h4 class="event_art">{{ item }}</h4>
                   {% endfor %}
                 {% endfor %}
-                {% if post.categories contains "podcast" %}{{ post.content}}{% endif %}
                 <p class="event_type">{% if post.tarif %}{{post.tarif}}{% endif %}</p>
                 <p>{% if post.lieu %}{{post.lieu}}{% endif %}</p>
                 </li>
                 {% if count == 10 %}{% break %}{% endif %}
                 <img class="ptte-ligne" src="/imgs/ptte-ligne.gif"/>
           {% endif %}
+          {% endunless %}
         {% endif %}
       {% endfor %}
     </ul>
