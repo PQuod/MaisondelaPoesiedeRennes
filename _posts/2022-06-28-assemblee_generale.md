@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Assemblée Générale
 name: Assemblée Générale
+title: Assemblée Générale
 date: 2022-06-28T12:43:27.897Z
 categories: associatif
 date_debut: 2022-07-07
@@ -24,20 +24,14 @@ Au nom du Bureau de l'association, nous vous prions de bien vouloir assister à 
 **de la Maison de la Poésie de Rennes**
 
 **MERCREDI 7 JUILLET 2022, à 19 H**
-
  
-
 47 rue Armand Rébillon, 35000 Rennes
 
 Tél : 02 99 51 33 32
 
 Mail : [contact@maisondelapoesie-rennes.org](mailto:contact@maisondelapoesie-rennes.org?subject=Assembl%C3%A9e%20G%C3%A9n%C3%A9rale)
 
- 
-
 **L'ordre du jour sera le suivant :**
-
- 
 
 * Accueil
 * Présentation et approbation des comptes
@@ -45,7 +39,5 @@ Mail : [contact@maisondelapoesie-rennes.org](mailto:contact@maisondelapoesie-ren
 * Présentation et approbation du rapport moral
 * Election de nouveaux membres du CA
 * Pot de fin
-
- 
 
 Merci de nous **signaler votre présence par téléphone ou par email avant le 1er juillet**. Nous vous rappelons que seul.e.s pourront participer à l'AG les adhérents et adhérentes **à jour de leur cotisation 2022** (année civile) ; vous trouverez ci-dessous le bulletin d'adhésion.
