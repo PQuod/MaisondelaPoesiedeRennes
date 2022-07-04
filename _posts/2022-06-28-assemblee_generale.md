@@ -9,8 +9,6 @@ date_fin: 2022-07-07
 dates_publiees: 7 juillet • 19h
 lieu: Maison de la poésie de Rennes
 ---
-
-
 Comme à la fin de chaque saison, l'Assemblée Générale de l'association Maison de la Poésie de Rennes se réunit pour se retrouver, faire le bilan des activités, et élire les membres de son Conseil d'Administration.
 
 Une saison 2021 - 2022 qui, après la sortie des confinements a été riche en soirées, lectures, rencontres et résidences, et dont nous avons hâte de vous présenter le bilan !
