@@ -3,13 +3,13 @@ layout: rubrique
 title: La Maison
 permalink: /maison/
 ---
-## Le projet <a class="anchor" id="projet"></a>
+## Le projet
 
 L'association Maison de la Poésie - Beauséjour est une association loi 1901 soutenue par la Ville de Rennes, le Conseil Régional de Bretagne, le Département d'Ille-et-Vilaine, la DRAC Bretagne, la Communauté de Communes Bretagne Romantique, le Centre National du Livre et la Sofia.
 
 Elle a pour mission de gérer le lieu culturel Maison de la Poésie de Rennes, de fédérer partenaires fondateurs, acteurs culturels et associations oeuvrant dans le domaine des expressions liées au livre, et de développer des projets artistiques et culturels autour des écritures contemporaines et de leur diffusion orale. Elle conduit sa démarche avec le souci permanent de favoriser l’accès du plus grand nombre à la culture et à la création artistique.
 
-## L'équipe <a class="anchor" id="equipe"></a>
+## L'équipe
 
 ### Salarié.e.s
 - Direction : Quentin Leclerc
@@ -30,13 +30,13 @@ Marylin Degrenne ([La Balade des Livres](http://www.la-balade-des-livres.fr/)) /
 
 ---
 
-## Partenaires financiers <a class="anchor" id="partenaires"></a>
+## Partenaires financiers
 
 [Rennes Métropole](https://metropole.rennes.fr/) &middot; [Région Bretagne](https://www.bretagne.bzh/) &middot; [DRAC Bretagne](http://www.culture.gouv.fr/Regions/Drac-Bretagne) &middot; [CNL](https://centrenationaldulivre.fr/) &middot; [Communauté de Communes de Bretagne Romantique](https://bretagneromantique.fr/accueil) &middot; [SOFIA](https://www.la-sofia.org/)
 
 ---
 
-## Rapports d'activité <a class="anchor" id="rapports"></a>
+## Rapports d'activité
 - [Saison 2020-2021](/docs/2020-2021_RapportActivite.pdf)
 - [Saison 2019-2020](/docs/2019-2020_RapportActivite.pdf)
 - [Saison 2018-2019](/docs/2018-2019_RapportActivite.pdf)
@@ -44,7 +44,7 @@ Marylin Degrenne ([La Balade des Livres](http://www.la-balade-des-livres.fr/)) /
 
 ---
 
-## Adhésion <a class="anchor" id="adhesion"></a>
+## Adhésion
 
 [Télécharger le bulletin d'adhésion 2022 (PDF)](/docs/2022_Adhesion.pdf)
 
@@ -67,7 +67,7 @@ L'adhésion soutient les activités de notre association, permet l'emprunt des o
 
 ---
 
-## Bénévolat <a class="anchor" id="benevolat"></a>
+## Bénévolat
 
 Toute l'année, nous sommes à la recherche de bénévoles pour nous aider dans diverses missions en lien avec les activités de notre association. Par exemple, aider à la logistique de nos événements artistiques, à enrichir le fonds de notre bibliothèque en suggérant des achats, ou encore à animer le lieu en participant au projet potager.
 
