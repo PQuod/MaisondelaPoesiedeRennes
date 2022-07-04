@@ -3,20 +3,20 @@ pages:
 - title: La Maison
   url: /maison/
 
-- title: La bibliothèque
-  url: /bibli/
-
-- title: Scolaires
+- title: Les scolaires
   url: /scolaires/
 
-- title: Résidences
+- title: Les résidences
   url: /residences/
 
-- title: Archives
-  url: /archives/
+- title: La bibliothèque
+  url: /bibli/
 
 - title: Contact
   url: /contact/
 
 - title: Journal
   url: /journal/
+
+- title: Archives
+  url: /archives/
