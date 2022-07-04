@@ -44,7 +44,7 @@ layout: default
         {% capture nowdate %}{{ "now" | date: "%Y-%m-%d" }}{% endcapture %}
         {% capture nowmonth %}{{ "now" | date: "%m" }}{% endcapture %}
         {% capture postmonth %}{{ post.date_debut | date: "%m" }}{% endcapture %}
-          {% if findate <= nowdate and debutdate <= nowdate S%}
+          {% if findate <= nowdate and debutdate <= nowdate %}
             <li>
               <div class="event_dates">
                 <p class="event_type">{{post.dates_publiees}}</p>
