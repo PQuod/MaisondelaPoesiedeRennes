@@ -48,9 +48,9 @@ layout: default
       <h2 class="encart_titre">Résidence en cours</h2>
       <a href="{{ post.url }}">
         <h3 class="encart_artiste">{{ post.artiste }}</h3>
-        <h4>{{ post.dates_publiees }}</h4>
+        <p>{{ post.title }}</p>
       </a>
-      <div class="event_dates">{{ post.title }}</div>
+      <div class="event_dates">{{ post.dates_publiees }}</div>
     </div>
     {% endif %}
     {% if debutdate >= nowdate %}
