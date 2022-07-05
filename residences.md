@@ -28,10 +28,10 @@ Deux mois sans interruption, entre octobre et décembre ou avril et juin.
 
 **Conditions d'accueil**
 
-Une bourse de 2000 euros brut en droits d'auteur par mois de résidence.  
-Un aller-retour depuis le domicile en train ou en voiture.  
-50 euros de courses à l'arrivée, 100 euros de documentation, et une carte de transport en commun avec 10 trajets.  
-Un vélo est mis à disposition.
+1. Une bourse de 2000 euros brut en droits d'auteur par mois de résidence.  
+2. Un aller-retour depuis le domicile en train ou en voiture.  
+3. 50 euros de courses à l'arrivée, 100 euros de documentation, et une carte de transport en commun avec 10 trajets.  
+4. Un vélo mis à disposition.
 
 **Processus de sélection**
 
