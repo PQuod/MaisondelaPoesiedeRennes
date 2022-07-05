@@ -8,19 +8,24 @@ permalink: /residences/
 
 Les candidatures pour les deux résidences de création de la saison 2023 (octobre-décembre) - 2024 (avril-juin) sont ouvertes jusqu'au 31 août 2022. [L'appel à candidature se trouve ici](/appel/2022/05/02/appels-residences-23-24.html).
 
-Deux mois, deux fois par an, un poète ou une poétesse, choisi.e par le comité artistique, vient résider à la Maison de la Poésie de Rennes. Avec deux objectifs&nbsp;:
+Chaque saison, à l'automne et au printemps, la Maison de la Poésie accueille deux résidences de création de deux mois.
 
-1. Offrir un temps de création et d’écriture. La Maison de la Poésie de Rennes passe commande à l’auteur d’un texte de 20 à 30 feuillets, et l’œuvre réalisée est publiée la saison suivante en collaboration avec un éditeur indépendant.
-2. Développer des actions autour de l’écriture contemporaine, pour tous publics, sur une zone géographique allant de la ville de Rennes à la région Bretagne.
+Les résident.e.s sont sélectionné.e.s sur dossier par le comité artistique de l'association.
 
-<div id="list_res"></div>
+Ces résidences ont deux enjeux principaux :
 
-- - -
+1. Offrir un temps de création et d’écriture.
+
+2. Développer des actions de médiation autour des écritures contemporaines auprès de publics scolaires et adultes.
+
+---
 
 ## En milieu scolaire
 
-La Maison de la Poésie sera ravie de vous rencontrer et de construire avec vous un projet de résidence en milieu scolaire, qui pourra rayonner sur le territoire dans lequel il sera implanté. La meilleure période pour commencer à réfléchir ensemble à un projet de ce type est vers la fin du deuxième trimestre de l'année scolaire.
+Les résidences de médiation permettent aux élèves de rencontrer un.e auteurice, de participer à sa démarche artistique, et de coconstruire un projet littéraire ou transdisciplinaire.
 
-Des résidences d'immersion en milieu scolaire permettent aux élèves de rencontrer un auteur, son univers et sa démarche artistique, afin de développer une connaissance et un goût pour les écritures contemporaines.
+Elles sont construites au cas par cas avec les acteurs du territoire.
 
-<div id="list_res_scol"></div>
+Si vous souhaitez développer un projet de ce type dans votre établissement, il suffit d'écrire à Lucie Desaubliaux, notre médiatrice scolaire, qui élaborera avec vous le projet artistique et le budget. Son contact : lucie.desaubliaux@maisondelapoesie-rennes.org 
+
+La meilleure période pour commencer à réfléchir ensemble à une résidence est vers la fin du deuxième trimestre de l'année scolaire. Par exemple, **pour une résidence durant l'année scolaire 2024, privilégier une construction entre janvier et mars 2023.**
