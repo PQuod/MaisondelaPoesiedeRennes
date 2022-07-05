@@ -18,6 +18,8 @@ Ces résidences ont deux enjeux principaux :
 
 2. Développer des actions de médiation autour des écritures contemporaines auprès de publics scolaires et adultes.
 
+<div id="list_res"></div>
+
 ---
 
 ## En milieu scolaire
@@ -26,6 +28,8 @@ Les résidences de médiation permettent aux élèves de rencontrer un.e auteuri
 
 Elles sont construites au cas par cas avec les acteurs du territoire.
 
-Si vous souhaitez développer un projet de ce type dans votre établissement, il suffit d'écrire à Lucie Desaubliaux, notre médiatrice scolaire, qui élaborera avec vous le projet artistique et le budget. Son contact : lucie.desaubliaux@maisondelapoesie-rennes.org 
+Si vous souhaitez développer un projet de ce type dans votre établissement, il suffit d'écrire à Lucie Desaubliaux, notre médiatrice scolaire, qui élaborera avec vous le projet artistique et le budget. Son contact : lucie.desaubliaux@maisondelapoesie-rennes.org
 
 La meilleure période pour commencer à réfléchir ensemble à une résidence est vers la fin du deuxième trimestre de l'année scolaire. Par exemple, **pour une résidence durant l'année scolaire 2024, privilégier une construction entre janvier et mars 2023.**
+
+<div id="list_res_scol"></div>
