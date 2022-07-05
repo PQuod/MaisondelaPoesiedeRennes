@@ -218,27 +218,30 @@ margin-bottom:20px;
   content:"→ ";
 }
 
-
+.acquisitions{
+  font-size: 1em;
+  line-height: calc(var(--line-height)/1.5);
+}
 /**Couleurs**/
 .color_res{
   background-color:var(--color_res);
-  border:1px solid black;
+
 }
 .color_renc{
   background-color:var(--color_renc);
-  border:1px solid black;
+
 }
 .color_asso{
   background-color:var(--color_asso);
-  border:1px solid black;
+
 }
 .color_pod{
   background-color:var(--color_pod);
-  border:1px solid black;
+
 }
 .color_autres{
   background-color:var(--color_autres);
-  border:1px solid black;
+
 }
 
 /* Archives */

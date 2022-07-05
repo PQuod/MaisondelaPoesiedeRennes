@@ -10,16 +10,8 @@ layout: default
       {% capture findate %}{{ post.date_fin | date: "%Y-%m-%d"}}{% endcapture %}
       {% capture debutdate %}{{ post.date_debut | date: "%Y-%m-%d"}}{% endcapture %}
       {% capture nowdate %}{{ "now" | date: "%Y-%m-%d" }}{% endcapture %}
-      {% capture year_of_current_post %}{{ post.date | date: "%Y" }}{% endcapture %}
-      {% capture year_of_next_post %}{{ post.next.date | date: "%Y" }}{% endcapture %}
-    {% if forloop.first %}
-      <div class="archive_year">{{ year_of_current_post }}</div>
-    {% endif %}
     {% unless post.categories contains "podcast" %}
       {% if findate <= nowdate and debutdate <= nowdate %}
-          {% if year_of_current_post != year_of_next_post %}
-          <div class="archive_year">{{ year_of_current_post }}</div>
-          {% endif %}
           <li>
               <div class="event_dates">
                 <p class="event_type">{{post.dates_publiees}}</p>
