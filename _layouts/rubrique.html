@@ -2,7 +2,15 @@
 layout: default
 ---
 <article>
-    <div class="encart_rubrique color_res">
+    {% if page.title == 'Résidences'%}
+      <div class="encart_rubrique color_res">
+    {% elsif page.title == 'La Maison' %}
+      <div class="encart_rubrique color_asso">
+    {% elsif page.title == 'Les scolaires' %}
+    <div class="encart_rubrique color_scol">
+    {% else %}
+    <div class="encart_rubrique color_autres">
+    {% endif %}
         <div class="titre_page"><h1>{{ page.title }}</h1></div>
     </div>
     <div class="post_descript">

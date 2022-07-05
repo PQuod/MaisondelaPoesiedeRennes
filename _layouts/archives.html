@@ -21,6 +21,7 @@ layout: default
                 {% elsif post.categories contains "evenement" %}<h3 class="color_renc event_titre">
                 {% elsif post.categories contains "associatif" %}<h3 class="color_asso event_titre">
                 {% elsif post.categories contains "podcast" %}<h3 class="color_pod event_titre">
+                  {% elsif post.categories contains "scolaires" %}<h3 class="color_scol event_titre">
                 {% else %}<h3 class="color_autres event_titre">{% endif %}{{ post.title }}</h3>
               </a>
               {% for artiste in post.artiste %}

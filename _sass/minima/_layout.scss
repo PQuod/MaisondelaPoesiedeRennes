@@ -74,7 +74,14 @@ nav li{
   font-size:20px;
   margin-bottom:var(--line-height);
   padding:5px;
-  border: 1px solid black;
+}
+
+nav li:before{
+  height: 25px;
+width: 25px;
+background-color: #bbb;
+border-radius: 50%;
+display: inline-block;
 }
 
 
@@ -161,8 +168,8 @@ main{
 }
 
 .event_titre:hover{
-  background-color: black;
-  color:white;
+  border-radius: 0;
+  transition-duration:0.5s;
 }
 
 .event_dates{
@@ -239,10 +246,18 @@ margin-bottom:20px;
   background-color:var(--color_pod);
   border-radius: 30% 60% 30% 40%;
 }
+
+.color_scol{
+  background-color:var(--color_scol);
+  border-radius: 60% 80% 20% 20%;
+}
+
 .color_autres{
   background-color:var(--color_autres);
   border-radius: 40% 20% 60% 40%;
 }
+
+
 
 
 /* Journal */
