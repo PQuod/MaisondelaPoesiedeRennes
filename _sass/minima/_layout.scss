@@ -1,17 +1,20 @@
-header{
-  max-width:14%;
-  height:5em;
-    padding:20px;
+nav{
+width:14%;
+position:relative;
+float:left;
+font-weight: bold;
+text-align: right;
+padding-top:20px;
+padding-left:30px;
 }
 
 .logo{
-  height:100%;
-  width:auto;
-  position:relative;
-  float:left;
+  width:100%;
+    margin-bottom:var(--line-height);
 }
 .en-tete{
-    margin-left:150px;
+  width:100%;
+  margin-bottom:var(--line-height);
 }
 
 .titre-site:hover{
@@ -21,20 +24,16 @@ header{
 
 .titre-site{
   text-transform: uppercase;
-  display:inline-block;
-  font-size: 3.2em;
+  font-size: 2em;
 }
 
-nav{
-  width:14%;
-  text-transform: uppercase;
-  position:relative;
-  float:left;
-  font-weight: bold;
-  text-align: right;
-  padding-top:20px;
+.horaires{
+  font-size:0.8em;
 }
 
+nav li {
+    text-transform: uppercase;
+}
 nav a{
   text-decoration:none;
 }
@@ -113,7 +112,7 @@ main{
   padding-top:calc(var(--line-height)/2);
   padding-bottom:calc(var(--line-height)/2);
   margin-bottom:20px;
-  border: 1px solid black;
+  border: 3px solid black;
 }
 
 .liste-posts{
