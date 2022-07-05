@@ -3,12 +3,12 @@ layout: default
 ---
 <div class="evenements">
   <ul class="liste-posts">
-    {% if page.tag %}
-    {% assign sorted = site.categories[page.tag] | sort: reverse %}
+    {% assign sorted = site.posts | sort: 'date_debut' | reverse %}
     {% for post in sorted %}
+      {% if post.categories contains page.tag %}
         <li>
           <div class="event_dates">
-            <p class="event_type">{% if post.type %}{{post.type}} &middot; {% endif %}{{post.dates_publiees}}</p>
+            <p class="event_type">{{post.dates_publiees}}</p>
           </div>
           <a href="{{ post.url }}">
           <h3 class="color_pod event_titre">{{ post.title }}</h3>
@@ -19,8 +19,8 @@ layout: default
             {% endfor %}
           {% endfor %}
         </li>
-<img class="ptte-ligne" src="/imgs/ptte-ligne.gif"/>
+        <img class="ptte-ligne" src="/imgs/ptte-ligne.gif"/>
+        {% endif %}
     {% endfor %}
-    {% endif %}
     </ul>
 </div>
