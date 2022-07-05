@@ -84,7 +84,8 @@ layout: default
 
 <div class="actus">
   <div class="encart color_res">
-  {% for post in site.categories.residence %}
+  {% for post in site.posts %}
+    {% if post.categories contains "residence" or post.categories contains "residence_scolaire" %}
     {% capture debutdate %}{{ post.date_debut | date: "%Y-%m-%d"}}{% endcapture %}
     {% capture findate %}{{ post.date_fin | date: "%Y-%m-%d"}}{% endcapture %}
     {% capture nowdate %}{{ "now" | date: "%Y-%m-%d" }}{% endcapture %}
@@ -105,6 +106,7 @@ layout: default
       <div class="event_dates">{{ post.dates_publiees }}</div>
       </a>
     </div>
+    {% endif %}
     {% endif %}
   {% endfor %}
   {% for post in site.categories.appel %}
