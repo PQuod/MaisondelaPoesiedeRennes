@@ -52,8 +52,6 @@ Accueil des premier.ères résident.es : octobre 2023
 
 Le formulaire est à remplir et à renvoyer par email ou par courrier. Tout dossier incomplet ne sera pas pris en compte.
 
-- - -
-
 ## Postuler
 
 [Postuler pour une des deux résidences de création de la saison 2023 (octobre-décembre) - 2024 (avril-juin).](https://maisondelapoesierennes.netlify.app/appel/2022/05/02/appels-residences-23-24.html)
