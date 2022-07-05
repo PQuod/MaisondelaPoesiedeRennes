@@ -1,6 +1,6 @@
 ---
 layout: rubrique
-title: La Maison
+title: maison
 permalink: /maison/
 ---
 ## Le projet
@@ -10,7 +10,7 @@ L'association Maison de la Poésie - Beauséjour est une association loi 1901.
 Ses missions :  
 1. Gérer le lieu culturel Maison de la Poésie de Rennes, installé dans la Villa Beauséjour.
 2. Fédérer partenaires fondateurs, acteurs culturels et associations oeuvrant dans le domaine des expressions liées au livre.
-3. Développer des projets artistiques et culturels autour des écritures contemporaines et de leur diffusion orale. 
+3. Développer des projets artistiques et culturels autour des écritures contemporaines et de leur diffusion orale.
 
 Elle conduit sa démarche avec le souci permanent de favoriser l’accès du plus grand nombre à la culture et à la création artistique.
 

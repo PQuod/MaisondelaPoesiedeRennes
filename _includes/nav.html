@@ -1,9 +1,17 @@
 <nav>
   <ul>
      {% for item in site.data.pagelist.pages %}
-    <a href="{{ item.url | absolute_url }}"><li >
+    <a href="{{ item.url | absolute_url }}">
+      <li>
+        {% if item.title == "Résidences" %}
+          <span class="nav-circle circle_res"></span>
+        {% elsif item.title == "maison" %}
+          <span class="nav-circle circle_asso"></span>
+          {% else %}
+          <span class="nav-circle circle_divers"></span>
+        {% endif %}
         {{ item.title }}
-    </li>
+      </li>
     </a>
     {% endfor %}
   </ul>
