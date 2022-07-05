@@ -48,7 +48,6 @@ Marylin Degrenne ([La Balade des Livres](http://www.la-balade-des-livres.fr/)) /
 [Télécharger le bulletin d'adhésion 2022](/docs/2022_Adhesion.pdf) (PDF)
 
 L’adhésion est valable une année civile :
-
 * 10 euros pour les particuliers
 * Gratuit pour les étudiants et demandeurs d'emploi
 * 30 euros pour les personnes morales
@@ -58,6 +57,8 @@ Merci de nous retourner le bulletin d'adhésion et le paiement (chèque ou espè
 **Maison de la Poésie de Rennes**  
 47 rue Armand Rébillon  
 35000 RENNES
+
+**A quoi sert l'adhésion ?**
 
 L'association est composée de membres fondateurs et de membres adhérents. Sont membres adhérents toutes les personnes physiques ou morales qui participent au fonctionnement et à la réalisation de son objet.
 
