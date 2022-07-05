@@ -3,13 +3,7 @@
      {% for item in site.data.pagelist.pages %}
     <a href="{{ item.url | absolute_url }}">
       <li>
-        {% if item.title == "Résidences" %}
-          <span class="nav-circle circle_res"></span>
-        {% elsif item.title == "maison" %}
-          <span class="nav-circle circle_asso"></span>
-          {% else %}
-          <span class="nav-circle circle_divers"></span>
-        {% endif %}
+          <span class="nav-circle"></span>
         {{ item.title }}
       </li>
     </a>
