@@ -3,10 +3,7 @@ layout: rubrique
 title: Résidences
 permalink: /residences/
 ---
-
 ## À la Maison de la poésie
-
-Les candidatures pour les deux résidences de création de la saison 2023 (octobre-décembre) - 2024 (avril-juin) sont ouvertes jusqu'au 31 août 2022. [L'appel à candidature se trouve ici](/appel/2022/05/02/appels-residences-23-24.html).
 
 Chaque saison, à l'automne et au printemps, la Maison de la Poésie accueille deux résidences de création de deux mois.
 
@@ -15,12 +12,13 @@ Les résident.e.s sont sélectionné.e.s sur dossier par le comité artistique d
 Ces résidences ont deux enjeux principaux :
 
 1. Offrir un temps de création et d’écriture.
-
 2. Développer des actions de médiation autour des écritures contemporaines auprès de publics scolaires et adultes.
+
+[L'appel à candidature](https://maisondelapoesierennes.netlify.app/appel/2022/05/02/appels-residences-23-24.html) pour les deux résidences de création de la saison 2023 (octobre-décembre) - 2024 (avril-juin) est ouvert jusqu'au 31 août 2022.
 
 <div id="list_res"></div>
 
----
+- - -
 
 ## En milieu scolaire
 
