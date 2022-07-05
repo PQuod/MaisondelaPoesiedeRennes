@@ -39,7 +39,7 @@ Les résident.es sont sélectionné.es sur dossier par le comité artistique de 
 
 L'évaluation des dossiers se fait sur la qualité et l'originalité du projet envisagé durant le temps de résidence.
 
-Les candidat.es sélectionné.es seront contacté.es par email 
+Les candidat.es sélectionné.es seront contacté.es par email. 
 
 **Calendrier**
 
@@ -50,7 +50,7 @@ Accueil des premier.ères résident.es : octobre 2023
 
 **Procédures de candidature**
 
-Le formulaire est à remplir et à renvoyer par email ou par courrier. Tout dosier incomplet ne sera pas pris en compte.
+Le formulaire est à remplir et à renvoyer par email ou par courrier. Tout dossier incomplet ne sera pas pris en compte.
 
 ---
 
