@@ -3,7 +3,7 @@ layout: rubrique
 title: Résidences
 permalink: /residences/
 ---
-## À la Maison de la Poésie
+## Résidence de création
 
 **Dispositif**
 
@@ -62,7 +62,19 @@ Le formulaire est à remplir et à renvoyer par email ou par courrier. Tout doss
 
 - - -
 
-## En milieu scolaire
+## Résidence Avec la langue
+
+LOREM IPSUM SLEDLZEDEZD
+
+---
+
+## Résidence émergence
+
+LOREM IPSUM SLEDLZEDEZD
+
+---
+
+## Résidence de médiation scolaire
 
 Les résidences de médiation permettent aux élèves de rencontrer un.e auteurice pour créer un projet littéraire ou transdisciplinaire tout en participant à sa démarche artistique.
 
