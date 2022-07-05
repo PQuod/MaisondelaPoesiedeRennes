@@ -1,7 +1,7 @@
 ---
 layout: post
 name: Avec la Langue
-title: "Avec la Langue #2"
+title: "Résidence Avec la langue #2"
 date: 2022-06-28T08:15:16.447Z
 artiste:
   - Pauline Allié
