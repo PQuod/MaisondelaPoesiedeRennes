@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Avec la Langue
 name: Avec la Langue
+title: Résidence Avec la langue
 date: 2021-06-28T08:32:58.388Z
 artiste:
   - Théo Robine-Langois
@@ -12,7 +12,7 @@ dates_publiees: Juillet → octobre 2021
 lieu: Maison de la Poésie de Rennes & FRAC Bretagne
 partenaires: FRAC Bretagne
 ---
-*Avec la langue* est une résidence de création organisée en partenariat avec le FRAC Bretagne.
+*Avec la langue* est une résidence de création organisée en partenariat avec le [FRAC Bretagne](https://fracbretagne.fr).
 
 Du 28 juin au 11 juillet, puis du 4 au 17 octobre, l’auteur **Théo Robine-Langlois** s’immerge au sein du Frac Bretagne afin d’écrire et enregistrer des sons. Lors de cette résidence, tout peut être sujet à écriture ou enregistrement : les gens qui parlent, le reflet de la pelouse, quelqu’un.e qui mange dans les escaliers, une grappe d’adolescent.e.s, le bruit d’un pull, et d’autres sons auxquels on ne pense pas forcément.
 
