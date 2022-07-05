@@ -7,7 +7,7 @@ layout: default
     <ul class="liste-posts">
       {% assign sorted = site.posts | sort: 'date_debut' %}
       {% for post in sorted %}
-        {% if post.categories contains "rencontre" or post.categories contains "associatif" or post.categories contains "divers" %}
+        {% if post.categories contains "rencontre" or post.categories contains "associatif" or post.categories contains "divers" or post.categories contains "scolaires" %}
           {% if post.draft != true %}
             {% capture debutdate %}{{ post.date_debut | date: "%Y-%m-%d"}}{% endcapture %}
             {% capture nowdate %}{{ "now" | date: "%Y-%m-%d" }}{% endcapture %}
