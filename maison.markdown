@@ -7,7 +7,12 @@ permalink: /maison/
 
 L'association Maison de la Poésie - Beauséjour est une association loi 1901.
 
-Elle a pour mission de gérer le lieu culturel Maison de la Poésie de Rennes, installée dans la Villa Beauséjour, de fédérer partenaires fondateurs, acteurs culturels et associations oeuvrant dans le domaine des expressions liées au livre, et de développer des projets artistiques et culturels autour des écritures contemporaines et de leur diffusion orale. Elle conduit sa démarche avec le souci permanent de favoriser l’accès du plus grand nombre à la culture et à la création artistique.
+Ses missions :  
+1. Gérer le lieu culturel Maison de la Poésie de Rennes, installé dans la Villa Beauséjour.
+2. Fédérer partenaires fondateurs, acteurs culturels et associations oeuvrant dans le domaine des expressions liées au livre.
+3. Développer des projets artistiques et culturels autour des écritures contemporaines et de leur diffusion orale. 
+
+Elle conduit sa démarche avec le souci permanent de favoriser l’accès du plus grand nombre à la culture et à la création artistique.
 
 ## L'équipe
 
@@ -48,14 +53,15 @@ Marylin Degrenne ([La Balade des Livres](http://www.la-balade-des-livres.fr/)) /
 [Télécharger le bulletin d'adhésion 2022](/docs/2022_Adhesion.pdf) (PDF)
 
 L’adhésion est valable une année civile :
+
 * 10 euros pour les particuliers
 * Gratuit pour les étudiants et demandeurs d'emploi
 * 30 euros pour les personnes morales
 
 Merci de nous retourner le bulletin d'adhésion et le paiement (chèque ou espèce) par voie postale à :
 
-**Maison de la Poésie de Rennes**  
-47 rue Armand Rébillon  
+**Maison de la Poésie de Rennes**\
+47 rue Armand Rébillon\
 35000 RENNES
 
 **A quoi sert l'adhésion ?**
