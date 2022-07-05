@@ -17,6 +17,11 @@ padding-left:30px;
   margin-bottom:var(--line-height);
   background-color:var(--color_autres);
   border-radius: 60% 50% 70% 30%;
+  text-decoration:none;
+}
+
+.en-tete a{
+    text-decoration:none;
 }
 
 .titre-site:hover{
@@ -51,9 +56,6 @@ nav li{
 }
 
 
-
-
-
 .social{
   border:1px solid black;
   padding:5px;
@@ -63,6 +65,7 @@ nav li{
   display:inline-block;
   text-align:center;
   cursor:pointer;
+  text-decoration:none;
 }
 
 .social:hover{
@@ -276,15 +279,15 @@ transform: translate(50%, 0%);
     margin-bottom:var(--line-height);
 }
 
-article ul {
+.post_content ul {
   padding-left:50px;
 }
 
-article ol{
+.post_content ol{
   padding-left:70px;
 }
 
-article li:last-of-type{
+.post_content li:last-of-type{
     margin-bottom:var(--line-height);
 }
 
@@ -298,13 +301,11 @@ article li:last-of-type{
   padding:20px;
   border-radius: 50% 50% 70% 30%;
 }
+
 .sommaire li:last-of-type{
     margin-bottom:0px;
 }
 
-ul ul{
-  padding-left:20px;
-}
 
 label{
   font-size:20px;
