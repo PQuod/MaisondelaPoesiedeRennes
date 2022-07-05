@@ -20,17 +20,17 @@ Elle conduit sa démarche avec le souci permanent de favoriser l’accès du plu
 
 ### Salarié.e.s
 
-* Direction : Quentin Leclerc
-* Médiation scolaire : Lucie Desaubliaux
-* Chargée d'entretien : Lucie Kerouedan
-* Jardinier : Sébastien Toron
+Direction : Quentin Leclerc  
+Médiation scolaire : Lucie Desaubliaux  
+Chargée d'entretien : Lucie Kerouedan  
+Jardinier : Sébastien Toron
 
 ### Conseil d'Administration
 
-* Co-Présidentes : Nathalie Brillant Rannou et Anne-Marie Klapka
-* Trésorière : Lauriane Jumel
-* Secrétaire : Charlotte Beltzung
-* Monique Ormevil &middot; Pauline Guémas &middot; Marie Audran &middot; Laura Mainguy &middot; Stéphanie Vivier &middot; Candice Labrousse &middot; La Balade des Livres
+Co-Présidentes : Nathalie Brillant Rannou et Anne-Marie Klapka  
+Trésorière : Lauriane Jumel  
+Secrétaire : Charlotte Beltzung  
+Monique Ormevil &middot; Pauline Guémas &middot; Marie Audran &middot; Laura Mainguy &middot; Stéphanie Vivier &middot; Candice Labrousse &middot; La Balade des Livres
 
 ### Membres Fondateurs
 
