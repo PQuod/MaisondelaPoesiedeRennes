@@ -3,17 +3,17 @@ pages:
 - title: Maison
   url: /maison/
 
-- title: Scolaires
-  url: /scolaires/
-
 - title: Résidences
   url: /residences/
 
 - title: Bibliothèque
   url: /bibli/
 
-- title: Contact
-  url: /contact/
+- title: Scolaires
+  url: /scolaires/
 
 - title: Journal
   url: /journal/
+
+- title: Contact
+  url: /contact/
