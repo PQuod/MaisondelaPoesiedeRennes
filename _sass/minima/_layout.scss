@@ -225,33 +225,25 @@ margin-bottom:20px;
 /**Couleurs**/
 .color_res{
   background-color:var(--color_res);
-
+  border-radius: 60% 40% 40% 20%;
 }
 .color_renc{
   background-color:var(--color_renc);
-
+  border-radius: 20% 20% 60% 40%;
 }
 .color_asso{
   background-color:var(--color_asso);
-
+  border-radius: 50% 30% 30% 20%;
 }
 .color_pod{
   background-color:var(--color_pod);
-
+  border-radius: 30% 60% 30% 40%;
 }
 .color_autres{
   background-color:var(--color_autres);
-
+  border-radius: 40% 20% 60% 40%;
 }
 
-/* Archives */
-.archive_year{
-  position:absolute;
-  width:20%;
-  right:-200px;
-  padding:20px;
-  font-size:50px;
-}
 
 /* Journal */
 .journal_titre{
