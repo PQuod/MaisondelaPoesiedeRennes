@@ -58,8 +58,6 @@ Le formulaire est à remplir et à renvoyer par email ou par courrier. Tout doss
 
 [Postuler pour une des deux résidences de création de la saison 2023 (octobre-décembre) - 2024 (avril-juin).](https://maisondelapoesierennes.netlify.app/appel/2022/05/02/appels-residences-23-24.html)
 
-<div id="list_res"></div>
-
 - - -
 
 ## Résidence Avec la langue
@@ -77,6 +75,8 @@ Les résident.es qui participent à ce format sont sélectionné.es en concertat
 ## Résidence émergence
 
 Les résident.es qui participent à ce format sont sélectionné.es en interne par la Maison de la Poésie.
+
+<div id="list_res"></div>
 
 - - -
 
