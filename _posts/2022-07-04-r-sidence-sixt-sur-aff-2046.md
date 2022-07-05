@@ -5,7 +5,7 @@ title: Résidence Sixt-sur-Aff 2046
 date: 2022-07-04T14:53:41.165Z
 artiste:
   - Camille Bondon
-categories: residence
+categories: residence_scolaire
 date_debut: 2021-11-29T15:53:41.327Z
 date_fin: 2021-12-10T15:53:41.413Z
 dates_publiees: 29 novembre → 10 décembre
