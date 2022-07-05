@@ -33,14 +33,14 @@
     </div>
   </div>
 
-  <ul>
+  <ul class="menu">
      {% for item in site.data.pagelist.pages %}
-    <a href="{{ item.url | absolute_url }}">
       <li>
-          <span class="nav-circle"></span>
+            <a href="{{ item.url | absolute_url }}">
         {{ item.title }}
+            </a>
       </li>
-    </a>
+
     {% endfor %}
   </ul>
   <div class="encart color_autres">
