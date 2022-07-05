@@ -43,16 +43,16 @@ Les candidat.es sélectionné.es seront contacté.es par email.
 
 **Calendrier**
 
-Dépôt des dossiers : jusqu'au 31 août 2022  
-Commission de sélection : septembre 2022  
-Annonce des sélectionné.es : 31 septembre 2022  
+Dépôt des dossiers : jusqu'au 31 août 2022\
+Commission de sélection : septembre 2022\
+Annonce des sélectionné.es : 31 septembre 2022\
 Accueil des premier.ères résident.es : octobre 2023
 
 **Procédures de candidature**
 
 Le formulaire est à remplir et à renvoyer par email ou par courrier. Tout dossier incomplet ne sera pas pris en compte.
 
----
+- - -
 
 ## Postuler
 
@@ -64,15 +64,21 @@ Le formulaire est à remplir et à renvoyer par email ou par courrier. Tout doss
 
 ## Résidence Avec la langue
 
-LOREM IPSUM SLEDLZEDEZD
+Avec la langue est une résidence de création organisée en partenariat avec le [FRAC Bretagne](https://www.fracbretagne.fr/fr/).
+
+Lors de cette résidence, tout peut être sujet à écriture ou enregistrement : les gens qui parlent, le reflet de la pelouse, quelqu’un.e qui mange dans les escaliers, une grappe d’adolescent.e.s, le bruit d’un pull, et d’autres sons auxquels on ne pense pas forcément.
+
+*Avec la langue* imagine qu’il est possible de faire un portrait personnel du Frac Bretagne à partir de cette expérience immersive.
+
+Les résident.es qui participent à ce format sont sélectionné.es en concertation par les équipes de la Maison de la Poésie et du FRAC Bretagne.
 
 ---
 
 ## Résidence émergence
 
-LOREM IPSUM SLEDLZEDEZD
+Les résident.es qui participent à ce format sont sélectionné.es en interne par la Maison de la Poésie.
 
----
+- - -
 
 ## Résidence de médiation scolaire
 
