@@ -24,7 +24,7 @@ La villa Beauséjour comprend également une bibliothèque de plus de 3000 ouvra
 
 **Durée du séjour**
 
-Deux mois sans interruption. 
+Deux mois sans interruption, entre octobre et décembre ou avril et juin.
 
 **Conditions d'accueil**
 
@@ -52,9 +52,13 @@ Accueil des premier.ères résident.es : octobre 2023
 
 Le formulaire est à remplir et à renvoyer par email ou par courrier. Tout dosier incomplet ne sera pas pris en compte.
 
-**Postuler**
+---
+
+## Postuler
 
 [Postuler pour une des deux résidences de création de la saison 2023 (octobre-décembre) - 2024 (avril-juin).](https://maisondelapoesierennes.netlify.app/appel/2022/05/02/appels-residences-23-24.html)
+
+---
 
 <div id="list_res"></div>
 
@@ -69,5 +73,7 @@ Elles sont construites au cas par cas avec les acteurs du territoire.
 Si vous souhaitez développer un projet de ce type dans votre établissement, il suffit d'écrire à Lucie Desaubliaux, notre médiatrice scolaire, qui élaborera avec vous le projet artistique et son budget. Son contact : lucie.desaubliaux@maisondelapoesie-rennes.org
 
 La meilleure période pour commencer à réfléchir ensemble à une résidence est vers la fin du deuxième trimestre de l'année scolaire. Par exemple, **pour une résidence durant l'année scolaire 2024, privilégier une construction entre janvier et mars 2023.**
+
+---
 
 <div id="list_res_scol"></div>
