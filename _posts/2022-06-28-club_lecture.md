@@ -70,9 +70,10 @@ Vous trouverez ci-dessous tous les livres conseillés ces dernières années par
 
 ## 2021
 
-*Le Club du 15 décembre est annulé pour organiser le Conseil d'Administration.*
+*Le Club du 15 décembre 2021 est annulé pour organiser le Conseil d'Administration.*
 
 **Club du 17 novembre 2021**  
+
 *Pas de livres présentés.*
 
 **Club du 20 octobre 2021**
