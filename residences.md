@@ -70,13 +70,13 @@ Lors de cette résidence, tout peut être sujet à écriture ou enregistrement :
 
 *Avec la langue* imagine qu’il est possible de faire un portrait personnel du Frac Bretagne à partir de cette expérience immersive.
 
-Les artistes-auteurs qui participent à ce format de résidence sont sélectionné.es en concertation par les équipes de la Maison de la Poésie et du FRAC Bretagne.
+Les résident.es qui participent à ce format sont sélectionné.es en concertation par les équipes de la Maison de la Poésie et du FRAC Bretagne.
 
 ---
 
 ## Résidence émergence
 
-Les artistes-auteurs qui participent à ce format de résidence sont sélectionné.es en interne par la Maison de la Poésie.
+Les résident.es qui participent à ce format sont sélectionné.es en interne par la Maison de la Poésie.
 
 - - -
 
