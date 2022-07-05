@@ -38,7 +38,7 @@ layout: default
               {% endfor %}
               {% if post.categories contains "podcast" %}{{ post.content}}{% endif %}
               <p class="event_type">{% if post.tarif %}{{post.tarif}}{% endif %}</p>
-              <p>{% if post.lieu %}{{post.lieu}}{% endif %}</p>
+              <p>{% unless post.categories contains "residence" %}{% if post.lieu %}{{post.lieu}}{% endif %}{% endunless %}</p>
               </li>
               <img class="ptte-ligne" src="/imgs/ptte-ligne.gif"/>
       {% endif %}
