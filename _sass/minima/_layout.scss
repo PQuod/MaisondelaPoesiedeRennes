@@ -109,10 +109,23 @@ main{
   text-align:center;
   text-transform:uppercase;
   padding-top:calc(var(--line-height)/2);
-  padding-bottom:calc(var(--line-height)/2);
   margin-bottom:20px;
-  border-top: 3px solid black;
-  border-bottom: 3px solid black;
+}
+
+.circle {
+  height: 20px;
+  width: 20px;
+  background-color: var(--color_autres);
+  border-radius: 20% 20% 90% 40%;
+  display: inline-block;
+}
+
+.circle2 {
+  height: 20px;
+  width: 20px;
+  background-color: var(--color_autres);
+  border-radius: 20% 40% 30% 60%;
+  display: inline-block;
 }
 
 .liste-posts{

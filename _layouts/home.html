@@ -3,7 +3,6 @@ layout: default
 ---
 <div class="evenements">
   <div class="periode">
-    <h1 class="liste_titre">À venir</h1>
     <ul class="liste-posts">
       {% assign sorted = site.posts | sort: 'date_debut' %}
       {% for post in sorted %}
@@ -37,7 +36,7 @@ layout: default
     </ul>
   </div>
   <div class="periode">
-    <h1 class="liste_titre">Événements passés</h1>
+    <h1 class="liste_titre"><span class="circle"></span> Événements passés <span class="circle2"></span></h1>
     <ul class="liste-posts">
       {% assign count = 0 %}
       {% assign sorted = site.posts | sort: 'date_debut'| reverse %}
@@ -79,7 +78,7 @@ layout: default
     </ul>
   </div>
   <div class="periode">
-    <a href="/archives/" style="text-decoration:none;"><h1 class="event_titre liste_titre">Voir toutes les archives</h1></a>
+    <a href="/archives/" style="text-decoration:none;"><h1 class="event_titre liste_titre"><span class="circle"></span> Voir toutes les archives <span class="circle2"></span></h1></a>
   </div>
 </div>
 
@@ -120,8 +119,8 @@ layout: default
         <h2 class="encart_titre">Appel à candidature</h2>
         <a href="{{ post.url }}">
           <h3>{{ post.title }}</h3>
-          <div class="event_dates">{{ post.dates_publiees }}</div>
         </a>
+        <div class="event_dates">{{ post.dates_publiees }}</div>
     </div>
     {% endif %}
   {% endfor %}
