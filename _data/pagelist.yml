@@ -1,19 +1,14 @@
 pages_list: Pages du site
 pages:
-- title: Maison
-  url: /maison/
-
-- title: Résidences
-  url: /residences/
-
-- title: Bibliothèque
-  url: /bibli/
-
-- title: Scolaires
-  url: /scolaires/
-
-- title: Journal
-  url: /journal/
-
-- title: Contact
-  url: /contact/
+  - title: Résidences
+    url: /residences/
+  - title: Maison
+    url: /maison/
+  - title: Bibliothèque
+    url: /bibli/
+  - title: Scolaires
+    url: /scolaires/
+  - title: Journal
+    url: /journal/
+  - title: Contact
+    url: /contact/

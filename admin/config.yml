@@ -56,21 +56,6 @@ collections:
       - {label: "Date", name: "date", widget: "datetime"}
       - {label: 'Description', name: 'body', widget: 'markdown'}
 
-  - name: "options"
-    label: "Options"
-    delete: false
-    editor:
-      preview: false
-    files:
-      - name: 'general'
-        label: 'Options du site'
-        file: '_data/settings.json'
-        description: 'Options générales du site'
-        fields:
-          - { label: 'Titre du site', name: 'site_title', widget: 'string' }
-          - { label: 'Horaires', name: 'horaires', widget: 'text' }
-          - { label: 'Nombres des évènements passés sur la page accueil', name: 'nb_posts_home', widget: 'number'}
-
   - name: "pages"
     label: "Pages"
     files:
@@ -86,7 +71,7 @@ collections:
         name: "maison"
         file: "maison.markdown"
         fields:
-          - {label: "Layout", name : "layoutgitgit", widget: "hidden", default: "rubrique"}
+          - {label: "Layout", name : "layout", widget: "hidden", default: "rubrique"}
           - {label: "Titre", name: "title", widget: "string"}
           - {label: "Permalink", name: "permalink", widget: "string"}
           - {label: 'Description', name: 'body', widget: 'markdown'}
@@ -106,3 +91,31 @@ collections:
           - {label: "Titre", name: "title", widget: "string"}
           - {label: "Permalink", name: "permalink", widget: "string"}
           - {label: 'Description', name: 'body', widget: 'markdown'}
+
+  - name: "options"
+    label: "Options"
+    delete: false
+    editor:
+      preview: false
+    files:
+      - name: 'general'
+        label: 'Options du site'
+        file: '_data/settings.json'
+        description: 'Options générales du site'
+        fields:
+          - { label: 'Titre du site', name: 'site_title', widget: 'string' }
+          - { label: 'Horaires', name: 'horaires', widget: 'text' }
+          - { label: 'Nombres des évènements passés sur la page accueil', name: 'nb_posts_home', widget: 'number'}
+
+      - name: 'pages_settings'
+        label: 'Options du menu de navigation'
+        file: '_data/pagelist.yml'
+        description: 'Ordre et libellé des pages dans le menu de gauche'
+        fields:
+          - name: pages
+            label: Pages
+            label_singular: 'page'
+            widget: list
+            fields:
+              - { label: 'Title', name: 'title', widget: 'string' }
+              - { label: 'Permalink', name: 'url', widget: 'string', hint: 'un seul mot précédé et suivi par un slash (ex: /maison/)' }
