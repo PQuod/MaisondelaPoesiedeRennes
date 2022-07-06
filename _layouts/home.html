@@ -131,7 +131,14 @@ layout: default
   {% for post in sortedpod limit:1 %}
   <div class="encart color_pod">
     <h2 class="encart_titre">Dernier podcast</h2>
-    {{ post.content }}
+    <figure >
+    <audio style="width:100%;"
+        controls
+        src="">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
     <p class="encart_infos"><i>{{ post.title }}</i> &middot; {{post.artiste}} &middot; {{post.dates_publiees}}</p>
       <a href="/category/podcast" class="liencat">Tous les podcasts</a>
   </div>
