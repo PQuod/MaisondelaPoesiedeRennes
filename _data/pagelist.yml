@@ -1,11 +1,11 @@
 pages_list: Pages du site
 pages:
-  - title: Résidences
-    url: /residences/
   - title: Maison
     url: /maison/
   - title: Bibliothèque
     url: /bibli/
+  - title: Résidences
+    url: /residences/
   - title: Scolaires
     url: /scolaires/
   - title: Journal
