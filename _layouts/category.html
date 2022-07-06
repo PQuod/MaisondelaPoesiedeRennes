@@ -2,6 +2,14 @@
 layout: default
 ---
 <div class="evenements">
+  {% if page.tag == 'podcast'%}
+    <div class="encart_rubrique color_pod"><div class="titre_page"><h1>Podcasts
+  {% elsif page.tag == 'residence' %}
+    <div class="encart_rubrique color_res"><div class="titre_page"><h1>Résidences
+  {% else %}
+  <div class="encart_rubrique color_autres"><div class="titre_page"><h1>{{ page.title }}
+  {% endif %}
+      </h1></div></div>
   <ul class="liste-posts">
     {% assign sorted = site.posts | sort: 'date_debut' | reverse %}
     {% for post in sorted %}
@@ -11,7 +19,14 @@ layout: default
             <p class="event_type">{{post.dates_publiees}}</p>
           </div>
           <a href="{{ post.url }}">
-          <h3 class="color_pod event_titre">{{ post.title }}</h3>
+          {% if page.tag == 'podcast'%}
+            <h3 class="color_pod event_titre">
+          {% elsif page.tag == 'residence' %}
+            <h3 class="color_res event_titre">
+          {% else %}
+            <h3 class="color_autres event_titre">
+          {% endif %}
+            {{ post.title }}</h3>
           </a>
           {% for artiste in post.artiste %}
             {% for item in artiste %}
