@@ -56,6 +56,20 @@ collections:
       - {label: "Date", name: "date", widget: "datetime"}
       - {label: 'Description', name: 'body', widget: 'markdown'}
 
+  - name: "options"
+    label: "Options"
+    delete: false
+    editor:
+      preview: false
+    files:
+      - name: 'general'
+        label: 'Options du site'
+        file: '_data/settings.json'
+        description: 'Options générales du site'
+        fields:
+          - { label: 'Titre du site', name: 'site_title', widget: 'string' }
+          - { label: 'Horaires', name: 'horaires', widget: 'text' }
+
   - name: "pages"
     label: "Pages"
     files:
