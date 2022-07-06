@@ -69,6 +69,7 @@ collections:
         fields:
           - { label: 'Titre du site', name: 'site_title', widget: 'string' }
           - { label: 'Horaires', name: 'horaires', widget: 'text' }
+          - { label: 'Nombres des évènements passés sur la page accueil', name: 'nb_posts_home', widget: 'number'}
 
   - name: "pages"
     label: "Pages"
