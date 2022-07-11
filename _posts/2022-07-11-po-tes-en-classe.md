@@ -1,7 +1,7 @@
 ---
 draft: false
 layout: post
-title: Poètes en classe
+title: Prix des Découvreurs
 date: 2022-07-11T09:10:57.723Z
 categories: scolaires
 date_debut: 2022-03-28T09:10:57.804Z
