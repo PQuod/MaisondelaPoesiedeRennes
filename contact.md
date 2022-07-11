@@ -25,14 +25,14 @@ lucie.desaubliaux@maisondelapoesie-rennes.org
 Nous acceptons les services de presse des livres de poésie et de prose contemporaine.
 
 
-# BUS
+# Bus
 Ligne 12, arrêt Auberge de jeunesse  
 Ligne C2, arrêt Cimetière Nord
 
 
-# MÉTRO
+# Métro
 Station Anatole France ou Sainte-Anne
 
 
-# VÉLO STAR
+# Vélo STAR
 Station Auberge de Jeunesse
