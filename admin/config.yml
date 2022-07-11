@@ -7,6 +7,11 @@ media_folder: 'imgs'
 logo_url: "/imgs/logo.png"
 slug:
   encoding: "ascii"
+view_groups:
+      - label: Year
+        field: date
+        # groups items based on the value matched by the pattern
+        pattern: \d{4}
 collections:
   - name: "evenements" # Used in routes, e.g., /admin/collections/blog
     label: "Evenements" # Used in the UI
