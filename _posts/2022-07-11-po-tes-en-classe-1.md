@@ -5,7 +5,7 @@ title: Poètes en classe
 date: 2022-07-11T09:24:12.540Z
 artiste:
   - Justin Delareux
-  - Mia Brion
+  - Milène Tournier
 categories: scolaires
 date_debut: 2022-03-10T10:24:12.629Z
 date_fin: 2022-03-11T10:24:12.673Z
