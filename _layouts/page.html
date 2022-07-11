@@ -2,7 +2,7 @@
 layout: default
 ---
 <article>
-    {% if page.categories contains "residence" %}<div class="encart color_res">{% elsif page.categories contains "rencontre" %}<div class="encart color_renc">{% elsif page.categories contains "associatif" %}<div class="encart color_asso">{% elsif page.categories contains "podcast" %}<div class="encart color_pod">{% else %}<div class="encart color_autres">{% endif %}
+    {% if page.categories contains "residence" %}<div class="encart color_res">{% elsif page.categories contains "rencontre" %}<div class="encart color_renc">{% elsif page.categories contains "associatif" %}<div class="encart color_asso">{% elsif page.categories contains "podcast" %}<div class="encart color_pod">{% elsif page.categories contains "scolaires" %}<div class="encart color_scol">{% else %}<div class="encart color_autres">{% endif %}
       <div class="titre_page"><h1>{{ page.name }}</h1></div>
       <p>{% if page.dates_publiees %} Quand : {{ page.dates_publiees }}{% endif %}</p>
       <p>{% if page.artiste %}Artiste(s) : {% assign artistes = page.artiste %}{% for item in artistes %}<span class="chapeau_artistes">{{ item }}</span>{% endfor %}{% endif %}</p>
