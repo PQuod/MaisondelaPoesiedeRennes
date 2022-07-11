@@ -7,6 +7,7 @@ media_folder: 'imgs'
 logo_url: "/imgs/logo.png"
 slug:
   encoding: "ascii"
+  sortable_fields: ['date_debut', 'title', 'categories']
 view_groups:
       - label: Year
         field: date
