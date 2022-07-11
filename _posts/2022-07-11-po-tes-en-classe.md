@@ -13,7 +13,7 @@ dates_publiees: Du 28 mars au 1er avril et du 25 au 29 avril
 lieu: Collèges et lycées de Bretagne
 partenaires: Collège Bourgchevreuil, collège Simone Veil, collège Morvan
   Lebesque, collège Théodore Monod, collège les Ormeaux, collège les Fontaines,
-  lycée de l'Elorn, lycée de l'Iroise, lycée Anita Conti, lycée la Champagne.
+  lycée de l'Elorn, lycée de l'Iroise, lycée Anita Conti, lycée la Champagne
 ---
 **De la 3ème à la Terminale**
 
