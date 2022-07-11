@@ -155,13 +155,4 @@ layout: default
     </ul>
     <a href="/bibli" class="liencat">La Bibliothèque</a>
   </div>
-
-  <div class="encart color_asso">
-    <h3 class="encart_titre">Dernier article</h3>
-    {% assign sortedjournal = site.journal | sort: 'date_debut' | reverse %}
-      {% for post in sortedjournal limit:1 %}
-      <a href="{{ post.url }}"><p class="encart_infos"><i>{{ post.title }}</i> &middot; {{post.auteur}}</p></a>
-      <a href="/journal" class="liencat">Tous les articles</a>
-      {% endfor %}
-  </div>
 </div>
