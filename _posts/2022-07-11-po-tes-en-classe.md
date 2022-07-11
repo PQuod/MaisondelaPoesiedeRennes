@@ -3,6 +3,9 @@ draft: false
 layout: post
 title: Prix des Découvreurs
 date: 2022-07-11T09:10:57.723Z
+artiste:
+  - Milène Tournier
+  - Stéphane Bouquet
 categories: scolaires
 date_debut: 2022-03-28T09:10:57.804Z
 date_fin: 2022-04-29T09:10:57.853Z
