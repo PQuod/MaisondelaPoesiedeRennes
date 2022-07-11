@@ -102,10 +102,9 @@ layout: default
     <div class="encart_res">
       <h2 class="encart_titre">Résidence à venir</h2>
       <a href="{{ post.url }}">
-          <h3>{{ post.artiste }} &middot {{ post.title }}</h3>
+          <h3>{{ post.artiste }}</h3>
       </a>
-      <div class="event_dates">{{ post.dates_publiees }}</div>
-
+      <div class="event_dates">{{ post.title }}<br>{{ post.dates_publiees }}</div>
     </div>
     {% endif %}
     {% endif %}
