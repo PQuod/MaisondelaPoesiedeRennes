@@ -13,7 +13,7 @@ dates_publiees: Du 28 mars au 1er avril et du 25 au 29 avril
 lieu: Collèges et lycées de Bretagne
 partenaires: Collège Bourgchevreuil, collège Simone Veil, collège Morvan
   Lebesque, collège Théodore Monod, collège les Ormeaux, collège les Fontaines,
-  lycée de l'Elorn, lycée de l'Iroise, lycée Anita Conti, lycée la Champagne.
+  lycée de l'Elorn, lycée de l'Iroise, lycée Anita Conti, lycée la Champagne
 ---
 **De la 3ème à la Terminale**
 
@@ -21,7 +21,7 @@ Le Prix des Découvreurs œuvre depuis 1997 dans le champ de la lecture publique
 
 Chaque année, par l'intermédiaire de l'association, plusieurs auteurs rencontrent des élèves de la Ville de Rennes, du Département et de la Région. Ils votent ensuite pour élire leur recueil favori.
 
-Cette année, ce sont Stéphane Bouquet et Milène Tournier qui viendront rencontrer les élèves, autour de leurs receuils Le Fait de vivre et L'autre jour.
+Cette année, ce sont Stéphane Bouquet et Milène Tournier qui viendront rencontrer les élèves, autour de leurs recueils *Le fait de vivre* (Champ Vallon, 2021) et *L'autre jour* (Lurlure, 2021).
 
 **Stéphane Bouquet** est présent la semaine du 28 mars 2022.
 
