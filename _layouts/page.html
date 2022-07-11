@@ -9,11 +9,11 @@ layout: default
   </div>
 <article>
     <div class="encart-meta">
-      <p>{% if page.dates_publiees %} Quand : {{ page.dates_publiees }}{% endif %}</p>
+      <p>{% if page.dates_publiees %} Dates : {{ page.dates_publiees }}{% endif %}</p>
       <p>{% if page.artiste %}Artiste(s) : {% assign artistes = page.artiste %}{% for item in artistes %}<span class="chapeau_artistes">{{ item }}</span>{% endfor %}{% endif %}</p>
-      <p>{% if page.lieu %}Où : {{ page.lieu }}{% endif %}</p>
-      <p>{% if page.partenaires %}Avec : {{ page.partenaires}}{% endif %}</p>
-      <p>{% if page.tarif %}Combien : {{ page.tarif }}{% endif %}</p>
+      <p>{% if page.lieu %}Lieu(x) : {{ page.lieu }}{% endif %}</p>
+      <p>{% if page.partenaires %}Partenaire(s) : {{ page.partenaires}}{% endif %}</p>
+      <p>{% if page.tarif %}Tarif : {{ page.tarif }}{% endif %}</p>
     </div>
     <img src="/imgs/line.gif" alt="separateur"/>
     <div class="post_descript">

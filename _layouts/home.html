@@ -85,7 +85,8 @@ layout: default
 
 <div class="actus">
   <div class="encart color_res">
-  {% for post in site.posts %}
+{% assign sorted2 = site.posts | sort: 'date_debut' %}
+  {% for post in sorted2 %}
     {% if post.categories contains "residence" or post.categories contains "residence_scolaire" %}
     {% capture debutdate %}{{ post.date_debut | date: "%Y-%m-%d"}}{% endcapture %}
     {% capture findate %}{{ post.date_fin | date: "%Y-%m-%d"}}{% endcapture %}
