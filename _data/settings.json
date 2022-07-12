@@ -1,5 +1,6 @@
 {
-  "site_title": "Maison<br> de la Poésie <br> de Rennes",
-  "horaires": "Ouvert<br> du lundi au vendredi<br> de 9h à 17h.\n<br>\n47 rue Armand Rébillon",
-  "nb_posts_home": 10
+  "nb_posts_home": 10,
+  "horaires": "Ouvert\ndu lundi au vendredi\nde 9h à 17h.\n47 rue Armand Rébillon",
+  "site_title": "Maison de la Poésie de Rennes",
+  "site_logo": "/imgs/logo.png"
 }
