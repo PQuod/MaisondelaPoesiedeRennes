@@ -100,9 +100,10 @@ layout: default
       <div class="event_dates">{{ post.title }}<br>{{ post.dates_publiees }}</div>
     </div>
     {% endif %}
+
     {% if debutdate >= nowdate %}
     <div class="encart_res">
-      <h3 class="encart_titre">Résidence à venir</h3>
+      <h3 class="encart_titre prems">Résidence à venir</h3>
       <a href="{{ post.url }}">
           <h4>{{ post.artiste }}</h4>
       </a>
