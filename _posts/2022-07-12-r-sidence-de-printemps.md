@@ -7,7 +7,7 @@ artiste:
   - sabrina soyer
 categories: residence
 date_debut: 2023-04-10T07:52:27.388Z
-date_fin: 2022-06-05T07:52:27.470Z
+date_fin: 2023-06-04T07:52:27.470Z
 dates_publiees: 10 avril → 4 juin 2023
 lieu: Maison de la Poésie de Rennes
 ---
