@@ -1,17 +1,18 @@
 ---
 layout: default
 ---
+<!-- La liste des évènements en cours et passés -->
 <div class="evenements">
+  <!-- Les évènements en cours -->
   <div class="periode">
     <ul class="liste-posts">
       {% assign sorted = site.posts | sort: 'date_debut' %}
       {% for post in sorted %}
+        <!-- N'affiche que les rencontres, les scolaires, les évènements associatifs et les divers -->
         {% if post.categories contains "rencontre" or post.categories contains "associatif" or post.categories contains "divers" or post.categories contains "scolaires" %}
           {% if post.draft != true %}
-            {% capture debutdate %}{{ post.date_debut | date: "%Y-%m-%d"}}{% endcapture %}
-            {% capture nowdate %}{{ "now" | date: "%Y-%m-%d" }}{% endcapture %}
-            {% capture findate %}{{ post.date_fin | date: "%Y-%m-%d"}}{% endcapture %}
-            {% capture nowdate %}{{ "now" | date: "%Y-%m-%d" }}{% endcapture %}
+            {% include scripts/dates.html %}
+            <!-- N'affiche que les posts à une date ultérieure de la date actuelle -->
             {% if findate >= nowdate or debutdate >= nowdate %}
             <li>
               <div class="event_dates">
@@ -35,6 +36,7 @@ layout: default
       {% endfor %}
     </ul>
   </div>
+  <!-- Les évènements passés -->
   <div class="periode">
     <h1 class="liste_titre"><span class="circle"></span> Événements passés <span class="circle2"></span></h1>
     <ul class="liste-posts">
@@ -42,12 +44,13 @@ layout: default
       {% assign sorted = site.posts | sort: 'date_debut'| reverse %}
       {% for post in sorted %}
         {% if post.draft != true %}
+          <!-- N'affiche pas les podcasts -->
           {% unless post.categories contains "podcast" %}
-          {% capture findate %}{{ post.date_fin | date: "%Y-%m-%d"}}{% endcapture %}
-          {% capture debutdate %}{{ post.date_debut | date: "%Y-%m-%d"}}{% endcapture %}
-          {% capture nowdate %}{{ "now" | date: "%Y-%m-%d" }}{% endcapture %}
+            {% include scripts/dates.html %}
+            <!-- N'affiche que les posts antérieurs à la date actuelle -->
             {% if findate <= nowdate and debutdate <= nowdate %}
               <li>
+                <!-- N'affiche que le nombre de posts précisé dans les options -->
                 {% assign count = count | plus:1 %}
                 {% assign nb_posts = site.data.settings.nb_posts_home %}
                 <div class="event_dates">
@@ -57,9 +60,8 @@ layout: default
                   {% if post.categories contains "residence" %}<h3 class="color_res event_titre">
                   {% elsif post.categories contains "evenement" %}<h3 class="color_renc event_titre">
                   {% elsif post.categories contains "associatif" %}<h3 class="color_asso event_titre">
-                  {% elsif post.categories contains "podcast" %}<h3 class="color_pod event_titre">
-                    {% elsif post.categories contains "scolaires" %}<h3 class="color_scol event_titre">
-                      {% elsif post.categories contains "residence_scolaire" %}<h3 class="color_scol event_titre">
+                  {% elsif post.categories contains "scolaires" %}<h3 class="color_scol event_titre">
+                  {% elsif post.categories contains "residence_scolaire" %}<h3 class="color_scol event_titre">
                   {% else %}<h3 class="color_autres event_titre">{% endif %}{{ post.title }}</h3>
                 </a>
                 {% for artiste in post.artiste %}
@@ -69,89 +71,88 @@ layout: default
                 {% endfor %}
                 <p class="event_type">{% if post.tarif %}{{post.tarif}}{% endif %}</p>
                 <p>{% unless post.categories contains "residence" %}{% if post.lieu %}{{post.lieu}}{% endif %}{% endunless %}</p>
-                </li>
-                {% if count == nb_posts %}{% break %}{% endif %}
-                <img class="ptte-ligne" src="/imgs/ptte-ligne.gif"/>
-          {% endif %}
+              </li>
+              {% if count == nb_posts %}{% break %}{% endif %}
+              <img class="ptte-ligne" src="/imgs/ptte-ligne.gif"/>
+            {% endif %}
           {% endunless %}
         {% endif %}
       {% endfor %}
     </ul>
   </div>
+  <!-- Le lien vers le reste des archives -->
   <div class="periode">
-    <a href="/archives/" style="text-decoration:none;"><h1 class="event_titre liste_titre"><span class="circle"></span> Voir toutes les archives <span class="circle2"></span></h1></a>
+    <a href="/archives/" style="text-decoration:none;">
+      <h1 class="event_titre liste_titre"><span class="circle"></span> Voir toutes les archives <span class="circle2"></span></h1>
+    </a>
   </div>
 </div>
 
+<!-- Les encarts d'actualités -->
 <div class="actus">
   <div class="encart color_res">
     <div class="encart_res">
       {% assign sorted2 = site.posts | sort: 'date_debut' %}
       {% for post in sorted2 %}
-    {% if post.categories contains "residence" or post.categories contains "residence_scolaire" %}
-    {% capture debutdate %}{{ post.date_debut | date: "%Y-%m-%d"}}{% endcapture %}
-    {% capture findate %}{{ post.date_fin | date: "%Y-%m-%d"}}{% endcapture %}
-    {% capture nowdate %}{{ "now" | date: "%Y-%m-%d" }}{% endcapture %}
-    {% if debutdate <= nowdate and findate >= nowdate %}
-
-      <h3 class="encart_titre">Résidence en cours</h3>
-      <a href="{{ post.url }}">
-        <h4 class="encart_artiste">{{ post.artiste }}</h4>
-      </a>
-      <div class="event_dates actu_res">{{ post.title }}<br>{{ post.dates_publiees }}</div>
-    {% endif %}
-    {% if debutdate >= nowdate %}
-      <h3 class="encart_titre prems">Résidence(s) à venir</h3>
-      <a href="{{ post.url }}">
-          <h4>{{ post.artiste }}</h4>
-      </a>
-      <div class="event_dates actu_res">{{ post.title }}<br>{{ post.dates_publiees }}</div>
-    {% endif %}
-    {% endif %}
-  {% endfor %}
-
-  {% for post in site.categories.appel %}
-    {% capture debutdate %}{{ post.date_debut | date: "%Y-%m-%d"}}{% endcapture %}
-    {% capture findate %}{{ post.date_fin | date: "%Y-%m-%d"}}{% endcapture %}
-    {% capture nowdate %}{{ "now" | date: "%Y-%m-%d" }}{% endcapture %}
-    {% if debutdate <= nowdate and findate >= nowdate %}
-    <div class="encart_res">
-        <h3 class="encart_titre">Appel à candidature</h3>
-        <a href="{{ post.url }}">
-          <h4>{{ post.title }}</h4>
-        </a>
-        <div class="event_dates">{{ post.dates_publiees }}</div>
+      <!-- Sélection des posts de résidence (scolaire ou non)-->
+        {% if post.categories contains "residence" or post.categories contains "residence_scolaire" %}
+          {% include scripts/dates.html %}
+          <!-- Résidence en cours : comparaison dates post et date actuelle -->
+          {% if debutdate <= nowdate and findate >= nowdate %}
+            <h3 class="encart_titre">Résidence en cours</h3>
+            <a href="{{ post.url }}">
+              <h4 class="encart_artiste">{{ post.artiste }}</h4>
+            </a>
+            <div class="event_dates actu_res">{{ post.title }}<br>{{ post.dates_publiees }}</div>
+          {% endif %}
+          <!-- Résidence(s) à venir : comparaison dates post et date actuelle -->
+          {% if debutdate >= nowdate %}
+          <h3 class="encart_titre prems">Résidence(s) à venir</h3>
+          <a href="{{ post.url }}">
+              <h4>{{ post.artiste }}</h4>
+          </a>
+          <div class="event_dates actu_res">{{ post.title }}<br>{{ post.dates_publiees }}</div>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+      <!-- Sélection des posts d'appel à candidature-->
+      {% for post in site.categories.appel %}
+        {% include scripts/dates.html %}
+        {% if debutdate <= nowdate and findate >= nowdate %}
+            <h3 class="encart_titre">Appel à candidature</h3>
+            <a href="{{ post.url }}">
+              <h4>{{ post.title }}</h4>
+            </a>
+            <div class="event_dates">{{ post.dates_publiees }}</div>
+        {% endif %}
+      {% endfor %}
     </div>
-    {% endif %}
-  {% endfor %}
+    <a href="/category/residence" class="liencat">Toutes les résidences</a>
   </div>
-  <a href="/category/residence" class="liencat">Toutes les résidences</a>
-</div>
-{% assign sortedpod = site.categories.podcast | sort: 'date_debut' | reverse %}
+  <!-- Dernier podcast (posts dans la catégorie podcasts)-->
+  {% assign sortedpod = site.categories.podcast | sort: 'date_debut' | reverse %}
   {% for post in sortedpod limit:1 %}
   <div class="encart color_pod">
     <h3 class="encart_titre">Dernier podcast</h3>
-    <figure >
-    <audio style="width:100%;"
-        controls
-        src="">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
+    <figure>
+      <audio style="width:100%;" controls src="">
+        Your browser does not support the
+        <code>audio</code> element.
+      </audio>
+    </figure>
     <p class="encart_infos"><i>{{ post.title }}</i> &middot; {{post.artiste}} &middot; {{post.dates_publiees}}</p>
-      <a href="/category/podcast" class="liencat">Tous les podcasts</a>
+    <a href="/category/podcast" class="liencat">Tous les podcasts</a>
   </div>
-
   {% endfor %}
+  <!-- Dernières acquisitions -->
   <div class="encart">
     <h3 class="encart_titre">Nouveautés</h3>
     <ul>
-    <li class="acquisitions"><b>Rochery Samuel</b>, <i>Mauviette</i>, Ni fait ni à faire, 2022</li>
-    <li class="acquisitions"><b>Tawada Yoko</b>, <i>Aventures dans la grammaire allemande</i>, La Contre-Allée, 2022</li>
-    <li class="acquisitions"><b>Benamer Nora</b>, <i>Les hommes</i>, Suck Campari Dyke, 2019</li>
-    <li class="acquisitions"><b>Brion Mia</b>, <i>A Name Ore</i>, Suck Campari Dyke, 2020</li>
-    <li class="acquisitions"><b>Labor Soto</b>, <i>Trompette</i>, Publication Studio Paris / After 8 Books, 2021</li>
+      <li class="acquisitions"><b>Rochery Samuel</b>, <i>Mauviette</i>, Ni fait ni à faire, 2022</li>
+      <li class="acquisitions"><b>Tawada Yoko</b>, <i>Aventures dans la grammaire allemande</i>, La Contre-Allée, 2022</li>
+      <li class="acquisitions"><b>Benamer Nora</b>, <i>Les hommes</i>, Suck Campari Dyke, 2019</li>
+      <li class="acquisitions"><b>Brion Mia</b>, <i>A Name Ore</i>, Suck Campari Dyke, 2020</li>
+      <li class="acquisitions"><b>Labor Soto</b>, <i>Trompette</i>, Publication Studio Paris / After 8 Books, 2021</li>
     </ul>
     <a href="/bibli" class="liencat">La Bibliothèque</a>
   </div>

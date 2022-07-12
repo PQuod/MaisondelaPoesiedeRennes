@@ -98,7 +98,16 @@ collections:
           - {label: "Titre", name: "title", widget: "string"}
           - {label: "Permalink", name: "permalink", widget: "string"}
           - {label: 'Description', name: 'body', widget: 'markdown'}
-
+  - name: "mentions"
+    label: "Mentions Légales"
+    files:
+      - label: "Mentions Légales"
+        name: "mentions"
+        file: "mentions.md"
+        fields:
+          - {label: "Layout", name : "layout", widget: "hidden", default: "rubrique"}
+          - {label: "Permalink", name: "permalink", widget: "hidden", default:"/mentions/"}
+          - {label: 'Description', name: 'body', widget: 'markdown'}
   - name: "options"
     label: "Options"
     delete: false

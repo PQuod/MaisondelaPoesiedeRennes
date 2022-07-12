@@ -1,12 +1,11 @@
 <nav>
   <ul class="menu">
-     {% for item in site.data.pagelist.pages %}
-      <li>
-            <a href="{{ item.url | absolute_url }}">
+    {% for item in site.data.pagelist.pages %}
+    <li>
+      <a href="{{ item.url | absolute_url }}">
         {{ item.title }}
-            </a>
-      </li>
-
+      </a>
+    </li>
     {% endfor %}
   </ul>
   <div class="encart color_autres">

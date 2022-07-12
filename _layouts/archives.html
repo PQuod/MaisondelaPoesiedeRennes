@@ -7,36 +7,35 @@ layout: default
   {% assign sorted = site.posts | sort: 'date_debut'| reverse %}
   {% for post in sorted %}
     {% if post.draft != true %}
-      {% capture findate %}{{ post.date_fin | date: "%Y-%m-%d"}}{% endcapture %}
-      {% capture debutdate %}{{ post.date_debut | date: "%Y-%m-%d"}}{% endcapture %}
-      {% capture nowdate %}{{ "now" | date: "%Y-%m-%d" }}{% endcapture %}
-    {% unless post.categories contains "podcast" %}
-      {% if findate <= nowdate and debutdate <= nowdate %}
+        {% capture findate %}{{ post.date_fin | date: "%Y-%m-%d"}}{% endcapture %}
+        {% capture debutdate %}{{ post.date_debut | date: "%Y-%m-%d"}}{% endcapture %}
+        {% capture nowdate %}{{ "now" | date: "%Y-%m-%d" }}{% endcapture %}
+      <!-- Affiche tous les posts antérieurs à la date actuelle sauf les podcasts -->
+      {% unless post.categories contains "podcast" %}
+        {% if findate <= nowdate and debutdate <= nowdate %}
           <li>
-              <div class="event_dates">
-                <p class="event_type">{{post.dates_publiees}}</p>
-              </div>
-              <a href="{{ post.url }}">
-                {% if post.categories contains "residence" %}<h3 class="color_res event_titre">
-                {% elsif post.categories contains "evenement" %}<h3 class="color_renc event_titre">
-                {% elsif post.categories contains "associatif" %}<h3 class="color_asso event_titre">
-                {% elsif post.categories contains "podcast" %}<h3 class="color_pod event_titre">
-                  {% elsif post.categories contains "scolaires" %}<h3 class="color_scol event_titre">
-                {% else %}<h3 class="color_autres event_titre">{% endif %}{{ post.title }}</h3>
-              </a>
-              {% for artiste in post.artiste %}
-                {% for item in artiste %}
-                  <h4 class="event_art">{{ item }}</h4>
-                {% endfor %}
+            <div class="event_dates">
+              <p class="event_type">{{post.dates_publiees}}</p>
+            </div>
+            <a href="{{ post.url }}">
+              {% if post.categories contains "residence" %}<h3 class="color_res event_titre">
+              {% elsif post.categories contains "evenement" %}<h3 class="color_renc event_titre">
+              {% elsif post.categories contains "associatif" %}<h3 class="color_asso event_titre">
+              {% elsif post.categories contains "scolaires" %}<h3 class="color_scol event_titre">
+              {% else %}<h3 class="color_autres event_titre">{% endif %}{{ post.title }}</h3>
+            </a>
+            {% for artiste in post.artiste %}
+              {% for item in artiste %}
+                <h4 class="event_art">{{ item }}</h4>
               {% endfor %}
-              {% if post.categories contains "podcast" %}{{ post.content}}{% endif %}
-              <p class="event_type">{% if post.tarif %}{{post.tarif}}{% endif %}</p>
-              <p>{% unless post.categories contains "residence" %}{% if post.lieu %}{{post.lieu}}{% endif %}{% endunless %}</p>
-              </li>
-              <img class="ptte-ligne" src="/imgs/ptte-ligne.gif"/>
-      {% endif %}
-    {% endunless %}
+            {% endfor %}
+            <p class="event_type">{% if post.tarif %}{{post.tarif}}{% endif %}</p>
+            <p>{% unless post.categories contains "residence" %}{% if post.lieu %}{{post.lieu}}{% endif %}{% endunless %}</p>
+          </li>
+          <img class="ptte-ligne" src="/imgs/ptte-ligne.gif"/>
+        {% endif %}
+      {% endunless %}
     {% endif %}
   {% endfor %}
   </ul>
-  </div>
+</div>

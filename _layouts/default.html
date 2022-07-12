@@ -1,9 +1,10 @@
   {%- include head.html -%}
-  <div id="left">
-  {%- include header.html -%}
-  {%- include nav.html -%}
-  </div>
   <main class="page-content" aria-label="Content">
+  <div id="left">
+    {%- include header.html -%}
+    {%- include nav.html -%}
+  </div>
+  <div id="wrapper">
     {{ content }}
-  </main>
+  </div>
   {%- include footer.html -%}

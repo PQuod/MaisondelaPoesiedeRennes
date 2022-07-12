@@ -1,12 +1,28 @@
+main{
+  display:grid;
+  grid-template-columns: repeat(5, 1fr);
+}
+
 #left{
-width:14%;
-position:relative;
-float:left;
+grid-column: 1;
 font-weight: bold;
 text-align: right;
 padding-top:20px;
 padding-left:30px;
 }
+
+#wrapper{
+  grid-column: 2/6;
+  padding:20px;
+}
+
+footer{
+  grid-column: 1/6;
+  background: var(--color_autres);
+  border-radius:30% 60% 0% 0%;
+  text-align:center;
+}
+
 
 .logo{
   width:70%;
@@ -73,12 +89,6 @@ nav li{
   color:white;
 }
 
-main{
-  width:80%;
-  padding:20px;
-  position:relative;
-  float:right;
-}
 
 .actus{
   width:25%;
