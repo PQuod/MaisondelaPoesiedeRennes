@@ -94,9 +94,11 @@ main{
   text-decoration: underline;
 }
 
-.prems:not(:first-of-type){
-  display:none;
+.actu_res{
+  margin-bottom:20px;
 }
+
+.prems ~ .prems { display:none; }
 
 .evenements{
   width:70%;
