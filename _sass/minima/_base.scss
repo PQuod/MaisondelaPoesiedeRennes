@@ -2,7 +2,6 @@
   --text-font:'Amaranth', sans-serif;
   --line-height:30px;
   --text-color:black;
-  --hover-color:gray;
   --color_res:#a1dbb2;
   --color_renc:#fee5ad;
   --color_asso:#faca66;
@@ -78,4 +77,10 @@ h5{
 p, li{
   font-size:22px;
   line-height: var(--line-height);
+}
+
+blockquote{
+  margin-left:20px;
+  padding-left:20px;
+  border-left:5px solid gray;
 }
