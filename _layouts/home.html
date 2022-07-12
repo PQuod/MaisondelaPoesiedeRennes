@@ -88,12 +88,11 @@ layout: default
 <div class="actus">
   <div class="encart color_res">
     <div class="encart_res">
+      <!-- Sélection des posts de résidence (scolaire ou non)-->
       {% assign sorted2 = site.posts | sort: 'date_debut' %}
       {% for post in sorted2 %}
-      <!-- Sélection des posts de résidence (scolaire ou non)-->
         {% if post.categories contains "residence" or post.categories contains "residence_scolaire" %}
           {% include scripts/dates.html %}
-          <!-- Résidence en cours : comparaison dates post et date actuelle -->
           {% if debutdate <= nowdate and findate >= nowdate %}
             <h3 class="encart_titre">Résidence en cours</h3>
             <a href="{{ post.url }}">
@@ -101,7 +100,6 @@ layout: default
             </a>
             <div class="event_dates actu_res">{{ post.title }}<br>{{ post.dates_publiees }}</div>
           {% endif %}
-          <!-- Résidence(s) à venir : comparaison dates post et date actuelle -->
           {% if debutdate >= nowdate %}
           <h3 class="encart_titre prems">Résidence(s) à venir</h3>
           <a href="{{ post.url }}">
