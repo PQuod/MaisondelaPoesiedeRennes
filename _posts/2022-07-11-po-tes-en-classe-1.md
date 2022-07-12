@@ -9,7 +9,7 @@ artiste:
 categories: scolaires
 date_debut: 2022-03-10T10:24:12.629Z
 date_fin: 2022-03-11T10:24:12.673Z
-dates_publiees: Les 10 & 11 mars 2022
+dates_publiees: 10 & 11 mars 2022
 lieu: Ecoles d'Ille-et-Vilaine
 partenaires: Ecole Saint-Yves, école Les Clôteaux, école Suzanne Lacorre
 ---
