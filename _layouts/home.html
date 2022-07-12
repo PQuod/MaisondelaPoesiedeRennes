@@ -7,12 +7,11 @@ layout: default
   <div class="periode">
     <ul class="liste-posts">
       {% assign sorted = site.posts | sort: 'date_debut' %}
+      <!-- N'affiche que les rencontres, les scolaires, les évènements associatifs et les divers -->
       {% for post in sorted %}
-        <!-- N'affiche que les rencontres, les scolaires, les évènements associatifs et les divers -->
         {% if post.categories contains "rencontre" or post.categories contains "associatif" or post.categories contains "divers" or post.categories contains "scolaires" %}
           {% if post.draft != true %}
             {% include scripts/dates.html %}
-            <!-- N'affiche que les posts à une date ultérieure de la date actuelle -->
             {% if findate >= nowdate or debutdate >= nowdate %}
             <li>
               <div class="event_dates">
@@ -44,13 +43,10 @@ layout: default
       {% assign sorted = site.posts | sort: 'date_debut'| reverse %}
       {% for post in sorted %}
         {% if post.draft != true %}
-          <!-- N'affiche pas les podcasts -->
-          {% unless post.categories contains "podcast" %}
+                    {% unless post.categories contains "podcast" %}
             {% include scripts/dates.html %}
-            <!-- N'affiche que les posts antérieurs à la date actuelle -->
-            {% if findate <= nowdate and debutdate <= nowdate %}
+                        {% if findate <= nowdate and debutdate <= nowdate %}
               <li>
-                <!-- N'affiche que le nombre de posts précisé dans les options -->
                 {% assign count = count | plus:1 %}
                 {% assign nb_posts = site.data.settings.nb_posts_home %}
                 <div class="event_dates">
