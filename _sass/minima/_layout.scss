@@ -96,10 +96,14 @@ nav li{
 }
 
 
-.actus{
+.actus-droite{
   width:25%;
   position:relative;
   float:right;
+}
+
+.actus-gauche{
+  display:none;
 }
 
 .actus a{
@@ -109,6 +113,8 @@ nav li{
 .actus a:hover{
   text-decoration: underline;
 }
+
+
 
 .actu_res{
   margin-bottom:20px;
@@ -383,5 +389,91 @@ button:hover{
 }
 
 @media screen and (max-width: 1000px){
-  .actus{display:none;}
+  main{
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  #wrapper{
+    grid-column: 2/4;
+    padding:20px;
+    overflow-x:auto;
+  }
+
+  .actus-droite{
+    display:none;
+  }
+
+  .actus-gauche{
+    display:block;
+  }
+
+  .nouv_bibli{
+    display:none;
+  }
+
+  .evenements{
+    width:100%;
+  }
+
+  .evenements-page{
+    width:100%;
+  }
+  article{
+    width:100%;
+  }
+
+  .ptte-ligne{
+    display:none;
+  }
+
+  .liste-posts li{
+    margin-bottom:30px;
+  }
+}
+
+@media screen and (max-width: 700px){
+  main{
+    display:block;
+  }
+
+  #left{
+    padding:0px;
+
+  }
+
+  nav{
+    display:none;
+  }
+  .actus-gauche{
+    display:none;
+  }
+
+  header{
+    position:static;
+    width:100%;
+
+  }
+
+  .logo{
+    display:none;
+  }
+
+  .en-tete{
+    text-align:left;
+    width:100%;
+    min-height:100px;
+        border-radius:0% 0% 30% 60%;
+  }
+
+  .en-tete br{
+    display:none;
+  }
+
+  .titre-site{
+    padding-top:20px;
+  }
+
+  #wrapper{
+    width:90%;
+  }
 }
