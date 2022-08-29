@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="evenements">
-  <h1 class="liste_titre">Événements passés</h1>
+  <h1 class="periode-titre">Événements passés</h1>
   <ul class="liste-posts">
   {% assign sorted = site.posts | sort: 'date_debut'| reverse %}
   {% for post in sorted %}

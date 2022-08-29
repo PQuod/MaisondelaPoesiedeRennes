@@ -37,7 +37,7 @@ layout: default
   </div>
   <!-- Les évènements passés -->
   <div class="periode">
-    <h1 class="liste_titre"><span class="circle"></span> Événements passés <span class="circle2"></span></h1>
+    <h1 class="periode-titre"><span class="circle"></span> Événements passés <span class="circle2"></span></h1>
     <ul class="liste-posts">
       {% assign count = 0 %}
       {% assign sorted = site.posts | sort: 'date_debut'| reverse %}
@@ -79,12 +79,12 @@ layout: default
   <!-- Le lien vers le reste des archives -->
   <div class="periode">
     <a href="/archives/" style="text-decoration:none;">
-      <h1 class="event_titre liste_titre"><span class="circle"></span> Voir toutes les archives <span class="circle2"></span></h1>
+      <h1 class="event_titre periode-titre"><span class="circle"></span> Voir toutes les archives <span class="circle2"></span></h1>
     </a>
   </div>
 </div>
 
 <!-- Les encarts d'actualités -->
-<div class="actus actus-droite">
+<div class="actus">
   {% include actus.html %}
 </div>

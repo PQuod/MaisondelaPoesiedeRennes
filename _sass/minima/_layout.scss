@@ -2,19 +2,19 @@ main{
   display:grid;
   grid-template-columns: repeat(5, 1fr);
   grid-gap:30px;
+  padding-top:20px;
 }
 
 #left{
 grid-column: 1;
 font-weight: bold;
 text-align: right;
-padding-top:20px;
 padding-left:30px;
 }
 
 #wrapper{
   grid-column: 2/6;
-  padding:20px;
+  padding-left:20px;
 }
 
 footer{
@@ -24,6 +24,12 @@ footer{
   text-align:center;
 }
 
+/* LEFT SECTION */
+
+header{
+  width:100%;
+  margin-bottom:var(--line-height);
+}
 
 .logo{
   width:70%;
@@ -31,43 +37,34 @@ footer{
 }
 
 .en-tete{
-  width:100%;
-  margin-bottom:var(--line-height);
   background-color:var(--color_autres);
   border-radius: 60% 50% 70% 30%;
-  text-decoration:none;
-}
-
-.en-tete a{
+  a{
     text-decoration:none;
-}
-
-.titre-site:hover{
-  color:white;
-  -webkit-text-stroke:1px black;
-}
-
-.titre-site{
-  text-transform: uppercase;
-  font-size: 2em;
-
+  }
+  h1{
+    text-transform: uppercase;
+    font-size: 2em;
+  }
+  h1:hover{
+    color:white;
+    -webkit-text-stroke:1px black;
+  }
 }
 
 .horaires{
   font-size:0.8em;
 }
 
-.menu{
+nav{
   margin-bottom:40px;
-}
-
-.menu a{
-  border-bottom:5px solid var(--color_autres);
-  text-decoration:none;
-}
-
-.menu a:hover{
-  border-bottom:5px solid black;
+  a{
+    border-bottom:5px solid var(--color_autres);
+    text-decoration:none;
+  }
+  a:hover{
+    border-bottom:5px solid black;
+  }
 }
 
 nav li{
@@ -76,7 +73,6 @@ nav li{
   padding:5px;
   text-transform: uppercase;
 }
-
 
 .social{
   border:1px solid black;
@@ -96,29 +92,8 @@ nav li{
 }
 
 
-.actus-droite{
-  width:25%;
-  position:relative;
-  float:right;
-}
-
-.actus-gauche{
-  display:none;
-}
-
-.actus a{
-  text-decoration: none;
-}
-
-.actus a:hover{
-  text-decoration: underline;
-}
-
-.actu_res{
-  margin-bottom:20px;
-}
-
-.prems ~ .prems { display:none; }
+/* WRAPPER */
+/**Evenements - Middle section**/
 
 .evenements{
   width:70%;
@@ -126,56 +101,42 @@ nav li{
   float:left;
 }
 
-.evenements-page{
-    width:60%;
-}
-
-.evenements-page a{
-    text-decoration: underline;
-}
-
-
-/**Evenements**/
 .periode:not(:nth-last-child(1)){
   margin-bottom:calc(var(--line-height)*3);
 }
-.liste_titre{
+
+.periode-titre{
   text-align:center;
   text-transform:uppercase;
   padding-top:calc(var(--line-height)/2);
-  margin-bottom:20px;
+  margin-bottom:var(--line-height);
 }
 
-.circle {
+.circle, .circle2 {
   height: 20px;
   width: 20px;
   background-color: var(--color_autres);
-  border-radius: 20% 20% 90% 40%;
   display: inline-block;
 }
 
+.circle{
+    border-radius: 20% 20% 90% 40%;
+}
 .circle2 {
-  height: 20px;
-  width: 20px;
-  background-color: var(--color_autres);
   border-radius: 20% 40% 30% 60%;
-  display: inline-block;
-}
-
-.liste-posts{
-  width:100%;
 }
 
 .liste-posts a{
     text-decoration:none;
 }
 
+.liste-posts li > *{
+  margin-top:5px;
+  margin-bottom:5px;
+}
 
 .event_titre{
   text-transform:uppercase;
-  padding:3px;
-  margin-top:5px;
-  margin-bottom:5px;
 }
 
 .event_titre:hover{
@@ -186,6 +147,10 @@ nav li{
 .encart-meta{
   font-style: italic;
   margin-bottom:var(--line-height);
+  padding-left:2em;
+  p{
+    font-size:18px;
+  }
 }
 
 .event_dates{
@@ -201,7 +166,25 @@ nav li{
   content:", ";
 }
 
-/** Encarts **/
+/** Encarts - Right section */
+.actus{
+  width:25%;
+  position:relative;
+  float:right;
+  a{
+   text-decoration: none;
+  }
+  .actus a:hover{
+   text-decoration: underline;
+  }
+}
+
+.actu_res{
+  margin-bottom:var(--line-height);
+}
+
+.prems ~ .prems { display:none; }
+
 .encart{
 padding:20px;
 margin-bottom:20px;
@@ -240,10 +223,11 @@ margin-bottom:20px;
   content:"→ ";
 }
 
-.acquisitions{
+.nouv_bibli li{
   font-size: 1em;
   line-height: calc(var(--line-height)/1.5);
 }
+
 /**Couleurs**/
 .color_res{
   background-color:var(--color_res);
@@ -276,6 +260,10 @@ margin-bottom:20px;
 
 
 /* Journal */
+.journal ul:first-of-type li:before{
+  content:'';
+}
+
 .journal_titre{
   margin-bottom:var(--line-height);
   text-transform: uppercase;
@@ -287,6 +275,10 @@ article{
   width:60%;
 }
 
+
+article ul li:before{
+  content:"→ "
+}
 .encart_rubrique{
 padding:20px;
 margin-bottom:20px;
@@ -352,6 +344,10 @@ transform: translate(50%, 0%);
 
 .sommaire li:last-of-type{
     margin-bottom:0px;
+}
+
+.sommaire li{
+  list-style: none;
 }
 
 

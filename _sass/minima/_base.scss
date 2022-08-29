@@ -28,32 +28,6 @@ a:hover{
   text-decoration: none;
 }
 
-ul li{
-  list-style:none;
-}
-
-article ul li:before{
-  content:"→ "
-}
-
-nav li{
-  list-style: none;
-}
-
-.sommaire li{
-  list-style: none;
-}
-
-.liste-posts li{
-  list-style: none;
-}
-
-hr{
-height:95px;
-background: #fff url(/imgs/line.gif) no-repeat scroll center;
-border:none;
-}
-
 h1{
   font-size:30px;
 }
@@ -74,9 +48,23 @@ h5{
   font-size:20px;
 }
 
+h6{
+  font-size:18px;
+}
+
 p, li{
   font-size:20px;
   line-height: var(--line-height);
+}
+
+ul li{
+  list-style:none;
+}
+
+hr{
+height:95px;
+background: #fff url(/imgs/line.gif) no-repeat scroll center;
+border:none;
 }
 
 blockquote{
