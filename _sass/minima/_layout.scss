@@ -156,19 +156,11 @@ nav li{
 }
 
 .encart{
-  padding:20px;
-  margin-bottom:20px;
-}
-
-.encart_res:not(:last-of-type){
   margin-bottom:var(--line-height);
 }
 
-
-
-
-.encart_artiste{
-    margin-bottom:5px;
+.encart_res{
+  margin-bottom:var(--line-height);
 }
 
 .encart_infos{
