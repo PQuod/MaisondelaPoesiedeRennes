@@ -3,62 +3,22 @@ layout: default
 ---
 <div id="wrapper">
 
-<!-- La liste des évènements en cours et passés -->
-<div class="evenements">
-  <!-- Les évènements en cours -->
-  <div class="periode">
-    <ul class="liste-posts">
-      {% assign sorted = site.posts | sort: 'date_debut' %}
-      <!-- N'affiche que les rencontres, les scolaires, les évènements associatifs et les divers -->
-      {% for post in sorted %}
-        {% if post.categories contains "rencontre" or post.categories contains "associatif" or post.categories contains "divers" or post.categories contains "scolaires" %}
-          {% if post.draft != true %}
-            {% include scripts/dates.html %}
-            {% if findate >= nowdate or debutdate >= nowdate %}
-            <li>
-              <div class="event_dates">{{post.dates_publiees}}</div>
-              <a href="{{ post.url }}">
-                {% if post.categories contains "rencontre" %}<h3 class="color_renc">{% elsif post.categories contains "associatif" %}<h3 class="color_asso">{% elsif post.categories contains "scolaires" %}<h3 class="color_scol">{% else %}<h3 class="color_autres">{% endif %}{{ post.title }}</h3>
-              </a>
-              {% for artiste in post.artiste %}
-                {% for item in artiste %}
-                  <h4 class="event_artistes">{{ item }}</h4>
-                {% endfor %}
-              {% endfor %}
-              <p class="">{% if post.tarif %}{{post.tarif}}{% endif %}</p>
-              <p>{% if post.lieu %}{{post.lieu}}{% endif %}</p>
-            </li>
-            <img class="ptte-ligne" src="/imgs/ptte-ligne.gif"/>
-            {% endif %}
-          {% endif %}
-        {% endif %}
-      {% endfor %}
-    </ul>
-  </div>
-  <!-- Les évènements passés -->
-  <div class="periode">
-    <h1><span class="circle"></span> Événements passés <span class="circle2"></span></h1>
-    <ul class="liste-posts">
-      {% assign count = 0 %}
-      {% assign sorted = site.posts | sort: 'date_debut'| reverse %}
-      {% for post in sorted %}
-        {% if post.draft != true %}
-                    {% unless post.categories contains "podcast" %}
-            {% include scripts/dates.html %}
-                        {% if findate <= nowdate and debutdate <= nowdate %}
+  <!-- La liste des évènements en cours et passés -->
+  <div class="evenements">
+    <!-- Les évènements en cours -->
+    <div class="periode">
+      <ul class="liste-posts">
+        {% assign sorted = site.posts | sort: 'date_debut' %}
+        <!-- N'affiche que les rencontres, les scolaires, les évènements associatifs et les divers -->
+        {% for post in sorted %}
+          {% if post.categories contains "rencontre" or post.categories contains "associatif" or post.categories contains "divers" or post.categories contains "scolaires" %}
+            {% if post.draft != true %}
+              {% include scripts/dates.html %}
+              {% if findate >= nowdate or debutdate >= nowdate %}
               <li>
-                {% assign count = count | plus:1 %}
-                {% assign nb_posts = site.data.settings.nb_posts_home %}
-                <div class="event_dates">
-                  <p class="">{{post.dates_publiees}}</p>
-                </div>
+                <div class="event_dates">{{post.dates_publiees}}</div>
                 <a href="{{ post.url }}">
-                  {% if post.categories contains "residence" %}<h3 class="color_res">
-                  {% elsif post.categories contains "rencontre" %}<h3 class="color_renc">
-                  {% elsif post.categories contains "associatif" %}<h3 class="color_asso">
-                  {% elsif post.categories contains "scolaires" %}<h3 class="color_scol">
-                  {% elsif post.categories contains "residence_scolaire" %}<h3 class="color_scol">
-                  {% else %}<h3 class="color_autres">{% endif %}{{ post.title }}</h3>
+                  {% if post.categories contains "rencontre" %}<h3 class="color_renc">{% elsif post.categories contains "associatif" %}<h3 class="color_asso">{% elsif post.categories contains "scolaires" %}<h3 class="color_scol">{% else %}<h3 class="color_autres">{% endif %}{{ post.title }}</h3>
                 </a>
                 {% for artiste in post.artiste %}
                   {% for item in artiste %}
@@ -66,24 +26,65 @@ layout: default
                   {% endfor %}
                 {% endfor %}
                 <p class="">{% if post.tarif %}{{post.tarif}}{% endif %}</p>
-                <p>{% unless post.categories contains "residence" %}{% if post.lieu %}{{post.lieu}}{% endif %}{% endunless %}</p>
+                <p>{% if post.lieu %}{{post.lieu}}{% endif %}</p>
               </li>
-              {% if count == nb_posts %}{% break %}{% endif %}
               <img class="ptte-ligne" src="/imgs/ptte-ligne.gif"/>
+              {% endif %}
             {% endif %}
-          {% endunless %}
-        {% endif %}
-      {% endfor %}
-    </ul>
-  </div>
-  <!-- Le lien vers le reste des archives -->
-  <div class="periode">
-    <a href="/archives/" style="text-decoration:none;">
-      <h1><span class="circle"></span> Voir toutes les archives <span class="circle2"></span></h1>
-    </a>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+    <!-- Les évènements passés -->
+    <div class="periode">
+      <h1><span class="circle"></span> Événements passés <span class="circle2"></span></h1>
+      <ul class="liste-posts">
+        {% assign count = 0 %}
+        {% assign sorted = site.posts | sort: 'date_debut'| reverse %}
+        {% for post in sorted %}
+          {% if post.draft != true %}
+                      {% unless post.categories contains "podcast" %}
+              {% include scripts/dates.html %}
+                          {% if findate <= nowdate and debutdate <= nowdate %}
+                <li>
+                  {% assign count = count | plus:1 %}
+                  {% assign nb_posts = site.data.settings.nb_posts_home %}
+                  <div class="event_dates">
+                    <p class="">{{post.dates_publiees}}</p>
+                  </div>
+                  <a href="{{ post.url }}">
+                    {% if post.categories contains "residence" %}<h3 class="color_res">
+                    {% elsif post.categories contains "rencontre" %}<h3 class="color_renc">
+                    {% elsif post.categories contains "associatif" %}<h3 class="color_asso">
+                    {% elsif post.categories contains "scolaires" %}<h3 class="color_scol">
+                    {% elsif post.categories contains "residence_scolaire" %}<h3 class="color_scol">
+                    {% else %}<h3 class="color_autres">{% endif %}{{ post.title }}</h3>
+                  </a>
+                  {% for artiste in post.artiste %}
+                    {% for item in artiste %}
+                      <h4 class="event_artistes">{{ item }}</h4>
+                    {% endfor %}
+                  {% endfor %}
+                  <p class="">{% if post.tarif %}{{post.tarif}}{% endif %}</p>
+                  <p>{% unless post.categories contains "residence" %}{% if post.lieu %}{{post.lieu}}{% endif %}{% endunless %}</p>
+                </li>
+                {% if count == nb_posts %}{% break %}{% endif %}
+                <img class="ptte-ligne" src="/imgs/ptte-ligne.gif"/>
+              {% endif %}
+            {% endunless %}
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+    <!-- Le lien vers le reste des archives -->
+    <div class="periode">
+      <a href="/archives/" style="text-decoration:none;">
+        <h1><span class="circle"></span> Voir toutes les archives <span class="circle2"></span></h1>
+      </a>
+    </div>
   </div>
 </div>
-</div>
+
 <!-- Les encarts d'actualités -->
 <div id="actus">
   {% include actus.html %}
