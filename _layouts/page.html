@@ -8,7 +8,7 @@ layout: default
       </div>
     </div>
     <div class="encart-meta">
-      <p>{% if page.artiste %}<b>Artiste(s) :</b> {% assign artistes = page.artiste %}{% for item in artistes %}<span class="chapeau_artistes">{{ item }}</span>{% endfor %}<br>---{% endif %}</p>
+      <p>{% if page.artiste %}{% assign artistes = page.artiste %}{% for item in artistes %}<span class="chapeau_artistes">{{ item }}</span>{% endfor %}{% endif %}</p>
       <p>{% if page.dates_publiees %}<b>Date(s) :</b> {{ page.dates_publiees }}{% endif %}</p>
       <p>{% if page.lieu %}<b>Lieu(x) :</b> {{ page.lieu }}{% endif %}</p>
       <p>{% if page.partenaires %}<b>Partenaire(s) :</b> {{ page.partenaires}}{% endif %}</p>
