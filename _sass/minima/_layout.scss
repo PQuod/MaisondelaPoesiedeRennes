@@ -114,8 +114,6 @@ nav li{
   text-decoration: underline;
 }
 
-
-
 .actu_res{
   margin-bottom:20px;
 }
@@ -138,7 +136,7 @@ nav li{
 
 
 /**Evenements**/
-.periode{
+.periode:not(:nth-last-child(1)){
   margin-bottom:calc(var(--line-height)*3);
 }
 .liste_titre{
@@ -227,14 +225,18 @@ margin-bottom:20px;
   line-height:1em;
 }
 
-.liencat{
+.liencat, .liencatres{
   display:block;
   text-align:right;
   width:100%;
   font-weight:bold;
 }
 
-.liencat:before{
+.liencatres{
+    margin-bottom:var(--line-height);
+}
+
+.liencat:before, .liencatres:before{
   content:"→ ";
 }
 
