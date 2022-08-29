@@ -1,27 +1,15 @@
 main{
   display:grid;
-  grid-template-columns: repeat(5, 1fr);
-  grid-gap:30px;
   padding-top:20px;
-}
-
-#left{
-grid-column: 1;
-font-weight: bold;
-text-align: right;
-padding-left:30px;
-}
-
-#wrapper{
-  grid-column: 2/6;
+  grid-template-columns: 20% 50% 25%;
+  grid-gap:30px;
+  padding-right:20px;
   padding-left:20px;
 }
 
-footer{
-  grid-column: 1/6;
-  background: var(--color_autres);
-  border-radius:30% 60% 0% 0%;
-  text-align:center;
+#left{
+font-weight: bold;
+text-align: right;
 }
 
 /* LEFT SECTION */
@@ -95,21 +83,17 @@ nav li{
 /* WRAPPER */
 /**Evenements - Middle section**/
 
-.evenements{
-  width:70%;
-  position:relative;
-  float:left;
-}
 
-.periode:not(:nth-last-child(1)){
-  margin-bottom:calc(var(--line-height)*3);
-}
 
-.periode-titre{
+.periode h1{
   text-align:center;
   text-transform:uppercase;
   padding-top:calc(var(--line-height)/2);
   margin-bottom:var(--line-height);
+}
+
+.periode:not(:nth-last-child(1)){
+  margin-bottom:calc(var(--line-height)*3);
 }
 
 .circle, .circle2 {
@@ -126,57 +110,43 @@ nav li{
   border-radius: 20% 40% 30% 60%;
 }
 
-.liste-posts a{
+.liste-posts{
+  h3{
+      text-transform:uppercase;
+  }
+  h3:hover{
+    border-radius: 0;
+    transition-duration:0.5s;
+  }
+  a{
     text-decoration:none;
-}
-
-.liste-posts li > *{
+  }
+  li > *{
   margin-top:5px;
   margin-bottom:5px;
-}
-
-.event_titre{
-  text-transform:uppercase;
-}
-
-.event_titre:hover{
-  border-radius: 0;
-  transition-duration:0.5s;
-}
-
-.encart-meta{
-  font-style: italic;
-  margin-bottom:var(--line-height);
-  p{
-    font-size:18px;
   }
-}
-
-.encart-meta h4{
-  text-align:center;
-  font-style:normal;
-  font-size:20px;
-  margin-bottom:var(--line-height);
 }
 
 .event_dates{
   font-style: italic;
 }
 
-.event_art{
+.event_artistes{
   display:inline-block;
-    margin-bottom:5px;
 }
 
-.event_art:not(:last-of-type):after{
+.event_artistes:not(:last-of-type):after{
   content:", ";
 }
 
 /** Encarts - Right section */
 .actus{
-  width:25%;
+  width:30%;
   position:relative;
   float:right;
+  h2{
+    margin-bottom:0px;
+  }
   a{
    text-decoration: none;
   }
@@ -185,24 +155,20 @@ nav li{
   }
 }
 
-.actu_res{
-  margin-bottom:var(--line-height);
+.prems ~ .prems {
+  display:none;
 }
 
-.prems ~ .prems { display:none; }
-
 .encart{
-padding:20px;
-margin-bottom:20px;
+  padding:20px;
+  margin-bottom:20px;
 }
 
 .encart_res:not(:last-of-type){
   margin-bottom:var(--line-height);
 }
 
-.encart_res h2{
-  margin-bottom:0px;
-}
+
 
 
 .encart_artiste{
@@ -294,7 +260,20 @@ margin-bottom:20px;
   text-align:center;
   text-transform:uppercase;
 }
+.encart-meta{
+  font-style: italic;
+  margin-bottom:var(--line-height);
+  p{
+    font-size:18px;
+  }
+}
 
+.encart-meta h4{
+  text-align:center;
+  font-style:normal;
+  font-size:20px;
+  margin-bottom:var(--line-height);
+}
 
 .post_descript p{
   margin-bottom:var(--line-height);
@@ -352,12 +331,6 @@ transform: translate(50%, 0%);
     margin-bottom:0px;
 }
 
-.sommaire li{
-  list-style: none;
-}
-
-
-
 label{
   font-size:20px;
 }
@@ -390,6 +363,13 @@ button:hover{
 
 #list_res_scol p:not(:last-of-type){
   margin:0;
+}
+
+footer{
+  width:100%;
+  background: var(--color_autres);
+  border-radius:30% 60% 0% 0%;
+  text-align:center;
 }
 
 @media screen and (max-width: 1000px){

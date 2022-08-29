@@ -27,7 +27,7 @@
     {% for post in site.categories.appel %}
       {% include scripts/dates.html %}
       {% if debutdate <= nowdate and findate >= nowdate %}
-          <h2 class="encart_titre color_res">Appel à candidature</h3>
+          <h2 class="encart_titre color_res">Appel à candidature</h2>
           <a href="{{ post.url }}">
             <h4>{{ post.title }}</h4>
           </a>
@@ -41,7 +41,7 @@
 {% assign sortedpod = site.categories.podcast | sort: 'date_debut' | reverse %}
 {% for post in sortedpod limit:1 %}
 <div class="encart color_pod">
-  <h3 class="encart_titre">Dernier podcast</h3>
+  <h2 class="encart_titre">Dernier podcast</h2>
   <figure>
     <audio style="width:100%;" controls src="">
       Your browser does not support the
@@ -55,7 +55,7 @@
 
 <!-- Dernières acquisitions -->
 <div class="encart nouv_bibli">
-  <h3 class="encart_titre color_asso">Nouveautés</h3>
+  <h2 class="encart_titre color_asso">Nouveautés</h2>
   <ul>
     <li><b>Rochery Samuel</b>, <i>Mauviette</i>, Ni fait ni à faire, 2022</li>
     <li><b>Tawada Yoko</b>, <i>Aventures dans la grammaire allemande</i>, La Contre-Allée, 2022</li>

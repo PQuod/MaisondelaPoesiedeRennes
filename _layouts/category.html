@@ -16,7 +16,7 @@ layout: default
       {% if post.categories contains page.tag %}
         <li>
           <div class="event_dates">
-            <p class="event_type">{{post.dates_publiees}}</p>
+            <p class="">{{post.dates_publiees}}</p>
           </div>
           <a href="{{ post.url }}">
           {% if page.tag == 'podcast'%}
@@ -30,7 +30,7 @@ layout: default
           </a>
           {% for artiste in post.artiste %}
             {% for item in artiste %}
-            <h4 class="event_art">{{ item }}</h4>
+            <h4 class="event_artistes">{{ item }}</h4>
             {% endfor %}
           {% endfor %}
         </li>
