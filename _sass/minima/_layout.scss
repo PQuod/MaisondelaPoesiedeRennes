@@ -156,7 +156,7 @@ nav li{
 }
 
 .encart{
-  margin-bottom:var(--line-height);
+  margin-bottom:calc(var(--line-height)*2);
 }
 
 .encart_res{
