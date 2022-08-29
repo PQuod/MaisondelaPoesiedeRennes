@@ -145,12 +145,14 @@ nav li{
 }
 
 .encart-meta{
-  font-style: italic;
   margin-bottom:var(--line-height);
   padding-left:2em;
   p{
     font-size:18px;
   }
+}
+.encart-meta p:not(:first-child){
+  font-style: italic;
 }
 
 .event_dates{
