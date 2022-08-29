@@ -139,17 +139,14 @@ nav li{
 }
 
 /** Encarts - Right section */
-.actus{
-  width:30%;
-  position:relative;
-  float:right;
+#actus{
   h2{
     margin-bottom:0px;
   }
   a{
    text-decoration: none;
   }
-  .actus a:hover{
+  a:hover{
    text-decoration: underline;
   }
 }
