@@ -3,7 +3,7 @@ layout: rubrique
 title: Contact
 permalink: /contact/
 ---
-# Infos
+## Infos
 47 rue Armand Rébillon, 35000 RENNES  
 02 99 51 33 32  
 contact@maisondelapoesie-rennes.org  
@@ -14,7 +14,7 @@ Nous ne sommes pas une maison d'édition, ni une MJC. Nous ne programmons pas de
 
 Nous nous réservons le droit de ne pas répondre à votre email s'il nous semble trop éloigné de nos activités.
 
-# Contacts directs
+## Contacts directs
 **Direction - Quentin Leclerc**  
 quentin.leclerc@maisondelapoesie-rennes.org
 
@@ -24,7 +24,7 @@ lucie.desaubliaux@maisondelapoesie-rennes.org
 # Services de presse
 Nous acceptons les services de presse des livres de poésie et de prose contemporaine.
 
-# Accès 
+## Accès 
 
 **Bus**\
 Ligne 12, arrêt Auberge de jeunesse  
