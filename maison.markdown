@@ -1,6 +1,6 @@
 ---
 layout: rubrique
-title: maison
+title: Maison
 permalink: /maison/
 ---
 ## Le projet
