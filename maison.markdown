@@ -8,8 +8,8 @@ permalink: /maison/
 L'association Maison de la Poésie - Beauséjour est une association loi 1901.
 
 Ses missions :  
-1. Gérer le lieu culturel Maison de la Poésie de Rennes, installé dans la Villa Beauséjour.
-2. Fédérer partenaires fondateurs, acteurs culturels et associations oeuvrant dans le domaine des expressions liées au livre.
+1. Gérer le lieu culturel Maison de la Poésie de Rennes, installé dans la villa Beauséjour.
+2. Fédérer partenaires fondateurs, acteurs culturels et associations œuvrant dans le domaine des expressions liées au livre.
 3. Développer des projets artistiques et culturels autour des écritures contemporaines et de leur diffusion orale.
 
 Elle conduit sa démarche avec le souci permanent de favoriser l’accès du plus grand nombre à la culture et à la création artistique.
@@ -28,9 +28,9 @@ Jardinier : Sébastien Toron
 ### Conseil d'Administration
 
 Co-Présidentes : Nathalie Brillant Rannou et Anne-Marie Klapka  
-Trésorière : Lauriane Jumel  
-Secrétaire : Charlotte Beltzung  
-Monique Ormevil &middot; Pauline Guémas &middot; Marie Audran &middot; Laura Mainguy &middot; Stéphanie Vivier &middot; Candice Labrousse &middot; La Balade des Livres
+Co-Trésorier.ères : Charlotte Beltzung et Anaël Castelein 
+Co-Secrétaires : Candice Labrousse et Marie Audran  
+Monique Ormevil &middot; Pauline Guémas &middot; Stéphanie Vivier &middot; La Balade des Livres
 
 ### Membres Fondateurs
 
