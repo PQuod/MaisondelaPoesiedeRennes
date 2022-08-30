@@ -28,7 +28,9 @@ layout: default
   <div class="post_descript">
       {{ page.content | markdownify }}
   </div>
-  <hr>
+  {% if artistes > 0 %}
+    <hr>
+  {% endif %}
   <div class="artiste_bio">
     {% for item in artistes %}
       {% for artiste in site.artistes %}
@@ -37,5 +39,8 @@ layout: default
         {% endif %}
       {% endfor %}
     {% endfor %}
+  </div>
+  <div class="to-top">
+    <h4><a href="#top">↑ Retourner en haut ↑</a></h4>
   </div>
 </article>
