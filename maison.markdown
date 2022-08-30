@@ -8,28 +8,29 @@ permalink: /maison/
 L'association Maison de la Poésie - Beauséjour est une association loi 1901.
 
 Ses missions :  
+
 1. Gérer le lieu culturel Maison de la Poésie de Rennes, installé dans la villa Beauséjour.
 2. Fédérer partenaires fondateurs, acteurs culturels et associations œuvrant dans le domaine des expressions liées au livre.
 3. Développer des projets artistiques et culturels autour des écritures contemporaines et de leur diffusion orale.
 
 Elle conduit sa démarche avec le souci permanent de favoriser l’accès du plus grand nombre à la culture et à la création artistique.
 
----
+- - -
 
 ## L'équipe
 
 ### Salarié.e.s
 
-Direction : Quentin Leclerc  
-Médiation scolaire : Lucie Desaubliaux  
-Chargée d'entretien : Lucie Kerouedan  
+Direction : Quentin Leclerc\
+Médiation scolaire : Lucie Desaubliaux\
+Chargée d'entretien : Lucie Kerouedan\
 Jardinier : Sébastien Toron
 
 ### Conseil d'Administration
 
-Co-Présidentes : Nathalie Brillant Rannou et Anne-Marie Klapka  
+Co-Présidentes : Nathalie Brillant Rannou et Anne-Marie Klapka\
 Co-Trésorier.ères : Charlotte Beltzung et Anaël Castelein 
-Co-Secrétaires : Candice Labrousse et Marie Audran  
+Co-Secrétaires : Candice Labrousse et Marie Audran\
 Monique Ormevil &middot; Pauline Guémas &middot; Stéphanie Vivier &middot; La Balade des Livres
 
 ### Membres Fondateurs
@@ -78,6 +79,8 @@ En plus, l'adhésion soutient les activités de notre association et permet l'em
 
 ## Bénévolat
 
-Toute l'année, nous sommes à la recherche de bénévoles pour nous aider dans diverses missions en lien avec les activités de notre association. Par exemple, aider à la logistique de nos événements artistiques, à enrichir le fonds de notre bibliothèque en suggérant des achats, ou encore à animer le lieu en participant au projet potager.
+Toute l'année, nous sommes à la recherche de bénévoles pour nous aider dans diverses missions en lien avec les activités de notre association.
 
-Les façons de s'investir sont multiples, n'hésitez donc pas à nous écrire : contact@maisondelapoesie-rennes.org
+Par exemple, accompagner la logistique de nos événements artistiques, enrichir le fonds de notre bibliothèque en suggérant des achats, ou encore animer le lieu en participant au projet potager ou à celui d'atelier.
+
+Les façons de s'investir sont multiples, n'hésitez donc pas à nous écrire : [contact@maisondelapoesie-rennes.org](mailto:contact@maisondelapoesie-rennes.org)
