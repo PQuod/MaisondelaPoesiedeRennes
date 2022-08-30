@@ -76,8 +76,6 @@ Les résident.es qui participent à ce format sont sélectionné.es en interne p
 
 ---
 
-Les artistes invités
-
 <div id="list_res"></div>
 
 - - -
