@@ -74,6 +74,10 @@ Les résident.es qui participent à ce format sont sélectionné.es en concertat
 
 Les résident.es qui participent à ce format sont sélectionné.es en interne par la Maison de la Poésie.
 
+---
+
+Les artistes invités
+
 <div id="list_res"></div>
 
 - - -
