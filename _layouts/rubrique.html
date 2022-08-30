@@ -3,28 +3,25 @@ layout: default
 ---
 <article>
     {% if page.title == 'Résidences'%}
-      <div class="encart_rubrique color_res">
+      <div class="header_page color_res">
     {% elsif page.title == 'La Maison' %}
-      <div class="encart_rubrique color_asso">
+      <div class="header_page color_asso">
     {% elsif page.title == 'Les scolaires' %}
-    <div class="encart_rubrique color_scol">
+    <div class="header_page color_scol">
     {% elsif page.title == 'Journal' %}
-    <div class="encart_rubrique color_pod">
+    <div class="header_page color_pod">
     {% else %}
-    <div class="encart_rubrique color_autres">
+    <div class="header_page color_autres">
     {% endif %}
         <div class="titre_page"><h1>{{ page.title }}</h1></div>
     </div>
-    <div class="post_descript">
-      <div class="sommaire">
-      </div>
-    <div class="post_content">
-    {{ page.content | markdownify }}
+    <div class="sommaire">
     </div>
+    <div class="post_descript">
+      {{ page.content | markdownify }}
     </div>
 {% if page.title == "Résidences" %}
   {% include scripts/residence_list.html %}
 {% endif %}
 </article>
-
 {% include scripts/sommaire.html %}

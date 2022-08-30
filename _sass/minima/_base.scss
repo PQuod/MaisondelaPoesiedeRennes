@@ -72,3 +72,36 @@ blockquote{
   padding-left:20px;
   border-left:5px solid gray;
 }
+
+@media screen and (max-width: 700px){
+  :root{
+    --line-height:26px;
+  }
+  h1{
+    font-size:26px;
+  }
+
+  h2{
+    font-size:24px;
+  }
+
+  h3{
+    font-size:22px;
+  }
+
+  h4{
+    font-size:20px;
+  }
+
+  h5{
+    font-size:18px;
+  }
+
+  h6{
+    font-size:16px;
+  }
+
+  p, li{
+    font-size:16px;
+  }
+}

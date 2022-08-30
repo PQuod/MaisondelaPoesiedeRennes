@@ -7,6 +7,7 @@ layout: default
   <div class="evenements">
     <!-- Les évènements en cours -->
     <div class="periode">
+      <h1 class="mobile-display-block"><span class="circle"></span> En ce moment <span class="circle2"></span></h1>
       <ul class="liste-posts">
         {% assign sorted = site.posts | sort: 'date_debut' %}
         <!-- N'affiche que les rencontres, les scolaires, les évènements associatifs et les divers -->
@@ -86,6 +87,6 @@ layout: default
 </div>
 
 <!-- Les encarts d'actualités -->
-<div id="actus">
+<div id="actus" class="mobile-display-none tablet-display-none">
   {% include actus.html %}
 </div>

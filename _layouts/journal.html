@@ -2,18 +2,18 @@
 layout: default
 ---
 <article class="journal">
-  <div class="periode-titre encart_rubrique color_autres "><h1>{{ page.title }}</h1></div>
+  <div class="header_page color_autres ">
+    <div class="titre_page"><h1>{{ page.title }}</h1></div>
+  </div>
   <ul>
     {% assign sorted = site.journal | reverse %}
     {% for article in sorted %}
     {% if article.draft != true %}
     <li>
-    <p class="">{{ article.date | date: "%-d/%m/%Y"}} &middot; {{ article.auteur }}</p>
-    <h3 class="journal_titre color_autres">{{ article.title }}</h3>
+    <p>{{ article.date | date: "%-d/%m/%Y"}} &middot; {{ article.auteur }}</p>
+    <h3 class="titre_page color_autres">{{ article.title }}</h3>
     <div class="post_descript">
-      <div class="post_content">
       {{ article.content | markdownify}}
-      </div>
     </div>
     <hr>
     {% endif %}

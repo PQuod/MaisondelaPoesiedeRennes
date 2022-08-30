@@ -3,11 +3,11 @@ layout: default
 ---
 <div class="evenements">
   {% if page.tag == 'podcast'%}
-    <div class="encart_rubrique color_pod"><div class="titre_page"><h1>Podcasts
+    <div class="header_page color_pod"><div class="titre_page"><h1>Podcasts
   {% elsif page.tag == 'residence' %}
-    <div class="encart_rubrique color_res"><div class="titre_page"><h1>Résidences
+    <div class="header_page color_res"><div class="titre_page"><h1>Résidences
   {% else %}
-  <div class="encart_rubrique color_autres"><div class="titre_page"><h1>{{ page.title }}
+  <div class="header_page color_autres"><div class="titre_page"><h1>{{ page.title }}
   {% endif %}
       </h1></div></div>
   <ul class="liste-posts">
@@ -16,7 +16,7 @@ layout: default
       {% if post.categories contains page.tag %}
         <li>
           <div class="event_dates">
-            <p class="">{{post.dates_publiees}}</p>
+            <p>{{post.dates_publiees}}</p>
           </div>
           <a href="{{ post.url }}">
           {% if page.tag == 'podcast'%}

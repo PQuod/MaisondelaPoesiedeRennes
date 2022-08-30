@@ -2,31 +2,40 @@
 layout: default
 ---
 <article>
-  <div>
-      {% if page.categories contains "residence" %}<div class="encart color_res">{% elsif page.categories contains "rencontre" %}<div class="encart color_renc">{% elsif page.categories contains "associatif" %}<div class="encart color_asso">{% elsif page.categories contains "podcast" %}<div class="encart color_pod">{% elsif page.categories contains "scolaires" %}<div class="encart color_scol">{% else %}<div class="encart color_autres">{% endif %}
-        <div class="titre_page"><h1>{{ page.title }}</h1></div>
-      </div>
+  {% if page.categories contains "residence" %}
+    <div class="header_page color_res">
+  {% elsif page.categories contains "rencontre" %}
+    <div class="header_page color_renc">
+  {% elsif page.categories contains "associatif" %}
+    <div class="header_page color_asso">
+  {% elsif page.categories contains "podcast" %}
+    <div class="header_page color_pod">
+  {% elsif page.categories contains "scolaires" %}
+    <div class="header_page color_scol">
+  {% else %}
+    <div class="header_page color_autres">
+  {% endif %}
+      <div class="titre_page"><h1>{{ page.title }}</h1></div>
     </div>
-    <div class="encart-meta">
-      {% if page.artiste %}<h4>{% assign artistes = page.artiste %}{% for item in artistes %}<span class="chapeau_artistes">{{ item }}</span>{% endfor %}</h4>{% endif %}
-      {% if page.dates_publiees %}<p><b>Date :</b> {{ page.dates_publiees }}</p>{% endif %}
-      {% if page.lieu %}<p><b>Lieu :</b> {{ page.lieu }}</p>{% endif %}
-      {% if page.partenaires %}<p><b>Avec :</b> {{ page.partenaires}}</p>{% endif %}
-      {% if page.tarif %}<p><b>Tarif :</b> {{ page.tarif }}</p>{% endif %}
-    </div>
-    <div class="post_descript">
-      <div class="post_content">
-    {{ page.content | markdownify }}
-    </div>
-    </div>
-<hr>
-    <div class="artiste_bio">
-      {% for item in artistes %}
-        {% for artiste in site.artistes %}
-          {% if artiste.name == item %}
-          {{ artiste.content | markdownify }}
-          {% endif %}
-        {% endfor %}
+
+  <div class="encart-meta">
+    {% if page.artiste %}<h4>{% assign artistes = page.artiste %}{% for item in artistes %}<span class="chapeau_artistes">{{ item }}</span>{% endfor %}</h4>{% endif %}
+    {% if page.dates_publiees %}<p><b>Date :</b> {{ page.dates_publiees }}</p>{% endif %}
+    {% if page.lieu %}<p><b>Lieu :</b> {{ page.lieu }}</p>{% endif %}
+    {% if page.partenaires %}<p><b>Avec :</b> {{ page.partenaires}}</p>{% endif %}
+    {% if page.tarif %}<p><b>Tarif :</b> {{ page.tarif }}</p>{% endif %}
+  </div>
+  <div class="post_descript">
+      {{ page.content | markdownify }}
+  </div>
+  <hr>
+  <div class="artiste_bio">
+    {% for item in artistes %}
+      {% for artiste in site.artistes %}
+        {% if artiste.name == item %}
+        {{ artiste.content | markdownify }}
+        {% endif %}
       {% endfor %}
-    </div>
+    {% endfor %}
+  </div>
 </article>

@@ -78,11 +78,34 @@ nav li{
   color:white;
 }
 
+label{
+  font-size:20px;
+}
+
+input{
+  border:none;
+  border-bottom:1px solid black;
+  background:none;
+  width:100%;
+}
+
+button{
+  border:1px solid black;
+  background:none;
+  padding:5px;
+  width:100%;
+  margin-top:10px;
+  cursor:pointer;
+}
+
+button:hover{
+  background:black;
+  color:white;
+}
+
 
 /* WRAPPER */
 /**Evenements - Middle section**/
-
-
 
 .periode h1{
   text-align:center;
@@ -151,6 +174,10 @@ nav li{
   }
 }
 
+.screen-display-none{
+  display:none;
+}
+
 .prems ~ .prems {
   display:none;
 }
@@ -168,24 +195,114 @@ nav li{
   line-height:1em;
 }
 
-.liencat, .liencatres{
+.liencat{
   display:block;
   text-align:right;
   width:100%;
   font-weight:bold;
 }
 
-.liencatres{
-    margin-bottom:var(--line-height);
-}
-
-.liencat:before, .liencatres:before{
+.liencat:before{
   content:"→ ";
 }
 
 .nouv_bibli li{
   font-size: 1em;
   line-height: calc(var(--line-height)/1.5);
+}
+
+/* Journal */
+.journal ul:first-of-type li:before{
+  content:'';
+}
+
+/*PAGES */
+
+article{
+  width:90%;
+}
+
+article ul li:before{
+  content:"→ "
+}
+
+.header_page{
+padding:20px;
+margin-bottom:20px;
+}
+
+.titre_page{
+  text-align:center;
+  text-transform:uppercase;
+}
+
+.encart-meta{
+  font-style: italic;
+  margin-bottom:var(--line-height);
+  p{
+    font-size:18px;
+  }
+  h4{
+    text-align:center;
+    font-style:normal;
+    font-size:20px;
+    margin-bottom:var(--line-height);
+  }
+}
+
+.post_descript {
+  p, h1, h2{
+  margin-bottom:var(--line-height);
+  }
+  img{
+    filter: grayscale(100%);
+    max-width:50%;
+    height: auto;
+  transform: translate(50%, 0%);
+  }
+  img:hover{
+    filter:none;
+  }
+  ul {
+    padding-left:50px;
+  }
+  ol{
+   padding-left:70px;
+ }
+ li:last-of-type{
+     margin-bottom:var(--line-height);
+ }
+}
+
+.chapeau_artistes:not(:last-child)::after{
+  content: ', '
+}
+
+.artiste_bio p{
+    margin-bottom:var(--line-height);
+}
+
+.sommaire{
+  position:fixed;
+  width:20%;
+  top:140px;
+  right:70px;
+  padding-right:100px;
+  background-color: var(--color_res);
+  padding:20px;
+  border-radius: 50% 50% 70% 30%;
+  li:last-of-type{
+      margin-bottom:0px;
+  }
+}
+
+/** Page_residences **/
+#list_res p:not(:last-of-type){
+  margin:0;
+}
+
+#list_res_scol p:not(:last-of-type){
+  margin:0;
 }
 
 /**Couleurs**/
@@ -205,7 +322,6 @@ nav li{
   background-color:var(--color_pod);
   border-radius: 30% 60% 30% 40%;
 }
-
 .color_scol{
   background-color:var(--color_scol);
   border-radius: 60% 80% 20% 20%;
@@ -216,142 +332,7 @@ nav li{
   border-radius: 40% 20% 60% 40%;
 }
 
-
-
-
-/* Journal */
-.journal ul:first-of-type li:before{
-  content:'';
-}
-
-.journal_titre{
-  margin-bottom:var(--line-height);
-  text-transform: uppercase;
-}
-
-/*PAGES */
-
-article{
-  width:90%;
-}
-
-
-article ul li:before{
-  content:"→ "
-}
-.encart_rubrique{
-padding:20px;
-margin-bottom:20px;
-}
-
-.titre_page{
-  text-align:center;
-  text-transform:uppercase;
-}
-.encart-meta{
-  font-style: italic;
-  margin-bottom:var(--line-height);
-  p{
-    font-size:18px;
-  }
-}
-
-.encart-meta h4{
-  text-align:center;
-  font-style:normal;
-  font-size:20px;
-  margin-bottom:var(--line-height);
-}
-
-.post_descript p{
-  margin-bottom:var(--line-height);
-}
-
-.post_descript img{
-  filter: grayscale(100%);
-  max-width:50%;
-  height: auto;
-transform: translate(50%, 0%);
-}
-
-
-.post_descript img:hover{
-  filter:none;
-}
-
-.chapeau_artistes:not(:last-child)::after{
-  content: ', '
-}
-
-.artiste_bio p{
-    margin-bottom:var(--line-height);
-}
-
-.post_descript h1, h2{
-    margin-bottom:var(--line-height);
-}
-
-.post_content ul {
-  padding-left:50px;
-}
-
-.post_content ol{
-  padding-left:70px;
-}
-
-.post_content li:last-of-type{
-    margin-bottom:var(--line-height);
-}
-
-.sommaire{
-  position:fixed;
-  width:20%;
-  top:140px;
-  right:70px;
-  padding-right:100px;
-  background-color: var(--color_res);
-  padding:20px;
-  border-radius: 50% 50% 70% 30%;
-  display:none;
-}
-
-.sommaire li:last-of-type{
-    margin-bottom:0px;
-}
-
-label{
-  font-size:20px;
-}
-
-input{
-  border:none;
-  border-bottom:1px solid black;
-  background:none;
-  width:100%;
-}
-
-button{
-  border:1px solid black;
-  background:none;
-  padding:5px;
-  width:100%;
-  margin-top:10px;
-  cursor:pointer;
-}
-
-button:hover{
-  background:black;
-  color:white;
-}
-
-/** Page_residences **/
-#list_res p:not(:last-of-type){
-  margin:0;
-}
-
-#list_res_scol p:not(:last-of-type){
-  margin:0;
-}
+/**FOOTER**/
 
 footer{
   width:100%;
@@ -359,6 +340,7 @@ footer{
   border-radius:30% 60% 0% 0%;
   text-align:center;
 }
+
 
 @media screen and (max-width: 1000px){
   main{
@@ -371,25 +353,19 @@ footer{
     overflow-x:auto;
   }
 
-  .actus-droite{
-    display:none;
+  .screen-display-none{
+    display:block;
   }
 
-  .actus-gauche{
-    display:block;
+  .tablet-display-none{
+    display:none;
   }
 
   .nouv_bibli{
     display:none;
   }
 
-  .evenements{
-    width:100%;
-  }
 
-  .evenements-page{
-    width:100%;
-  }
   article{
     width:100%;
   }
@@ -406,46 +382,39 @@ footer{
 @media screen and (max-width: 700px){
   main{
     display:block;
+    padding:0px;
+  }
+
+  .screen-display-none{
+    display:none;
   }
 
   #left{
     padding:0px;
-
   }
 
-  nav{
+  .liste-posts li > h4{
+    margin:0px
+  }
+
+  .mobile-display-none{
     display:none;
   }
-  .actus-gauche{
-    display:none;
+
+  .mobile-display-block{
+    display:block;
   }
 
   header{
     position:static;
     width:100%;
-
-  }
-
-  .logo{
-    display:none;
   }
 
   .en-tete{
     text-align:left;
-    width:100%;
     min-height:100px;
-        border-radius:0% 0% 30% 60%;
+    border-radius:0% 0% 30% 60%;
+    padding:20px;
   }
 
-  .en-tete br{
-    display:none;
-  }
-
-  .titre-site{
-    padding-top:20px;
-  }
-
-  #wrapper{
-    width:90%;
-  }
 }
