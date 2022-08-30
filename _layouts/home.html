@@ -2,7 +2,6 @@
 layout: default
 ---
 <div id="wrapper">
-
   <!-- La liste des évènements en cours et passés -->
   <div class="evenements">
     <!-- Les évènements en cours -->
@@ -29,7 +28,6 @@ layout: default
                 <p class="">{% if post.tarif %}{{post.tarif}}{% endif %}</p>
                 <p>{% if post.lieu %}{{post.lieu}}{% endif %}</p>
               </li>
-              <img class="ptte-ligne" src="/imgs/ptte-ligne.gif"/>
               {% endif %}
             {% endif %}
           {% endif %}
@@ -70,7 +68,6 @@ layout: default
                   <p>{% unless post.categories contains "residence" %}{% if post.lieu %}{{post.lieu}}{% endif %}{% endunless %}</p>
                 </li>
                 {% if count == nb_posts %}{% break %}{% endif %}
-                <img class="ptte-ligne" src="/imgs/ptte-ligne.gif"/>
               {% endif %}
             {% endunless %}
           {% endif %}
@@ -87,6 +84,6 @@ layout: default
 </div>
 
 <!-- Les encarts d'actualités -->
-<div id="actus" class="mobile-display-none tablet-display-none">
+<div class="actus mobile-display-none tablet-display-none">
   {% include actus.html %}
 </div>
