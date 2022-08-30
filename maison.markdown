@@ -68,11 +68,11 @@ Merci de nous retourner le bulletin d'adhésion et le paiement (chèque ou espè
 
 **A quoi sert l'adhésion ?**
 
-L'association est composée de membres fondateurs et de membres adhérents. Sont membres adhérents toutes les personnes physiques ou morales qui participent au fonctionnement et à la réalisation de son objet.
+Elle permet de prendre part au fonctionnement et à la réalisation du projet associatif.
 
-Les adhérents assistent à l’Assemblée Générale qui a lieu une fois par an, en juin, et ils votent pour élire leurs représentants au Conseil d’Administration. Le bureau se réunit tous les mois, et le Conseil d'Administration une fois par trimestre.
+Les adhérents assistent à l’Assemblée Générale qui a lieu une fois par an, en juin, et ils votent pour élire leurs représentants au Conseil d’Administration. Le Bureau se réunit tous les mois, et le Conseil d'Administration une fois par trimestre.
 
-L'adhésion soutient les activités de notre association, permet l'emprunt des ouvrages de notre bibliothèque, offre des tarifs avantageux lors de certains événements partenaires, et donne une voix lors des Assemblées Générales.
+En plus, l'adhésion soutient les activités de notre association et permet l'emprunt des ouvrages de notre bibliothèque.
 
 - - -
 
