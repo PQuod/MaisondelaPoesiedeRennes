@@ -14,8 +14,8 @@ categories: rencontre
 date_debut: 2022-06-16
 date_fin: 2022-06-16
 dates_publiees: 16 juin 2022 · 19h
-lieu: Librairie La Nuit des Temps
-partenaires: La Nuit des temps
+lieu: Librairie La Nuit des Temps, 10 quai Emile Zola
+partenaires: La Nuit des Temps
 ---
 Une soirée de lectures et de rencontre avec quatre des poétesses réunies dans l'*Anthologie de la poésie actuelle des femmes au Québec 2000-2020*, dirigée par Vanessa Bell et Catherine Cormier-Larose.
 
