@@ -83,4 +83,4 @@ Toute l'année, nous sommes à la recherche de bénévoles pour nous aider dans 
 
 Par exemple, accompagner la logistique de nos événements artistiques, enrichir le fonds de notre bibliothèque en suggérant des achats, ou encore animer le lieu en participant au projet potager ou à celui d'atelier.
 
-Les façons de s'investir sont multiples, n'hésitez donc pas à nous écrire : [contact@maisondelapoesie-rennes.org](mailto:contact@maisondelapoesie-rennes.org)
+Les façons de s'investir sont multiples, n'hésitez donc pas à nous écrire : contact@maisondelapoesie-rennes.org
