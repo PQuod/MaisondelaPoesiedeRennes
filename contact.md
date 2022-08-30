@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 ## Infos
-47 rue Armand Rébillon, 35000 RENNES  
+47 rue Armand Rébillon 35000 RENNES  
 02 99 51 33 32  
 contact@maisondelapoesie-rennes.org  
 **Ouvert du lundi au vendredi de 9h à 17h**
