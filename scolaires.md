@@ -1,6 +1,6 @@
 ---
 layout: rubrique
-title: Les scolaires
+title: Scolaires
 permalink: /scolaires/
 ---
 
