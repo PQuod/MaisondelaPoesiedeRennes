@@ -9,7 +9,7 @@ artiste:
 categories: scolaires
 date_debut: 2022-03-28T09:10:57.804Z
 date_fin: 2022-04-29T09:10:57.853Z
-dates_publiees: 28 mars → 1er avril et 25 → 29 avril
+dates_publiees: 28 mars → 1er avril et 25 → 29 avril 2022
 lieu: Collèges et lycées de Bretagne
 partenaires: Collège Bourgchevreuil, collège Simone Veil, collège Morvan
   Lebesque, collège Théodore Monod, collège les Ormeaux, collège les Fontaines,
