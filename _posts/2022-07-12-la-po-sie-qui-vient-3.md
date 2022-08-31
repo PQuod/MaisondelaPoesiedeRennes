@@ -9,7 +9,7 @@ artiste:
 categories: rencontre
 date_debut: 2022-03-08T15:20:01.133Z
 date_fin: 2022-03-08T15:20:01.247Z
-dates_publiees: 8 mars • 19h
+dates_publiees: 8 mars 2022 • 19h
 lieu: Bar Le BabaZula
 tarif: Entrée libre et gratuite
 partenaires: Bar Le BabaZula, Université Rennes 2
