@@ -13,8 +13,12 @@ dates_publiees: 17 janvier → 4 février 2022
 lieu: Collège Paul Féval, Dol-de-Bretagne
 partenaires: 3 Hit Combo, collège Paul Féval
 ---
-La Maison de la Poésie de Rennes et [3 Hit Combo](http://www.3hitcombo.fr/) s'associent pour une résidence scolaire inédite qui allie poésie et jeu vidéo. Les deux invitations invitent **Gabriel Gauthier** pour la poésie, et **Maxime Devige** pour le game design.
+La Maison de la Poésie de Rennes et [3 Hit Combo](http://www.3hitcombo.fr/) s'associent pour une résidence scolaire inédite qui allie poésie et jeu vidéo. 
 
-Pendant 3 semaines, les deux artistes s'associent avec une classe de 4ème du collège Paul Féval (Dol-de-Bretagne, 35), sans savoir quel sera l'objet final de leurs explorations.
+Les deux associations invitent le poète et artiste **Gabriel Gauthier** et le musicien et perfomeur **Maxime Devige** pendant 3 semaines au collège Paul Féval (Dol-de-Bretagne, 35). 
 
-Ce projet a pour envie de faire écrire les élèves à partir d'objets qui ne sont pas des livres, comme des cartes Magic, pour ensuite intégrer les textes dans un jeu inédit.
+Les deux artistes s'associent avec une classe de 4ème, sans savoir quel sera l'objet final de leurs explorations littéraires.
+
+Les envies sont multiples : faire écrire les élèves à partir d'objets qui ne sont pas des livres, comme des cartes Magic, les amener à déconstruire l'image de la poésie enseignée au collège, travailler sur un imaginaire personnel avec des références de proximité, etc. Toute cette matière textuelle sera ensuite intégrée dans un jeu inédit.
+
+*Cette résidence est co-financée par le Département d'Ille-et-Vilaine et la DRAC Bretagne EAC.*
