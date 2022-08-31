@@ -6,4 +6,6 @@ name: Maxime Devige
 
 Il est co-fondateur et co-directeur artistique de la [compagnie FRAG](http://www.fragcie.com/) (Fédération Radicale des Artistes du Garage), montée avec Marion Thomas et Anthony Tingaud en 2011. 
 
-La troupe de théâtre publie également, avec Matthieu Devige, des séries de vidéos proposant diverses réflexions sur le jeu vidéo et l’informatique depuis 2015.
+Son travail se situe au carrefour d’influences aussi diverses que la musique dite « savante » qu’il a longuement étudiée, du rock qu’il a longuement pratiqué et du « chiptune » (musique aux sonorités rétro des vieilles consoles de jeu vidéo) qu’il a longuement éprouvé.
+
+Il aime l’odeur des marqueurs, le coca en bouteille de verre et les dinosaures.
