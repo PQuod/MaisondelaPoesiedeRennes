@@ -9,7 +9,7 @@ artiste:
 categories: rencontre
 date_debut: 2022-05-23T13:29:27.392Z
 date_fin: 2022-05-27T13:29:27.437Z
-dates_publiees: 23 → 27 mai 2022
+dates_publiees: 23 → 27 mai 2022 · 10h → 13h
 lieu: CCNRB, 38 rue Saint-Melaine
 tarif: "Gratuit, réservation obligatoire : 02 99 51 33 32"
 partenaires: CCNRB
