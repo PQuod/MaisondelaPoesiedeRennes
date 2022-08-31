@@ -9,8 +9,8 @@ artiste:
 categories: rencontre
 date_debut: 2022-10-14T14:14:58.269Z
 date_fin: 2022-10-14T14:14:58.348Z
-dates_publiees: 14 octobre · 19h
-lieu: Auditorium Maison Internationale de Rennes, 7 quai Chateaubriand
+dates_publiees: 14 octobre 2022 · 19h
+lieu: Lieu à confirmer
 tarif: Entrée libre et gratuite
 partenaires: Dixit Poetic, Ministère de la culture croate
 ---
