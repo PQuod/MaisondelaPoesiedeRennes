@@ -6,7 +6,7 @@ date: 2022-06-28T12:43:27.897Z
 categories: associatif
 date_debut: 2022-07-07
 date_fin: 2022-07-07
-dates_publiees: 7 juillet • 19h
+dates_publiees: 7 juillet 2022 • 19h
 lieu: Maison de la Poésie de Rennes
 ---
 Comme à la fin de chaque saison, l'Assemblée Générale de l'association Maison de la Poésie de Rennes se réunit pour se retrouver, faire le bilan des activités, et élire les membres de son Conseil d'Administration.
