@@ -29,7 +29,7 @@ Jardinier : Sébastien Toron
 ### Conseil d'Administration
 
 Co-Présidentes : Nathalie Brillant Rannou et Anne-Marie Klapka\
-Co-Trésorier.ères : Charlotte Beltzung et Anaël Castelein\  
+Co-Trésorier.ères : Charlotte Beltzung et Anaël Castelein  
 Co-Secrétaires : Candice Labrousse et Marie Audran\
 Monique Ormevil &middot; Pauline Guémas &middot; Stéphanie Vivier &middot; La Balade des Livres
 
