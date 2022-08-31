@@ -1,4 +1,5 @@
 ---
+draft: true
 layout: post
 name: Assemblée Générale
 title: Assemblée Générale
