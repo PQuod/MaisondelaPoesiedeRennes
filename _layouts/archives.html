@@ -2,10 +2,22 @@
 layout: default
 ---
 <div class="evenements">
-  <h1 class="periode-titre">Événements passés</h1>
   <ul class="liste-posts">
+    <div class="sommaire list-sans-deco">
+    </div>
+        <div class="sommaire-content">
   {% assign sorted = site.posts | sort: 'date_debut'| reverse %}
   {% for post in sorted %}
+  {% capture nowyear %}{{ "now" | date: "%Y" }}{% endcapture %}
+  {% assign currentdate = post.date_debut | date: "%Y" %}
+    {% if currentdate <= nowyear %}
+    {% if currentdate != date %}
+    <div class="periode">
+      <h2 id="y{{currentdate}}" class="sommaireh2"><span class="circle"></span> {{ currentdate }} <span class="circle2"></span></h2>
+      {% assign date = currentdate %}
+    </div>
+    {% endif %}
+    {% endif %}
     {% if post.draft != true %}
         {% capture findate %}{{ post.date_fin | date: "%Y-%m-%d"}}{% endcapture %}
         {% capture debutdate %}{{ post.date_debut | date: "%Y-%m-%d"}}{% endcapture %}
@@ -36,8 +48,10 @@ layout: default
       {% endunless %}
     {% endif %}
   {% endfor %}
+  </div>
   </ul>
   <div class="to-top">
     <h4><a href="#top">↑ Retourner en haut ↑</a></h4>
   </div>
 </div>
+{% include scripts/sommaire.html %}

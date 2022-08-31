@@ -118,6 +118,12 @@ button:hover{
     padding-top:calc(var(--line-height)/2);
     margin-bottom:var(--line-height);
   }
+  .sommaireh2{
+    text-align:center;
+    text-transform:uppercase;
+    padding-top:calc(var(--line-height)/2);
+    margin-bottom:var(--line-height);
+  }
 }
 
 
@@ -236,10 +242,6 @@ button:hover{
   content:'';
 }
 
-.journal hr:last-of-type{
-  display:none;
-}
-
 /*PAGES */
 
 article{
@@ -324,6 +326,8 @@ margin-bottom:20px;
 
 .list-sans-deco li{
   list-style: none;
+  text-decoration: underline;
+  margin-bottom:0;
 }
 
 /** Page_residences **/
