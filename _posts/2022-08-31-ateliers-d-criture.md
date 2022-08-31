@@ -16,11 +16,11 @@ tarif: "Gratuit, réservations : 02 99 51 33 32"
 **Fonctionnement**
 
 10 places par atelier\
-Pour s'inscrire\
-**Mail :** contact@maisondelapoesie-rennes.org\
-**Téléphone :** 02 99 51 33 32
+**Pour s'inscrire**\
+Mail : contact@maisondelapoesie-rennes.org\
+Téléphone : 02 99 51 33 32
 
-Pendant [La poésie qui vient](https://maisondelapoesierennes.netlify.app/rencontre/2022/07/12/la-po-sie-qui-vient-3.html), **Mia Brion** et **Justin Delareux** proposent chacun.e un atelier d'écriture de 2 heures.
+Pendant [*La poésie qui vient*](https://maisondelapoesierennes.netlify.app/rencontre/2022/07/12/la-po-sie-qui-vient-3.html), **Mia Brion** et **Justin Delareux** proposent chacun.e un atelier d'écriture de 2 heures.
 
 Ces ateliers d'écriture sont ouverts à toutes et à tous, peu importe le niveau ou les habitudes d'écriture.
 
