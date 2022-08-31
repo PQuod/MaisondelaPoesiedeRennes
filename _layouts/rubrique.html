@@ -18,7 +18,9 @@ layout: default
     <div class="sommaire">
     </div>
     <div class="post_descript">
+      <div class="sommaire-content">
       {{ page.content | markdownify }}
+      </div>
     </div>
 {% if page.title == "Résidences" %}
   {% include scripts/residence_list.html %}

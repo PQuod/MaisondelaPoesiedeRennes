@@ -10,11 +10,7 @@
   </ul>
 </nav>
 <div class="encart color_autres mobile-display-none">
-  <form method="post" action="">
-    <label for="news">Newsletter</label><br>
-    <input type="text" name="news" placeholder="Email"/>
-    <button>S'inscrire</button>
-  </form>
+  {% include scripts/mailchimp.html %}
 </div>
 <div class="encart color_asso mobile-display-none">
   <label>Réseaux</label><br>

@@ -82,14 +82,15 @@ label{
   font-size:20px;
 }
 
-input{
+.email{
   border:none;
   border-bottom:1px solid black;
   background:none;
   width:100%;
+  margin-bottom:calc(var(--line-height)/2);
 }
 
-button{
+.button{
   border:1px solid black;
   background:none;
   padding:5px;
@@ -151,6 +152,12 @@ button:hover{
   li > *{
   margin-top:5px;
   margin-bottom:5px;
+  }
+}
+
+.liste-posts-res{
+  h2{
+    margin-top:var(--line-height);
   }
 }
 
@@ -313,6 +320,10 @@ margin-bottom:20px;
   li:last-of-type{
       margin-bottom:0px;
   }
+}
+
+.list-sans-deco li{
+  list-style: none;
 }
 
 /** Page_residences **/
