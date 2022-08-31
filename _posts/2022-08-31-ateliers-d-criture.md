@@ -13,8 +13,9 @@ dates_publiees: 9 mars
 lieu: Maison de la Poésie de Rennes
 tarif: "Gratuit, réservations : 02 99 51 33 32"
 ---
-10 places par atelier
+**Fonctionnement**
 
+10 places par atelier\
 Pour s'inscrire\
 **Mail :** contact@maisondelapoesie-rennes.org\
 **Téléphone :** 02 99 51 33 32
@@ -27,7 +28,7 @@ Vous pouvez participer à un atelier, ou au deux. Il faut dans ce cas préciser 
 
 - - -
 
-Atelier de Justin Delareux - COMPLET\
+**Atelier de Justin Delareux - COMPLET**\
 17h → 19h
 
 Je souhaiterais proposer un atelier d'écriture libre, sans contrainte thématique précise, mais avec quelques suggestions.
@@ -49,7 +50,7 @@ Concernant la forme, je propose deux choses auxquelles nous pourrions rester att
 
 - - -
 
-Atelier de **Mia Brion** - COMPLET\
+**Atelier de Mia Brion - COMPLET**\
 *une chanson contre soi*\
 20h → 22h
 
