@@ -9,7 +9,7 @@ artiste:
 categories: rencontre
 date_debut: 2022-03-09T14:15:57.521Z
 date_fin: 2022-03-09T14:15:57.595Z
-dates_publiees: 9 mars
+dates_publiees: 9 mars 2022
 lieu: Maison de la Poésie de Rennes
 tarif: "Gratuit, réservations : 02 99 51 33 32"
 ---
