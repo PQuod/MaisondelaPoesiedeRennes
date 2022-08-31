@@ -2,7 +2,7 @@
 layout: post
 name: Gabriel Gauthier
 ---
-**Gabriel Gauthier** est un poète et artiste diplômé des Beaux-arts de Paris. Il a publié *Simurgh & Simorgh* (Théâtre Typographique, 2016) et *Speed* (Vies Parallèles, 2020). 
+**Gabriel Gauthier** est un poète et artiste diplômé des Beaux-Arts de Paris. Il a publié *Simurgh & Simorgh* (Théâtre Typographique, 2016) et *Speed* (Vies Parallèles, 2020). 
 
 Il fait des performances avec Elsa Michaud (*Cover, Rien que pour vos yeux*), de la musique avec Orly sous le nom de Nevers, et des livres avec des personnages.
 
