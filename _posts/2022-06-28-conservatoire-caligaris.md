@@ -9,7 +9,7 @@ artiste:
 categories: rencontre
 date_debut: 2022-06-02
 date_fin: 2022-06-02
-dates_publiees: 02 juin 2022 · 11h
+dates_publiees: 2 juin 2022 · 11h
 lieu: Conservatoire de Rennes, site du Blosne
 partenaires: Conservatoire de Rennes, section théâtre
 ---
