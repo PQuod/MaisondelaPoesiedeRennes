@@ -82,6 +82,8 @@ Cette résidence est dédiée à 100 % à la création, mais des moments de renc
 
 ---
 
+## Liste des résident.es
+
 <div id="list_res"></div>
 
 - - -
