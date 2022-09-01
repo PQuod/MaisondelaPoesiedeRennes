@@ -66,13 +66,19 @@ Lors de cette résidence, tout peut être sujet à écriture ou enregistrement :
 
 *Avec la langue* imagine qu’il est possible de faire un portrait personnel du Frac Bretagne à partir de cette expérience immersive.
 
-Les résident.es qui participent à ce format sont sélectionné.es en concertation par les équipes de la Maison de la Poésie et du Frac Bretagne.
+*Les résident.es qui participent à ce format sont sélectionné.es en concertation par les équipes de la Maison de la Poésie et du Frac Bretagne.*
 
 ---
 
 ## Résidence émergence
 
-Les résident.es qui participent à ce format sont sélectionné.es en interne par la Maison de la Poésie.
+Les résidences émergence s'adressent aux artistes-auteurs entre 20 et 35 ans qui vivent sur le territoire rennais, et qui n'ont pas encore eu l'opportunité de publier un premier livre à compte d'éditeur.
+
+Cette résidence leur permet d'aboutir un premier manuscrit de poésie ou prose poétique, et de profiter de l'expertise de l'équipe salariée de la Maison de la Poésie et des partenaires culturels pour consolider leur projet littéraire.
+
+Cette résidence est dédiée à 100 % à la création, mais des moments de rencontre publics peuvent être envisagés si l'artiste-auteur en fait la demande.
+
+*Les résident.es qui participent à ce format sont sélectionné.es en interne par la Maison de la Poésie.*
 
 ---
 
