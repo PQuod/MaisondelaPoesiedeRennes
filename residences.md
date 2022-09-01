@@ -43,10 +43,10 @@ Les candidat.es sélectionné.es sont contacté.es par email.
 
 **Calendrier**
 
-Dépôt des dossiers : jusqu'au 31 août 2022\
-Commission de sélection : septembre 2022\
-Annonce des sélectionné.es : 31 septembre 2022\
-Accueil des premières résidences : octobre 2023
+Dépôt des dossiers : jusqu'au 31 août 2023\
+Commission de sélection : septembre 2023\
+Annonce des sélectionné.es : 31 septembre 2023\
+Accueil des premières résidences : octobre 2024
 
 **Procédures de candidature**
 
@@ -54,7 +54,7 @@ Le formulaire est à remplir et à renvoyer par email ou par courrier. Tout doss
 
 ## Postuler
 
-[Postuler pour une des deux résidences de création de la saison 2023 (octobre-décembre) - 2024 (avril-juin).](https://maisondelapoesierennes.netlify.app/appel/2022/05/02/appels-residences-23-24.html)
+*Les candidatures ne sont pas encore ouvertes.*
 
 - - -
 
