@@ -17,4 +17,4 @@ Après deux années de collaboration hors les murs, la Maison de la Poésie et l
 
 Le groupe travaillera du 28 février au 3 mars avec **A.C. Hello** à l’écriture et à la mise en voix de textes, à partir d’un corpus établi ensemble, ou de textes originaux. Le but étant d’aborder la mise en voix scénique avec les outils du poète, et non du metteur en scène.
 
-La restitution du workshop aura lieu en public au Conservatoire de Rennes, le jeudi 3 mars à 20h.
+La restitution du workshop aura lieu en public au Conservatoire de Rennes, **le jeudi 3 mars à 20h**.
