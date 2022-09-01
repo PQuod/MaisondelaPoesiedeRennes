@@ -9,7 +9,7 @@ permalink: /residences/
 
 Chaque saison, à l'automne et au printemps, la Maison de la Poésie accueille deux résidences de création.
 
-Elles sont réservées à des projets d'écriture de poésie ou de prose poétique, pour des artistes-auteurs francophones ayant publié au moins un livre à compte d'éditeur. 
+Elles sont **réservées à des projets d'écriture de poésie ou de prose poétique**, pour des artistes-auteurs francophones ayant publié au moins un livre à compte d'éditeur. 
 
 Elles ont deux enjeux principaux :
 
@@ -20,11 +20,11 @@ Elles ont deux enjeux principaux :
 
 Les résidences sont accueillies au premier étage de la villa Beauséjour, au 47 rue Armand Rébillon, dans un appartement de 40m2 avec un coin chambre, un coin salon, une kitchenette et une salle de bain.
 
-La villa Beauséjour comprend également une bibliothèque de plus de 3000 ouvrages de poésie contemporaine et d'un atelier de micro-édition. 
+Le rez-de-chaussée de la villa Beauséjour comprend également une bibliothèque de plus de 3000 ouvrages de poésie contemporaine et un atelier de micro-édition. 
 
 **Durée du séjour**
 
-Deux mois sans interruption, entre octobre et décembre ou avril et juin.
+2 mois sans interruption, entre octobre et décembre ou avril et juin.
 
 **Conditions d'accueil**
 
