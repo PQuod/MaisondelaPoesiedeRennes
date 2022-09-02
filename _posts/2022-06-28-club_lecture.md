@@ -71,7 +71,9 @@ Vous trouverez ci-dessous tous les livres conseillés ces dernières années par
 
 ## 2021
 
-*Le Club du 15 décembre 2021 est annulé pour organiser le Conseil d'Administration.*
+**Club du 15 décembre 2021**
+
+*Annulé pour organisé le Conseil d'Administration.*
 
 **Club du 17 novembre 2021**  
 
@@ -81,3 +83,32 @@ Vous trouverez ci-dessous tous les livres conseillés ces dernières années par
 - *Cracheur de feu*, Tony Harrison (trad. C. Marschall), éditions Arfuyen
 - *Le Testament de la fille morte*, Colette Thomas, éditions Prairial
 - *Est-ce qu'il se passe quelque chose ?*, Antoine Hummel, éditions Eric Pesty
+
+**Club du 15 septembre 2021**
+- *Red Flag*, Coraline Aim, Ed. Le Mot et le Reste
+- *Canoës*, Maylis de Kerangal, Ed. Verticales
+- *Le voile noir*, Anny Duperey, Ed. du Seuil
+- *Un étrange pays*, Muriel Barbery, Ed. Gallimard
+- *La vie sexuelle de l'Art*, Eileen R. Tabios (trad. S. Rochery), Ed. série discrète
+
+*Les Club de lecture de novembre 2020 à juin 2021 n'ont pas pu avoir lieu à cause de la fermeture de la villa Beauséjour suite à l'épidémie de COVID-19.*
+
+**Club du 21 octobre 2020**
+- *Aller avec la chance*, Iliana Holguin Teodorescu, Ed. Verticales
+- *Journal de déportation*, Yannis Ritsos (trad. P. Neveu), Ed. Ypsilon
+- *L'île du Point Némo*, Jean-Marie Blas de Roblès, Ed. Zulma
+- *Le livre d'Emma*, Marie-Cécile Agnant, Ed. Vents d'ailleurs
+- *Orlando : une biographie*, Virginia Woolf (trad. C. Mauron), Ed. Le Bruit du Temps
+
+**Club du 16 septembre 2020**
+*Mogens*, Jens Peter Jacobsen, Ed. Petite bibliothèque Ombres
+*Écrits d'amour*, Claude Bourgeyx, Script éditions
+*Avant que j'oublie*, Anne Pauly, Ed. Verdier
+*Nos cabanes*, Marielle Macé, Ed. Verdier
+*L'ami*, Sigrid Nunez, Ed. Stock (trad. M. Bach)
+*Americanah*, Chinamanda Ngozi Adichie (trad. A. Damour), Ed. Folio
+*Sonnets*, Pier Paolo Pasolini (trad. R. de Ceccaty), Ed. Poésie/Gallimard
+*Nicolas Nickleby*, Charles Dickens (trad. J. Douady), Ed. Gallimard
+*L'Angle de lacet*, Ben Lerner (trad. V. Poitrasson), Ed. Joca Séria
+
+ 
