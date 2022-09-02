@@ -11,7 +11,8 @@ date_fin: 2022-09-21
 dates_publiees: 21 septembre 2022 · 20h → 21h30
 lieu: Maison de la Poésie de Rennes
 ---
-Le fonctionnement du Club de lecture :
+## Fonctionnement
+
 1. Venir avec un livre lu récemment dont on a envie de parler.
 2. Faire tenir sa présentation en 10 minutes environ.
 3. Respecter le temps de parole des autres personnes qui participent.
