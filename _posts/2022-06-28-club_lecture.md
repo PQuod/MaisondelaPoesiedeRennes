@@ -73,7 +73,7 @@ Vous trouverez ci-dessous tous les livres conseillés ces dernières années par
 
 **Club du 15 décembre 2021**
 
-*Annulé pour organisé le Conseil d'Administration.*
+*Annulé pour organiser le Conseil d'Administration.*
 
 **Club du 17 novembre 2021**  
 
