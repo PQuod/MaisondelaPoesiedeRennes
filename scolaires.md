@@ -10,7 +10,7 @@ Ecrivez à Lucie Desaubliaux, notre médiatrice scolaire : lucie.desaubliaux@mai
 
 - - -
 
-## Artistes en Résidence à la Maison de la Poésie
+## Résidence à la Maison de la Poésie
 
 **Tous niveaux**
 
@@ -24,7 +24,7 @@ Du 11 avril au 05 mai 2022, **[Marie de Quatrebarbes](/residence/2022/05/02/resi
 
 - - -
 
-## Artistes en Résidence sur les territoires
+## Résidence sur les territoires
 
 **Tous niveaux**
 
