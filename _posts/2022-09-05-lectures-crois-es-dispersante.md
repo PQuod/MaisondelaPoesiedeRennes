@@ -3,7 +3,7 @@ draft: false
 layout: post
 type: event
 title: "Lectures croisées : Dispersante"
-date: 2022-09-05T12:52:44.353Z
+date: 2021-12-08T13:52:44.353Z
 artiste:
   - Julie Sas
   - Théo Robine-Langois
