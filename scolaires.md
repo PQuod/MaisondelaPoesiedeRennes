@@ -1,6 +1,7 @@
 ---
 layout: rubrique
 title: Scolaires
+ref: scolaires
 permalink: /scolaires/
 ---
 

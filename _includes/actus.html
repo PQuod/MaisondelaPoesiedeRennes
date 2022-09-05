@@ -2,18 +2,23 @@
     <h2 class="color_res">Résidences</h2>
     <!-- Sélection des posts de résidence (scolaire ou non)-->
     {% assign sorted2 = site.posts | sort: 'date_debut' %}
+    <div class="encart_res">
     {% for post in sorted2 %}
       {% if post.categories contains "residence" or post.categories contains "residence_scolaire" %}
         {% include scripts/dates.html %}
         {% if debutdate <= nowdate and findate >= nowdate %}
-        <div class="encart_res">
-          <h3 class="encart_titre">En cours</h3>
+          <h3 class="encart_titre prems">En cours</h3>
           <a href="{{ post.url }}">
-            <h4 class="encart_artiste">{{ post.artiste }}</h4>
+              <h4>{{ post.artiste }}</h4>
           </a>
           <div class="event_dates">{{ post.title }}<br>{{ post.dates_publiees }}</div>
-        </div>
         {% endif %}
+      {% endif %}
+    {% endfor %}
+  </div>
+  {% for post in sorted2 %}
+    {% if post.categories contains "residence" or post.categories contains "residence_scolaire" %}
+        {% include scripts/dates.html %}
         {% if debutdate >= nowdate %}
         <h3 class="encart_titre prems">À venir</h3>
         <a href="{{ post.url }}">
