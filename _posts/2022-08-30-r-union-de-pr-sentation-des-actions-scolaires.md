@@ -10,4 +10,4 @@ date_fin: 2022-09-21T14:50:37.588Z
 dates_publiees: 21 septembre 2022 · 14h
 lieu: Maison de la Poésie de Rennes
 ---
-Nous invitons les enseignants de tous les niveaux qui seraient intéressés pour accueillir de la poésie dans leur classe à venir découvrir nos actions scolaires pour l'année scolaire 2022-2023. Ateliers, rencontres, résidences seront présentés.
+Nous invitons les enseignants de tous les niveaux, qui seraient intéressés pour accueillir de la poésie dans leur classe, à venir découvrir nos actions scolaires pour l'année scolaire 2022-2023. Ateliers, rencontres, résidences seront présentés.
