@@ -3,7 +3,7 @@ draft: false
 layout: post
 type: event
 title: Résidence de printemps
-date: 2023-04-10T07:52:27.270Z
+date: 2022-12-01T08:52:27.270Z
 artiste:
   - sabrina soyer
 categories: residence
