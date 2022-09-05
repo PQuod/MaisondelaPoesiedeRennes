@@ -8,6 +8,3 @@ Derniers ouvrages parus : *quelque chose calme lutte* (avec Frédéric Dumond et
 
 Au carrefour de la culture dite savante et de la pop culture, sa poésie questionne les usages courants de la langue (du mode d’emploi à la fiction en passant par le langage théorique) afin de nous inviter à envisager la réalité dont elle témoigne sous un jour nouveau. 
 
-Elle fait régulièrement l’objet de publications en recueils ainsi qu’en revues et en ligne. Il n’est pas rare qu’il en propose des lectures performées. 
-
-Il est aussi l’auteur d’une thèse de doctorat en philosophie, d’écrits portant notamment sur la littérature et l’art contemporain ainsi que de textes relevant du champ de la poésie.
