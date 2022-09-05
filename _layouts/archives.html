@@ -23,7 +23,7 @@ layout: default
         {% capture debutdate %}{{ post.date_debut | date: "%Y-%m-%d"}}{% endcapture %}
         {% capture nowdate %}{{ "now" | date: "%Y-%m-%d" }}{% endcapture %}
       <!-- Affiche tous les posts antérieurs à la date actuelle sauf les podcasts -->
-      {% unless post.categories contains "podcast" %}
+      {% unless post.categories contains "podcast" or post.type contains "breve" %}
         {% if findate <= nowdate and debutdate <= nowdate %}
           <li>
             <div class="event_dates">

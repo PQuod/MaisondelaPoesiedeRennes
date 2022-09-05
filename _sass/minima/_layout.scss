@@ -165,6 +165,9 @@ button:hover{
   h2{
     margin-top:var(--line-height);
   }
+  span:last-of-type{
+    display:none;
+  }
 }
 
 .event_dates{

@@ -51,7 +51,7 @@ layout: default
           <h2 id="y{{currentdate}}">{{ currentdate }}</h2>
           {% assign date = currentdate %}
         {% endif %}
-        <li><a href="{{ post.url }}">{{ post.artiste }} &middot; {{ post.title }}</a></li>
+        <li><a href="{{ post.url }}">{% for artiste in post.artiste %}{% for item in artiste %}{{ item }}<span>,</span> {% endfor %}{% endfor %} &middot; {{ post.title }}</a></li>
       {% endif %}
       {% endfor %}
       </ul>

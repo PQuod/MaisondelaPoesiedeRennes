@@ -17,9 +17,13 @@ layout: default
               {% if findate >= nowdate or debutdate >= nowdate %}
               <li>
                 <div class="event_dates">{{post.dates_publiees}}</div>
-                <a href="{{ post.url }}">
+                {% if post.type contains 'breve' %}
                   {% if post.categories contains "rencontre" %}<h3 class="color_renc">{% elsif post.categories contains "associatif" %}<h3 class="color_asso">{% elsif post.categories contains "scolaires" %}<h3 class="color_scol">{% else %}<h3 class="color_autres">{% endif %}{{ post.title }}</h3>
-                </a>
+                {% else %}
+                  <a href="{{ post.url }}">
+                    {% if post.categories contains "rencontre" %}<h3 class="color_renc">{% elsif post.categories contains "associatif" %}<h3 class="color_asso">{% elsif post.categories contains "scolaires" %}<h3 class="color_scol">{% else %}<h3 class="color_autres">{% endif %}{{ post.title }}</h3>
+                  </a>
+                {% endif %}
                 {% for artiste in post.artiste %}
                   {% for item in artiste %}
                     <h4 class="event_artistes">{{ item }}</h4>
@@ -27,6 +31,7 @@ layout: default
                 {% endfor %}
                 <p class="">{% if post.tarif %}{{post.tarif}}{% endif %}</p>
                 <p>{% if post.lieu %}{{post.lieu}}{% endif %}</p>
+                <p>{% if post.type contains 'breve' %}{{ post.content }}{% endif %}</p>
               </li>
               {% endif %}
             {% endif %}
@@ -42,9 +47,9 @@ layout: default
         {% assign sorted = site.posts | sort: 'date_debut'| reverse %}
         {% for post in sorted %}
           {% if post.draft != true %}
-                      {% unless post.categories contains "podcast" %}
+              {% unless post.categories contains "podcast" %}
               {% include scripts/dates.html %}
-                          {% if findate <= nowdate and debutdate <= nowdate %}
+                {% if findate <= nowdate and debutdate <= nowdate %}
                 <li>
                   {% assign count = count | plus:1 %}
                   {% assign nb_posts = site.data.settings.nb_posts_home %}
