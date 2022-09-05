@@ -15,8 +15,12 @@ collections:
     create: true # Allow users to create new documents in this collection
     sortable_fields: ['date_debut', 'title', 'categories']
     view_groups:
-          - label: Year
+          - label: Année
             field: date
+            # groups items based on the value matched by the pattern
+            pattern: \d{4}
+          - label: Catégorie
+            field: categories
             # groups items based on the value matched by the pattern
             pattern: \d{4}
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
