@@ -1,6 +1,7 @@
 ---
 draft: false
 layout: post
+type: breve
 title: Réunion de présentation des actions scolaires
 date: 2022-08-30T14:51:04.967Z
 categories: scolaires
