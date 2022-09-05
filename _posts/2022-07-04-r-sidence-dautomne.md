@@ -3,7 +3,7 @@ draft: false
 layout: post
 type: event
 title: Résidence d'automne
-date: 2022-07-04T14:41:18.008Z
+date: 2021-10-18T14:41:18.008Z
 artiste:
   - Julie Sas
 categories: residence
