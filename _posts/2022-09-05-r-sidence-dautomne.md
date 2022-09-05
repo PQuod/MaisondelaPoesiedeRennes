@@ -3,7 +3,7 @@ draft: false
 layout: post
 type: event
 title: Résidence d'automne
-date: 2022-09-05T12:45:45.376Z
+date: 2019-10-01T12:45:45.376Z
 artiste:
   - Laura Vazquez
 categories: residence
