@@ -1,8 +1,9 @@
 ---
 draft: false
 layout: post
+type: event
 title: Résidence d'automne
-date: 2022-08-31T12:29:49.066Z
+date: 2020-10-19T12:29:49.066Z
 artiste:
   - Samuel Rochery
 categories: residence
