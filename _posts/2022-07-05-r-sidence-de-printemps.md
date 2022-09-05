@@ -1,8 +1,9 @@
 ---
 draft: false
 layout: post
+type: event
 title: Résidence de printemps
-date: 2022-07-05T08:48:33.730Z
+date: 2021-04-01T08:48:33.730Z
 artiste:
   - Lou Sarabadzic
 categories: residence
