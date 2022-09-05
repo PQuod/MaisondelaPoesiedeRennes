@@ -4,7 +4,6 @@ title: Scolaires
 ref: scolaires
 permalink: /scolaires/
 ---
-
 Vous souhaitez construire un projet scolaire ou assister à une lecture ? Toute l'année, vous pouvez nous solliciter pour les projets de classe à PAC, des projets Karta ou autres. Nous mettons à votre disposition tous les outils nécessaires pour vous préparer : dossiers pédagogiques, extraits vidéos et textes, etc.
 
 Ecrivez à Lucie Desaubliaux, notre médiatrice scolaire : lucie.desaubliaux@maisondelapoesie-rennes.org
@@ -40,6 +39,22 @@ Après un report d'un an, **Juliette Mézenc** est venue résider 9 semaines en 
 
 *Du 29 novembre au 10 décembre 2021*
 **Camille Bondon** a passé une semaine au sein de l'école Michel Serrault de Six-sur-Aff. Tous les élèves de l'école, de la grande section au CM2, ont réalisé un programme utopique pour leur ville du futur et une campagne d'affichage de 60 affiches colorées placardées sur tous les murs de la ville.
+
+---
+
+## Prix des Découvreurs
+
+**3ème et lycées**
+
+A COMPLETER
+
+---
+
+## Poètes en classe
+
+**Primaires**
+
+A COMPLETER
 
 ---
 
