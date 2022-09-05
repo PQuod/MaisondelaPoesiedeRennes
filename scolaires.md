@@ -8,7 +8,7 @@ Vous souhaitez construire un projet scolaire ou assister à une lecture ? Toute 
 
 Ecrivez à Lucie Desaubliaux, notre médiatrice scolaire : lucie.desaubliaux@maisondelapoesie-rennes.org
 
----
+- - -
 
 ## Artistes en Résidence à la Maison de la Poésie
 
@@ -16,15 +16,13 @@ Ecrivez à Lucie Desaubliaux, notre médiatrice scolaire : lucie.desaubliaux@mai
 
 ### Résidence d'automne
 
-*Du 18 octobre au 12 décembre 2021*
-**Julie Sas** a animé une série d'ateliers d'écriture, suivis d'une restitution papier, avec des étudiants de Licence 3 Arts de l'UBO de Brest (29).
+Du 18 octobre au 12 décembre 2021, **[Julie Sas](https://maisondelapoesierennes.netlify.app/residence/2022/07/04/r-sidence-dautomne.html)** a animé une série d'ateliers d'écriture, suivis d'une restitution papier, avec des étudiants de Licence 3 Arts de l'UBO de Brest (29).
 
 ### Résidence de printemps
 
-*Du 11 avril au 05 mai 2022*
-**[Marie de Quatrebarbes](/residence/2022/05/02/residences-marie-dequatrebarbes.html)** a tenu 6 ateliers d'écriture auprès des élèves des collèges Les Ormeaux et Sainte-Joséphine-Bakhita (Rennes, 35).
+Du 11 avril au 05 mai 2022, **[Marie de Quatrebarbes](/residence/2022/05/02/residences-marie-dequatrebarbes.html)** a tenu 6 ateliers d'écriture auprès des élèves des collèges Les Ormeaux et Sainte-Joséphine-Bakhita (Rennes, 35).
 
----
+- - -
 
 ## Artistes en Résidence sur les territoires
 
@@ -37,10 +35,9 @@ Après un report d'un an, **Juliette Mézenc** est venue résider 9 semaines en 
 
 ### Camille Bondon
 
-*Du 29 novembre au 10 décembre 2021*
-**Camille Bondon** a passé une semaine au sein de l'école Michel Serrault de Six-sur-Aff. Tous les élèves de l'école, de la grande section au CM2, ont réalisé un programme utopique pour leur ville du futur et une campagne d'affichage de 60 affiches colorées placardées sur tous les murs de la ville.
+Du 29 novembre au 10 décembre 2021**, [Camille Bondon](https://maisondelapoesierennes.netlify.app/residence_scolaire/2022/07/04/r-sidence-sixt-sur-aff-2046.html)** a passé une semaine au sein de l'école Michel Serrault de Six-sur-Aff. Tous les élèves de l'école, de la grande section au CM2, ont réalisé un programme utopique pour leur ville du futur et une campagne d'affichage de 60 affiches colorées placardées sur tous les murs de la ville.
 
----
+- - -
 
 ## Prix des Découvreurs
 
@@ -48,7 +45,7 @@ Après un report d'un an, **Juliette Mézenc** est venue résider 9 semaines en 
 
 A COMPLETER
 
----
+- - -
 
 ## Poètes en classe
 
@@ -56,7 +53,7 @@ A COMPLETER
 
 A COMPLETER
 
----
+- - -
 
 ## Autres formats de rencontres
 
