@@ -22,7 +22,10 @@ collections:
     view_filters:
       - label: 'Résidences'
         field: categories
-        pattern: residence
+        pattern: 'residence | residence_scolaire'
+      - label: 'Rencontres'
+        field: categories
+        pattern: rencontre
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Invisible", name: "draft", widget: "boolean", required: false, default: true}
