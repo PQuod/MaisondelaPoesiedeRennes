@@ -26,6 +26,21 @@ collections:
       - label: 'Rencontres'
         field: categories
         pattern: rencontre
+      - label: 'Scolaires'
+        field: categories
+        pattern: scolaires
+      - label: 'Podcasts'
+        field: categories
+        pattern: podcasts
+      - label: "Associatif"
+        field: categories
+        pattern: associatif
+      - label: "Appels à candidature"
+        field: categories
+        pattern: appel
+      - label: "Divers"
+        field: categories
+        pattern: divers
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Invisible", name: "draft", widget: "boolean", required: false, default: true}
