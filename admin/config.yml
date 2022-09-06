@@ -22,7 +22,10 @@ collections:
     view_filters:
       - label: 'Résidences'
         field: categories
-        pattern: 'residence | residence_scolaire'
+        pattern: 'residence'
+      - label: 'Résidences scolaires'
+        field: categories
+        pattern: 'residence_scolaire'
       - label: 'Rencontres'
         field: categories
         pattern: rencontre
