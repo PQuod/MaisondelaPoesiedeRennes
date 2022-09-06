@@ -13,6 +13,7 @@ collections:
     label: "Evenements" # Used in the UI
     folder: "_posts" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
+    summary: "{{title}} - {{year}}"
     sortable_fields: ['date_debut', 'title', 'categories']
     view_groups:
           - label: Année
