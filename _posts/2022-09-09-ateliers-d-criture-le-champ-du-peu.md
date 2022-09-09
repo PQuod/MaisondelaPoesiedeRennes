@@ -27,4 +27,4 @@ Etudiant : entre 58 et 74 €, selon quotient familial.\
 Pas de remboursement.
 
 **Pour s'inscrire**\
-Retourner le **bulletin d'inscription** (PDF) rempli, ainsi que le **chèque** avec le montant correspondant avant le premier atelier.
+Retourner, par courrier ou en main propre, le **bulletin d'inscription** (PDF) rempli, ainsi que le **chèque** avec le montant correspondant à votre quotient familial.
