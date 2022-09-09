@@ -9,17 +9,17 @@ artiste:
 categories: rencontre
 date_debut: 2022-09-09T08:09:09.202Z
 date_fin: 2022-09-09T08:09:09.286Z
-dates_publiees: A partir du X octobre · 19h → 21h
+dates_publiees: A partir du 11 octobre · 19h → 21h
 lieu: Maison de la Poésie de Rennes
 tarif: Payant, inscription obligatoire
 ---
-Cet atelier d’écriture (5 séances de 2 heures) vous invite à explorer joyeusement votre propre langue, vos mots, votre voix et votre style. Les jeux d’écriture individuels ou collectifs s’appuieront sur des poèmes, des extraits de roman, des images, ou extraits sonores. 
+Cet atelier d’écriture (5 séances de 2 heures) vous invite à explorer joyeusement votre propre langue, vos mots, votre voix et votre style. Les jeux d’écriture individuels ou collectifs s’appuieront sur des poèmes, des extraits de romans, des images, ou extraits sonores. 
 
 **Cécile Cayrel** vous invitera à explorer les interstices, le rien, le très commun pour en tirer des textes. L’atelier sera pensé comme un espace propice à la création et au partage. Aucun prérequis n’est attendu.
 
 **Dates**\
 Un mardi par mois, de 19h à 21h.\
-Les dates retenues : X octobre, X novembre, X décembre, X janvier et X février.
+Les dates retenues : 11 octobre, 8 novembre, 13 décembre, 10 janvier et 7 février.
 
 **Tarifs pour les 5 ateliers**\
 Plein : entre 68 et 86 €, selon quotient familial.\
