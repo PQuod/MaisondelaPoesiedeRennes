@@ -21,8 +21,9 @@ Cet atelier d’écriture (5 séances de 2 heures) vous invite à explorer joyeu
 Un mardi par mois, de 19h à 21h.\
 Les dates retenues : X octobre, X novembre, X décembre, X janvier et X février.
 
-**Tarif**\
-entre X et X €, selon quotient familial\
+**Tarifs pour les 5 ateliers**\
+Plein : entre 68 et 86 €, selon quotient familial.\
+Etudiant : entre 58 et 74 €, selon quotient familial.\
 Pas de remboursement.
 
 **Pour s'inscrire**\
