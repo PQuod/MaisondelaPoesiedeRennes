@@ -1,7 +1,7 @@
 ---
 layout: rubrique
-title: Résidences
-ref: residences
+title: "Résidences"
+ref: "residences"
 permalink: /residences/
 ---
 ## Résidence de création

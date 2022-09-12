@@ -1,7 +1,7 @@
 ---
 layout: rubrique
-title: Scolaires
-ref: scolaires
+title: "Scolaires"
+ref: "scolaires"
 permalink: /scolaires/
 ---
 Vous souhaitez construire un projet scolaire ou assister à une lecture ? Toute l'année, vous pouvez nous solliciter pour les projets de classe à PAC, des projets Karta ou autres. Nous mettons à votre disposition tous les outils nécessaires pour vous préparer : dossiers pédagogiques, extraits vidéos et textes, etc.

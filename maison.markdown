@@ -1,7 +1,7 @@
 ---
 layout: rubrique
-title: Maison
-ref: maison
+title: "Maison"
+ref: "maison"
 permalink: /maison/
 ---
 ## Le projet

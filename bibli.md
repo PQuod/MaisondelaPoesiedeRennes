@@ -1,7 +1,7 @@
 ---
 layout: rubrique
-title: Bibliothèque
-ref: bibliothèque
+title: "Bibliothèque"
+ref: "bibliothèque"
 permalink: /bibli/
 
 ---

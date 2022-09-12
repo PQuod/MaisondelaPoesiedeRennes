@@ -1,6 +1,6 @@
 ---
 permalink: /mentions/
-title: mentions
+title: "mentions"
 layout: rubrique
 ---
 Ce site internet est le site officiel de la Maison de la Poésie de Rennes. Pour toute information liée au fonctionnement ou à l'utilisation du site internet, vous pouvez nous contacter.
@@ -25,4 +25,4 @@ Son siège social est situé au 47 rue Armand Rébillon 35000 RENNES, France.
 
 **Photographies**
 
-Sauf mentions contraires, toutes les photos visibles sur ce site internet sont la propriété de la Maison de la Poésie de Rennes. 
+Sauf mentions contraires, toutes les photos visibles sur ce site internet sont la propriété de la Maison de la Poésie de Rennes.

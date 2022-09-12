@@ -1,6 +1,6 @@
 ---
 layout: rubrique
-title: Contact
+title: "Contact"
 permalink: /contact/
 ---
 ## Infos
@@ -24,7 +24,7 @@ lucie.desaubliaux@maisondelapoesie-rennes.org
 # Services de presse
 Nous acceptons les services de presse des livres de poésie et de prose contemporaine.
 
-## Accès 
+## Accès
 
 **Bus**\
 Ligne 12, arrêt Auberge de jeunesse  
