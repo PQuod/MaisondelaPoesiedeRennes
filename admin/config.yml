@@ -50,7 +50,7 @@ collections:
       - {label: "Invisible", name: "draft", widget: "boolean", required: false, default: true}
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Type de post", name: "type", widget: "select", options: [{label: 'brève', value: 'breve'}, {label: 'événement', value: 'event'}]}
-      - {label: "Titre fichier", name: "title", widget: "string", hint: "Ecrire ici le nom du post sans accent ou ponctuation"}
+      - {label: "Titre fichier", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "datetime", date_format: "DD/MM/YYYY"}
       - {label: "Artiste(s)", name: "artiste", widget: "relation", required: false,
         collection: "artistes",
