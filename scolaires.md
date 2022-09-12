@@ -18,13 +18,13 @@ Ecrivez à Lucie Desaubliaux, notre médiatrice scolaire : lucie.desaubliaux@mai
 
 17 octobre → 11 décembre 2022
 
-**[Luc Bénazet](/residence/2022/07/06/r-sidence-dautomne.html)** animera une session de 5 ateliers en collège.
+**[Luc Bénazet](/residence/2022/07/06/r-sidence-dautomne.html)** anime une session de 5 ateliers en collège.
 
 ### Résidence de printemps
 
 10 avril → 4 juin 2023
 
-**[sabrina soyer](/residence/2022/09/03/r-sidence-de-printemps.html)** animera une session de 5 ateliers auprès d'une classe (cycle à définir).
+**[sabrina soyer](/residence/2022/09/03/r-sidence-de-printemps.html)** anime une session de 5 ateliers auprès d'une classe (cycle à définir).
 
 - - -
 
@@ -36,13 +36,13 @@ Ecrivez à Lucie Desaubliaux, notre médiatrice scolaire : lucie.desaubliaux@mai
 
 *Dates à définir*
 
-**Constance Hinfray** sera en résidence durant une dizaine de jour à l'école de l'Être de Saint-Georges-de-Reintembault. Elle travaillera avec les CE2-CM1 autour de la biodiversité présente sur la commune. Une restitution sous la forme d'un théâtre d'ombres aura lieu à l'issue de la résidence
+**Constance Hinfray** est en résidence durant une dizaine de jour à l'école de l'Être de Saint-Georges-de-Reintembault. Elle travaille avec les CE2-CM1 autour de la biodiversité présente sur la commune. Une restitution sous la forme d'un théâtre d'ombres a lieu à l'issue de la résidence
 
 ### Coline Pierré
 
 *Dates à définir*
 
-**Coline Pierré** animera 14 ateliers auprès des deux classes de CM1-CM2 de l'école Marie Curie à Redon. Ils travailleront ensemble sur le rapport poésie et musique, en collaboration avec la classe orchestre de l'école. Une vidéo sera réalisée durant l'année, d'après les travaux d'écriture des deux classes et une exposition aura lieu à l'école à l'issue des ateliers.
+**Coline Pierré** anime 14 ateliers auprès des deux classes de CM1-CM2 de l'école Marie Curie à Redon. Ils travaillent ensemble sur le rapport poésie et musique, en collaboration avec la classe orchestre de l'école. Une vidéo est réalisée durant l'année, d'après les travaux d'écriture des deux classes et une exposition a lieu à l'école à l'issue des ateliers.
 
 - - -
 
@@ -52,9 +52,9 @@ Ecrivez à Lucie Desaubliaux, notre médiatrice scolaire : lucie.desaubliaux@mai
 
 Chaque année, la Maison de la Poésie de Rennes soutient le Prix des Découvreurs en invitant deux artistes de la sélection à venir rencontrer les classes des collèges (3èmes) et lycées (tous niveaux) de Bretagne.
 
-**Christophe Manon** sera présent en Bretagne la semaine du 6 mars 2023 pour rencontrer les classes autour de son ouvrage *Provisoires*.
+**Christophe Manon** est présent en Bretagne la semaine du 6 mars 2023 pour rencontrer les classes autour de son ouvrage *Provisoires*.
 
-**Claude Favre** sera présente en Bretagne la semaine du 3 avril 2023 pour rencontrer les classes autour de son ouvrage *Sur l'échelle danser*.
+**Claude Favre** est présente en Bretagne la semaine du 3 avril 2023 pour rencontrer les classes autour de son ouvrage *Sur l'échelle danser*.
 
 - - -
 
@@ -72,7 +72,7 @@ Cette année, nous invitons **Rémi Forte**, **Anne-Sarah Huet** & **Martin Desi
 
 **Tous niveaux** : Rencontres avec un.e auteur.trice de la programmation
 
-Toute l'année, il est possible de rencontrer un.e auteur.trice de la programmation lors de sa venue à Rennes (hors dispositif particulier). Le coût de la rencontre sera pris en charge par l'établissement scolaire. Pour les collégiens et lycéens, ces rencontres peuvent aussi être organisées via Adage & le Pass Culture, n'hésitez pas à nous contacter pour plus d'informations.
+Toute l'année, il est possible de rencontrer un.e auteur.trice de la programmation lors de sa venue à Rennes (hors dispositif particulier). Le coût de la rencontre est pris en charge par l'établissement scolaire. Pour les collégiens et lycéens, ces rencontres peuvent aussi être organisées via Adage & le Pass Culture, n'hésitez pas à nous contacter pour plus d'informations.
 
 ---
 ## Monter ensemble une résidence en milieu scolaire
