@@ -1,10 +1,10 @@
 ---
 layout: rubrique
-title: "Scolaires"
-ref: "scolaires"
+title: Scolaires
+ref: scolaires
 permalink: /scolaires/
 ---
-Vous souhaitez construire un projet scolaire ou assister à une lecture ? Toute l'année, vous pouvez nous solliciter pour les projets de classe à PAC, des projets Karta ou autres. Nous mettons à votre disposition tous les outils nécessaires pour vous préparer : dossiers pédagogiques, extraits vidéos et textes, etc.
+Vous souhaitez construire un projet scolaire ou assister à une lecture ? Toute l'année, vous pouvez nous solliciter pour les projets de classe à PAC, des projets Karta, des rencontres via le Pass Culture ou autres dispositifs de soutien financier.
 
 Ecrivez à Lucie Desaubliaux, notre médiatrice scolaire : lucie.desaubliaux@maisondelapoesie-rennes.org
 
@@ -16,11 +16,15 @@ Ecrivez à Lucie Desaubliaux, notre médiatrice scolaire : lucie.desaubliaux@mai
 
 ### Résidence d'automne
 
-Du 18 octobre au 12 décembre 2021, **[Julie Sas](https://maisondelapoesierennes.netlify.app/residence/2022/07/04/r-sidence-dautomne.html)** a animé une série d'ateliers d'écriture, suivis d'une restitution papier, avec des étudiants de Licence 3 Arts de l'UBO de Brest (29).
+17 octobre → 11 décembre 2022
+
+**[Luc Bénazet](/residence/2022/07/06/r-sidence-dautomne.html)** animera une session de 5 ateliers en collège.
 
 ### Résidence de printemps
 
-Du 11 avril au 05 mai 2022, **[Marie de Quatrebarbes](/residence/2022/05/02/residences-marie-dequatrebarbes.html)** a tenu 6 ateliers d'écriture auprès des élèves des collèges Les Ormeaux et Sainte-Joséphine-Bakhita (Rennes, 35).
+10 avril → 4 juin 2023
+
+**[sabrina soyer](/residence/2022/09/03/r-sidence-de-printemps.html)** animera une session de 5 ateliers auprès d'une classe (cycle à définir).
 
 - - -
 
@@ -28,30 +32,39 @@ Du 11 avril au 05 mai 2022, **[Marie de Quatrebarbes](/residence/2022/05/02/resi
 
 **Tous niveaux**
 
-### Juliette Mézenc
+### Constance Hinfray
 
-*Du 20 septembre 2021 au 28 janvier 2022*
-Après un report d'un an, **Juliette Mézenc** est venue résider 9 semaines en Bretagne Romantique. Elle y a mené des ateliers avec les enfants de CM2 de l'école Abbé Pierre à Hédé et de 6ème du collège Saint-Joseph à Tinténiac.
+*Dates à définir*
 
-### Camille Bondon
+**Constance Hinfray** sera en résidence durant une dizaine de jour à l'école de l'Être de Saint-Georges-de-Reintembault. Elle travaillera avec les CE2-CM1 autour de la biodiversité présente sur la commune. Une restitution sous la forme d'un théâtre d'ombres aura lieu à l'issue de la résidence
 
-Du 29 novembre au 10 décembre 2021**, [Camille Bondon](https://maisondelapoesierennes.netlify.app/residence_scolaire/2022/07/04/r-sidence-sixt-sur-aff-2046.html)** a passé une semaine au sein de l'école Michel Serrault de Six-sur-Aff. Tous les élèves de l'école, de la grande section au CM2, ont réalisé un programme utopique pour leur ville du futur et une campagne d'affichage de 60 affiches colorées placardées sur tous les murs de la ville.
+### Coline Pierré
+
+*Dates à définir*
+
+**Coline Pierré** animera 14 ateliers auprès des deux classes de CM1-CM2 de l'école Marie Curie à Redon. Ils travailleront ensemble sur le rapport poésie et musique, en collaboration avec la classe orchestre de l'école. Une vidéo sera réalisée durant l'année, d'après les travaux d'écriture des deux classes et une exposition aura lieu à l'école à l'issue des ateliers.
 
 - - -
 
 ## Prix des Découvreurs
 
-**3ème et lycées**
+*De la 3ème à la terminale*
 
-A COMPLETER
+Chaque année, la Maison de la Poésie de Rennes soutient le Prix des Découvreurs en invitant deux artistes de la sélection à venir rencontrer les classes des collèges (3èmes) et lycées (tous niveaux) de Bretagne.
+
+**Christophe Manon** sera présent en Bretagne la semaine du 6 mars 2023 pour rencontrer les classes autour de son ouvrage *Provisoires*.
+
+**Claude Favre** sera présente en Bretagne la semaine du 3 avril 2023 pour rencontrer les classes autour de son ouvrage *Sur l'échelle danser*.
 
 - - -
 
-## Poètes en classe
+## Carrément
 
-**Primaires**
+*Primaires*
 
-A COMPLETER
+Un an sur deux a lieu **Carrément**, un dispositif durant lequel 4 artistes viennent résider chacun.e 1 semaine à la Maison de la Poésie afin de réfléchir à la conception d'un objet littéraire. C'est aussi l'occasion de rencontrer des scolaires, et chacun d'entre eux et elles anime un atelier dans une classe de primaire du département d'Ille-et-Vilaine.
+
+Cette année, nous invitons **Rémi Forte**, **Anne-Sarah Huet** & **Martin Desinde**. Dates précises à venir très prochainement.
 
 - - -
 
@@ -60,3 +73,10 @@ A COMPLETER
 **Tous niveaux** : Rencontres avec un.e auteur.trice de la programmation
 
 Toute l'année, il est possible de rencontrer un.e auteur.trice de la programmation lors de sa venue à Rennes (hors dispositif particulier). Le coût de la rencontre sera pris en charge par l'établissement scolaire. Pour les collégiens et lycéens, ces rencontres peuvent aussi être organisées via Adage & le Pass Culture, n'hésitez pas à nous contacter pour plus d'informations.
+
+---
+## Monter ensemble une résidence en milieu scolaire
+
+Nous montons chaque année des résidences en milieu scolaire avec les équipes pédagogiques qui le souhaitent. Après des discussions communes sur les envies et les besoins des établissements, la Maison de la Poésie conseille les équipes sur le choix d'un ou de plusieurs artistes et s'occupe ensuite des volets administratifs (montage des dossiers, rémunération des auteurs...) et logistique (transport, hébergement...) du projet de résidence. 
+
+Si l'élaboration d'un tel projet vous intéresse, n'hésitez pas à nous contacter au plus tôt dans l'année scolaire (les dossiers de demande de subventions sont à rendre au mois de mai et nous acceptons de démarrer la conception des projets au plus tard à la mi-mars), par mail : lucie.desaubliaux@maisondelapoesie-rennes.org ou par téléphone : 02.99.51.33.32
