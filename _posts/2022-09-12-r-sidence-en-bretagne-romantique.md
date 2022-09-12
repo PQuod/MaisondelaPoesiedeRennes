@@ -13,7 +13,7 @@ dates_publiees: "20 septembre → 28 janvier "
 lieu: Hédé & Tinténiac
 partenaires: "\t Communauté de Communes Bretagne Romantique, DRAC Bretagne"
 ---
-Pour cette résidence, Juliette Mézenc travaillera avec les CM1-CM2 de l'école Abbé Pierre de Hédé, ainsi qu'avec les 6ème du collège St-Joseph de Tinténiac. L'artiste aimerait aborder avec eux la notion de **Newtopie**.
+Pour cette résidence, Juliette Mézenc travaille avec les CM1-CM2 de l'école Abbé Pierre de Hédé, ainsi qu'avec les 6ème du collège St-Joseph de Tinténiac. L'artiste aborde avec eux la notion de **Newtopie**.
 
  
 
@@ -21,15 +21,15 @@ Voici ce qu’elle en dit : « Nous pratiquerons et ceci dès le plus jeune âge
 
  
 
-En parallèle de ces Newtopies, Juliette Mézenc aimerait continuer les entretiens sur l’écriture qu’elle avait conduits pendant [sa résidence des ateliers médicis](https://almanachmezenc.wordpress.com/2018/01/10/39/).
+En parallèle de ces Newtopies, Juliette Mézenc continue les entretiens sur l’écriture qu’elle a conduits pendant [sa résidence des ateliers médicis](https://almanachmezenc.wordpress.com/2018/01/10/39/).
 
  
 
-La résidence se tiendra durant 8 semaines, **du 20 septembre au 1er octobre, du 22 novembre au 10 décembre** et **du 10 au 28 janvier 2022**.
+La résidence se tient durant 8 semaines, **du 20 septembre au 1er octobre, du 22 novembre au 10 décembre** et **du 10 au 28 janvier 2022**.
 
  
 
-Juliette Mézenc ouvrira son atelier d'autrice pour donner à voir un livre en cours de fabrication, les Cahiers de Bassoléa - almanach pratique et poétique, **le vendredi 21 janvier à 18h30 à la Médiathèque de Tinténiac** :
+Juliette Mézenc ouvre son atelier d'autrice pour donner à voir un livre en cours de fabrication, *les Cahiers de Bassoléa - almanach pratique et poétique*, **le vendredi 21 janvier à 18h30 à la Médiathèque de Tinténiac** :
 
  
 
