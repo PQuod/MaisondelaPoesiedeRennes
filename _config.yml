@@ -22,7 +22,7 @@ title: Maison de la Poésie de Rennes
 email: your-email@example.com
 description: Site de la Maison de la Poésie de Rennes
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://maiporennes.fr" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://maiporennes.fr" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
