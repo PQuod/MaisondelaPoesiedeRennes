@@ -1,3 +1,19 @@
+<!-- Post type breve -->
+<div class="encart">
+  <h2 class="encart_titre color_autres">Brèves</h2>
+  {% assign sortedbreve = site.posts | where: "type", "breve" | sort: "date_debut" %}
+  {% for post in sortedbreve %}
+    {% include scripts/dates.html %}
+    {% if debutdate >= nowdate %}
+      <div class="breve">
+        <h4>{{ post.title }}</h4>
+        <div class="event_dates">{{ post.dates_publiees }}</div>
+        <div class="event_dates">{{ post.content }}</div>
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>
+
 <div class="encart">
     <h2 class="color_res">Résidences</h2>
     <!-- Sélection des posts de résidence (scolaire ou non)-->

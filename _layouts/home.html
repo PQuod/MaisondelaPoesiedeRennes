@@ -11,6 +11,7 @@ layout: default
         {% assign sorted = site.posts | sort: 'date_debut' %}
         <!-- N'affiche que les rencontres, les scolaires, les évènements associatifs et les divers -->
         {% for post in sorted %}
+        {% unless post.type contains 'breve'%}
           {% if post.categories contains "rencontre" or post.categories contains "associatif" or post.categories contains "divers" or post.categories contains "scolaires" %}
             {% if post.draft != true %}
               {% include scripts/dates.html %}
@@ -36,6 +37,7 @@ layout: default
               {% endif %}
             {% endif %}
           {% endif %}
+          {% endunless %}
         {% endfor %}
       </ul>
     </div>
