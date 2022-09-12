@@ -17,6 +17,6 @@ partenaires: Collège Morvan Lebesque, écoles St-Anne, Les Clôteaux et Guillev
 ---
 Chaque année, nous invitons des poètes émergent.es lors de notre semaine intitulée La Poésie qui vient. C'est l'occasion pour ces artistes aussi de venir donner des ateliers d'écriture dans les classes de primaire de l'Ille-et-Vilaine.
 
-Cette année, nous invitons Joëlle Sambi et Jean D'Amérique à rencontrer les classes du CP au CM2, jeudi 14 et vendredi 15 mars 2018.
+Cette année, nous invitons **Joëlle Sambi** et **Jean D'Amérique** à rencontrer les classes du CP au CM2, jeudi 14 et vendredi 15 mars 2018.
 
 Les artistes rencontrent les élèves des écoles Ste-Anne (Chavagne), Guillevic (Rennes) et les Clôteaux (Rennes). 
