@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 layout: post
 type: event
 title: Poètes en classe
