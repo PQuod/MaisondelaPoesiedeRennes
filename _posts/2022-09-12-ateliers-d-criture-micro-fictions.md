@@ -3,12 +3,12 @@ draft: false
 layout: post
 type: event
 title: "Ateliers d'écriture : Micro-fictions"
-date: 2022-09-12T08:52:46.855Z
+date: 2022-09-12T09:00:50.721Z
 artiste:
   - Lucie Desaubliaux
 categories: rencontre
-date_debut: 2022-09-12T08:52:47.082Z
-date_fin: 2022-09-12T08:52:47.192Z
+date_debut: 2022-10-18T08:52:47.082Z
+date_fin: 2023-02-28T09:52:47.192Z
 dates_publiees: A partir du 18 octobre · 18h → 20h
 lieu: Maison de la Poésie de Rennes
 tarif: Payant, inscription obligatoire
