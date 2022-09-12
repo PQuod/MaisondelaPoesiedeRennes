@@ -1,6 +1,6 @@
 ---
 layout: post
-name: Xavière MacKay
+name: Xavière Mackay
 ---
 **Xavière Mackay** est née en 1985 à Québec. Elle a grandi en Gaspésie et habite la région d'Ottawa.
 
