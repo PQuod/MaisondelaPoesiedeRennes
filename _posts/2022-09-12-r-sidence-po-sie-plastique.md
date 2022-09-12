@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 layout: post
 type: event
 title: Résidence Poésie Plastique
@@ -14,7 +14,6 @@ lieu: Lycée Bréquigny & Maison de la Poésie de Rennes
 partenaires: Lendroit éditions, Lycée Bréquigny
 ---
 En 2020, un nouveau partenariat se forme entre la Maison de la Poésie, la librairie-maison d’édition Lendroit et la section DN MADE (diplôme national des métiers d'art et du design) du lycée Bréquigny. La volonté de construire un projet transversal et d’allier poésie, design graphique et édition a fait naître ce dispositif qui devait avoir lieu au mois de juin 2020 et qui a été reporté au mois de juin 2021.
-
 
 **Antoine Giard**, artiste multi-dimensionnel et insatiable curieux, est invité à venir élaborer un projet poétique à Rennes, pendant trois semaines. Un workshop a tout d’abord lieu auprès des élèves de première année du DNMADe, afin de leur faire explorer l’écriture créative et de leur apprendre à mettre en forme leurs propres mots, à se questionner sur l'objet imprimé et à manipuler la plasticité de la langue, durant cinq demi-journées.
 
