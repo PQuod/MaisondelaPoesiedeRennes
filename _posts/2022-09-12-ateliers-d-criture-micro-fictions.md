@@ -10,6 +10,7 @@ categories: rencontre
 date_debut: 2022-09-12T08:52:47.082Z
 date_fin: 2022-09-12T08:52:47.192Z
 dates_publiees: A partir du 18 octobre · 18h → 20h
+lieu: Maison de la Poésie de Rennes
 tarif: Payant, inscription obligatoire
 ---
 Durant 5 ateliers, il s'agira de construire cinq objets littéraires indépendants et qui pourtant, se déploient ensemble, liés par le même univers. 
