@@ -9,14 +9,6 @@ slug:
   encoding: "ascii"
 
 collections:
-  - name: "ressources"
-    label: "Pages de ressources"
-    folder: "_ressources"
-    create: true
-    fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
-      - {label: "Titre", name: "title", widget: "string"}
-      - {label: 'Contenu', name: 'body', widget: 'markdown'}
   - name: "evenements" # Used in routes, e.g., /admin/collections/blog
     label: "Evenements" # Used in the UI
     folder: "_posts" # The path to the folder where the documents are stored
