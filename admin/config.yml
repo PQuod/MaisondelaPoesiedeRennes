@@ -13,7 +13,6 @@ collections:
     label: "Pages de ressources"
     folder: "_ressources"
     create: true
-    media_folder: 'imgs/ressources'
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Titre", name: "title", widget: "string"}
