@@ -13,6 +13,8 @@ dates_publiees: A partir du 18 octobre · 18h → 20h
 lieu: Maison de la Poésie de Rennes
 tarif: Payant, inscription obligatoire
 ---
+![](/imgs/logo.png)
+
 Durant 5 ateliers, il s'agira de construire cinq objets littéraires indépendants et qui pourtant, se déploient ensemble, liés par le même univers. 
 
 Nous essayerons de toujours connaître un début et d'arriver à une fin, en explorant les multiples possibles de ce qui peut se tramer au milieu, afin de façonner les premières planètes d'une galaxie qui restera ensuite ouverte à tous les autres textes possibles, et qui pourra servir de cocon à toutes les autres fictions à venir.
