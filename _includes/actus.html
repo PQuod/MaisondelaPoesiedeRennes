@@ -81,13 +81,17 @@
   <h2 class="encart_titre color_asso">Récemment...</h2>
   {% assign sortedjournal = site.journal | sort: 'date' | reverse %}
   {% for post in sortedjournal limit:2 %}
-  <a href="{{ post.url }}">
+  {% assign counter = counter | plus: 1 %}
+  {% if counter == 2 %}
+  <a href="/journal/#ancre_post">
+  {% else %}
+  <a href="/journal">
+  {% endif %}
     <h4>{{ post.title }}</h4>
   </a>
   <div class="event_dates">Le {{ post.date | date: "%d/%m/%Y"}}, par {{ post.auteur }}</div>
   <br>
   {% endfor %}
-  <a href="/journal" class="liencat">Lire le journal</a>
 </div>
 <!-- Dernières acquisitions
 <div class="encart nouv_bibli">

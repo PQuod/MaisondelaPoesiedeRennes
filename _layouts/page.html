@@ -24,6 +24,7 @@ layout: default
     {% if page.lieu %}<p><b>Lieu :</b> {{ page.lieu }}</p>{% endif %}
     {% if page.partenaires %}<p><b>Avec :</b> {{ page.partenaires}}</p>{% endif %}
     {% if page.tarif %}<p><b>Tarif :</b> {{ page.tarif }}</p>{% endif %}
+    {% if page.auteur %}<p>Par {{ page.auteur }}, le {{ page.date | date: "%d/%m/%Y" }}</p>{% endif %}
   </div>
   <div class="post_descript">
       {{ page.content | markdownify }}
