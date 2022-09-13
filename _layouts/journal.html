@@ -11,7 +11,9 @@ layout: default
     {% if article.draft != true %}
     {% assign counter = counter | plus: 1 %}
     {% if counter == 2 %}
-    <div id="ancre_post"></div>
+    <div id="post_deux"></div>
+    {% elsif counter == 3 %}
+    <div id="post_trois"></div>
     {% endif %}
     <li class="list_journal">
     <p>{{ article.date | date: "%-d/%m/%Y"}} &middot; {{ article.auteur }}</p>

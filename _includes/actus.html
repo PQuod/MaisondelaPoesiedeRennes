@@ -80,10 +80,12 @@
 <div class="encart">
   <h2 class="encart_titre color_asso">Récemment...</h2>
   {% assign sortedjournal = site.journal | sort: 'date' | reverse %}
-  {% for post in sortedjournal limit:2 %}
+  {% for post in sortedjournal limit:3 %}
   {% assign counter = counter | plus: 1 %}
   {% if counter == 2 %}
-  <a href="/journal/#ancre_post">
+  <a href="/journal/#post_deux">
+  {% elsif counter == 3 %}
+  <a href="/journal/#post_trois">
   {% else %}
   <a href="/journal">
   {% endif %}
