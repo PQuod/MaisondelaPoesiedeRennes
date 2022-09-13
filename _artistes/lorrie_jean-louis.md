@@ -1,6 +1,3 @@
----
-layout: post
-titre: lorrie_jean-louis
-name: Lorrie Jean-Louis
----
-**Lorrie Jean-Louis** publie son premier recueil, *La femme cent couleurs*, en 2020, et remporte les Prix des Libraires 2021. Elle publie son premier album jeunesse, *Philibert, le garçon qui pliait son coeur*, en 2021.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b755a02d59200aa41ab1bd781c48a03db33d55bf5833513ad62980bbd27bd59
+size 290

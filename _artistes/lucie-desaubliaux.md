@@ -1,11 +1,3 @@
----
-layout: post
-name: Lucie Desaubliaux
----
-**Lucie Desaubliaux** vit et travaille à Rennes. 
-
-Elle y est artiste plasticienne et autrice, elle fait partie de l’atelier Vivarium et de plusieurs projets collectifs (la galerie La Guerrière, la revue de poésie Poésie Maxi ou encore le collectif en ligne WMAN). 
-
-Son premier roman : *La nuit sera belle* (Actes Sud, 2017). Elle travaille actuellement sur son deuxième récit et divers projets jeunesse. 
-
-[Son site internet](http://luciedesaubliaux.fr/)
+version https://git-lfs.github.com/spec/v1
+oid sha256:30d55d8069bb6c6cd153c4742b17867e53a8802da889a65cf5526ee017013285
+size 509

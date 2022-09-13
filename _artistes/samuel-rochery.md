@@ -1,9 +1,3 @@
----
-layout: post
-name: Samuel Rochery
----
-Acceptant volontiers, par provision, l'étiquette de "poésie", l'écriture de **Samuel Rochery** ne navigue pas vraiment dans les genres littéraires, mais elle aime en infiltrer les usages, afin d'y déceler ce qui pourrait nous en désaccoutumer. 
-
-Dans ses livres, il s'attache donc à développer une poétique de l'impropre : penser, ou pratiquer, une forme d'écriture qui éviterait de tenir en place et de répondre à un nom – par les moyens qu'offrent cependant les outils littéraire, philosophique et poétique admis, autant que les passions les plus hétérogènes, ou les moins dévouées.
-
-Dernier livre paru : *Label Ventriloquie* (Le Quartanier, 2018).
+version https://git-lfs.github.com/spec/v1
+oid sha256:7acc4e49c9959b7ccfc58a0bbfa3916d916516b50966073fa5141ac1e25ee995
+size 714

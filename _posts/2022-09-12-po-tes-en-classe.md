@@ -1,22 +1,3 @@
----
-draft: false
-layout: post
-type: event
-title: Poètes en classe
-date: 2022-09-12T12:12:39.029Z
-artiste:
-  - Célestin de Méeûs
-  - Xavière Mackay
-categories: scolaires
-date_debut: 2020-03-12T13:12:39.108Z
-date_fin: 2020-03-13T13:12:39.175Z
-dates_publiees: 12 → 13 mars 2020
-lieu: Ecole Les Clôteaux (Rennes), école Les Lucioles (Baulon), école Duchesse
-  Anne (Rennes)
-partenaires: Ecoles Les Clôteaux, Les Lucioles et Duchesse Anne
----
-Tous les deux ans, la Maison de la Poésie propose aux deux artistes invités lors de "La poésie qui vient" de rencontrer des classes de primaire, du CP au CM2, pour un atelier d'écriture et de découverte de la poésie.
-
-**Xavière Mackay** rencontre le 12 mars les élèves de CM1-CM2 de l'école Les Lucioles à Baulon et le 13 mars les élèves de CM2 de l'école Duchesse Anne à Rennes.
-
-**Célestin de Méeûs** rencontre les 11 et 12 mars les élèves de CM1 et de CM2 de l'école Les Clôteaux à Rennes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e53a1731277c14c7e9ce778fe5cdad1d7cac4b4dd8ad32d85e0e50b3231e4b1
+size 964

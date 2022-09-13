@@ -1,32 +1,3 @@
----
-layout: default
----
-<article class="journal">
-  <div class="header_page color_autres ">
-    <div class="titre_page"><h1>{{ page.title }}</h1></div>
-  </div>
-  <ul>
-    {% assign sorted = site.journal | reverse %}
-    {% for article in sorted %}
-    {% if article.draft != true %}
-    {% assign counter = counter | plus: 1 %}
-    {% if counter == 2 %}
-    <div id="post_deux"></div>
-    {% elsif counter == 3 %}
-    <div id="post_trois"></div>
-    {% endif %}
-    <li class="list_journal">
-    <p>{{ article.date | date: "%-d/%m/%Y"}} &middot; {{ article.auteur }}</p>
-    <h3 class="titre_page color_autres">{{ article.title }}</h3>
-    <div class="post_descript">
-      {{ article.content | markdownify}}
-    </div>
-    <hr>
-    {% endif %}
-    {% endfor %}
-    </li>
-  </ul>
-  <div class="to-top">
-    <h4><a href="#top">↑ Retourner en haut ↑</a></h4>
-  </div>
-</article>
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc52f896835677740cfdd680c0ed12ec05e4ad4de5037c1ce26650341233a648
+size 914

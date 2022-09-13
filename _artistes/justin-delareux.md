@@ -1,7 +1,3 @@
----
-layout: post
-name: Justin Delareux
----
-**Justin Delareux** développe une œuvre polymorphe, contextuelle, dans le domaine des écritures, opérant des liens, des collisions, entre la création littéraire, plastique et sonore. Directeur de publication, agent de liaison, pour la revue *Pli* et ses éditions. 
-
-Dernières publications : *Quelques verbes d'actions* (pariah, 2019), *Parloar* (pariah, 2018), *Extrait des nasses* (Al Dante, 2016).
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba1f7c7831de819d81aacc0366d303ac5006b56a15d4ce04d3c06f18b9bcea27
+size 450

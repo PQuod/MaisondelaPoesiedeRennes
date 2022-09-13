@@ -1,10 +1,3 @@
----
-layout: post
-name: Johan Grzelczyk
----
-**Johan Grzelczyk** est poète.
-
-Derniers ouvrages parus : *quelque chose calme lutte* (avec Frédéric Dumond et Pascal Pesez, Ni fait ni à faire, 2021), *données complémentaires* (Ni fait ni à faire, 2021), *données du réel* (Ni fait ni à faire, 2019). 
-
-Au carrefour de la culture dite savante et de la pop culture, sa poésie questionne les usages courants de la langue (du mode d’emploi à la fiction en passant par le langage théorique) afin de nous inviter à envisager la réalité dont elle témoigne sous un jour nouveau. 
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:2bd03ef8ec87248867f0a3277e64c97aa96155c88b703a5eaec9c22ad5fe73ab
+size 587
