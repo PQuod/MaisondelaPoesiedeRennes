@@ -1,7 +1,8 @@
 ---
 draft: false
 layout: post
-title: Poésie croate
+type: event
+title: "Lectures : Poésie croate"
 date: 2022-08-29T14:24:12.842Z
 artiste:
   - Branko Čegec
