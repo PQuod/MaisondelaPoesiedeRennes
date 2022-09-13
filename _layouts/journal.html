@@ -9,7 +9,7 @@ layout: default
     {% assign sorted = site.journal | reverse %}
     {% for article in sorted %}
     {% if article.draft != true %}
-    <li>
+    <li class="list_journal">
     <p>{{ article.date | date: "%-d/%m/%Y"}} &middot; {{ article.auteur }}</p>
     <h3 class="titre_page color_autres">{{ article.title }}</h3>
     <div class="post_descript">
