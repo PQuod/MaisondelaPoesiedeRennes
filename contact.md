@@ -14,7 +14,7 @@ contact@maisondelapoesie-rennes.org\
 
 Nous ne répondons pas aux propositions artistiques à inclure dans notre programmation. 
 
-Les nombreuses idées des salarié.es, des bénévoles et des partenaires, combinées au peu de moyens financiers dont l'association dispose, ne nous permettent pas d'accepter des projets qui ne sont pas imaginées et construits en interne. 
+Les nombreuses idées des salarié.es, des bénévoles et des partenaires, combinées au peu de moyens financiers dont l'association dispose, ne nous permettent pas d'accepter des projets qui ne sont pas imaginés et construits en interne. 
 
 Nous ne sommes pas une maison d'édition, ni une MJC. Nous ne programmons pas de spectacle vivant.
 
