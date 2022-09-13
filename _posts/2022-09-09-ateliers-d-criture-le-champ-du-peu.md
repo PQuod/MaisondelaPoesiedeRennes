@@ -27,4 +27,4 @@ Etudiant : entre 58 et 74 €, selon quotient familial.\
 Pas de remboursement.
 
 **Pour s'inscrire**\
-Retourner, par courrier ou en main propre, le **[bulletin d'inscription](imgs/inscription-ateliers-d-criture-le-champ-du-peu.pdf)** (PDF) rempli, ainsi que le **chèque** avec le montant correspondant à votre quotient familial.
+Retourner, par courrier ou en main propre, le **[bulletin d'inscription](/imgs/inscription-ateliers-d-criture-le-champ-du-peu.pdf)** (PDF) rempli, ainsi que le **chèque** avec le montant correspondant à votre quotient familial.
