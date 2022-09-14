@@ -1,3 +1,108 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:44b30affda484cf9d5b1bd5bdca55c199b328fb3732da3fa13b889e69f8b4d61
-size 1123
+:root {
+  --text-font:'Amaranth', sans-serif;
+  --line-height:30px;
+  --text-color:black;
+  --color_res:#a1dbb2;
+  --color_renc:#fee5ad;
+  --color_asso:#faca66;
+  --color_pod:#f7a541;
+  --color_autres:#f45d5c;
+  --color_scol: #DAF7A6;
+}
+
+*{
+  margin:0;
+  padding:0;
+}
+
+body{
+  font-family:var(--text-font);
+  letter-spacing: 1px;
+}
+
+a{
+  color:var(--text-color);
+}
+
+a:hover{
+  text-decoration: none;
+}
+
+h1{
+  font-size:30px;
+}
+
+h2{
+  font-size:28px;
+}
+
+h3{
+  font-size:24px;
+}
+
+h4{
+  font-size:22px;
+}
+
+h5{
+  font-size:20px;
+}
+
+h6{
+  font-size:18px;
+}
+
+p, li{
+  font-size:20px;
+  line-height: var(--line-height);
+}
+
+ul li{
+  list-style:none;
+}
+
+hr{
+  height:95px;
+  background: #fff url(/imgs/line.gif) no-repeat scroll center;
+  border:none;
+}
+
+blockquote{
+  margin-left:20px;
+  padding-left:20px;
+  border-left:5px solid gray;
+}
+
+
+@media screen and (max-width: 700px){
+  :root{
+    --line-height:26px;
+  }
+  h1{
+    font-size:26px;
+  }
+
+  h2{
+    font-size:24px;
+  }
+
+  h3{
+    font-size:22px;
+  }
+
+  h4{
+    font-size:20px;
+  }
+
+  h5{
+    font-size:18px;
+  }
+
+  h6{
+    font-size:16px;
+  }
+
+  p, li{
+    font-size:16px;
+  }
+}
