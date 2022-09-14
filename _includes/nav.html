@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:21ed247f8d7372fda9417f265c0b0613530d68e3936d27e377866e668136528a
-size 770
+<nav class="mobile-display-none">
+  <ul>
+    {% for item in site.data.pagelist.pages %}
+    <li>
+      <a href="{{ item.url | absolute_url }}">
+        {{ item.title }}
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+</nav>
+<div class="encart color_autres mobile-display-none">
+  {% include scripts/mailchimp.html %}
+</div>
+<div class="encart color_asso mobile-display-none">
+  <label>Réseaux</label><br>
+  <a href="https://www.facebook.com/maiporennes/" target="_blank" class="social">F</a><a href="https://twitter.com/maiporennes?lang=fr" target="_blank" class="social">T</a><a href="https://www.instagram.com/maiporennes/?hl=fr" target="_blank" class="social">I</a>
+</div>
+<div class="actus screen-display-none">
+  {% include actus.html %}
+</div>
