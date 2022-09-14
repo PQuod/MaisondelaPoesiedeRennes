@@ -21,11 +21,13 @@ La **colonne de droite** sert à présenter les résidences en cours et à venir
 
 Le menu de gauche mène vers les rubriques habituelles :
 
-- *Maison* pour comprendre notre fonctionnement et nos actions.
-- *Résidences* pour les artistes-auteurs qui voudraient connaître nos formats d'accueil.
-- *Scolaires* pour les enseignant.e.s qui voudraient imaginer des projets en notre compagnie.
-- *Journal* pour rester informé de la vie du lieu et lire les comptes-rendus des projets passés.
-- *Contact* pour nous écrire ou nous appeler.
-- Et deux encarts complémentaires pour s'inscrire à notre *newsletter* et à nos *réseaux sociaux*.
+* *Maison* pour comprendre notre fonctionnement et nos actions.
+* *Résidences* pour les artistes-auteurs qui voudraient connaître nos formats d'accueil.
+* *Scolaires* pour les enseignant.e.s qui voudraient imaginer des projets en notre compagnie.
+* *Journal* pour rester informé de la vie du lieu et lire les comptes-rendus des projets passés.
+* *Contact* pour nous écrire ou nous appeler.
+* Et deux encarts complémentaires pour s'inscrire à notre *newsletter* et à nos *réseaux sociaux*.
 
 La *Bibliothèque* est encore en travaux, mais on espère pouvoir la rendre à nouveau accessible très bientôt. Toutes les archives ne sont pas encore intégrées non plus, mais nous y travaillons.
+
+On espère que ce nouveau site vous plaira et que vous pourrez y trouver tout ce que vous cherchez !
