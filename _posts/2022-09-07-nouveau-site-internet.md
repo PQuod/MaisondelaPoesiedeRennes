@@ -30,4 +30,4 @@ Le menu de gauche mène vers les rubriques habituelles :
 
 La *Bibliothèque* est encore en travaux, mais on espère pouvoir la rendre à nouveau accessible très bientôt. Toutes les archives ne sont pas encore intégrées non plus, mais nous y travaillons.
 
-On espère que ce nouveau site vous plaira et que vous pourrez y trouver tout ce que vous cherchez !
+On espère que ce nouveau site vous plaira et que vous y trouverez tout ce que vous cherchez !
