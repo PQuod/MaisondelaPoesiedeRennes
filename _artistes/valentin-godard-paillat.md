@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a54fc1bd90025bc4345441812f34ebac45f6c6c8fbc4410081663f26a0773942
-size 549
+---
+layout: post
+name: Valentin Godard-Paillat
+---
+**Valentin Godard-Paillat** est un artiste-chercheur diplômé des Beaux-Arts de Lyon.
+
+Il écrit, dessine et passe trop de temps sur son ordinateur. Depuis qu'il s'est formé au code et à la médiation numérique, il apprend à tricoter et à tisser grâce à internet.
+
+Il s'intéresse aux notions de transmission, de langage et de communautés. Il travaille à l'intérieur des collectifs *Les enfants de Diane* et *[WMAN](http://wman.monster/)*.
+
+[Son site internet](http://mauricegodard.fr/)

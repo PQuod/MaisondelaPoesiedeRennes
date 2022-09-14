@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0dc7e486d5f2f2c6b760af42dedc77d3cd62e04ba916d8dc59a2a08a6f58805c
-size 562
+---
+layout: post
+name: Joëlle Sambi
+---
+Autrice et activiste féministe LGBT, **Joëlle Sambi** écrit et soulève des interrogations sur l'identité, la norme et l’appartenance. Elle est prise entre plusieurs langues et ses écrits en portent les traces. Elle habite la frontière et les étrangetés de sa langue mènent son écriture jusqu'à la poésie, dont elle publie fréquemment des textes sur son blog, [Solola Bien](https://joellesambi.tumblr.com/). Son premier roman, *Le Monde est gueule de chèvre*, a été publié en 2007 aux éditions Biliki.

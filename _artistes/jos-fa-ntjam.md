@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fb650e8a34492aa18e0519395b6deca3d199799f1aaf600afac46179944a9ced
-size 307
+---
+layout: post
+name: Josèfa Ntjam
+---
+**Josèfa Ntjam**, née en 1992. Elle modélise des mondes luxuriants en 3D, explore l’espace et les profondeurs sous-marines, lit des textes avec un micro et une console son, et invente une végétation colorée qu’elle expose sur des estrades dans des musées.

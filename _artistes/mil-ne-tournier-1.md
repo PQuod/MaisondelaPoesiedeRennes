@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:040011a15dd6cf35ffe45a8c38cdaf17cba072c654f0660c1467d28846d3b274
-size 518
+---
+layout: post
+name: Milène Tournier
+---
+**Milène Tournier** est docteure en études théâtrales de l’Université Sorbonne Nouvelle. Dramaturge et poétesse, elle a publié *Et puis le roulis* (éditions Théâtrales, 2018), *Nuits* (La P’tite Hélène, 2019) et *Poèmes d’époque* (Décharge/Gros Textes, 2019). Elle s’intéresse également à la poésie en lien avec les arts numériques et crée des vidéo-poèmes. Aux éditions Lurlure ont paru *L’autre jour* (2020) et *Je t’aime comme* (2021).

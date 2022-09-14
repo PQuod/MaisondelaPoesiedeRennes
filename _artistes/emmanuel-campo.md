@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c98ad5c4c854392eb4b4d7a71c46b75092007a315a191d1fda526b48d79c5518
-size 1086
+---
+layout: post
+name: Emmanuel Campo
+---
+Né en 1983, habite à Lyon. **Emanuel Campo** écrit, dit, et joue. Débute son parcours artistique à Dijon où il s’investit dans plusieurs collectifs allant du théâtre à l’animation de soirée de poésie. Fondateur de la compagnie Etrange Playground, il crée en 2011 *Identité M.C.* un premier spectacle musical au Théâtre Mansart (21) et en 2015, *On est là* au C2 (71) en duo avec le poète kanak Paul Wamo. Auteur et interprète, il se consacre à des projets musicaux, collabore avec des chorégraphes (Natacha Paquignon, Rafael Smadja) et des metteurs en scène : Marion Chobert (Compagnie Esquimots) ; Éric Massé (Compagnie des Lumas) ; Bertrand Dessane (Ilimitrof Cpg). Poète, il a publié dans de nombreuses revues et a lu ses textes dans des événements de poésie. Les éditions La Boucherie Littéraire publient son premier recueil en 2015. *Faut bien manger*, paru également à la Boucherie Littéraire fait partie de la sélection 2020-21 du Prix des Découvreurs et a fait l’objet de plusieurs rééditions.

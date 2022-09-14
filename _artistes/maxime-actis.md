@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:11c996cffe23a12e0f9600fc2be28a52168e7e73fbbdc8d8ef6ac5fee8487d6f
-size 301
+---
+layout: post
+name: Maxime Actis
+---
+**Maxime Actis**, né en 1990. Il écrit un peu chaque jour ce qu’il vit, reste discret et rend donc l’exercice de cette bio compliqué, explore les cultes de l’Antiquité et revendique sur plus de 250 pages le fait que les paysages avalent presque tout.
