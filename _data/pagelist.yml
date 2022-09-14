@@ -2,7 +2,7 @@ pages_list: Pages du site
 pages:
   - title: Maison
     url: /maison/
-  - title: Bibliothèquee
+  - title: Bibliothèque
     url: /bibli/
   - title: Résidences
     url: /residences/

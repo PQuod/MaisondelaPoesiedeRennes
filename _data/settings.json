@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c20776de7fc79210372d80f65c96ed947afbb276b5e7d344e922ab5fdfd60bdc
-size 208
+{
+  "nb_posts_home": 10,
+  "horaires": "Ouvert du lundi<br>\nau vendredi de 09h à 17h<br>\n47 rue Armand Rébillon",
+  "site_title": "Maison<br> de la Poésie<br> de Rennes",
+  "site_logo": "/imgs/logo.png"
+}
