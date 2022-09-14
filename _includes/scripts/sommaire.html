@@ -1,3 +1,20 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:65d5cabc69edc5feda7192acd29d23091bce36676e459e82c632962bffb859ef
-size 987
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const headings = document.querySelectorAll('.sommaire-content h2')
+      if (headings && headings.length) {
+        let tableOfContentInner = ''
+        headings.forEach((heading, i) => {
+          // generate a 'li' element that includes a link to the appropriate section
+          tableOfContentInner += `<li><a href="#section_${i}">${heading.textContent}</a></li>`
+          const originalHeadingContent = heading.innerHTML
+          const anchor = `<a class="offset-anchor" id="section_${i}"></a>`
+          // add the anchor to the <h3> tag
+          heading.innerHTML = anchor + originalHeadingContent
+        })
+        const tableOfContent = `<ol>${tableOfContentInner}</ol>`
+        // add the generated table of contents to the dive
+        document.querySelector('.sommaire').innerHTML += tableOfContent
+                      document.querySelector('.sommaire').style.display = "block"
+      }
+})
+</script>
