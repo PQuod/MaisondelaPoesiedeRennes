@@ -1,3 +1,58 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ebd28b98003889b321f8fc350811506dafe747b85919c2c66f554b7df04de570
-size 2666
+---
+layout: default
+---
+<div class="evenements">
+  <ul class="liste-posts">
+    <div class="sommaire list-sans-deco">
+    </div>
+    <div class="sommaire-content">
+      {% assign sorted = site.posts | sort: 'date_debut'| reverse %}
+      {% for post in sorted %}
+      {% capture nowyear %}{{ "now" | date: "%Y" }}{% endcapture %}
+      {% assign currentdate = post.date_debut | date: "%Y" %}
+        {% if currentdate <= nowyear %}
+        {% if currentdate != date %}
+        <div class="periode">
+          <h2 id="y{{currentdate}}" class="sommaireh2"><span class="circle"></span> {{ currentdate }} <span class="circle2"></span></h2>
+          {% assign date = currentdate %}
+        </div>
+        {% endif %}
+        {% endif %}
+        {% if post.draft != true %}
+          {% capture findate %}{{ post.date_fin | date: "%Y-%m-%d"}}{% endcapture %}
+          {% capture debutdate %}{{ post.date_debut | date: "%Y-%m-%d"}}{% endcapture %}
+          {% capture nowdate %}{{ "now" | date: "%Y-%m-%d" }}{% endcapture %}
+        <!-- Affiche tous les posts antérieurs à la date actuelle sauf les podcasts -->
+          {% unless post.categories contains "podcast" or post.type contains "breve" %}
+            {% if findate <= nowdate and debutdate <= nowdate %}
+              <li>
+                <div class="event_dates">
+                  <p class="">{{post.dates_publiees}}</p>
+                </div>
+                <a href="{{ post.url }}">
+                  {% if post.categories contains "residence" %}<h3 class="color_res event_titre">
+                  {% elsif post.categories contains "rencontre" %}<h3 class="color_renc event_titre">
+                  {% elsif post.categories contains "associatif" %}<h3 class="color_asso event_titre">
+                  {% elsif post.categories contains "scolaires" %}<h3 class="color_scol event_titre">
+                  {% elsif post.categories contains "residence_scolaire" %}<h3 class="color_scol event_titre">
+                  {% else %}<h3 class="color_autres event_titre">{% endif %}{{ post.title }}</h3>
+                </a>
+                {% for artiste in post.artiste %}
+                  {% for item in artiste %}
+                    <h4 class="event_artistes">{{ item }}</h4>
+                  {% endfor %}
+                {% endfor %}
+                <p class="">{% if post.tarif %}{{post.tarif}}{% endif %}</p>
+                <p>{% unless post.categories contains "residence" %}{% if post.lieu %}{{post.lieu}}{% endif %}{% endunless %}</p>
+              </li>
+            {% endif %}
+          {% endunless %}
+        {% endif %}
+      {% endfor %}
+    </div>
+  </ul>
+  <div class="to-top">
+    <h4><a href="#top">↑ Retourner en haut ↑</a></h4>
+  </div>
+</div>
+{% include scripts/sommaire.html %}

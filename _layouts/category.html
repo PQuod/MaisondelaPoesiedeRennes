@@ -1,3 +1,64 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2bab317c86bdbdf706ca10a10935cdf598012cbbc138aa4103cb3d6c2a042d5c
-size 2379
+---
+layout: default
+---
+<div class="evenements">
+  {% if page.tag == 'podcast'%}
+    <div class="header_page color_pod"><div class="titre_page"><h1>Podcasts
+  {% elsif page.tag == 'residence'%}
+    <div class="header_page color_res"><div class="titre_page"><h1>Résidences
+  {% else %}
+    <div class="header_page color_autres"><div class="titre_page"><h1>{{ page.title }}
+  {% endif %}
+  </h1></div></div>
+    {% unless page.tag == 'residence' %}
+    <ul class="liste-posts">
+    {% assign sorted = site.posts | sort: 'date_debut' | reverse %}
+    {% for post in sorted %}
+      {% if post.categories contains page.tag %}
+        <li>
+          <div class="event_dates">
+            <p>{{post.dates_publiees}}</p>
+          </div>
+          <a href="{{ post.url }}">
+          {% if page.tag == 'podcast'%}
+            <h3 class="color_pod event_titre">
+          {% else %}
+            <h3 class="color_autres event_titre">
+          {% endif %}
+            {{ post.title }}</h3>
+          </a>
+          {% for artiste in post.artiste %}
+            {% for item in artiste %}
+            <h4 class="event_artistes">{{ item }}</h4>
+            {% endfor %}
+          {% endfor %}
+        </li>
+        <img class="ptte-ligne" src="/imgs/ptte-ligne.gif" alt="separator"/>
+        {% endif %}
+    {% endfor %}
+    </ul>
+    {% endunless %}
+    {% if page.tag == 'residence' %}
+    <div class="sommaire list-sans-deco">
+    </div>
+    <div class="sommaire-content">
+      <ul class="liste-posts-res">
+      {% assign sorted = site.posts | sort: 'date_debut' | reverse %}
+      {% for post in sorted %}
+      {% if post.categories contains "residence" or post.categories contains "residence_scolaire" %}
+      {% assign currentdate = post.date_debut | date: "%Y" %}
+        {% if currentdate != date %}
+          <h2 id="y{{currentdate}}">{{ currentdate }}</h2>
+          {% assign date = currentdate %}
+        {% endif %}
+        <li><a href="{{ post.url }}">{% for artiste in post.artiste %}{% for item in artiste %}{{ item }}<span>,</span> {% endfor %}{% endfor %} &middot; {{ post.title }}</a></li>
+      {% endif %}
+      {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+    <div class="to-top">
+      <h4><a href="#top">↑ Retourner en haut ↑</a></h4>
+    </div>
+</div>
+{% include scripts/sommaire.html %}

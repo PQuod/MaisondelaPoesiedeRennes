@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ca96f22b64b50976610cce4655e762fd72d1e79f48dc029b7bce29941f9d0b1d
-size 231
+{%- include head.html -%}
+<main class="page-content" aria-label="Content">
+  <div id="left">
+    {%- include header.html -%}
+    {%- include nav.html -%}
+  </div>
+  {{ content}}
+</main>
+{%- include footer.html -%}
