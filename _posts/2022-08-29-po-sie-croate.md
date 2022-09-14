@@ -21,6 +21,6 @@ Une soirée de lectures en croate et en français, avec les poètes **Branko Če
 
 > De façon énergique et entreprenante, Branko Čegec construit son territoire en l’ouvrant aux lecteurs prêts aux différents défis de la langue et des choses – les défis de l’érotique, du corps, de la sexualité, de l’excès et de la provocation. Par invocation des absences, il matérialise et compose des paysages divers, les endroits et les envers de la poésie croate, il change de stratégies et de lieux d’écriture, s’en retirant souvent lui-même, en offrant des signes et des traces de différence, de dialogue, de renoncement.
 
-**Partenariats**
+**Partenariat**
 
 Le 15 octobre à 19h30, **Branko Čegec** et **Vanda Mikšić** lisent au café-librairie La Clef des mondes (Plélan-Le-Grand, 35) sur invitation de l'association [Dixit Poetic](https://dixitpoetic.fr/).
