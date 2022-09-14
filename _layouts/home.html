@@ -55,9 +55,7 @@ layout: default
                 <li>
                   {% assign count = count | plus:1 %}
                   {% assign nb_posts = site.data.settings.nb_posts_home %}
-                  <div class="event_dates">
-                    <p class="">{{post.dates_publiees}}</p>
-                  </div>
+                  <div class="event_dates">{{post.dates_publiees}}</div>
                   <a href="{{ post.url }}">
                     {% if post.categories contains "residence" %}<h3 class="color_res">
                     {% elsif post.categories contains "rencontre" %}<h3 class="color_renc">
