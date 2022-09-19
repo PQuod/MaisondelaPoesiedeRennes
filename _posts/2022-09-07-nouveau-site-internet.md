@@ -7,7 +7,7 @@ date: 2022-09-07T10:14:42.935Z
 categories: associatif
 date_debut: 2022-09-20T10:14:43.045Z
 date_fin: 2022-09-07T10:14:43.091Z
-dates_publiees: 18 septembre 2022
+dates_publiees: 20 septembre 2022
 ---
 Vous êtes en ce moment sur **le nouveau site** de la Maison de la Poésie de Rennes.
 
