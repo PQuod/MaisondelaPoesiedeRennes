@@ -29,4 +29,4 @@ Plein : entre 68 et 86 €, selon quotient familial.\
 Pas de remboursement.
 
 **Pour s’inscrire**\
-Retourner, par courrier ou en main propre, le **[bulletin d’inscription](https://maiporennes.fr/imgs/inscription-ateliers-d-criture-micro-fictions.pdf)** (PDF) rempli, ainsi que le **chèque** avec le montant correspondant à votre quotient familial.
+Retourner, par courrier ou en main propre, le **[bulletin d’inscription](/imgs/inscription-ateliers-d-criture-par-cinq-chemins.pdf)** (PDF) rempli, ainsi que le **chèque** avec le montant correspondant à votre quotient familial.
