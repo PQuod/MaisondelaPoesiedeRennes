@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 layout: post
 type: event
 title: "Ateliers d'écriture : Par cinq chemins..."
