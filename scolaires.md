@@ -18,7 +18,7 @@ Ecrivez à Lucie Desaubliaux, notre médiatrice scolaire : lucie.desaubliaux@mai
 
 17 octobre → 11 décembre 2022
 
-**[Luc Bénazet](/residence/2022/07/06/r-sidence-dautomne.html)** anime une session de 5 ateliers en collège.
+**[Luc Bénazet](/residence/2022/07/06/r-sidence-dautomne.html)** anime une session de 5 ateliers au collège Simone Veil, à Crevin.
 
 ### Résidence de printemps
 
@@ -64,7 +64,7 @@ Chaque année, la Maison de la Poésie de Rennes soutient le Prix des Découvreu
 
 Un an sur deux a lieu **Carrément**, un dispositif durant lequel 4 artistes viennent résider chacun.e 1 semaine à la Maison de la Poésie afin de réfléchir à la conception d'un objet littéraire. C'est aussi l'occasion de rencontrer des scolaires, et chacun d'entre eux et elles anime un atelier dans une classe de primaire du département d'Ille-et-Vilaine.
 
-Cette année, nous invitons **Rémi Forte**, **Anne-Sarah Huet** & **Martin Desinde**. Dates précises à venir très prochainement.
+Cette année, nous invitons **Rémi Forte**, **Anne-Sarah Huet** & **Martin Desinde**, durant tout le mois de **mars 2023**.
 
 - - -
 
