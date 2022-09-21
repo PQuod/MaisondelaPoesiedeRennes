@@ -65,7 +65,24 @@ collections:
       - {label: "Tarif", name: "tarif", widget: "string", required: false}
       - {label: "Partenaire(s)", name: "partenaires", widget: "string", required: false}
       - {label: 'Description', name: 'body', widget: 'markdown'}
-
+  - name: "bibliotheque"
+    label: "Bibliothèque"
+    folder: "_bibliotheque"
+    create: true
+    slug: "{{titre | slugify }}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "fichebibli"}
+      - {label: "Date", name: "date", widget: "datetime", date_format: "DD/MM/YYYY"}
+      - {label: "Titre", name: "titre", widget: "string"}
+      - {label: "Nom de l'auteur", name: "nom", widget: "string"}
+      - {label: "Prénom de l'auteur", name: "prenom", widget: "string"}
+      - {label: "Co-auteur(s)", name: "coauteur", widget: "string"}
+      - {label: "Traduction", name: "traduction", widget: "string"}
+      - {label: "Infos", name: "infos", widget: "string"}
+      - {label: "Éditions", name: "editions", widget: "string"}
+      - {label: "Année de parution", name: "annee", widget: "string"}
+      - {label: "Nombre de pages", name:"pages", widget: "string"}
+      - {label: "Catégorie", name:"ID_categorie", widget: "select", options:[{label: 'Poésie francophone', value: '1'}, {label: 'Europe', value: '3'}, {label: 'Asie', value: '4'}, {label: 'Moyen-Orient', value: '5'}, {label: 'Amériques', value: '6'}, {label: 'Afrique', value: '7'}, {label: 'Océanie', value: '8'}, {label: 'Ouvrages de résidence', value: '10'}, {label: 'Poètes en herbe', value: '11'}, {label: 'Anthologies', value: '14'}, {label: 'Pédagogie', value: '15'}, {label: 'Support CD & DVD', value: '16'}]}
   - name: "artistes"
     label: "Artistes"
     folder: "_artistes"
