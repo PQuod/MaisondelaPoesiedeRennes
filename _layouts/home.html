@@ -51,7 +51,7 @@ layout: default
           {% if post.draft != true %}
               {% unless post.categories contains "podcast" or post.type contains "breve" %}
               {% include scripts/dates.html %}
-                {% if findate <= nowdate and debutdate <= nowdate %}
+                {% if findate < nowdate and debutdate < nowdate %}
                 <li>
                   {% assign count = count | plus:1 %}
                   {% assign nb_posts = site.data.settings.nb_posts_home %}
