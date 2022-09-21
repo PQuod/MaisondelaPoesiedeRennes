@@ -16,6 +16,8 @@ collections:
     output: true
   journal:
     output: true
+  bibliotheque:
+    output: true
 
 defaults:
   -

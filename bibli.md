@@ -1,5 +1,5 @@
 ---
-layout: rubrique
+layout: bibli
 title: "Bibliothèque"
 ref: "bibliothèque"
 permalink: /bibli/

@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<article>
+  <div class="header_page color_autres">
+  <div class="titre_page"><h1>Fiche ouvrage</h1></div>
+  </div>
+  <h2> {{page.titre}} </h2>
+  <ul>
+    <li>{{ page.prenom }} {{ page.nom | upcase }}</li>
+    {% if page.coauteur != "" %}<li>{{ page.coauteur }}</li>{% endif %}
+    {% if page.traduction != ""  %}<li>Traduction: {{ page.traduction }}</li>{% endif %}
+    <br>
+    <li>{{ page.editions }}, {{ page.annee }}, {{ page.pages }} pages</li>
+    {% if page.infos != "" %}<li>{{ page.infos }}</li>{% endif %}
+    <li>{% if page.ID_categorie == "1" %}
+      Poésie francophone
+      {% endif %}
+    </li>
+  </ul>
+</article>

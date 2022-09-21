@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<article >
+  <div class="header_page color_autres ">
+    <div class="titre_page"><h1>{{ page.title }}</h1></div>
+  </div>
+  <div class="post_descript">
+    <div class="sommaire-content">
+    {{ page.content | markdownify }}
+    </div>
+  </div>
+  <h2>Liste des ouvrages</h2>
+  {% assign sorted = site.bibliotheque %}
+    <ul>
+  {% for ouvrage in sorted %}
+    <li>
+    <a href="{{ ouvrage.url }}">
+    {{ ouvrage.titre }} &middot; {{ ouvrage.prenom }} {{ ouvrage.nom }}
+    </a>
+    </li>
+  {% endfor %}
+  </ul>
+</article>
