@@ -80,7 +80,8 @@ collections:
       - {label: "Traduction", name: "traduction", widget: "string"}
       - {label: "Infos", name: "infos", widget: "string"}
       - {label: "Éditions", name: "editions", widget: "string"}
-
+      - {label: "Année de parution", name: "annee", widget: "string"}
+      - {label: "Nombre de pages", name: "pages", widget: "string"}
   - name: "artistes"
     label: "Artistes"
     folder: "_artistes"
