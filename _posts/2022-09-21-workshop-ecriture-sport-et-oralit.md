@@ -15,7 +15,7 @@ partenaires: Université Rennes 2, UFR Arts Lettres et Communication
 ---
 **Pauline Allié** anime un workshop auprès d'un groupe composé d'étudiant.es de Master 1 et 2 de l'Université Rennes 2.
 
-Sous forme de *training* à l’écriture — exercices courts, sériels, décalés, en mouvement, *in situ* — ce workshop propose d’explorer les liens entre écriture et oralité dans le champ de la littérature contemporaine. Sans objectif de production, nous préférons l’expérimentation et la spontanéité pour faire de l’écriture une pratique presque sportive. 
+> Sous forme de *training* à l’écriture — exercices courts, sériels, décalés, en mouvement, *in situ* — ce workshop propose d’explorer les liens entre écriture et oralité dans le champ de la littérature contemporaine. Sans objectif de production, nous préférons l’expérimentation et la spontanéité pour faire de l’écriture une pratique presque sportive. 
 
 **Références**
 
