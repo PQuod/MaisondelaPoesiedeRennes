@@ -82,7 +82,7 @@ collections:
       - {label: "Éditions", name: "editions", widget: "string"}
       - {label: "Année de parution", name: "annee", widget: "string"}
       - {label: "Nombre de pages", name: "pages", widget: "string"}
-      - {label: "Catégorie", name: "ID_categorie", widget: "select", options: [{label: 'Poésie francophone', value: '1'}, {label: "Poésie étrangère - Europe", value: '3'}, {label: "Poésie étrangère - Asie", value: '4'}, {label: "Poésie étrangère - Moyen-Orient", value: '5'}, {label: 'Poésie étrangère - Amériques', value: '6'}, {label: 'Poésie étrangère - Afrique', value: '7'}, {label: 'Poésie étrangère - Océanie', value: '8'}, {label: 'Ouvrages de résidence', value: '10'}]}
+      - {label: "Catégorie", name: "ID_categorie", widget: "select", options: [{label: 'Poésie francophone', value: '1'}, {label: "Poésie étrangère - Europe", value: '3'}, {label: "Poésie étrangère - Asie", value: '4'}, {label: "Poésie étrangère - Moyen-Orient", value: '5'}, {label: 'Poésie étrangère - Amériques', value: '6'}, {label: 'Poésie étrangère - Afrique', value: '7'}, {label: 'Poésie étrangère - Océanie', value: '8'}, {label: 'Ouvrages de résidence', value: '10'}, {label: 'Poètes en herbe', value: '11'}, {label: 'Anthologies', value: '14'}, {label: 'Pédagogie', value: '15'}, {label: 'Supports CD & DVD', value: '16'}]}
   - name: "artistes"
     label: "Artistes"
     folder: "_artistes"
