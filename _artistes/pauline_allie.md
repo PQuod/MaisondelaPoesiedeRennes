@@ -7,4 +7,4 @@ name: Pauline Allié
 
 D'autres textes sont publiés dans des revues de littérature (*Coaltar*, *Watts#8*) et des ouvrages collectifs comme *Madame tout le monde* (Le Corridor bleu, 2022) ou *Rosa Rosae* (SB34/Tripode Éditions).
 
-Elle donne régulièrement des ateliers d’écriture auprès de différents publics, et sera en 2022 en résidence d’écriture au Boson (Bruxelles, BE).
+Elle donne régulièrement des ateliers d’écriture auprès de différents publics, et est en 2022 en résidence d’écriture au Boson (Bruxelles, BE).
