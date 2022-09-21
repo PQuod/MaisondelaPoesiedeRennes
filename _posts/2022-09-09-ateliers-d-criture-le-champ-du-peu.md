@@ -13,7 +13,7 @@ dates_publiees: A partir du 11 octobre · 19h → 21h
 lieu: Maison de la Poésie de Rennes
 tarif: Payant, inscription obligatoire
 ---
-Cet atelier d’écriture (5 séances de 2 heures) vous invite à explorer joyeusement votre propre langue, vos mots, votre voix et votre style. Les jeux d’écriture individuels ou collectifs s’appuieront sur des poèmes, des extraits de romans, des images, ou extraits sonores.
+Cet atelier d’écriture vous invite à explorer joyeusement votre propre langue, vos mots, votre voix et votre style. Les jeux d’écriture individuels ou collectifs s’appuieront sur des poèmes, des extraits de romans, des images, ou extraits sonores.
 
 **Cécile Cayrel** vous invitera à explorer les interstices, le rien, le très commun pour en tirer des textes. L’atelier sera pensé comme un espace propice à la création et au partage. Aucun prérequis n’est attendu.
 

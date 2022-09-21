@@ -17,7 +17,7 @@ Durant 5 ateliers, il s'agira de construire cinq objets littéraires indépendan
 
 Nous essayerons de toujours connaître un début et d'arriver à une fin, en explorant les multiples possibles de ce qui peut se tramer au milieu, afin de façonner les premières planètes d'une galaxie qui restera ensuite ouverte à tous les autres textes possibles, et qui pourra servir de cocon à toutes les autres fictions à venir.
 
-Ces ateliers sont ouverts à tous.tes et souhaitent amener à la création d'un terrain de jeu qui pourra ensuite s'explorer seul.e., comme une chambre à soi dans laquelle on pourra puiser les ressources nécessaires à l'écriture.
+Ces ateliers sont ouverts à tous.tes et souhaitent amener à la création d'un terrain de jeu qui pourra ensuite s'explorer seul.e, comme une chambre à soi dans laquelle on pourra puiser les ressources nécessaires à l'écriture.
 
 **Dates**\
 Un mardi par mois, de 18h à 20h.\
