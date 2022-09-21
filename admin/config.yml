@@ -73,6 +73,13 @@ collections:
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "fichebibli"}
       - {label: "Date", name: "date", widget: "datetime", date_format: "DD/MM/YYYY"}
+      - {label: "Titre", name: "titre", widget: "string"}
+      - {label: "Nom de l'auteur", name: "nom", widget: "string"}
+      - {label: "Prénom de l'auteur", name: "prenom", widget: "string"}
+      - {label: "Co-auteur(s)", name: "coauteur", widget: "string"}
+      - {label: "Traduction", name: "traduction", widget: "string"}
+      - {label: "Infos", name: "infos", widget: "string"}
+      - {label: "Éditions", name: "editions", widget: "string"}
 
   - name: "artistes"
     label: "Artistes"
