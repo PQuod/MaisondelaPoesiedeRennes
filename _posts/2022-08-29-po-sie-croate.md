@@ -11,7 +11,7 @@ categories: rencontre
 date_debut: 2022-10-14T14:14:58.269Z
 date_fin: 2022-10-14T14:14:58.348Z
 dates_publiees: 14 octobre 2022 · 19h
-lieu: Lieu à confirmer
+lieu: Bar Le BabaZula, 182 avenue Général George S. Patton
 tarif: Entrée libre et gratuite
 partenaires: Dixit Poetic, Ministère de la culture croate
 ---
