@@ -1,17 +1,13 @@
 ---
 permalink: /mentions/
-title: "mentions"
+title: mentions
 layout: rubrique
 ---
-Ce site internet est le site officiel de la Maison de la Poésie de Rennes. Pour toute information liée au fonctionnement ou à l'utilisation du site internet, vous pouvez nous contacter.
-
-La Maison de la Poésie - Beauséjour est une association Loi 1901, soutenue par la [Ville de Rennes](http://metropole.rennes.fr/), le [Conseil Régional de Bretagne](http://www.bretagne.bzh/) et la [DRAC Bretagne](http://www.culturecommunication.gouv.fr/Regions/Drac-Bretagne).
-
-Son siège social est situé au 47 rue Armand Rébillon 35000 RENNES, France.
+Ce site internet est le site officiel de la Maison de la Poésie de Rennes. Il est édité par l'association Maison de la Poésie - Beauséjour, représentée par sa Co-Présidente Anne-Marie Klapka. Son siège social est situé au 47 rue Armand Rébillon, 35000 Rennes, France.
 
 **N° SIRET** : 450 047 964 00025
 
-**Développement du site internet**
+**Développement et design graphique**
 
 [Lucie Desaubliaux](https://luciedesaubliaux.fr)
 
