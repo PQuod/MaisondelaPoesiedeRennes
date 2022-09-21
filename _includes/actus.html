@@ -65,12 +65,8 @@
 {% for post in sortedpod limit:1 %}
 <div class="encart color_pod">
   <h2 class="encart_titre">Dernier podcast</h2>
-  <figure>
-    <audio style="width:100%;" controls src="">
-      Your browser does not support the
-      <code>audio</code> element.
-    </audio>
-  </figure>
+  <iframe src="https://anchor.fm/frac-bretagne/embed/episodes/Matire-noire-de-Tho-Robine-Langlois-e19ftk3/a-a6pt3eh" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+
   <div class="event_dates">{{ post.title }} &middot; {{post.artiste}} &middot; {{post.dates_publiees}}</div>
   <br>
   <a href="/category/podcast" class="liencat">Tous les podcasts</a>

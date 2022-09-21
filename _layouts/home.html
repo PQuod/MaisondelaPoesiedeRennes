@@ -49,7 +49,7 @@ layout: default
         {% assign sorted = site.posts | sort: 'date_debut'| reverse %}
         {% for post in sorted %}
           {% if post.draft != true %}
-              {% unless post.categories contains "podcast" %}
+              {% unless post.categories contains "podcast" or post.type contains "breve" %}
               {% include scripts/dates.html %}
                 {% if findate <= nowdate and debutdate <= nowdate %}
                 <li>
