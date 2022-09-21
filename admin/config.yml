@@ -82,7 +82,6 @@ collections:
       - {label: "Éditions", name: "editions", widget: "string"}
       - {label: "Année de parution", name: "truc", widget: "string"}
       - {label: "Nombre de pages", name:"bidule", widget: "string"}
-      - {label: "Catégorie", name:"ID_categorie", widget: "select", options: [{label: 'Podcast', value: 'podcast'}, {label: "Résidence", value: 'residence'}, {label: "Résidence scolaire", value: 'residence_scolaire'}, {label: "Scolaires", value: 'scolaires'}, {label: 'Associatif', value: 'associatif'}, {label: 'Rencontre', value: 'rencontre'}, {label: 'Appel à candidature', value: 'appel'}, {label: 'Divers', value: 'divers'}]}
   - name: "artistes"
     label: "Artistes"
     folder: "_artistes"
