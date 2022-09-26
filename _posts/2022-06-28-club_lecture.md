@@ -3,12 +3,13 @@ draft: false
 layout: post
 tarif: Entrée libre et gratuite
 name: Club de lecture
+type: event
 title: Club de lecture
 date: 2022-06-28T08:29:30.328Z
 categories: associatif
-date_debut: 2022-09-21
-date_fin: 2022-09-21
-dates_publiees: 21 septembre 2022 · 20h → 21h30
+date_debut: 2022-10-18T22:00:00.000Z
+date_fin: 2022-10-18T22:00:00.000Z
+dates_publiees: 19 octobre 2022 · 20h → 21h30
 lieu: Maison de la Poésie de Rennes
 ---
 ## Fonctionnement
@@ -27,6 +28,14 @@ Vous trouverez ci-dessous tous les livres conseillés ces dernières années par
 ---
 
 ## 2022
+
+**Club du 21 septembre 2022**
+- *Vider les lieux*, Olivier Rolin, éditions Gallimard
+- *Poésie verticale*, Roberto Juarroz (trad. R. Munier), éditions Points
+- *Poésie*, Raymond Carver (trad. J. Husset, J-P. Carasso, E. Moses), éditions Points
+- *The Secret History*, Donna Tartt, Knopf Doubleday Publishing Group
+- *Prince captif*, C.S. Pacat (trad. M. Lefort, L. Malagoli), éditions Bragelonne
+- *La hulotte*, éditions Passerage
 
 **Club du 18 mai 2022**
 - *Monsieur Faustini part en voyage*, Wolfgang Hermann (trad. O. Le Lay), éditions Verdier
