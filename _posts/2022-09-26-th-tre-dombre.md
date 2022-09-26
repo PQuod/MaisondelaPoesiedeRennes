@@ -19,4 +19,4 @@ Elle travaille avec les élèves de CE2-CM1 durant 6 jours autour du conte et de
 
 Au cœur de cette scène, les histoires écrites, lues, racontées sont rejouées et filmées. Cette vidéo est diffusée devant les parents d’élèves à l’issue de la résidence, puis dans la commune en mars 2023, à l’occasion du Printemps des Poètes.
 
-*Ce projet bénéficie du soutien financier de la DRAC Bretagne EAC, la DAAC Bretagne et la Commune de Saint-Georges-de-Reintembault.*
+*Ce projet bénéficie du soutien financier de la DRAC Bretagne EAC, de la DAAC Bretagne et de la Commune de Saint-Georges-de-Reintembault.*
