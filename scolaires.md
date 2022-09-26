@@ -24,7 +24,7 @@ Ecrivez à Lucie Desaubliaux, notre médiatrice scolaire : lucie.desaubliaux@mai
 
 10 avril → 4 juin 2023
 
-**[sabrina soyer](/residence/2022/09/03/r-sidence-de-printemps.html)** anime une session de 5 ateliers auprès d'une classe (cycle à définir).
+**[sabrina soyer](/residence/2022/09/03/r-sidence-de-printemps.html)** anime une session de 5 ateliers auprès d'une classe première.
 
 - - -
 
@@ -34,13 +34,13 @@ Ecrivez à Lucie Desaubliaux, notre médiatrice scolaire : lucie.desaubliaux@mai
 
 ### Constance Hinfray
 
-*Dates à définir*
+*Du 9 au16 janvier 2023*
 
 **Constance Hinfray** est en résidence durant une dizaine de jour à l'école de l'Être de Saint-Georges-de-Reintembault. Elle travaille avec les CE2-CM1 autour de la biodiversité présente sur la commune. Une restitution sous la forme d'un théâtre d'ombres a lieu à l'issue de la résidence
 
 ### Coline Pierré
 
-*Dates à définir*
+*Novembre 2022 à avril 2023*
 
 **Coline Pierré** anime 14 ateliers auprès des deux classes de CM1-CM2 de l'école Marie Curie à Redon. Ils travaillent ensemble sur le rapport poésie et musique, en collaboration avec la classe orchestre de l'école. Une vidéo est réalisée durant l'année, d'après les travaux d'écriture des deux classes et une exposition a lieu à l'école à l'issue des ateliers.
 
