@@ -18,3 +18,5 @@ L’artiste plasticienne et chercheuse **Constance Hinfray** est en résidence �
 Elle travaille avec les élèves de CE2-CM1 durant 6 jours autour du conte et des animaux présents dans l’espace urbain. Ils élaborent ensemble des textes entre récit et poésie, qu’ils transforment ensuite avec la fabrication d’un théâtre d’ombre grandeur nature. 
 
 Au cœur de cette scène, les histoires écrites, lues, racontées sont rejouées et filmées. Cette vidéo est diffusée devant les parents d’élèves à l’issue de la résidence, puis dans la commune en mars 2023, à l’occasion du Printemps des Poètes.
+
+*Ce projet bénéficie du soutien financier de la DRAC Bretagne EAC, la DAAC Bretagne et la Commune de Saint-Georges-de-Reintembault.*
