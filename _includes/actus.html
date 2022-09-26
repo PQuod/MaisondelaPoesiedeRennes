@@ -1,6 +1,6 @@
 <!-- Post type breve -->
 <div class="encart">
-  <h2 class="encart_titre color_autres">Brèves</h2>
+  <h2 class="color_autres">Brèves</h2>
   {% assign sortedbreve = site.posts | where: "type", "breve" | sort: "date_debut" %}
   {% for post in sortedbreve %}
     {% include scripts/dates.html %}
@@ -64,7 +64,7 @@
 {% assign sortedpod = site.categories.podcast | sort: 'date_debut' | reverse %}
 {% for post in sortedpod limit:1 %}
 <div class="encart color_pod">
-  <h2 class="encart_titre">Dernier podcast</h2>
+  <h2 class="">Dernier podcast</h2>
   <iframe src="https://anchor.fm/frac-bretagne/embed/episodes/Matire-noire-de-Tho-Robine-Langlois-e19ftk3/a-a6pt3eh" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
   <div class="event_dates">{{ post.title }} &middot; {{post.artiste}} &middot; {{post.dates_publiees}}</div>
@@ -74,7 +74,7 @@
 {% endfor %}
 
 <div class="encart">
-  <h2 class="encart_titre color_asso">Récemment...</h2>
+  <h2 class=" color_asso">Récemment...</h2>
   {% assign sortedjournal = site.journal | sort: 'date' | reverse %}
   {% for post in sortedjournal limit:3 %}
   {% assign counter = counter | plus: 1 %}
