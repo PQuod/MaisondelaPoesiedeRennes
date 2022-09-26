@@ -48,7 +48,7 @@ Marylin Degrenne ([La Balade des Livres](http://www.la-balade-des-livres.fr/)) /
 
 ## Rapports d'activité[](/docs/2020-2021_RapportActivite.pdf)
 
-[Saison 2021-2022](/docs/2020-2021_RapportActivite.pdf) &middot; [Saison 2020-2021](/docs/2020-2021_RapportActivite.pdf) &middot; [Saison 2019-2020](/docs/2019-2020_RapportActivite.pdf) &middot; [Saison 2018-2019](/docs/2018-2019_RapportActivite.pdf) &middot; [Saison 2017-2018](/docs/2017-2018_RapportActivite.pdf)
+[Saison 2021-2022](/docs/2020-2021_RapportActivite.pdf) &middot; [Saison 2020-2021](/docs/2020-2021_RapportActivite.pdf) &middot; [Saison 2019-2020](/docs/2019-2020_RapportActivite.pdf) &middot; [Saison 2018-2019](/imgs/2019_final_screen_rapport-d-activit-.pdf)
 
 - - -
 
