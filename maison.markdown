@@ -56,7 +56,7 @@ Marylin Degrenne ([La Balade des Livres](http://www.la-balade-des-livres.fr/)) /
 
 [Télécharger le bulletin d'adhésion 2022](/imgs/bulletin-d-adh-sion-2022.pdf) (PDF)
 
-L’adhésion est valable une année civile :
+L’adhésion est valable une année civile (de janvier à décembre) :
 
 * 10 euros pour les particuliers
 * Gratuit pour les étudiants et demandeurs d'emploi
