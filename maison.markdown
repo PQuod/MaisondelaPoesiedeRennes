@@ -1,7 +1,7 @@
 ---
 layout: rubrique
-title: "Maison"
-ref: "maison"
+title: Maison
+ref: maison
 permalink: /maison/
 ---
 ## Le projet
@@ -30,7 +30,7 @@ Jardinier : Sébastien Toron
 ### Conseil d'Administration
 
 Co-Présidentes : Nathalie Brillant Rannou et Anne-Marie Klapka\
-Co-Trésorier.ères : Charlotte Beltzung et Anaël Castelein  
+Co-Trésorier.ères : Charlotte Beltzung et Anaël Castelein\
 Co-Secrétaires : Candice Labrousse et Marie Audran\
 Monique Ormevil &middot; Pauline Guémas &middot; Stéphanie Vivier &middot; La Balade des Livres
 
@@ -48,13 +48,13 @@ Marylin Degrenne ([La Balade des Livres](http://www.la-balade-des-livres.fr/)) /
 
 ## Rapports d'activité[](/docs/2020-2021_RapportActivite.pdf)
 
-[Saison 2020-2021](/docs/2020-2021_RapportActivite.pdf) &middot; [Saison 2019-2020](/docs/2019-2020_RapportActivite.pdf) &middot; [Saison 2018-2019](/docs/2018-2019_RapportActivite.pdf) &middot; [Saison 2017-2018](/docs/2017-2018_RapportActivite.pdf)
+[Saison 2021-2022](/docs/2020-2021_RapportActivite.pdf) &middot; [Saison 2020-2021](/docs/2020-2021_RapportActivite.pdf) &middot; [Saison 2019-2020](/docs/2019-2020_RapportActivite.pdf) &middot; [Saison 2018-2019](/docs/2018-2019_RapportActivite.pdf) &middot; [Saison 2017-2018](/docs/2017-2018_RapportActivite.pdf)
 
 - - -
 
 ## Adhésion
 
-[Télécharger le bulletin d'adhésion 2022](/docs/2022_Adhesion.pdf) (PDF)
+[Télécharger le bulletin d'adhésion 2022](/imgs/bulletin-d-adh-sion-2022.pdf) (PDF)
 
 L’adhésion est valable une année civile :
 
