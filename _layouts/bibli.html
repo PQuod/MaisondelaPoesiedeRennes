@@ -10,15 +10,45 @@ layout: default
     {{ page.content | markdownify }}
     </div>
   </div>
-  <h2>Liste des ouvrages</h2>
-  {% assign sorted = site.bibliotheque %}
-    <ul>
+  <h2 class="color_autres">Liste des ouvrages</h2>
+  <input type="radio" name="type" class="checkbox" onclick="sortType(1)"> Poésie Francophone
+  <input type="radio" name="type" class="checkbox" onclick="sortType(3)"> Poésie d'Europe
+  <input type="radio" name="type" class="checkbox" onclick="sortType(4)"> Poésie d'Asie
+  <input type="radio" name="type" class="checkbox" onclick="sortType(5)"> Poésie du Moyen-Orient
+  <input type="radio" name="type" class="checkbox" onclick="sortType(6)"> Poésie des Amériques
+  <input type="radio" name="type" class="checkbox" onclick="sortType(7)"> Poésie d'Afrique
+  <input type="radio" name="type" class="checkbox" onclick="sortType(8)"> Poésie d'Océanie
+  <input type="radio" name="type" class="checkbox" onclick="sortType(10)"> Ouvrages de résidence
+  <input type="radio" name="type" class="checkbox" onclick="sortType(11)"> Poésie jeunesse
+  <input type="radio" name="type" class="checkbox" onclick="sortType(14)"> Anthologies
+  <input type="radio" name="type" class="checkbox" onclick="sortType(15)"> Pédagogie
+  <input type="radio" name="type" class="checkbox" onclick="sortType(16)"> Supports CD & DVD
+  {% assign sorted = site.bibliotheque | sort: 'nom' %}
+
   {% for ouvrage in sorted %}
+  {% assign currentnom = ouvrage.nom %}{% assign currentprenom = ouvrage.prenom %}
+  <ul class="{{ouvrage.ID_categorie}}">
+    {% if prevnom != ouvrage.nom and prevprenom != ouvrage.prenom %}
+      <h3 class="liste_ouvrages_auteurs">{{ ouvrage.nom | upcase}} {{ ouvrage.prenom }}</h3>
+        {% assign prevnom = currentnom %}
+        {% assign prevprenom = currentprenom %}
+      {% endif %}
     <li>
-    <a href="{{ ouvrage.url }}">
-    {{ ouvrage.titre }} &middot; {{ ouvrage.prenom }} {{ ouvrage.nom }}
-    </a>
+      <i>{{ ouvrage.titre }}</i>, {{ ouvrage.editions }}, {{ ouvrage.annee}}, {{ ouvrage.pages}} pages
     </li>
-  {% endfor %}
   </ul>
+  {% endfor %}
+
 </article>
+<script>
+  function sortType(idcat){
+    var divsToHide = document.getElementsByTagName("ul"); //divsToHide is an array
+        for(var i = 0; i < divsToHide.length; i++){
+          divsToHide[i].style.display = "none";
+        }
+    var divsToShow = document.getElementsByClassName(idcat);
+    for(var i = 0; i < divsToShow.length; i++){
+      divsToShow[i].style.display = "block";
+    }
+  }
+</script>
