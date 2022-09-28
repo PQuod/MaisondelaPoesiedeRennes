@@ -70,6 +70,7 @@ collections:
     folder: "_bibliotheque"
     create: true
     slug: "{{titre | slugify }}"
+    summary: "{{titre}} - {{prenom}} {{nom}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "fichebibli"}
       - {label: "Date", name: "date", widget: "datetime", date_format: "DD/MM/YYYY"}
