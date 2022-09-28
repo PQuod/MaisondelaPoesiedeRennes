@@ -89,6 +89,7 @@ collections:
     folder: "_adherents"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    summary: "{{prenom}} {{name}}"
     fields:
       - {label: "Nom", name: "name", widget: "string"}
       - {label: "Prénom", name: "prenom", widget: "string"}
