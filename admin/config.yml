@@ -84,11 +84,17 @@ collections:
       - {label: "Année de parution", name: "annee", widget: "string"}
       - {label: "Nombre de pages", name: "pages", widget: "string"}
       - {label: "Catégorie", name: "ID_categorie", widget: "select", options: [{label: 'Poésie francophone', value: '1'}, {label: "Poésie étrangère - Europe", value: '3'}, {label: "Poésie étrangère - Asie", value: '4'}, {label: "Poésie étrangère - Moyen-Orient", value: '5'}, {label: 'Poésie étrangère - Amériques', value: '6'}, {label: 'Poésie étrangère - Afrique', value: '7'}, {label: 'Poésie étrangère - Océanie', value: '8'}, {label: 'Ouvrages de résidence', value: '10'}, {label: 'Poètes en herbe', value: '11'}, {label: 'Anthologies', value: '14'}, {label: 'Pédagogie', value: '15'}, {label: 'Supports CD & DVD', value: '16'}]}
+      - {label: "Emprunteurs", name: "adherents", widget: "relation", required: false,
+        collection: "adherents",
+        value_field: "name",
+        multiple: true,
+        display_fields: [ "name", "prenom" ],
+        search_fields: [ "name" ] }
   - name: "adherents"
     label: "Adhérents"
     folder: "_adherents"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{nom | slugify}}-{{prenom | slugify}}"
     summary: "{{prenom}} {{name}}"
     fields:
       - {label: "Nom", name: "name", widget: "string"}
