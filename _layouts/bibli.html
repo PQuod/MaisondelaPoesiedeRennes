@@ -10,35 +10,36 @@ layout: default
     {{ page.content | markdownify }}
     </div>
   </div>
-  <h2 class="color_autres">Liste des ouvrages</h2>
-  <input type="radio" name="type" class="checkbox" onclick="sortType(1)"> Poésie Francophone
-  <input type="radio" name="type" class="checkbox" onclick="sortType(3)"> Poésie d'Europe
-  <input type="radio" name="type" class="checkbox" onclick="sortType(4)"> Poésie d'Asie
-  <input type="radio" name="type" class="checkbox" onclick="sortType(5)"> Poésie du Moyen-Orient
-  <input type="radio" name="type" class="checkbox" onclick="sortType(6)"> Poésie des Amériques
-  <input type="radio" name="type" class="checkbox" onclick="sortType(7)"> Poésie d'Afrique
-  <input type="radio" name="type" class="checkbox" onclick="sortType(8)"> Poésie d'Océanie
-  <input type="radio" name="type" class="checkbox" onclick="sortType(10)"> Ouvrages de résidence
-  <input type="radio" name="type" class="checkbox" onclick="sortType(11)"> Poésie jeunesse
-  <input type="radio" name="type" class="checkbox" onclick="sortType(14)"> Anthologies
-  <input type="radio" name="type" class="checkbox" onclick="sortType(15)"> Pédagogie
-  <input type="radio" name="type" class="checkbox" onclick="sortType(16)"> Supports CD & DVD
-  {% assign sorted = site.bibliotheque | sort: 'nom' %}
+  <div style="display:none;">
+    <h2 class="color_autres">Liste des ouvrages</h2>
+    <input type="radio" name="type" class="checkbox" onclick="sortType(1)"> Poésie Francophone
+    <input type="radio" name="type" class="checkbox" onclick="sortType(3)"> Poésie d'Europe
+    <input type="radio" name="type" class="checkbox" onclick="sortType(4)"> Poésie d'Asie
+    <input type="radio" name="type" class="checkbox" onclick="sortType(5)"> Poésie du Moyen-Orient
+    <input type="radio" name="type" class="checkbox" onclick="sortType(6)"> Poésie des Amériques
+    <input type="radio" name="type" class="checkbox" onclick="sortType(7)"> Poésie d'Afrique
+    <input type="radio" name="type" class="checkbox" onclick="sortType(8)"> Poésie d'Océanie
+    <input type="radio" name="type" class="checkbox" onclick="sortType(10)"> Ouvrages de résidence
+    <input type="radio" name="type" class="checkbox" onclick="sortType(11)"> Poésie jeunesse
+    <input type="radio" name="type" class="checkbox" onclick="sortType(14)"> Anthologies
+    <input type="radio" name="type" class="checkbox" onclick="sortType(15)"> Pédagogie
+    <input type="radio" name="type" class="checkbox" onclick="sortType(16)"> Supports CD & DVD
+    {% assign sorted = site.bibliotheque | sort: 'nom' %}
 
-  {% for ouvrage in sorted %}
-  {% assign currentnom = ouvrage.nom %}{% assign currentprenom = ouvrage.prenom %}
-  <ul class="{{ouvrage.ID_categorie}}">
-    {% if prevnom != ouvrage.nom and prevprenom != ouvrage.prenom %}
-      <h3 class="liste_ouvrages_auteurs">{{ ouvrage.nom | upcase}} {{ ouvrage.prenom }}</h3>
-        {% assign prevnom = currentnom %}
-        {% assign prevprenom = currentprenom %}
-      {% endif %}
-    <li>
-      <i>{{ ouvrage.titre }}</i>, {{ ouvrage.editions }}, {{ ouvrage.annee}}, {{ ouvrage.pages}} pages{% if ouvrage.adherents %}, <span class="cercle"></span> emprunté{% endif %}
-    </li>
-  </ul>
-  {% endfor %}
-
+    {% for ouvrage in sorted %}
+    {% assign currentnom = ouvrage.nom %}{% assign currentprenom = ouvrage.prenom %}
+    <ul class="{{ouvrage.ID_categorie}}">
+      {% if prevnom != ouvrage.nom and prevprenom != ouvrage.prenom %}
+        <h3 class="liste_ouvrages_auteurs">{{ ouvrage.nom | upcase}} {{ ouvrage.prenom }}</h3>
+          {% assign prevnom = currentnom %}
+          {% assign prevprenom = currentprenom %}
+        {% endif %}
+      <li>
+        <i>{{ ouvrage.titre }}</i>, {{ ouvrage.editions }}, {{ ouvrage.annee}}, {{ ouvrage.pages}} pages{% if ouvrage.adherents %}, <span class="cercle"></span> emprunté{% endif %}
+      </li>
+    </ul>
+    {% endfor %}
+    </div>
 </article>
 <script>
   function sortType(idcat){
