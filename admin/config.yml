@@ -76,13 +76,13 @@ collections:
       - {label: "Date", name: "date", widget: "datetime", date_format: "DD/MM/YYYY"}
       - {label: "Titre", name: "titre", widget: "string"}
       - {label: "Nom de l'auteur", name: "nom", widget: "string"}
-      - {label: "Prénom de l'auteur", name: "prenom", widget: "string"}
-      - {label: "Co-auteur(s)", name: "coauteur", widget: "string"}
-      - {label: "Traduction", name: "traduction", widget: "string"}
-      - {label: "Infos", name: "infos", widget: "string"}
+      - {label: "Prénom de l'auteur", name: "prenom", widget: "string", required: false}
+      - {label: "Co-auteur(s)", name: "coauteur", widget: "string", required: false}
+      - {label: "Traduction", name: "traduction", widget: "string", required: false}
+      - {label: "Infos", name: "infos", widget: "string", required: false}
       - {label: "Éditions", name: "editions", widget: "string"}
       - {label: "Année de parution", name: "annee", widget: "string"}
-      - {label: "Nombre de pages", name: "pages", widget: "string"}
+      - {label: "Nombre de pages", name: "pages", widget: "string", required: false}
       - {label: "Catégorie", name: "ID_categorie", widget: "select", options: [{label: 'Poésie francophone', value: '1'}, {label: "Poésie étrangère - Europe", value: '3'}, {label: "Poésie étrangère - Asie", value: '4'}, {label: "Poésie étrangère - Moyen-Orient", value: '5'}, {label: 'Poésie étrangère - Amériques', value: '6'}, {label: 'Poésie étrangère - Afrique', value: '7'}, {label: 'Poésie étrangère - Océanie', value: '8'}, {label: 'Ouvrages de résidence', value: '10'}, {label: 'Poètes en herbe', value: '11'}, {label: 'Anthologies', value: '14'}, {label: 'Pédagogie', value: '15'}, {label: 'Supports CD & DVD', value: '16'}]}
       - {label: "Emprunteurs", name: "adherents", widget: "relation", required: false,
         collection: "adherents",
