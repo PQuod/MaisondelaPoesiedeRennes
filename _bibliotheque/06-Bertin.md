@@ -15,7 +15,6 @@ coauteur: ""
 editions: Vanloo
 ID_categorie: "1"
 nombre emprunts: "0"
-adherents:
-  - Desaubliaux
+adherents: []
 id: "2272"
 ---
