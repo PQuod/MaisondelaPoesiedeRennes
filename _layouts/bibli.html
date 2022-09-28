@@ -34,7 +34,7 @@ layout: default
         {% assign prevprenom = currentprenom %}
       {% endif %}
     <li>
-      <i>{{ ouvrage.titre }}</i>, {{ ouvrage.editions }}, {{ ouvrage.annee}}, {{ ouvrage.pages}} pages, {% if ouvrage.adherents != '' %}emprunté{% endif %}
+      <i>{{ ouvrage.titre }}</i>, {{ ouvrage.editions }}, {{ ouvrage.annee}}, {{ ouvrage.pages}} pages{% if ouvrage.adherents %}, <span class="cercle"></span> emprunté{% endif %}
     </li>
   </ul>
   {% endfor %}

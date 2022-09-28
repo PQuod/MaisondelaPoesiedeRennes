@@ -94,7 +94,7 @@ collections:
     label: "Adhérents"
     folder: "_adherents"
     create: true
-    slug: "{{nom | slugify}}-{{prenom | slugify}}"
+    slug: "{{name | slugify}}-{{prenom | slugify}}"
     summary: "{{prenom}} {{name}}"
     fields:
       - {label: "Nom", name: "name", widget: "string"}

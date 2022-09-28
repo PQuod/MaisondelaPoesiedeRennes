@@ -359,6 +359,13 @@ margin-bottom:20px;
   margin-top:var(--line-height);
 }
 
+.cercle{
+  border-radius:50%;
+  background:red;
+  width:10px;
+  height:10px;
+  display:inline-block;
+}
 
 /**Couleurs**/
 .color_res{
