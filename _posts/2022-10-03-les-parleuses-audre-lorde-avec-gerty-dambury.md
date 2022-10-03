@@ -2,7 +2,7 @@
 draft: false
 layout: post
 type: event
-title: "Les Parleuses : Audre Lorde avec Gerty Dambury"
+title: "Les Parleuses : Audre Lorde par Gerty Dambury"
 date: 2022-10-03T12:42:05.703Z
 artiste:
   - Gerty Dambury
