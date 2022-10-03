@@ -1,6 +1,7 @@
 ---
-draft: true
+draft: false
 layout: post
+type: event
 title: Résidence émergence
 date: 2022-09-02T08:03:50.032Z
 artiste:

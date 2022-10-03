@@ -18,13 +18,13 @@ Ecrivez à Lucie Desaubliaux, notre médiatrice scolaire : lucie.desaubliaux@mai
 
 17 octobre → 11 décembre 2022
 
-**[Luc Bénazet](/residence/2022/07/06/r-sidence-dautomne.html)** anime une session de 5 ateliers au collège Simone Veil, à Crevin.
+**[Luc Bénazet](/residence/2022/07/06/r-sidence-dautomne.html)** anime une session de 5 ateliers auprès d'une classe de sixième au collège Simone Veil, à Crevin.
 
 ### Résidence de printemps
 
 10 avril → 4 juin 2023
 
-**[sabrina soyer](/residence/2022/09/03/r-sidence-de-printemps.html)** anime une session de 5 ateliers auprès d'une classe première.
+**[sabrina soyer](/residence/2022/09/03/r-sidence-de-printemps.html)** anime une session de 5 ateliers auprès d'une classe première au lycée Bréquigny, à Rennes.
 
 - - -
 
