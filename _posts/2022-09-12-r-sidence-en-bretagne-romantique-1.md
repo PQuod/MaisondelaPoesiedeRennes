@@ -9,7 +9,7 @@ artiste:
 categories: residence_scolaire
 date_debut: 2019-11-12T12:58:19.319Z
 date_fin: 2020-02-07T12:58:19.398Z
-dates_publiees: 12 novembre → 7 février
+dates_publiees: 12 novembre 2019 → 7 février 2020
 lieu: Tinténiac
 partenaires: Communauté de Communes Bretagne Romantique, DRAC Bretagne
 ---
