@@ -78,10 +78,24 @@ En plus, l'adhésion soutient les activités de notre association et permet l'em
 
 - - -
 
+## Mise à disposition
+
+Les espaces de la villa Beauséjour peuvent être mis à disposition en fonction de vos besoins. En voici la liste : 
+
+- une bibliothèque/salle de travail de 35m²
+- un atelier de 18m²
+- une cuisine de 10m²
+- un jardin d'environ 400m²
+- des sanitaires
+
+Si vous êtes une structure artistique et que vous cherchez à héberger un.e artiste, nous disposons d'un appartement d'environ 40m² avec une salle de bain et une kitchenette. Il peut être mis à disposition en fonction de sa disponibilité, sur des durées allant d'une nuit à une semaine.
+
+Tous les tarifs sont calculés sur mesure, en fonction de la durée de la mise à disposition et des espaces utilisés. Pour les connaître, il suffit de nous écrire : contact@maisondelapoesie-rennes.org
+
+---
+
 ## Bénévolat
 
-Toute l'année, nous sommes à la recherche de bénévoles pour nous aider dans diverses missions en lien avec les activités de notre association.
+Nous ne recherchons pas de bénévoles pour des missions précises. 
 
-Par exemple, accompagner la logistique de nos événements artistiques, enrichir le fonds de notre bibliothèque en suggérant des achats, ou encore animer le lieu en participant au projet potager ou à celui d'atelier.
-
-Les façons de s'investir sont multiples, n'hésitez donc pas à nous écrire : contact@maisondelapoesie-rennes.org
+Le mieux pour intégrer la vie de l'association est de participer aux événements (rencontres, ateliers, club de lecture, etc.), de fréquenter les lieux pour discuter avec les personnes qui sont déjà investies, et d'assister aux temps associatifs officiels comme l'Assemblée Générale, qui a lieu chaque année en juin.
