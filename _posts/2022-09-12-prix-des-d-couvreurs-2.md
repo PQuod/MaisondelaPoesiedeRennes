@@ -10,7 +10,7 @@ artiste:
 categories: scolaires
 date_debut: 2019-04-01T13:17:01.167Z
 date_fin: 2019-04-23T13:17:01.220Z
-dates_publiees: 1er → 03 avril et 23 → 24 avril 2022
+dates_publiees: 1er → 03 avril et 23 → 24 avril 2019
 partenaires: Lycées Jean Guéhenno, La Champagne, Anita Conti, Bréquigny, Renan
   et Jacques Cartier, collège Les Gayeulles
 ---
