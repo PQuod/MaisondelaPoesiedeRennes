@@ -1,21 +1,25 @@
 ---
 layout: bibli
-title: "Bibliothèque"
-ref: "bibliothèque"
+title: Bibliothèque
+ref: bibliothèque
 permalink: /bibli/
 ---
-**La partie bibliothèque du site est encore en construction**
+**Attention : la rubrique "Bibliothèque" du site est encore en construction. Nous vous remercions de votre compréhension.**
 
-La Maison de la Poésie de Rennes possède un fonds spécialisé en poésie contemporaine de plus de 2000 ouvrages, ainsi que des abonnements à des revues.
+La Maison de la Poésie de Rennes possède un fonds spécialisé en poésie contemporaine (~1950 à nos jours) de plus de 4500 ouvrages, répartis ainsi : 
+
+* 2000 ouvrages de poésie francophone
+* 470 ouvrages de poésie en langue étrangère traduite
+* 180 ouvrages de poésie jeunesse
+* 100 anthologies de poésie francophone et étrangère
+* 200 revues de poésie et 2000 numéros
 
 **Abonnement**
 
-La consultation est libre et gratuite pour tous sur place. Pour emprunter, abonnez-vous pour un an (10€ particuliers / 30€ structures). Bulletin d'abonnement à télécharger ou à retirer sur place.
+La consultation est libre et gratuite pour toutes et tous sur place durant nos horaires d'ouverture. 
 
-**Accueil & conseils**
+L'emprunt est possible pour tous les ouvrages de la bibliothèque, après adhésion. Le bulletin d'adhésion se trouve dans la rubrique [Maison](https://maiporennes.fr/maison/), ou peut-être retiré sur place.
 
-Accompagnement et conseils sur les auteurs, les ateliers d'écriture, les adresses utiles et les acteurs du livre dans la ville de Rennes et la région Bretagne.
+**Accueil & conseil**
 
-**Horaires d'ouverture**
-
-Lundi au vendredi, 9 h → 17 h.
+Que vous soyez particulier ou professionnel, débutant ou habitué, l'équipe salariée est à votre disposition pour vous conseiller et vous guider en fonction de vos recherches : thèmes, esthétiques, périodes, zones géographiques, etc.
