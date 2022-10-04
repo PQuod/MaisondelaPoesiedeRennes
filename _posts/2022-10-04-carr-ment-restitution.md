@@ -8,7 +8,7 @@ artiste:
   - Maxime Actis
   - Josèfa Ntjam
   - Laurence Cathala
-  - Théo Robine-Langlois
+  - Théo Robine-Langois
 categories: rencontre
 date_debut: 2021-07-03T08:26:55.665Z
 date_fin: 2021-07-03T08:26:55.711Z
