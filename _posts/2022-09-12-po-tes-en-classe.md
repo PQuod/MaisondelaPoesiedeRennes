@@ -5,8 +5,8 @@ type: event
 title: Poètes en classe
 date: 2022-09-12T12:12:39.029Z
 artiste:
-  - Célestin de Méeûs
   - Xavière Mackay
+  - Célestin de Meeûs
 categories: scolaires
 date_debut: 2020-03-12T13:12:39.108Z
 date_fin: 2020-03-13T13:12:39.175Z
@@ -19,4 +19,4 @@ Tous les deux ans, la Maison de la Poésie propose aux deux artistes invités lo
 
 **Xavière Mackay** rencontre le 12 mars les élèves de CM1-CM2 de l'école Les Lucioles à Baulon et le 13 mars les élèves de CM2 de l'école Duchesse Anne à Rennes.
 
-**Célestin de Méeûs** rencontre les 11 et 12 mars les élèves de CM1 et de CM2 de l'école Les Clôteaux à Rennes.
+**Célestin de Meeûs** rencontre les 11 et 12 mars les élèves de CM1 et de CM2 de l'école Les Clôteaux à Rennes.
