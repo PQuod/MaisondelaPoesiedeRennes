@@ -9,7 +9,7 @@ artiste:
 categories: residence_scolaire
 date_debut: 2018-10-08T12:03:23.405Z
 date_fin: 2018-12-21T13:03:23.452Z
-dates_publiees: 8 octobre → 21 décembre
+dates_publiees: 8 octobre → 21 décembre 2018
 lieu: Bonnemain
 partenaires: Communauté de Communes Bretagne Romantique, DRAC Bretagne
 ---
