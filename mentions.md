@@ -11,6 +11,8 @@ Ce site internet est le site officiel de la Maison de la Poésie de Rennes. Il e
 
 [Lucie Desaubliaux](https://luciedesaubliaux.fr)
 
+Le site est construit avec [Jekyll](https://jekyllrb.com/), déployé par [Netlify](https://www.netlify.com/). La typographie utilisée est [Amaranth](https://www.design-research.be/by-womxn/), par Gesine Todt.
+
 **Logo**
 
 [Julien Posture](https://julienposture.com/)
