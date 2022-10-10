@@ -42,7 +42,7 @@ Marylin Degrenne ([La Balade des Livres](http://www.la-balade-des-livres.fr/)) /
 
 ## Partenaires financiers
 
-[Ville de Rennes](https://metropole.rennes.fr/) &middot; [Région Bretagne](https://www.bretagne.bzh/) &middot; [Département d'Ille-et-Vilaine](https://www.ille-et-vilaine.fr/) &middot; [DRAC Bretagne](http://www.culture.gouv.fr/Regions/Drac-Bretagne) &middot; [Centre National du Livre](https://centrenationaldulivre.fr/) &middot; [SOFIA - Action culturelle](https://www.la-sofia.org/)
+[Ville de Rennes](https://metropole.rennes.fr/) &middot; [Région Bretagne](https://www.bretagne.bzh/) &middot; [Département d'Ille-et-Vilaine](https://www.ille-et-vilaine.fr/) &middot; [DRAC Bretagne](http://www.culture.gouv.fr/Regions/Drac-Bretagne) &middot; [Centre National du Livre](https://centrenationaldulivre.fr/) &middot; [SOFIA - Action culturelle](https://www.la-sofia.org/) &middot; [CFCopies](https://www.cfcopies.com/)
 
 - - -
 
@@ -82,17 +82,17 @@ En plus, l'adhésion soutient les activités de notre association et permet l'em
 
 Les espaces de la villa Beauséjour peuvent être mis à disposition en fonction de vos besoins. En voici la liste : 
 
-- une bibliothèque/salle de travail de 35m²
-- un atelier de 18m²
-- une cuisine de 10m²
-- un jardin d'environ 400m²
-- des sanitaires
+* une bibliothèque/salle de travail de 35m²
+* un atelier de 18m²
+* une cuisine de 10m²
+* un jardin d'environ 400m²
+* des sanitaires
 
 Si vous êtes une structure artistique et que vous cherchez à héberger un.e artiste, nous disposons d'un appartement d'environ 40m² avec une salle de bain et une kitchenette. Il peut être mis à disposition en fonction de sa disponibilité, sur des durées allant d'une nuit à une semaine.
 
 Tous les tarifs sont calculés sur mesure, en fonction de la durée de la mise à disposition et des espaces utilisés. Pour les connaître, il suffit de nous écrire : contact@maisondelapoesie-rennes.org
 
----
+- - -
 
 ## Bénévolat
 
