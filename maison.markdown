@@ -29,14 +29,14 @@ Jardinier : Sébastien Toron
 
 ### Conseil d'Administration
 
-Co-Présidentes : Nathalie Brillant Rannou et Anne-Marie Klapka\
-Co-Trésorier.ères : Charlotte Beltzung et Anaël Castelein\
+Co-Présidentes : Anne-Marie Klapka et Charlotte Beltzung\
+Trésorier : Anaël Castelein\
 Co-Secrétaires : Candice Labrousse et Marie Audran\
 Monique Ormevil &middot; Pauline Guémas &middot; Stéphanie Vivier &middot; La Balade des Livres
 
 ### Membres Fondateurs
 
-Marylin Degrenne ([La Balade des Livres](http://www.la-balade-des-livres.fr/)) / Nathalie Brillant Rannou ([Université Rennes 2](http://www.univ-rennes2.fr/))
+Marylin Degrenne ([La Balade des Livres](http://www.la-balade-des-livres.fr/)) / *En cours de changement* ([Université Rennes 2](http://www.univ-rennes2.fr/))
 
 - - -
 
