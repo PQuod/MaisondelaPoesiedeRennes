@@ -18,4 +18,4 @@ La Maison de la Poésie et la section théâtre du Conservatoire de Rennes s’a
 
 Le groupe travaille du **24 au 27 janvier** avec **Aldo Qureshi** à l’écriture et à la mise en voix de textes, à partir d’un corpus établi ensemble, et de textes originaux. Le but étant d’aborder la mise en voix avec les outils du poète, et non du metteur en scène.
 
-La restitution a lieu en public au Conservatoire de Rennes, le **vendredi 27 janvier à 19h**.
+La restitution a lieu le **vendredi 27 janvier à 19h** en public.
