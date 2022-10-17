@@ -26,4 +26,4 @@ L'artiste **Chantal Bideau** participe également à ce temps de lectures, en pa
 
 **Partenariat**
 
-Le 15 octobre à 19h30, **Branko Čegec** et **Vanda Mikšić** lisent au café-librairie La Clef des mondes (Plélan-Le-Grand, 35) sur invitation de l'association [Dixit Poetic](https://dixitpoetic.fr/).
+Le 15 octobre à 19h30, **Branko Čegec** et **Vanda Mikšić** lisent au café-librairie La Clef des mondes (Plélan-Le-Grand, 35) sur invitation de l'association [Dixit Poetic](https://dixitpoetic.fr/). 
