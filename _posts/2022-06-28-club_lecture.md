@@ -7,8 +7,8 @@ type: event
 title: Club de lecture
 date: 2022-06-28T08:29:30.328Z
 categories: associatif
-date_debut: 2022-10-18T22:00:00.000Z
-date_fin: 2022-10-18T22:00:00.000Z
+date_debut: 2022-10-19T22:00:00.000Z
+date_fin: 2022-10-19T22:00:00.000Z
 dates_publiees: 19 octobre 2022 · 20h → 21h30
 lieu: Maison de la Poésie de Rennes
 ---
