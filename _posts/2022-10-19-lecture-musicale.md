@@ -20,4 +20,4 @@ tarif: Entrée libre et gratuite
 
 Il est accompagné pour cette lecture par le trompettiste **Louis Laurain**, avec qui il collabore sous le nom La Muse en circuit. Une captation de la performance qu'ils ont réalisée en mars 2021 au festival Les Echappées est [disponible sur YouTube](https://www.youtube.com/watch?v=NhLLYenEULI).
 
-Des exemplaires de *La Masse forêt* seront disponibles à la vente à l'issue de la lecture.
+Des exemplaires de *La Masse forêt* sont disponibles à la vente à l'issue de la lecture.
