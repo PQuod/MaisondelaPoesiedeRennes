@@ -1,3 +1,4 @@
+=begin
 require 'dotenv/load'
 require 'airtable'
 require 'active_support/all'
@@ -11,3 +12,4 @@ File.open("_data/#{ENV['AIRTABLE_TABLE']}.yml", 'w') do |file|
 
   file.write(warning, data.to_yaml)
 end
+=end
