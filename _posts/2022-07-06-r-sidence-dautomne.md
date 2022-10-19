@@ -19,6 +19,10 @@ Le développement de ce projet demande un travail *à la table*, pour former le 
 
 L'exploration des techniques de prise de son et la production d'un matériau sonore bruitiste ouvrent des possibilités de croisement avec d'autres pratiques.
 
+**Rencontre publique**
+
+Le 8 décembre, Luc Bénazet invite le trompettiste Louis Laurain pour une lecture de son livre *La Masse forêt*.
+
 **Rencontres scolaires**
 
 Luc Bénazet anime :
