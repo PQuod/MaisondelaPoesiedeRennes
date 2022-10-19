@@ -20,7 +20,7 @@ Elle conduit sa démarche avec le souci permanent de favoriser l’accès du plu
 
 ## L'équipe
 
-### Salarié.e.s
+### Salarié.es
 
 Direction : Quentin Leclerc\
 Médiation scolaire : Lucie Desaubliaux\
@@ -32,7 +32,7 @@ Jardinier : Sébastien Toron
 Co-Présidentes : Anne-Marie Klapka et Charlotte Beltzung\
 Trésorier : Anaël Castelein\
 Co-Secrétaires : Candice Labrousse et Marie Audran\
-Monique Ormevil &middot; Pauline Guémas &middot; Stéphanie Vivier &middot; La Balade des Livres
+Monique Ormevil &middot; Pauline Guémas &middot; Stéphanie Vivier
 
 ### Membres Fondateurs
 
