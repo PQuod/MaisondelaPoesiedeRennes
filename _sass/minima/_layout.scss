@@ -355,8 +355,13 @@ margin-bottom:20px;
 }
 
 /** Page_bibli **/
-.liste_ouvrages_auteurs{
+.liste_types, .liste_alpha, .liste_ouvrages_auteurs{
   margin-top:var(--line-height);
+}
+
+.type_label{
+  font-size:20px;
+  margin-right: 10px;
 }
 
 .cercle{
@@ -367,6 +372,17 @@ margin-bottom:20px;
   display:inline-block;
 }
 
+.sommaire-bibli{
+   li{
+  list-style:none;
+  display:inline-block;
+  margin-right:5px;
+  }
+
+  a{
+    text-decoration: none;
+  }
+}
 /**Couleurs**/
 .color_res{
   background-color:var(--color_res);

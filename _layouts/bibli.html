@@ -5,51 +5,38 @@ layout: default
   <div class="header_page color_autres ">
     <div class="titre_page"><h1>{{ page.title }}</h1></div>
   </div>
+  <div class="sommaire sommaire-bibli">
+    <h3>Chercher un ouvrage par ordre alphabétique</h3>
+  </div>
   <div class="post_descript">
     <div class="sommaire-content">
     {{ page.content | markdownify }}
     </div>
   </div>
-  <div style="display:none;">
     <h2 class="color_autres">Liste des ouvrages</h2>
-    <input type="radio" name="type" class="checkbox" onclick="sortType(1)"> Poésie Francophone
-    <input type="radio" name="type" class="checkbox" onclick="sortType(3)"> Poésie d'Europe
-    <input type="radio" name="type" class="checkbox" onclick="sortType(4)"> Poésie d'Asie
-    <input type="radio" name="type" class="checkbox" onclick="sortType(5)"> Poésie du Moyen-Orient
-    <input type="radio" name="type" class="checkbox" onclick="sortType(6)"> Poésie des Amériques
-    <input type="radio" name="type" class="checkbox" onclick="sortType(7)"> Poésie d'Afrique
-    <input type="radio" name="type" class="checkbox" onclick="sortType(8)"> Poésie d'Océanie
-    <input type="radio" name="type" class="checkbox" onclick="sortType(10)"> Ouvrages de résidence
-    <input type="radio" name="type" class="checkbox" onclick="sortType(11)"> Poésie jeunesse
-    <input type="radio" name="type" class="checkbox" onclick="sortType(14)"> Anthologies
-    <input type="radio" name="type" class="checkbox" onclick="sortType(15)"> Pédagogie
-    <input type="radio" name="type" class="checkbox" onclick="sortType(16)"> Supports CD & DVD
-    {% assign sorted = site.bibliotheque | sort: 'nom' %}
-
-    {% for ouvrage in sorted %}
-    {% assign currentnom = ouvrage.nom %}{% assign currentprenom = ouvrage.prenom %}
-    <ul class="{{ouvrage.ID_categorie}}">
-      {% if prevnom != ouvrage.nom and prevprenom != ouvrage.prenom %}
-        <h3 class="liste_ouvrages_auteurs">{{ ouvrage.nom | upcase}} {{ ouvrage.prenom }}</h3>
-          {% assign prevnom = currentnom %}
-          {% assign prevprenom = currentprenom %}
-        {% endif %}
-      <li>
-        <i>{{ ouvrage.titre }}</i>, {{ ouvrage.editions }}, {{ ouvrage.annee}}, {{ ouvrage.pages}} pages{% if ouvrage.adherents %}, <span class="cercle"></span> emprunté{% endif %}
-      </li>
-    </ul>
-    {% endfor %}
+    <div class="sommaire-content">
+      {% assign sorted = site.data.ouvrages | sort: 'nom' %}
+      {% assign count = 0 %}
+      {% for ouvrage in sorted %}
+      {% capture count %}{{ count | plus:1 }}{% endcapture %}
+        {% assign currentnom = ouvrage.nom %}{% assign currentprenom = ouvrage.prenom %}
+        {% capture firstletter %}{{ ouvrage.nom | slice: 0 }}{% endcapture %}
+        <ul class="{{ouvrage.ID_categorie}}">
+          {% if prevletter != firstletter %}
+            <h2 class="liste_alpha" id="#{{ firstletter }}">{{ firstletter }}</h2>
+            {% assign prevletter = firstletter %}
+          {% endif %}
+          {% if prevnom != ouvrage.nom and prevprenom != ouvrage.prenom %}
+            <h3 class="liste_ouvrages_auteurs">{{ ouvrage.nom | upcase}} {{ ouvrage.prenom }}</h3>
+            {% assign prevnom = currentnom %}
+            {% assign prevprenom = currentprenom %}
+          {% endif %}
+          <li>
+            <i>{{ ouvrage.titre }}</i>, {{ ouvrage.editions }}, {{ ouvrage.annee}}, {{ ouvrage.pages}} pages{% if ouvrage.id_emprunt and ouvrage.id_emprunt != 'NULL' %}, <span class="cercle"></span> emprunté{% endif %}
+          </li>
+        </ul>
+        {% endfor %}
+        {{ count }}
     </div>
 </article>
-<script>
-  function sortType(idcat){
-    var divsToHide = document.getElementsByTagName("ul"); //divsToHide is an array
-        for(var i = 0; i < divsToHide.length; i++){
-          divsToHide[i].style.display = "none";
-        }
-    var divsToShow = document.getElementsByClassName(idcat);
-    for(var i = 0; i < divsToShow.length; i++){
-      divsToShow[i].style.display = "block";
-    }
-  }
-</script>
+{% include scripts/sommaire.html %}

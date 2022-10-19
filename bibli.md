@@ -6,7 +6,7 @@ permalink: /bibli/
 ---
 **Attention : la rubrique "Bibliothèque" du site est encore en construction. Nous vous remercions de votre compréhension.**
 
-La Maison de la Poésie de Rennes possède un fonds spécialisé en poésie contemporaine (~1950 à nos jours) de plus de 4500 ouvrages, répartis ainsi : 
+La Maison de la Poésie de Rennes possède un fonds spécialisé en poésie contemporaine (~1950 à nos jours) de plus de 4500 ouvrages, répartis ainsi :
 
 * 2000 ouvrages de poésie francophone
 * 470 ouvrages de poésie en langue étrangère traduite
@@ -16,7 +16,7 @@ La Maison de la Poésie de Rennes possède un fonds spécialisé en poésie cont
 
 **Abonnement**
 
-La consultation est libre et gratuite pour toutes et tous sur place durant nos horaires d'ouverture. 
+La consultation est libre et gratuite pour toutes et tous sur place durant nos horaires d'ouverture.
 
 L'emprunt est possible pour tous les ouvrages de la bibliothèque, après adhésion. Le bulletin d'adhésion peut être [téléchargé en cliquant sur ce lien](https://maiporennes.fr/imgs/bulletin-d-adh-sion-2022.pdf)[](https://maiporennes.fr/maison/), ou être retiré sur place.
 
