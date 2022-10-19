@@ -17,10 +17,10 @@ Pour accompagner la création de son premier manuscrit, rédigé pendant [sa ré
 
 Ce sera l’occasion de se réunir pour terminer ensemble la quête qui l'anime depuis le début de son écriture : fabriquer une armure de dragon.
 
-L'occasion de (re)découvrir la contrée de Bordeciel, les personnages et les mécaniques de jeux qui traversent le recueil de poésie en cours.
+L'occasion aussi de (re)découvrir la contrée de Bordeciel, les personnages et les mécaniques de jeux qui traversent le recueil de poésie en cours.
 
 Après l'intervention vidéoludique et le forgeage collectif de l'armure, Saumure, l'avatar utilisé durant le *let's play*, sera à disposition pour que les spectateurices puissent, à leur tour, jouer à *Skyrim*.
 
 En bonus : une bibliothèque virtuelle regroupant tous les livres récoltés au cours de l'aventure, et une visite guidée des meilleures forges de Bordeciel.
 
-Il y aura aussi des pizzas.
+Et des pizzas.
