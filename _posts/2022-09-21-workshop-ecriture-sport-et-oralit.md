@@ -8,7 +8,7 @@ artiste:
   - Pauline Allié
 categories: scolaires
 date_debut: 2022-10-17T07:48:37.051Z
-date_fin: 2022-10-19T07:48:37.158Z
+date_fin: 2022-10-18T07:48:37.158Z
 dates_publiees: 17 → 19 octobre 2022
 lieu: Université Rennes 2
 partenaires: Université Rennes 2, UFR Arts Lettres et Communication
