@@ -7,9 +7,9 @@ type: event
 title: Club de lecture
 date: 2022-06-28T08:29:30.328Z
 categories: associatif
-date_debut: 2022-10-19T22:00:00.000Z
-date_fin: 2022-10-19T22:00:00.000Z
-dates_publiees: 19 octobre 2022 · 20h → 21h30
+date_debut: 2022-11-15T23:00:00.000Z
+date_fin: 2022-11-15T23:00:00.000Z
+dates_publiees: 16 novembre 2022 · 20h → 21h30
 lieu: Maison de la Poésie de Rennes
 ---
 ## Fonctionnement
@@ -28,6 +28,14 @@ Vous trouverez ci-dessous tous les livres conseillés ces dernières années par
 ---
 
 ## 2022
+
+**Club du 19 octobre 2022**
+- *Ecrits esthétiques*, Charles Baudelaire, éditions 10/18
+- *Vingt ans de poésie : Anthologie de la poésie en Belgique francophone (2000-2020)*, Collectif, éditions Espace nord
+- *Je t'aime comme*, Milène Tournier, éditions Lurlure
+- *Les Mystères d'Udolphe*, Ann Radcliffe (trad. M. Lévy), éditions Folio
+- *Pigeons, escargots et tortues*, Ayako Ozaki (trad. S. Guillot), éditions Shin Manga
+- *Les couleurs de l'ombre*, Khaled Miloudi, éditions Equateurs
 
 **Club du 21 septembre 2022**
 - *Vider les lieux*, Olivier Rolin, éditions Gallimard
