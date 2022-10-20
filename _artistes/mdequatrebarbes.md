@@ -3,7 +3,7 @@ layout: post
 titre: mdequatrebarbes
 name: Marie de Quatrebarbes
 ---
-**Marie de Quatrebarbes** a publié plusieurs livres de poésie, parmi lesquels *Les vivres*, (POL, 2021), *Voguer* (POL, 2019) et un roman, *Aby* (POL, 2022).
+**Marie de Quatrebarbes** a publié plusieurs livres de poésie, parmi lesquels *Les vivres* (POL, 2021), *Voguer* (POL, 2019) et un roman, *Aby* (POL, 2022).
 
 Elle a dirigé *Madame tout le monde* (Le Corridor bleu, 2022), une anthologie de la nouvelle génération de poésie contemporaine.
 
