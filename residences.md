@@ -1,7 +1,7 @@
 ---
 layout: rubrique
-title: "Résidences"
-ref: "residences"
+title: Résidences
+ref: residences
 permalink: /residences/
 ---
 ## Résidence de création
@@ -46,7 +46,7 @@ Les candidat.es sélectionné.es sont contacté.es par email.
 
 Dépôt des dossiers : jusqu'au 31 août 2023\
 Commission de sélection : septembre 2023\
-Annonce des sélectionné.es : 31 septembre 2023\
+Annonce des sélectionné.es : 30 septembre 2023\
 Accueil des premières résidences : octobre 2024
 
 **Procédures de candidature**
@@ -69,7 +69,7 @@ Lors de cette résidence, tout peut être sujet à écriture ou enregistrement :
 
 *Les résident.es qui participent à ce format sont sélectionné.es en concertation par les équipes de la Maison de la Poésie et du Frac Bretagne.*
 
----
+- - -
 
 ## Résidence émergence
 
@@ -81,7 +81,7 @@ Cette résidence est dédiée à 100 % à la création, mais des moments de renc
 
 *Les résident.es qui participent à ce format sont sélectionné.es en interne par la Maison de la Poésie.*
 
----
+- - -
 
 ## Liste des résident.es
 
