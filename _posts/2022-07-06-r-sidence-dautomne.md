@@ -21,12 +21,13 @@ L'exploration des techniques de prise de son et la production d'un matériau son
 
 **Rencontre publique**
 
-Le 8 décembre, Luc Bénazet invite le trompettiste Louis Laurain pour une lecture de son livre *La Masse forêt*.
+Le 8 décembre, [Luc Bénazet invite le trompettiste Louis Laurain](https://maiporennes.fr/rencontre/2022/10/19/lecture-musicale.html) pour une lecture de son livre *La Masse forêt*.
 
 **Rencontres scolaires**
 
 Luc Bénazet anime :
-- 5 ateliers auprès d'une classe de 6ème du collège Simone Veil, à Crevin, les 10 et 24 novembre, ainsi que le 1er décembre.
-- 4 ateliers auprès d'étudiants de 3ème année de Design Graphique à L'IFFDEC, les 14, 15, 21 et 28 novembre.
+
+* 5 ateliers auprès d'une classe de 6ème du collège Simone Veil, à Crevin, les 10 et 24 novembre, ainsi que le 1er décembre.
+* 4 ateliers auprès d'étudiants de 3ème année de Design Graphique à L'IFFDEC, les 14, 15, 21 et 28 novembre.
 
 *Ce projet bénéficie du soutien financier de la Région Bretagne et de la DRAC Bretagne.*
