@@ -36,7 +36,7 @@ Monique Ormevil &middot; Pauline Guémas &middot; Stéphanie Vivier
 
 ### Membres Fondateurs
 
-Marylin Degrenne ([La Balade des Livres](http://www.la-balade-des-livres.fr/)) / *En cours de changement* ([Université Rennes 2](http://www.univ-rennes2.fr/))
+François Trémolières ([Université Rennes 2](http://www.univ-rennes2.fr/)) &middot; Marylin Degrenne ([La Balade des Livres](http://www.la-balade-des-livres.fr/)) 
 
 - - -
 
