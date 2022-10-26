@@ -34,7 +34,8 @@ Vous trouverez ci-dessous tous les livres conseillés ces dernières années par
 - *Vingt ans de poésie : Anthologie de la poésie en Belgique francophone (2000-2020)*, Collectif, éditions Espace nord
 - *Je t'aime comme*, Milène Tournier, éditions Lurlure
 - *Les Mystères d'Udolphe*, Ann Radcliffe (trad. M. Lévy), éditions Folio
-- *Pigeons, escargots et tortues*, Ayako Ozaki (trad. S. Guillot), éditions Shin Manga
+- *Nevernight : N'oublie jamais*, Jay Kristoff (trad. S. Guillot), éditions De Saxus
+- *Pigeons, escargots et tortues*, Ayako Ozaki, éditions Shin Manga
 - *Les couleurs de l'ombre*, Khaled Miloudi, éditions Equateurs
 
 **Club du 21 septembre 2022**
