@@ -19,7 +19,7 @@ Le site est construit avec [Jekyll](https://jekyllrb.com/), déployé par [Netli
 
 **Hébergement**
 
-[OVH](https://www.ovh.com/fr/)
+[GitHub](https://github.com/)
 
 **Photographies**
 
