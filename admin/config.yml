@@ -64,6 +64,7 @@ collections:
       - {label: "Lieu", name: "lieu", widget: "string", required: false}
       - {label: "Tarif", name: "tarif", widget: "string", required: false}
       - {label: "Partenaire(s)", name: "partenaires", widget: "string", required: false}
+      - {label: "Url du podcast", name: "iframeurl", widget: "string", required: false}
       - {label: 'Description', name: 'body', widget: 'markdown'}
   - name: "bibliotheque"
     label: "Bibliothèque"
