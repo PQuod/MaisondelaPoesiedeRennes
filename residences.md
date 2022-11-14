@@ -50,7 +50,7 @@ Accueil des premières résidences : octobre 2024
 
 **Procédures de candidature**
 
-Le formulaire est à remplir et à renvoyer avec les pièces jointes obligatoires par email ou par courrier. Tout dossier incomplet ne sera pas pris en compte. 
+Le dossier de candidature est à remplir et à renvoyer avec les pièces jointes obligatoires par email ou par courrier. Tout dossier incomplet ne sera pas pris en compte. 
 
 Il appartient au candidat ou à la candidate de s'assurer que toutes les pièces demandées sont présentes, dans les bons formats et avec la mise en page adéquate.
 
