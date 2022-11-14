@@ -8,7 +8,7 @@ permalink: /residences/
 
 **Dispositif**
 
-Chaque saison, à l'automne et au printemps, la Maison de la Poésie accueille deux résidences de création.
+Chaque saison, à l'automne (octobre-décembre) et au printemps (avril-juin), la Maison de la Poésie accueille deux résidences de création.
 
 Elles sont **réservées à des projets d'écriture de poésie ou de prose poétique**, pour des artistes-auteurs francophones ayant publié au moins un livre à compte d'éditeur.
 
@@ -21,7 +21,7 @@ Elles ont deux enjeux principaux :
 
 Les résidences sont accueillies au premier étage de la villa Beauséjour, au 47 rue Armand Rébillon, dans un appartement de 40m2 avec un coin chambre, un coin salon, une kitchenette et une salle de bain.
 
-Le rez-de-chaussée de la villa Beauséjour comprend également une bibliothèque de plus de 3000 ouvrages de poésie contemporaine et un atelier de micro-édition.
+Le rez-de-chaussée de la villa Beauséjour comprend une bibliothèque de plus de 3000 références de poésie contemporaine et un atelier de micro-édition.
 
 **Durée du séjour**
 
@@ -31,14 +31,13 @@ Le rez-de-chaussée de la villa Beauséjour comprend également une bibliothèqu
 
 1. Une bourse de 2000 euros brut en droits d'auteur par mois de résidence.  
 2. Un aller-retour depuis le domicile en train ou en voiture.  
-3. 50 euros de courses à l'arrivée, 100 euros de documentation, et une carte de transport en commun avec 10 trajets.  
-4. Un vélo mis à disposition.
+3. 100 euros de documentation.
 
 **Processus de sélection**
 
-Les résident.es sont sélectionné.es sur dossier par le comité artistique de l'association, composé de 7 à 10 membres selon les saisons.
+Les résident.es sont sélectionné.es sur dossier par la commission Programmation de l'association, composée de 7 à 10 membres adhérents selon les saisons.
 
-L'évaluation des dossiers se fait sur la qualité et l'originalité du projet envisagé durant le temps de résidence.
+L'évaluation des dossiers se fait sur la qualité et l'originalité du projet envisagé durant le temps de résidence, ainsi que sur les autres opportunités de bourses ou de résidences dans la même période (une année plus tôt et une année plus tard).
 
 Les candidat.es sélectionné.es sont contacté.es par email.
 
@@ -51,7 +50,9 @@ Accueil des premières résidences : octobre 2024
 
 **Procédures de candidature**
 
-Le formulaire est à remplir et à renvoyer par email ou par courrier. Tout dossier incomplet ne sera pas pris en compte. Il appartient au candidat ou à la candidate de s'assurer que toutes les pièces demandées sont présentes.
+Le formulaire est à remplir et à renvoyer avec les pièces jointes obligatoires par email ou par courrier. Tout dossier incomplet ne sera pas pris en compte. 
+
+Il appartient au candidat ou à la candidate de s'assurer que toutes les pièces demandées sont présentes, dans les bons formats et avec la mise en page adéquate.
 
 ## Postuler
 
