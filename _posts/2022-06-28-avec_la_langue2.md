@@ -1,6 +1,7 @@
 ---
 layout: post
 name: Avec la Langue
+type: event
 title: "Résidence Avec la langue #2"
 date: 2022-06-28T08:15:16.447Z
 artiste:
@@ -19,3 +20,7 @@ Du 20 juin au 3 juillet, puis du 3 au 16 octobre, l’autrice **Pauline Allié**
 Lors de cette résidence, tout peut être sujet à écriture ou enregistrement : les gens qui parlent, le reflet de la pelouse, quelqu’un.e qui mange dans les escaliers, une grappe d’adolescent.e.s, le bruit d’un pull, et d’autres sons auxquels on ne pense pas forcément.
 
 *Avec la langue* imagine qu’il est possible de faire un portrait personnel du Frac Bretagne à partir de cette expérience immersive.
+
+**Restitution**
+
+L'enregistrement d'*Echo*, la lecture qui a eu lieu le 20 octobre pour conclure la résidence, est disponible [en cliquant sur ce lien](https://maiporennes.fr/podcast/2022/11/14/echo.html).
