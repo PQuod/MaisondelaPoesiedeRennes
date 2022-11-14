@@ -17,11 +17,11 @@ tarif: Entrée libre et gratuite
 ---
 Un concept hyper simple.
 
-Pendant 1 heure, au BabaZula, des lectures de poésie.
+Pendant une heure, au BabaZula, des lectures de poésie.
 
 Cette fois, c’est avec :
 - Morgan Azaroff
 - Inès Dobelle
-- Claude Favre.
+- Claude Favre
 
-Prix libre, restauration sur place, tranquillement.
+Restauration et boisson sur place, tranquillement.
