@@ -10,6 +10,7 @@ categories: scolaires
 date_debut: 2023-03-09T14:31:13.175Z
 date_fin: 2023-03-23T14:31:13.220Z
 dates_publiees: 9 → 23 mars 2023
+lieu: Rennes
 partenaires: Collège Les Gayeulles, école Jean Rostand
 ---
 L’autrice **Jenny Dahan**, poète et musicienne, donne 4 ateliers d’écriture avec une classe de CM2 de l’école Jean Rostand et une classe de 6ème du collège les Gayeulles, autour de la poésie dite et écoutée, de la musicalité des mots et de la lecture à voix haute.
