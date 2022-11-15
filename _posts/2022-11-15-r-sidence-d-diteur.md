@@ -28,3 +28,5 @@ L'équipe de travail comprend Farhad Mohamadi, Mahmoud Chokrollahi et l'éditric
 **Rencontres**
 
 Quatre rencontres auprès de publics spécifiques ont lieu durant cette résidence. Elles seront annoncées prochainement.
+
+*Cette résidence bénéficie du soutien financier de Livre et Lecture en Bretagne et de Normandie Livre et Lecture.*
