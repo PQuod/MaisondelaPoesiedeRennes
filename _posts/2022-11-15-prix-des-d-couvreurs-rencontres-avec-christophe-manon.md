@@ -11,6 +11,7 @@ categories: scolaires
 date_debut: 2023-03-06T14:05:42.760Z
 date_fin: 2023-04-07T13:05:42.802Z
 dates_publiees: 06 → 10 mars & 03 → 07 avril 2023
+lieu: Région Bretagne
 partenaires: Lycée de L'Elorn, lycée Jean Guéhenno, collège Théodore Monod,
   collège Simone Veil, collège Les Ormeaux, collège Bourgchevreuil, lycée
   Benjamin Franklin
