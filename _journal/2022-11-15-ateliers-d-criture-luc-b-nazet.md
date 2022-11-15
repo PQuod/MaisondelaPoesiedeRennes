@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 layout: post
 title: Ateliers d'écriture - Luc Bénazet
 date: 2022-11-15T14:45:57.669Z
