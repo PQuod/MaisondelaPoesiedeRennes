@@ -19,3 +19,5 @@ lieu: Maison de la Poésie de Rennes
 Le projet s'intitule *Poèmes-plombiers*, et sabrina soyer y a comme intention lyrique d'écrire aux rivières les plus beaux vers saphiques, comme s'il s'agissait d'une grande tribade. Ce projet intègre aussi les dimensions économiques, politiques et technologiques, en fonction de qui s'occupe d'exploiter, recadrer, traiter et payer cette eau.
 
 > Ces sujets techniques dont on délègue le savoir qu'ils créent aux sphères technocratiques paraissent peu sexy pour le poème. Pourquoi ? Le lyrisme masculin qui célèbre la vie de l'eau aurait-il peur de tomber amoureux d'un cyborg ?
+
+sabrina donne cinq ateliers avec une classe de première du lycée Bréquigny (Rennes).
