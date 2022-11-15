@@ -21,8 +21,8 @@ Les poètes Christophe Manon et Claude Favre sont invités à rencontrer des él
 
 Ces rencontres sont préparées en amont par les enseignants et les enseignantes, à travers une approche créative du texte. Les élèves écrivent alors « à la manière de », mettent en voix leurs créations ou les regroupent à travers un travail éditorial. Les rencontres organisées avec les artistes sont ensuite l’occasion d’un échange, d’une découverte de l’oeuvre de chacun, élève comme poète, et de discussions sur le processus créatif et l’acte poétique.
 
-Christophe Manon rencontre, du **06 au 10 mars**, les élèves de première du lycée de l'Elorn (Landerneau), les élèves de seconde du lycée Jean Guéhenno (Fougères) et les élèves de troisième des collèges Théodore Monod (Vern-sur-Seiche) et Simone Veil (Crevin).
+**Christophe Manon** rencontre, du **06 au 10 mars**, les élèves de première du lycée de l'Elorn (Landerneau), les élèves de seconde du lycée Jean Guéhenno (Fougères) et les élèves de troisième des collèges Théodore Monod (Vern-sur-Seiche) et Simone Veil (Crevin).
 
-Claude Favre rencontre, du **03 au 07 avril**, les élèves du lycée Benjamin Franklin (Auray), et les élèves de troisième des collèges Les Ormeaux (Rennes) et Bourgchevreuil (Rennes).
+**Claude Favre** rencontre, du **03 au 07 avril**, les élèves du lycée Benjamin Franklin (Auray), et les élèves de troisième des collèges Les Ormeaux (Rennes) et Bourgchevreuil (Rennes).
 
 **Il reste encore deux créneaux de rencontre possibles avec Christophe Manon et deux autres avec Claude Favre. Ces rencontres sont dédiées aux élèves de la troisième à la terminale. Si une telle rencontre vous intéresse pour votre classe, n'hésitez pas à nous écrire.**
