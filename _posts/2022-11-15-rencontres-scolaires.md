@@ -16,4 +16,4 @@ Si vous souhaitez organiser une rencontre dans votre classe, des créneaux sont 
 
 **Du CP au CM2** : Ateliers d'écriture avec Lucile Haute, Martin Desinde ou Anne-Sarah Huet au mois de mars 2023
 
-N'hésitez pas à nous écrire pour en savoir plus !
+N'hésitez pas à nous écrire pour en savoir plus.
