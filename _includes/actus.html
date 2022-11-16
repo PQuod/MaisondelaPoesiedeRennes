@@ -5,7 +5,6 @@
       <h2 class="color_autres">Brèves</h2>
     {% for post in sortedbreve %}
       {% include scripts/dates.html %}
-      {% if post.draft != true %}
         {% if debutdate >= nowdate %}
           <div class="breve">
             <h4>{{ post.title }}</h4>
@@ -13,7 +12,6 @@
             <div class="event_dates">{{ post.content }}</div>
           </div>
         {% endif %}
-      {% endif %}
     {% endfor %}
   </div>
 {% endif %}
