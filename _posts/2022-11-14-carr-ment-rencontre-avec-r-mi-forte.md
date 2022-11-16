@@ -23,3 +23,5 @@ Pour reprendre la présentation de son travail *Programme poétique, système ty
 >  En réponse à la massification de la production de textes liée à l’essor d’Internet, comment développer une pratique de la poésie par l’appropriation de textes issus du web ? Cette approche poétique s’incarne par le développement de protocoles d’écritures, le prélèvement de fragments textuels en ligne, l’utilisation de fonctions propres aux outils numériques tels que « copier / coller » ou encore la programmation d’algorithmes. 
 
 Rémi Forte travaille toute la semaine à la production de poèmes réalisés à l'aide de son *pen plotter*. Voici [un lien vers une courte vidéo](https://twitter.com/rmfrt/status/1563932100729905153) qui montre la machine en action. Vous pouvez rendre visite à Rémi Forte et découvrir sa machine à l'Edulab Pasteur du lundi au jeudi de 9h à 18h.
+
+*Le projet* Carrément *bénéficie du soutien financier du Centre National du Livre, du CFCopies et de la Sofia - Action Culturelle.*
