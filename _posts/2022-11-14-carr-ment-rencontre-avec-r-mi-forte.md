@@ -2,7 +2,7 @@
 draft: false
 layout: post
 type: event
-title: "Carrément : Rencontre avec Rémi Forte"
+title: "Rencontre : Programme poétique, système typographique"
 date: 2022-11-14T13:51:26.097Z
 artiste:
   - Rémi Forte
