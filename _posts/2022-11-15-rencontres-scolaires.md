@@ -6,7 +6,7 @@ title: Rencontres scolaires
 date: 2022-11-15T14:35:27.585Z
 artiste: []
 categories: scolaires
-date_debut: 2022-11-15T14:35:27.659Z
+date_debut: 2022-11-16T14:35:27.659Z
 date_fin: 2022-12-31T14:35:27.721Z
 dates_publiees: Mars & avril 2023
 ---
