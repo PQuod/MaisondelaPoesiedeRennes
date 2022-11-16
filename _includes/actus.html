@@ -6,6 +6,7 @@
     {% for post in sortedbreve %}
       {% include scripts/dates.html %}
         {% if debutdate >= nowdate %}
+        
           <div class="breve">
             <h4>{{ post.title }}</h4>
             <div class="event_dates">{{ post.dates_publiees }}</div>
