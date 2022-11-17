@@ -7,9 +7,9 @@ type: event
 title: Club de lecture
 date: 2022-06-28T08:29:30.328Z
 categories: associatif
-date_debut: 2022-11-15T23:00:00.000Z
-date_fin: 2022-11-16T23:00:00.000Z
-dates_publiees: 16 novembre 2022 · 20h → 21h30
+date_debut: 2023-01-17T23:00:00.000Z
+date_fin: 2023-01-18T23:00:00.000Z
+dates_publiees: 19 janvier 2023 · 20h → 21h30
 lieu: Maison de la Poésie de Rennes
 ---
 ## Fonctionnement
@@ -28,6 +28,16 @@ Vous trouverez ci-dessous tous les livres conseillés ces dernières années par
 ---
 
 ## 2022
+
+*Le club du 18 décembre 2022 n'a pas lieu suite à la fermeture de la Maison de la Poésie pour les congés de Noël.*
+
+**Club du 16 novembre 2022**
+- *Bruges-la-Morte*, Georges Rodenbach, éditions GF Flammarion
+- *L'Empire du vampire*, Jay Kristoff (trad. B. Domis), éditions De Saxus
+- *Avoir un corps*, Brigitte Giraud, éditions J'ai lu
+- *Scalps*, Eric Chevillard, éditions Fata Morgana
+- *e bientôt muet*, Bernard Chambaz, éditions Flammarion/Poésie
+- *Prison-palais*, Martin Högström (trad. D. Lespiau et l'auteur), éditions Eric Pesty
 
 **Club du 19 octobre 2022**
 - *Ecrits esthétiques*, Charles Baudelaire, éditions 10/18
