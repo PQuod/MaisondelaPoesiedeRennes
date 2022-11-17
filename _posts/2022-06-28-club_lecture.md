@@ -9,7 +9,7 @@ date: 2022-06-28T08:29:30.328Z
 categories: associatif
 date_debut: 2023-01-17T23:00:00.000Z
 date_fin: 2023-01-18T23:00:00.000Z
-dates_publiees: 19 janvier 2023 · 20h → 21h30
+dates_publiees: 18 janvier 2023 · 20h → 21h30
 lieu: Maison de la Poésie de Rennes
 ---
 ## Fonctionnement
