@@ -23,4 +23,4 @@ Après l'intervention vidéoludique et le forgeage collectif de l'armure, Saumur
 
 En bonus : une bibliothèque virtuelle regroupant tous les livres récoltés au cours de l'aventure, et une visite guidée des meilleures forges de Bordeciel.
 
-Et des pizzas.
+Et des pizzas. 
