@@ -74,6 +74,8 @@ Cette année, nous invitons **Rémi Forte**, qui rencontre les CM2 de l'école L
 
 Toute l'année, il est possible de rencontrer un.e auteur.trice de la programmation lors de sa venue à Rennes (hors dispositif particulier). Le coût de la rencontre est pris en charge par l'établissement scolaire. Pour les collégiens et lycéens, ces rencontres peuvent aussi être organisées via Adage et le Pass Culture. N'hésitez pas à nous contacter pour plus d'informations.
 
+Cette année, les élèves de CM2 de l'école Jean Rostand et de 6ème du collège Les Gayeulles rencontrent **Jenny Dahan** pour une série de quatre ateliers dont la restitution a lieu à la Maison de la Poésie de Rennes le **23 mars 2023**
+
 - - -
 
 ## Réaliser ensemble une résidence en milieu scolaire
