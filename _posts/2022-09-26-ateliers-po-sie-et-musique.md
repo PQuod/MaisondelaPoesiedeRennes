@@ -9,7 +9,7 @@ artiste:
 categories: residence_scolaire
 date_debut: 2022-11-22T10:42:34.212Z
 date_fin: 2023-03-24T10:42:34.259Z
-dates_publiees: Novembre 2022 → mars 2023
+dates_publiees: 22 novembre 2022 → 24 mars 2023
 lieu: Ecole Marie Curie, Redon
 partenaires: Ecole Marie Curie
 ---
