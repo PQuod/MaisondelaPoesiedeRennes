@@ -24,4 +24,4 @@ Ces rencontres sont préparées en amont par les enseignants et les enseignantes
 
 **Christophe Manon** rencontre, du **06 au 10 mars**, les élèves de première du lycée de l'Elorn (Landerneau), les élèves de seconde du lycée Jean Guéhenno (Fougères), les élèves du lycée Jean Brito (Bain-de-Bretagne) et les élèves de troisième des collèges Théodore Monod (Vern-sur-Seiche) et Simone Veil (Crevin).
 
-**Claude Favre** rencontre, du **03 au 07 avril**, les élèves du lycée Benjamin Franklin (Auray), les élèves du lycée Jean Brito et les élèves de troisième des collèges Les Ormeaux (Rennes) et Bourgchevreuil (Rennes).
+**Claude Favre** rencontre, du **03 au 07 avril**, les élèves du lycée Benjamin Franklin (Auray), les élèves du lycée Jean Brito (Bain-de-Bretagne) et les élèves de troisième des collèges Les Ormeaux (Rennes) et Bourgchevreuil (Rennes).
