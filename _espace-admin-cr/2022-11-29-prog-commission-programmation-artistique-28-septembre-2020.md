@@ -1,6 +1,6 @@
 ---
 layout: admin-posts
-title: Commission Programmation artistique 28 septembre 2020
+title: Commission Programmation du 28 septembre 2020
 date: 2020-09-28T12:25:41.504Z
 cat: prog
 ---
