@@ -18,7 +18,7 @@ cat: prog
 
 ## <a href="#un"></a> 1\. Introduction
 
-Ce rendez-vous prolonge le travail fait [lors du deuxième rendez-vous]({% post_url 2021-06-16-com-prog %}).
+Ce rendez-vous prolonge le travail fait [lors du deuxième rendez-vous]().
 
 Le but est d'affiner les listes de noms d'auteurs et d'autrices pour les trois rendez-vous déjà mentionnés, et de définir plus précisément les formats attendus.
 
