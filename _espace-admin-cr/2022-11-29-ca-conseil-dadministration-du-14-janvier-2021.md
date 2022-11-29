@@ -38,7 +38,7 @@ A vos agendas pour prendre rendez-vous !
 
 _Rapporteure : Charlotte_
 
-But de la commission cette fois-là : choix du graphiste chargé de l’événement Carrément, parmi les 3 candidat.e.s (voir le compte-rendu de la [commission du 18 novembre 2020]({% post_url 2020-11-18-com-com %}).
+But de la commission cette fois-là : choix du graphiste chargé de l’événement Carrément, parmi les 3 candidat.e.s (voir le compte-rendu de la [commission du 18 novembre 2020]().
 
 Au final c’est sur Arnaud Aubry que les votants ont porté leur choix. Le travail de cette commission a été remarqué et remarquable aux vues du court laps de temps qui lui était imparti et de la difficulté à mobiliser les membres du CA dans cette période entre le 19/12/2020 et le 11/01/2021.
 
