@@ -16,7 +16,7 @@ lieu: Bar Le BabaZula, 182 avenue Général George S. Patton
 tarif: Entrée libre et gratuite
 partenaires: Centre culturel suisse
 ---
-**L'Ours Blanc** est une revue littéraire suisse créée en 2014, qui publie des textes brefs et singuliers, français comme étrangers, en leur consacrant un numéro entier. Le sommaire de la revue s’écrit donc au fur et à mesure des livraisons. 
+**L'Ours Blanc** est une revue littéraire suisse créée par **Hervé Laurent** en 2014 (qu'il dirige depuis), qui publie des textes brefs et singuliers, français comme étrangers, en leur consacrant un numéro entier. Le sommaire de la revue s’écrit donc au fur et à mesure des livraisons. 
 
 Cette volonté d’ouverture témoigne de l’envie d’aborder le champ littéraire comme un espace dont les limites n’ont rien de définitif ni de contraignant.
 
@@ -27,5 +27,7 @@ Trois auteurs et autrices publié.es dans la revue sont invité.es le même soir
 * *Le Zbeul* de Victoria Xardel est le n°34 (2022).
 
 Cette soirée est l'occasion d'en apprendre plus sur cette revue singulière dans le paysage littéraire contemporain, et de découvrir dans le même temps la qualité et la diversité des textes qu'elle publie.
+
+[Le site de L'Ours Blanc.](http://revue-loursblanc.org/)
 
 *Cette soirée s'inscrit dans la tournée française 2023 du [Centre culturel suisse](https://www.ccsparis.com/evenements/centre-culturel-suisse-on-tour-a-rennes/), dont la ville de Rennes est partenaire du 5 au 14 mai 2023. Elle bénéficie à ce titre de leur soutien artistique et financier.*
