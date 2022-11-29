@@ -28,6 +28,7 @@ collections:
     fields: 
       - {label: "Layout", name: "layout", widget: "hidden", default: "admin-posts"}
       - {label: "Titre du document", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime", date_format: "DD/MM/YYYY"}
       - {label: "Catégorie de compte-rendu", name: "cat", widget: "hidden", default: "docs"}
       - {label : "Fichier", name: 'fichier', widget: 'file', required: false}
       - {label: 'Description', name: 'body', widget: 'markdown', required: false}

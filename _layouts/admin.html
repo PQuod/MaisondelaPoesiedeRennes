@@ -44,7 +44,7 @@
             <h2>Tous les comptes rendus :</h2>
           {% endunless %}
           <ul>
-          {% assign sorted_cr = site.espace-admin-cr %}
+          {% assign sorted_cr = site.espace-admin-cr | reverse %}
             {% for cr in sorted_cr %}
               {% if cr.cat == page.cat %}
                 <li>
@@ -53,7 +53,7 @@
               {% endif %}
             {% endfor %}
           {% assign sorted_docs = site.espace-admin-docs %}
-            {% for doc in sorted_docs %}
+            {% for doc in sorted_docs | reverse %}
               {% if doc.cat == page.cat %}
                 <li>
                   <a href="{{ doc.url | absolute_url }}">{{ doc.title }}</a>
