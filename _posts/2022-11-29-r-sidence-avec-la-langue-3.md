@@ -20,3 +20,5 @@ Du 3 au 16 juillet, puis du 28 août au 10 septembre, l’autrice **Emmanuelle P
 Lors de cette résidence, tout peut être sujet à écriture ou enregistrement : les gens qui parlent, le reflet de la pelouse, quelqu’un.e qui mange dans les escaliers, une grappe d’adolescent.e.s, le bruit d’un pull, et d’autres sons auxquels on ne pense pas forcément.
 
 *Avec la langue* imagine qu’il est possible de faire un portrait personnel du Frac Bretagne à partir de cette expérience immersive.
+
+*Cette résidence bénéficie du soutien financier du Frac Bretagne.*
