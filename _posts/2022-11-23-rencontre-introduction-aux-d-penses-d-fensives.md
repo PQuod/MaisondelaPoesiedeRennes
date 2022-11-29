@@ -13,6 +13,6 @@ dates_publiees: 23 mars 2023 · 19h
 lieu: Maison de la Poésie de Rennes
 tarif: Entrée libre et gratuite
 ---
-Dans le cadre de son invitation lors de Carrément #2, **Martin Desinde** est invité à présenter son processus de création au public.
+Dans le cadre de son invitation lors de [Carrément #2](https://maiporennes.fr/residence/2022/11/15/carr-ment-2.html), **Martin Desinde** est invité à présenter son processus de création au public.
 
 Il y parlera d’œuvre éditoriale totale, de Dépense Défensive, la maison d’édition indépendante qu’il a cofondée, ainsi que de *Kassos*, son nouveau roman actuellement en cours d’écriture, dont l’un des chapitres sera l’objet de sa semaine de résidence et d’un atelier public à la Maison de la Poésie sur les systèmes d’écriture.
