@@ -41,7 +41,7 @@
       <article>
         <div class="post_descript">
             {% if page.fichier %}
-                <a href="{{ page.fichier }}">Voir ou télécharger le document</a>
+                → <h2><a href="{{ page.fichier }}">Voir ou télécharger le document</a></h2>
             {% endif %}
             {{ content | markdownify }}
         </div>

@@ -1,5 +1,5 @@
 ---
-layout: admin
+layout: admin-posts
 title: Compte-rendu du 10 octobre 2022
 date: 2022-11-29T10:26:54.260Z
 cat: ca
