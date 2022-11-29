@@ -1,5 +1,5 @@
 {%- include head.html -%}
-<main class="page-content" aria-label="Content">
+<main class="page-content left-admin" aria-label="Content">
   <div id="left">
     <div id="top">
       <a href="{{site.url}}/">
@@ -17,7 +17,7 @@
               → {{ post.prochain_rdv }}<br />
             {% endif %}
             <a href="{{ post.url | absolute_url }}">
-              Tous les comptes rendus
+              Tous les comptes-rendus
             </a>
           </li>
           {% endunless %}
@@ -42,8 +42,9 @@
         <div class="post_descript">
             {% if page.fichier %}
                 → <a href="{{ page.fichier }}">Voir ou télécharger le document</a>
+            {% else %}
+                {{ content | markdownify }}
             {% endif %}
-            {{ content | markdownify }}
         </div>
       </article>
   </div>

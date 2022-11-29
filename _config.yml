@@ -27,7 +27,6 @@ collections:
       - comm.md
       - lieu.md
       - docs.md
-      - candidatures.md
   espace-admin-cr:
     output: true
   espace-admin-docs:

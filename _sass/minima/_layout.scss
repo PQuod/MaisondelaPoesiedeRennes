@@ -7,11 +7,17 @@ main{
   padding-left:20px;
 }
 
+.left-admin{
+  grid-template-columns: 25% 50% 18%;
+}
+
 /* LEFT SECTION */
 #left{
   font-weight: bold;
   text-align: right;
 }
+
+
 
 header{
   width:100%;
