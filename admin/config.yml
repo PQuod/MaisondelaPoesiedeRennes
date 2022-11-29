@@ -9,6 +9,18 @@ slug:
   encoding: "ascii"
 
 collections:
+  - name: "administration"
+    label: "Espace administration"
+    folder: "_espace-admin"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields: 
+      - {label: "Layout", name: "layout", widget: "hidden", default: "admin"}
+      - {label: "Titre de la page", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime", date_format: "DD/MM/YYYY"}
+      - {label: "Prochain RDV", name: "prochain_rdv", widget: "string"}
+      - {label: "Contient des comptes-rendus", name: "cr", widget: "select", options: [{label: 'Oui', value: 'oui'}, {label: 'Non', value: 'non'}]}
+      - {label: 'Description', name: 'body', widget: 'markdown'}
   - name: "evenements" # Used in routes, e.g., /admin/collections/blog
     label: "Evenements" # Used in the UI
     folder: "_posts" # The path to the folder where the documents are stored

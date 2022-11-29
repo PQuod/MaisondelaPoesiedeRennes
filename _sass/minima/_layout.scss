@@ -54,12 +54,21 @@ nav{
   }
 }
 
-nav li{
+.menu-standard li{
   font-size:20px;
   margin-bottom:calc(var(--line-height)/2);
   padding:5px;
   text-transform: uppercase;
 }
+
+.menu-admin{
+  font-weight:normal;
+  li{
+    margin-bottom: calc(var(--line-height)/2);
+    padding:5px;
+  }
+}
+
 
 .social{
   border:1px solid black;

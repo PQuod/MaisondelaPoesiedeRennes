@@ -18,6 +18,8 @@ collections:
     output: true
   bibliotheque:
     output: true
+  espace-admin:
+    output: true
 
 defaults:
   -
