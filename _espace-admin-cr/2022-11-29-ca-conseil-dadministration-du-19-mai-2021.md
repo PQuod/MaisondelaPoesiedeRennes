@@ -24,7 +24,7 @@ cat: ca
 
 ## <a href="#un"></a> 1\. Validation du compte rendu du conseil d’administration du 24/03/21
 
-Le [compte-rendu du précédent Conseil d’Administration]({% post_url 2021-03-24-cr-ca %}) est approuvé à l’unanimité par le CA.
+Le [compte-rendu du précédent Conseil d’Administration]() est approuvé à l’unanimité par le CA.
 
 ## <a href="#deux"></a> 2\. Présentation et validation des nouveaux statuts de la Maison de la Poésie
 
@@ -88,11 +88,11 @@ Il y a peu, l’une des co-fondatrices du festival « Dangereuses Lectrices » e
 
 ## <a href="#six"></a> 6\. Remontées des commissions
 
-Le compte-rendu de la commission Vie du lieu du 3 mai 2021 [se trouve sur la page administrateur.rices]({% post_url 2021-05-03-com-com %}). La dernière réunion a été l’occasion de revenir sur le logo, le site et le programme papier. Si certaines personnes ont des remarques à faire sur le document mis en ligne, elles ne doivent pas hésiter à passer à la Maison de la Poésie pour en discuter avec Quentin. Les remarques soumises seront prises en compte lors de la prochaine commission, qui aura lieu le 8 juin prochain. Toute personne intéressée par le projet est la bienvenue.
+Le compte-rendu de la commission Vie du lieu du 3 mai 2021 [se trouve sur la page administrateur.rices](). La dernière réunion a été l’occasion de revenir sur le logo, le site et le programme papier. Si certaines personnes ont des remarques à faire sur le document mis en ligne, elles ne doivent pas hésiter à passer à la Maison de la Poésie pour en discuter avec Quentin. Les remarques soumises seront prises en compte lors de la prochaine commission, qui aura lieu le 8 juin prochain. Toute personne intéressée par le projet est la bienvenue.
 
 Pour ce qui est de la signalétique extérieure : le projet, initié depuis 2 ans, arrivera bientôt à son terme. Les graphistes reviennent en effet la semaine prochaine pour faire l’enseigne, qui sera installée dans les prochains jours.
 
-La commission Programmation se réunira le 9 juin prochain. D’ici là, tous les membres sont invités [à lire les informations préalables pour la programmation 2021-2022 envoyées par Quentin]({% post_url 2021-05-11-infos-prog %}).
+La commission Programmation se réunira le 9 juin prochain. D’ici là, tous les membres sont invités [à lire les informations préalables pour la programmation 2021-2022 envoyées par Quentin]().
 
 ## <a href="#sept"></a> 7\. Questions diverses et autres propositions
 
