@@ -16,7 +16,7 @@ lieu: Bar Le BabaZula, 182 avenue Général George S. Patton
 tarif: Entrée libre et gratuite
 partenaires: Centre culturel suisse
 ---
-**L'Ours Blanc** est une revue littéraire créée en 2014, qui publie des textes brefs et singuliers, français comme étrangers, en leur consacrant un numéro entier. Le sommaire de la revue s’écrit donc au fur et à mesure des livraisons. 
+**L'Ours Blanc** est une revue littéraire suisse créée en 2014, qui publie des textes brefs et singuliers, français comme étrangers, en leur consacrant un numéro entier. Le sommaire de la revue s’écrit donc au fur et à mesure des livraisons. 
 
 Cette volonté d’ouverture témoigne de l’envie d’aborder le champ littéraire comme un espace dont les limites n’ont rien de définitif ni de contraignant.
 
