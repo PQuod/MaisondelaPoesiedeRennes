@@ -28,7 +28,9 @@ collections:
       - lieu.md
       - docs.md
       - candidatures.md
-  espace-admin-posts:
+  espace-admin-cr:
+    output: true
+  espace-admin-docs:
     output: true
 
 defaults:

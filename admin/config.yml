@@ -11,7 +11,7 @@ slug:
 collections:
   - name: "administration_cr"
     label: "Espace administration : Comptes-rendus"
-    folder: "_espace-admin-posts"
+    folder: "_espace-admin-cr"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{cat}}-{{slug}}"
     fields: 
@@ -22,7 +22,7 @@ collections:
       - {label: 'Description', name: 'body', widget: 'markdown'}
   - name: "administration_docs"
     label: "Espace administration : Documents"
-    folder: "_espace-admin-posts"
+    folder: "_espace-admin-docs"
     create: true
     slug: "{{cat}}-{{slug}}"
     fields: 
