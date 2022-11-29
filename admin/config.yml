@@ -32,6 +32,24 @@ collections:
       - {label: "Catégorie de compte-rendu", name: "cat", widget: "hidden", default: "docs"}
       - {label : "Fichier", name: 'fichier', widget: 'file', required: false}
       - {label: 'Description', name: 'body', widget: 'markdown', required: false}
+  - name: "admin_dates"
+    label: "Espace administration : prochaines dates"
+    delete: false
+    editor:
+      preview: false
+    files:
+      - name: 'calendrier'
+        label: 'Calendrier'
+        file: '_data/admin_dates.json'
+        description: 'Dates des prochains rendez-vous'
+        fields:
+          - { label: 'CA', name: 'ca', widget: 'string' }
+          - { label: 'Bureau', name: 'bureau', widget: 'string' }
+          - { label: 'Commission Programmation', name: 'prog', widget: 'string'}
+          - { label: "Commission Communication", name: "comm", widget: "string"}
+          - { label: "Commission Vie du Lieu", name: "lieu", widget: "string" }
+        
+
   - name: "evenements" # Used in routes, e.g., /admin/collections/blog
     label: "Evenements" # Used in the UI
     folder: "_posts" # The path to the folder where the documents are stored
@@ -228,20 +246,4 @@ collections:
             fields:
               - { label: 'Title', name: 'title', widget: 'string' }
               - { label: 'Permalink', name: 'url', widget: 'string', hint: 'un seul mot précédé et suivi par un slash (ex: /maison/)' }
-  - name: "Espace administrations : dates"
-    label: "admin_dates"
-    delete: false
-    editor:
-      preview: false
-    files:
-      - name: 'admin_dates'
-        label: 'Calendrier'
-        file: '_data/admin_dates.json'
-        description: 'Dates des prochains rendez-vous'
-        fields:
-          - { label: 'CA', name: 'ca', widget: 'string' }
-          - { label: 'Bureau', name: 'bureau', widget: 'string' }
-          - { label: 'Commission Programmation', name: 'prog', widget: 'string'}
-          - { label: "Commission Communication", name: "comm", widget: "string"}
-          - { label: "Commission Vie du Lieu", name: "lieu", widget: "string" }
-        
+  
