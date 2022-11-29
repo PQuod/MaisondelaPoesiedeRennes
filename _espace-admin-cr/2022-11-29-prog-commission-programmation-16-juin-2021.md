@@ -18,7 +18,7 @@ cat: prog
 
 ## <a href="#un"></a> 1\. Introduction
 
-Cette commission prolonge le travail fait [lors du premier rendez-vous]({% post_url 2021-06-09-com-prog %}). Le but est de compléter les listes de noms d'auteurs et d'autrices pour les trois rendez-vous déjà mentionnés (La poésie qui vient, les soirées avec le Conservatoire, et le festival).
+Cette commission prolonge le travail fait [lors du premier rendez-vous](). Le but est de compléter les listes de noms d'auteurs et d'autrices pour les trois rendez-vous déjà mentionnés (La poésie qui vient, les soirées avec le Conservatoire, et le festival).
 
 ## <a href="#deux"></a> 2\. La poésie qui vient
 
