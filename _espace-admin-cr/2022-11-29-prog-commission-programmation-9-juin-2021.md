@@ -18,7 +18,7 @@ cat: prog
 
 ## <a href="#un"></a> 1\. Les formats
 
-Pour ne pas faire doublon avec ce qui a déjà été écrit, ce compte-rendu se concentrera sur les projets *à construire*, et non pas sur ceux déjà prévus. Ce qui est déjà prévu peut être retrouvé [sur cette page]({% post_url 2021-05-11-infos-prog %}).
+Pour ne pas faire doublon avec ce qui a déjà été écrit, ce compte-rendu se concentrera sur les projets *à construire*, et non pas sur ceux déjà prévus. Ce qui est déjà prévu peut être retrouvé [sur cette page]().
 
 Trois rendez-vous sont donc concernés :
 * *La poésie qui vient*
