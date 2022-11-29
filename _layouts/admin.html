@@ -48,9 +48,9 @@
     </div>
       <article>
         <div class="post_descript">
-          {% unless page.cr =="non" %}
+          {% if page.cr %}
             <h2>Tous les comptes rendus :</h2>
-          {% endunless %}
+          {% endif %}
           <ul>
           {% assign sorted_cr = site.espace-admin-cr | reverse %}
             {% for cr in sorted_cr %}
