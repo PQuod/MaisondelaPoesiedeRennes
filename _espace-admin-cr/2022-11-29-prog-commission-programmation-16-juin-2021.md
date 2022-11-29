@@ -4,8 +4,8 @@ title: Commission Programmation 16 juin 2021
 date: 2021-06-16T12:31:14.014Z
 cat: prog
 ---
-**Date :** 16 juin 2021  
-**Présent.e.s :** Laura, Nathalie, Lauriane, Anne-Marie, Charlotte, Candice, Lucie, Quentin  
+**Date :** 16 juin 2021\
+**Présent.e.s :** Laura, Nathalie, Lauriane, Anne-Marie, Charlotte, Candice, Lucie, Quentin\
 **Durée de la commission :** 3 heures
 
 ## Sommaire
@@ -16,13 +16,14 @@ cat: prog
 4. [Le festival](#quatre)
 5. [Conclusion](#cinq)
 
-## <a href="#un"></a> 1\. Introduction
+## <a href="#un"></a> 1. Introduction
 
-Cette commission prolonge le travail fait [lors du premier rendez-vous](). Le but est de compléter les listes de noms d'auteurs et d'autrices pour les trois rendez-vous déjà mentionnés (La poésie qui vient, les soirées avec le Conservatoire, et le festival).
+Cette commission prolonge le travail fait [lors du premier rendez-vous](https://maiporennes.fr/espace-admin-cr/2022-11-29-prog-commission-programmation-9-juin-2021.html). Le but est de compléter les listes de noms d'auteurs et d'autrices pour les trois rendez-vous déjà mentionnés (La poésie qui vient, les soirées avec le Conservatoire, et le festival).
 
-## <a href="#deux"></a> 2\. La poésie qui vient
+## <a href="#deux"></a> 2. La poésie qui vient
 
 Voici la liste proposée :
+
 * Marius Loris
 * Elodie Petit
 * Mia Brion
@@ -34,11 +35,12 @@ Même si la liste est déjà bien fournie et est utilisable en l'état par Lucie
 
 Lucie et Quentin sélectionneront les deux artistes invités, selon les critères des disponibilités et de pertinence en regard des rendez-vous proposés. Deux noms qui se démarquent déjà sont ceux de Mia Brion et Justin Delareux ; ils restent à confirmer.
 
-## <a href="#trois"></a> 3\. Les soirées en partenariat avec le Conservatoire
+## <a href="#trois"></a> 3. Les soirées en partenariat avec le Conservatoire
 
 La commission confirme son intérêt pour une invitation en janvier de plusieurs auteurs et autrices de la revue *La Mer Gelée*, notamment Arno Calleja, Noémi Lefebvre, Alban Lefranc, Antoine Brea, Grégoire Damon.
 
 Pour les soirées de mars et juin, voici les autres noms qui ont été proposés, en complément de ceux de la commission précédente :
+
 * A.C. Hello
 * Nathalie Quintane
 * J.C. Massera
@@ -67,11 +69,12 @@ Il faut donc des profils pertinents à la fois dans la performance, mais égalem
 
 Cette liste peut encore être complétée et affinée lors de la 3ème commission.
 
-## <a href="#quatre"></a> 4\. Le festival
+## <a href="#quatre"></a> 4. Le festival
 
 Là encore, plusieurs noms ont été proposés pour augmenter la liste. Le but était de tirer dans des directions volontairement différentes, afin d'avoir un panel esthétique varié et solide de ce qu'est la poésie contemporaine.
 
 La liste :
+
 * Sandra Moussempès
 * Elsa Escaffre
 * Bernard Friot
@@ -94,7 +97,7 @@ Parmi ces noms, deux propositions peuvent notamment trouver un écho auprès des
 
 Cette liste est à enrichir et affiner lors de la prochaine commission, durant laquelle les formats seront également évoqués.
 
-## <a href="#cinq"></a> 5\. Calendrier et conclusion
+## <a href="#cinq"></a> 5. Calendrier et conclusion
 
 Pour que les salariés puissent travailler dans les temps avec les partenaires, la majorité des artistes du festival doit être choisie pour début septembre 2021.
 
