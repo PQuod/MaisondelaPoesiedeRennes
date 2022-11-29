@@ -8,7 +8,6 @@ cat: ca
 **Présent.e.s :** Émilien, Nathalie, Quentin, Marie, Charlotte, Stéphanie, Monique, Lucie, Christian, Lauriane, Anne-Marie, Laura, Candice  
 **Excusée :** La Balade des Livres  
 **Durée de la réunion :** 2 heures 30 minutes  
-[Version PDF](/commissions/assets/CA%20Beaus%C3%A9jour%2014%20janvier%202021.pdf)
 
 ## Ordre du jour
 
@@ -20,7 +19,7 @@ cat: ca
 
 ## <a href="#confinement"></a> 1\. Etat des lieux en temps de confinement
 
-L’état des lieux en temps de confinement a été évoqué dans le précédent compte-rendu du [Bureau du 14 décembre 2020]({% post_url 2020-12-14-cr-bureau %}) :
+L’état des lieux en temps de confinement a été évoqué dans le précédent compte-rendu du [Bureau du 14 décembre 2020]() :
 
 *   Un workshop à Rennes 2 en 01/2021 est maintenu, un autre en 02/2021 reporté
 *   Une rencontre avec Les Champs Libres est maintenue en visioconférence en 02/2021
