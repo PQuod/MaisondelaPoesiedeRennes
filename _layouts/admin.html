@@ -52,8 +52,8 @@
                 </li>
               {% endif %}
             {% endfor %}
-          {% assign sorted_docs = site.espace-admin-docs %}
-            {% for doc in sorted_docs | reverse %}
+          {% assign sorted_docs = site.espace-admin-docs | reverse %}
+            {% for doc in sorted_docs %}
               {% if doc.cat == page.cat %}
                 <li>
                   <a href="{{ doc.url | absolute_url }}">{{ doc.title }}</a>
