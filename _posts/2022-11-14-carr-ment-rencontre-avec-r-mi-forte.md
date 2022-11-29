@@ -14,7 +14,7 @@ lieu: Edulab Pasteur, 2 place Pasteur, 1er étage, salle commune
 tarif: Entrée libre et gratuite
 partenaires: Edulab Pasteur
 ---
-Dans le cadre de son invitation lors de Carrément #2, **Rémi Forte** est invité à présenter son processus de création au public.
+Dans le cadre de son invitation lors de [Carrément #2](https://maiporennes.fr/residence/2022/11/15/carr-ment-2.html), **Rémi Forte** présente son processus de création au public.
 
 Lors de cette rencontre, il sera entre autres question de poésie, de protocoles, d'algorithme et de typographie. 
 
