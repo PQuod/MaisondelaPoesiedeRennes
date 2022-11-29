@@ -4,8 +4,8 @@ title: Commission Programmation 23 juin 2021
 date: 2021-06-23T12:34:37.561Z
 cat: prog
 ---
-**Date :** 23 juin 2021  
-**Présent.e.s :** Laura, Marie, Anne-Marie, Emilien, Candice, Quentin  
+**Date :** 23 juin 2021\
+**Présent.e.s :** Laura, Marie, Anne-Marie, Emilien, Candice, Quentin\
 **Durée de la commission :** 2 heures
 
 ## Sommaire
@@ -16,13 +16,13 @@ cat: prog
 4. [Le festival](#quatre)
 5. [Conclusion](#cinq)
 
-## <a href="#un"></a> 1\. Introduction
+## <a href="#un"></a> 1. Introduction
 
-Ce rendez-vous prolonge le travail fait [lors du deuxième rendez-vous]().
+Ce rendez-vous prolonge le travail fait lors du [deuxième rendez-vous](https://maiporennes.fr/espace-admin-cr/2022-11-29-prog-commission-programmation-16-juin-2021.html).
 
 Le but est d'affiner les listes de noms d'auteurs et d'autrices pour les trois rendez-vous déjà mentionnés, et de définir plus précisément les formats attendus.
 
-## <a href="#deux"></a> 2\. La poésie qui vient
+## <a href="#deux"></a> 2. La poésie qui vient
 
 Par rapport à la liste proposée lors du deuxième rendez-vous, les salarié.e.s ont retenu dans un premier temps les noms de **Mia Brion** et **Justin Delareux**.
 
@@ -30,7 +30,7 @@ En cas d'indisponibilité, les choix se reporteront sur deux autres noms de la m
 
 La commission valide ces choix.
 
-## <a href="#trois"></a> 3\. Les soirées en partenariat avec le Conservatoire
+## <a href="#trois"></a> 3. Les soirées en partenariat avec le Conservatoire
 
 Pour janvier, la commission valide le choix de **La Mer Gelée**. Parmi le collectif, **Arno Calleja** est pressenti pour animer le workshop.
 
@@ -42,7 +42,7 @@ Ces propositions sont également soumises à l'accord de Sylvain Ottavy, profess
 
 D'autres noms de la longue liste pourront être proposés si jamais ceux-ci ne convenaient pas.
 
-## <a href="#quatre"></a> 4\. Le festival
+## <a href="#quatre"></a> 4. Le festival
 
 La commission a estimé pertinent de préciser certains enjeux du festival afin de ne pas augmenter la liste de noms de poètes indéfiniment. De plus, le but est d'éviter à tout prix l'effet de juxtaposition gratuite.
 
@@ -60,9 +60,9 @@ Chacune invitera un.e poète de son choix.
 
 Une autre entrée a été proposée, centrée sur la poésie étrangère. La contrainte principale est encore une fois financière (coût du voyage + du traducteur). Plusieurs pistes se dessinent :
 
-Layli Long Soldier (Etats-Unis)  
-Anne Seidel (Allemagne)  
-Galina Rymbu (Russie)  
+Layli Long Soldier (Etats-Unis)\
+Anne Seidel (Allemagne)\
+Galina Rymbu (Russie)\
 Cole Swensen (Etats-Unis)
 
 Deux maisons d'édition vont servir d'interlocutrices pour estimer la faisabilité de cette invitation : les éditions des Lisières, et les éditions Joca Seria.
@@ -95,7 +95,7 @@ Le festival devrait donc coûter environ **25000 euros**.
 
 Cette programmation idéale devra être ajustée en fonction des moyens réels, dont l'équipe salariée aura une meilleure vision à la rentrée de septembre 2021. Certaines concessions devront sans doute être anticipées au cas où les sommes données soient moins hautes que prévues.
 
-## <a href="#cinq"></a> 5\. Calendrier et conclusion
+## <a href="#cinq"></a> 5. Calendrier et conclusion
 
 Afin que les salarié.e.s puissent travailler dans les temps et écrire aux premiers noms validés avant les vacances d'été, la commission soumet ces compte-rendus à la validation du CA.
 
