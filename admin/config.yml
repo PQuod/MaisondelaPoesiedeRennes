@@ -228,3 +228,20 @@ collections:
             fields:
               - { label: 'Title', name: 'title', widget: 'string' }
               - { label: 'Permalink', name: 'url', widget: 'string', hint: 'un seul mot précédé et suivi par un slash (ex: /maison/)' }
+  - name: "Espace adminstrations : dates"
+      label: "admin_dates"
+      delete: false
+      editor:
+        preview: false
+      files:
+        - name: 'admin_dates'
+          label: 'Calendrier'
+          file: '_data/admin_dates.json'
+          description: 'Dates des prochains rendez-vous'
+          fields:
+            - { label: 'CA', name: 'ca', widget: 'string' }
+            - { label: 'Bureau', name: 'bureau', widget: 'string' }
+            - { label: 'Commission Programmation', name: 'prog', widget: 'string'}
+            - { label: "Commission Communication", name: "comm", widget: "string"}
+            - { label: "Commission Vie du Lieu", name: "lieu", widget: "string" }
+        
