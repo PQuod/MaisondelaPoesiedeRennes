@@ -5,8 +5,8 @@ date: 2021-05-19T11:50:48.264Z
 cat: ca
 ---
 **Date :** 19 mai 2021 à 18 h 30   
-**Présent.e.s :** Nathalie, Emilien, Stéphanie, Monique, Christian, Anne-Marie, Laura, Quentin  
-**Excusé.e.s :** Lauriane, Marie, Charlotte, Candice, La Balade des Livres  
+**Présent.es :** Nathalie, Emilien, Stéphanie, Monique, Christian, Anne-Marie, Laura, Quentin  
+**Excusées :** Lauriane, Marie, Charlotte, Candice, La Balade des Livres  
 **Pouvoirs** : Marie a donné sa voix à Laura, Charlotte a donné sa voix à Stéphanie  
 **Durée de la réunion :** 2 heures 40 minutes   
 **Annexe :** [Annexe 1](/commissions/assets/annexe1-statutsVDEF.pdf)
