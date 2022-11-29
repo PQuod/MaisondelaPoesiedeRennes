@@ -9,7 +9,7 @@ slug:
   encoding: "ascii"
 
 collections:
-  - name: "administration"
+  - name: "administration_cr"
     label: "Espace administration : Comptes-rendus"
     folder: "_espace-admin-posts"
     create: true
@@ -20,7 +20,7 @@ collections:
       - {label: "Date", name: "date", widget: "datetime", date_format: "DD/MM/YYYY"}
       - {label: "Catégorie de compte-rendu", name: "cat", widget: select, options: [{label: 'Conseil d'administration', value: 'ca'}, {label: 'Bureau', value: 'bureau'}, {label: 'Commission Programmation', value: 'prog'}, {label: 'Commission Communication', value: 'comm'}, {label: 'Commission Vie du lieu', value: 'lieu'}]}
       - {label: 'Description', name: 'body', widget: 'markdown'}
-        - name: "administration"
+  - name: "administration_docs"
     label: "Espace administration : Documents"
     folder: "_espace-admin-posts"
     create: true
