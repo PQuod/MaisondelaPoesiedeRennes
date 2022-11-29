@@ -64,7 +64,7 @@ Chaque année, la Maison de la Poésie de Rennes soutient le Prix des Découvreu
 
 Un an sur deux a lieu **Carrément**, un dispositif durant lequel 4 artistes viennent résider chacun.e 1 semaine à la Maison de la Poésie afin de réfléchir à la conception d'un objet littéraire. C'est aussi l'occasion de rencontrer des scolaires, et chacun d'entre eux et elles anime un atelier dans une classe de primaire du département d'Ille-et-Vilaine.
 
-Cette année, nous invitons **Rémi Forte**, qui rencontre les CM2 de l'école Les Clôteaux (Rennes), **Anne-Sarah Huet**, qui rencontre les CM2 de l'école St-Martin (Guichen), **Lucile Haute**, en partenariat avec l'Edulab Pasteur & **Martin Desinde**, durant tout le mois de **mars 2023**.
+Cette année, durant tout le mois de mars 2023, nous invitons **Rémi Forte**, qui rencontre les CM2 de l'école Les Clôteaux (Rennes), **Anne-Sarah Huet**, qui rencontre les CM2 de l'école St-Martin (Guichen), **Lucile Haute**, en partenariat avec l'Edulab Pasteur & **Martin Desinde**, qui rencontre les CM1-CM2 de l'école de Roz Landrieux.
 
 - - -
 
