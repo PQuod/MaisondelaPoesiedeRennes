@@ -8,4 +8,4 @@ Il a travaillé comme co-responsable de l’orientation littérature et traducti
 
 Derniers livres publiés : *Bonsaï* (Hippocampe 2018), *Un domaine des corpuscules* (Hippocampe 2017), *r a z* (Contre-Mur 2017), *Le chemin de Lennie* (Héros-Limite 2014).
 
-Il est membre du comité de la revue *L’Ours Blanc*. 
+Il est membre du comité de rédaction de la revue *L’Ours Blanc*. 
