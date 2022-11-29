@@ -14,7 +14,7 @@ lieu: Café des Champs Libres, 10 cour des Alliés
 tarif: Entrée libre et gratuite
 partenaires: Les Champs Libres
 ---
-Dans le cadre du festival Jardins d'hiver, la Maison de la Poésie et Les Champs Libres invitent l'autrice Ryoko Sekiguchi pour un entretien avec Hélène Legrain, qui à la Ferme d’Artaud « élève » ses légumes avec la même attention et sensibilité qu’on élève des enfants. 
+Dans le cadre du festival Jardins d'hiver, la Maison de la Poésie et Les Champs Libres invitent l'autrice Ryoko Sekiguchi pour un entretien avec Hélène Reglain, qui à la Ferme d’Artaud « élève » ses légumes avec la même attention et sensibilité qu’on élève des enfants. 
 
 > Nous sommes enclin à considérer l’hiver comme la saison endormie. Mais tout comme nous-mêmes avons besoin d’un bon sommeil pour reprendre de l’énergie, et de rêver surtout, sous la terre les racines reprennent des forces. 
 
