@@ -10,23 +10,31 @@
       <ul>
         {% assign sorted = site.espace-admin-pages %}
         {% for post in sorted %}
-          {% unless post.cr == "non" %}
+        {% unless post.cr == "non" %}
+        <li>
+          <h3>{{ post.title }}</h3>
+            {% if post.cat == "ca" %}
+              → {{ site.data.admin_dates.ca }}
+            {% elsif post.cat == "bureau" %}
+              → {{ site.data.admin_dates.bureau }}
+            {% elsif post.cat == "prog" %}
+              → {{ site.data.admin_dates.prog }}
+            {% elsif post.cat == "comm" %}
+              → {{ site.data.admin_dates.comm }}
+            {% elsif post.cat == "lieu" %}
+              → {{ site.data.admin_dates.lieu }}
+            {% endif %}<br />
+          <a href="{{ post.url | absolute_url }}">
+            Tous les comptes rendus
+          </a>
+        </li>
+        {% endunless %}
+        {% if post.cr == "non" %}
           <li>
-            <h3>{{ post.title }}</h3>
-            {% if post.prochain_rdv != NULL %}
-              → {{ post.prochain_rdv }}<br />
-            {% endif %}
-            <a href="{{ post.url | absolute_url }}">
-              Tous les comptes-rendus
-            </a>
+            <h3> <a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h3>
           </li>
-          {% endunless %}
-          {% if post.cr == "non" %}
-            <li>
-              <h3> <a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h3>
-            </li>
-          {% endif %}
-        {% endfor %}
+        {% endif %}
+      {% endfor %}
         <li>
           <h3><a href="{{ site.url }}">Retour au site</a></h3>
         </li>
