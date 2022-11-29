@@ -1,6 +1,6 @@
 ---
 layout: admin-posts
-title: Commission Programmation 9 juin 2021
+title: Commission Programmation du 9 juin 2021
 date: 2021-06-09T12:29:54.457Z
 cat: prog
 ---
