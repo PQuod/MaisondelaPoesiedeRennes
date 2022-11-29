@@ -10,15 +10,26 @@ slug:
 
 collections:
   - name: "administration"
-    label: "Espace administration"
+    label: "Espace administration : Comptes-rendus"
     folder: "_espace-admin-posts"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{cat}}--{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{cat}}-{{slug}}"
     fields: 
       - {label: "Layout", name: "layout", widget: "hidden", default: "admin"}
       - {label: "Titre du compte-rendu", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "datetime", date_format: "DD/MM/YYYY"}
       - {label: "Catégorie de compte-rendu", name: "cat", widget: select, options: [{label: 'Conseil d'administration', value: 'ca'}, {label: 'Bureau', value: 'bureau'}, {label: 'Commission Programmation', value: 'prog'}, {label: 'Commission Communication', value: 'comm'}, {label: 'Commission Vie du lieu', value: 'lieu'}]}
+      - {label: 'Description', name: 'body', widget: 'markdown'}
+        - name: "administration"
+    label: "Espace administration : Documents"
+    folder: "_espace-admin-posts"
+    create: true
+    slug: "{{cat}}-{{slug}}"
+    fields: 
+      - {label: "Layout", name: "layout", widget: "hidden", default: "admin"}
+      - {label: "Titre du document", name: "title", widget: "string"}
+      - {label: "Catégorie de compte-rendu", name: "cat", widget: "hidden", default: "docs"}
+      - {label : "Fichier", name: 'fichier', widget: 'file', required: false}
       - {label: 'Description', name: 'body', widget: 'markdown'}
   - name: "evenements" # Used in routes, e.g., /admin/collections/blog
     label: "Evenements" # Used in the UI

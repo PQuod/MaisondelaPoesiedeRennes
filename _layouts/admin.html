@@ -42,17 +42,17 @@
         <div class="post_descript">
           {% unless page.cr =="non" %}
             <h2>Tous les comptes rendus :</h2>
-            {% assign sorted_cr = site.espace-admin-posts %}
-            <ul>
-              {% for cr in sorted_cr %}
-                {% if cr.cat == page.cat %}
-                  <li>
-                    <a href="{{ post.url | absolute_url }}">{{ cr.title }}</a>
-                  </li>
-                {% endif %}
-              {% endfor %}
-            </ul>
           {% endunless %}
+          {% assign sorted_cr = site.espace-admin-posts %}
+          <ul>
+            {% for cr in sorted_cr %}
+              {% if cr.cat == page.cat %}
+                <li>
+                  <a href="{{ post.url | absolute_url }}">{{ cr.title }}</a>
+                </li>
+              {% endif %}
+            {% endfor %}
+          </ul>
           {{ content | markdownify }}
         </div>
       </article>
