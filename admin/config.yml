@@ -11,15 +11,14 @@ slug:
 collections:
   - name: "administration"
     label: "Espace administration"
-    folder: "_espace-admin"
+    folder: "_espace-admin-posts"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{cat}}--{{slug}}"
     fields: 
       - {label: "Layout", name: "layout", widget: "hidden", default: "admin"}
-      - {label: "Titre de la page", name: "title", widget: "string"}
+      - {label: "Titre du compte-rendu", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "datetime", date_format: "DD/MM/YYYY"}
-      - {label: "Prochain RDV", name: "prochain_rdv", widget: "string"}
-      - {label: "Contient des comptes-rendus", name: "cr", widget: "select", options: [{label: 'Oui', value: 'oui'}, {label: 'Non', value: 'non'}]}
+      - {label: "Catégorie de compte-rendu", name: "cat", widget: select, options: [{label: 'Conseil d'administration', value: 'ca'}, {label: 'Bureau', value: 'bureau'}, {label: 'Commission Programmation', value: 'prog'}, {label: 'Commission Communication', value: 'comm'}, {label: 'Commission Vie du lieu', value: 'lieu'}]}
       - {label: 'Description', name: 'body', widget: 'markdown'}
   - name: "evenements" # Used in routes, e.g., /admin/collections/blog
     label: "Evenements" # Used in the UI

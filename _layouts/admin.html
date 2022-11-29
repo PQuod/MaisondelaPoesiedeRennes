@@ -8,7 +8,7 @@
     </div>
     <nav class="menu-admin">
       <ul>
-        {% assign sorted = site.espace-admin %}
+        {% assign sorted = site.espace-admin-pages %}
         {% for post in sorted %}
           {% unless post.cr == "non" %}
           <li>
@@ -40,6 +40,19 @@
     </div>
       <article>
         <div class="post_descript">
+          {% unless page.cr =="non" %}
+            <h2>Tous les comptes rendus :</h2>
+            {% assign sorted_cr = site.espace-admin-posts %}
+            <ul>
+              {% for cr in sorted_cr %}
+                {% if cr.cat == page.cat %}
+                  <li>
+                    <a href="{{ post.url | absolute_url }}">{{ cr.title }}</a>
+                  </li>
+                {% endif %}
+              {% endfor %}
+            </ul>
+          {% endunless %}
           {{ content | markdownify }}
         </div>
       </article>

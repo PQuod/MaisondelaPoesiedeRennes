@@ -18,7 +18,17 @@ collections:
     output: true
   bibliotheque:
     output: true
-  espace-admin:
+  espace-admin-pages:
+    output: true
+    order:
+      - ca.md
+      - bureau.md
+      - prog.md
+      - comm.md
+      - lieu.md
+      - docs.md
+      - candidatures.md
+  espace-admin-posts:
     output: true
 
 defaults:
