@@ -14,7 +14,7 @@ date_fin: 2023-05-09T12:52:17.175Z
 dates_publiees: 9 mai 2023 · 19h
 lieu: Bar Le BabaZula, 182 avenue Général George S. Patton
 tarif: Entrée libre et gratuite
-partenaires: Centre culturel suisse
+partenaires: Centre culturel suisse. On Tour à Rennes
 ---
 **L'Ours Blanc** est une revue littéraire suisse créée par **Hervé Laurent** en 2014 (qu'il dirige depuis), qui publie des textes brefs et singuliers, français comme étrangers, en leur consacrant un numéro entier. Le sommaire de la revue s’écrit donc au fur et à mesure des livraisons. 
 
@@ -30,4 +30,4 @@ Cette soirée est l'occasion d'en apprendre plus sur cette revue singulière dan
 
 [Le site de L'Ours Blanc.](http://revue-loursblanc.org/)
 
-*Cette soirée s'inscrit dans la tournée française 2023 du [Centre culturel suisse](https://www.ccsparis.com/evenements/centre-culturel-suisse-on-tour-a-rennes/), dont la ville de Rennes est partenaire du 5 au 14 mai 2023. Elle bénéficie à ce titre de leur soutien artistique et financier.*
+*Cette soirée s’inscrit dans le cadre du Centre culturel suisse. On Tour à Rennes du 05 au 14 mai 2023.*
