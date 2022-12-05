@@ -1,108 +1,117 @@
 :root {
-  --text-font:'Amaranth', sans-serif;
-  --line-height:30px;
-  --text-color:black;
-  --color_res:#a1dbb2;
-  --color_renc:#fee5ad;
-  --color_asso:#faca66;
-  --color_pod:#f7a541;
-  --color_autres:#f45d5c;
-  --color_scol: #DAF7A6;
+  --text-font: "Amaranth", sans-serif;
+  --line-height: 30px;
+  --text-color: black;
+  --color_res: #50b4d8;
+  --color_renc: #e3bfb7;
+  --color_asso: #f7e5b7;
+  --color_pod: #d7e2ea;
+  --color_autres: #96b3c2;
+  --color_scol: #ffdad1;
 }
 
-*{
-  margin:0;
-  padding:0;
+/*Palette d'automne:
+--color_res:#a1dbb2;
+--color_renc:#fee5ad;
+--color_asso:#faca66;
+--color_pod:#f7a541;
+--color_autres:#f45d5c;
+--color_scol: #DAF7A6;*/
+
+* {
+  margin: 0;
+  padding: 0;
 }
 
-body{
-  font-family:var(--text-font);
+body {
+  font-family: var(--text-font);
   letter-spacing: 1px;
 }
 
-a{
-  color:var(--text-color);
+a {
+  color: var(--text-color);
 }
 
-a:hover{
+a:hover {
   text-decoration: none;
 }
 
-h1{
-  font-size:30px;
+h1 {
+  font-size: 30px;
 }
 
-h2{
-  font-size:28px;
+h2 {
+  font-size: 28px;
 }
 
-h3{
-  font-size:24px;
+h3 {
+  font-size: 24px;
 }
 
-h4{
-  font-size:22px;
+h4 {
+  font-size: 22px;
 }
 
-h5{
-  font-size:20px;
+h5 {
+  font-size: 20px;
 }
 
-h6{
-  font-size:18px;
+h6 {
+  font-size: 18px;
 }
 
-p, li{
-  font-size:20px;
+p,
+li {
+  font-size: 20px;
   line-height: var(--line-height);
 }
 
-ul li{
-  list-style:none;
+ul li {
+  list-style: none;
 }
 
-hr{
-  height:95px;
+hr {
+  height: 95px;
   background: #fff url(/imgs/line.gif) no-repeat scroll center;
-  border:none;
+  border: none;
 }
 
-blockquote{
-  margin-left:20px;
-  padding-left:20px;
-  border-left:5px solid gray;
+blockquote {
+  margin-left: 20px;
+  padding-left: 20px;
+  border-left: 5px solid gray;
 }
 
-
-@media screen and (max-width: 700px){
-  :root{
-    --line-height:26px;
+@media screen and (max-width: 700px) {
+  :root {
+    --line-height: 26px;
   }
-  h1{
-    font-size:26px;
-  }
-
-  h2{
-    font-size:24px;
+  h1 {
+    font-size: 26px;
   }
 
-  h3{
-    font-size:22px;
+  h2 {
+    font-size: 24px;
   }
 
-  h4{
-    font-size:20px;
+  h3 {
+    font-size: 22px;
   }
 
-  h5{
-    font-size:18px;
+  h4 {
+    font-size: 20px;
   }
 
-  h6{
-    font-size:16px;
+  h5 {
+    font-size: 18px;
   }
 
-  p, li{
-    font-size:16px;
+  h6 {
+    font-size: 16px;
+  }
+
+  p,
+  li {
+    font-size: 16px;
   }
 }
