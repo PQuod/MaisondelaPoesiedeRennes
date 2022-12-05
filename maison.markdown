@@ -6,7 +6,7 @@ permalink: /maison/
 ---
 ## Le projet
 
-L'association Maison de la Poésie - Beauséjour est une association loi 1901.
+L'association Maison de la Poésie - Beauséjour est une association loi 1901 créée en 2022.
 
 Ses missions :  
 
