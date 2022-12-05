@@ -29,7 +29,7 @@ layout: default
                 <div class="event_dates">
                   <p class="">{{post.dates_publiees}}</p>
                 </div>
-                <a href="{{ post.url }}">
+                <a href="{{ post.url }}" title="{{post.title}}">
                   {% if post.categories contains "residence" %}<h3 class="color_res event_titre">
                   {% elsif post.categories contains "rencontre" %}<h3 class="color_renc event_titre">
                   {% elsif post.categories contains "associatif" %}<h3 class="color_asso event_titre">
@@ -42,7 +42,7 @@ layout: default
                     <h4 class="event_artistes">{{ item }}</h4>
                   {% endfor %}
                 {% endfor %}
-                <p class="">{% if post.tarif %}{{post.tarif}}{% endif %}</p>
+                <p>{% if post.tarif %}{{post.tarif}}{% endif %}</p>
                 <p>{% unless post.categories contains "residence" %}{% if post.lieu %}{{post.lieu}}{% endif %}{% endunless %}</p>
               </li>
             {% endif %}
@@ -52,7 +52,7 @@ layout: default
     </div>
   </ul>
   <div class="to-top">
-    <h4><a href="#top">↑ Retourner en haut ↑</a></h4>
+    <h4><a href="#top" title="Retourner en haut">↑ Retourner en haut ↑</a></h4>
   </div>
 </div>
 {% include scripts/sommaire.html %}

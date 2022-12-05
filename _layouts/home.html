@@ -21,7 +21,7 @@ layout: default
                   {% if post.type contains 'breve' %}
                     {% if post.categories contains "rencontre" %}<h3 class="color_renc">{% elsif post.categories contains "associatif" %}<h3 class="color_asso">{% elsif post.categories contains "scolaires" %}<h3 class="color_scol">{% else %}<h3 class="color_autres">{% endif %}{{ post.title }}</h3>
                   {% else %}
-                    <a href="{{ post.url }}">
+                    <a href="{{ post.url }}" title="{{post.title}}">
                       {% if post.categories contains "rencontre" %}<h3 class="color_renc">{% elsif post.categories contains "associatif" %}<h3 class="color_asso">{% elsif post.categories contains "scolaires" %}<h3 class="color_scol">{% else %}<h3 class="color_autres">{% endif %}{{ post.title }}</h3>
                     </a>
                   {% endif %}
@@ -56,7 +56,7 @@ layout: default
                   {% assign count = count | plus:1 %}
                   {% assign nb_posts = site.data.settings.nb_posts_home %}
                   <div class="event_dates">{{post.dates_publiees}}</div>
-                  <a href="{{ post.url }}">
+                  <a href="{{ post.url }}" title="{{post.title}}">
                     {% if post.categories contains "residence" %}<h3 class="color_res">
                     {% elsif post.categories contains "rencontre" %}<h3 class="color_renc">
                     {% elsif post.categories contains "associatif" %}<h3 class="color_asso">
@@ -81,13 +81,13 @@ layout: default
     </div>
     <!-- Le lien vers le reste des archives -->
     <div class="periode">
-      <a href="/archives/" style="text-decoration:none;">
+      <a href="/archives/" style="text-decoration:none;" title="Tous les événements">
         <h1><span class="circle"></span> Voir toutes les archives <span class="circle2"></span></h1>
       </a>
     </div>
   </div>
   <div class="to-top">
-    <h4><a href="#top">↑ Retourner en haut ↑</a></h4>
+    <h4><a href="#top" title="Retourner en haut">↑ Retourner en haut ↑</a></h4>
   </div>
 </div>
 
