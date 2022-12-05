@@ -6,7 +6,7 @@ layout: default
   <div class="evenements">
     <!-- Les évènements en cours -->
     <div class="periode">
-      <h1 class="mobile-display-block"><span class="circle"></span> En ce moment <span class="circle2"></span></h1>
+      <h2 class="mobile-display-block"><span class="circle"></span> En ce moment <span class="circle2"></span></h2>
       <ul class="liste-posts">
         {% assign sorted = site.posts | sort: 'date_debut' %}
         <!-- N'affiche que les rencontres, les scolaires, les évènements associatifs et les divers -->
@@ -43,7 +43,7 @@ layout: default
     </div>
     <!-- Les évènements passés -->
     <div class="periode">
-      <h1><span class="circle"></span> Événements passés <span class="circle2"></span></h1>
+      <h2><span class="circle"></span> Événements passés <span class="circle2"></span></h2>
       <ul class="liste-posts">
         {% assign count = 0 %}
         {% assign sorted = site.posts | sort: 'date_debut'| reverse %}
@@ -82,12 +82,12 @@ layout: default
     <!-- Le lien vers le reste des archives -->
     <div class="periode">
       <a href="/archives/" style="text-decoration:none;" title="Tous les événements">
-        <h1><span class="circle"></span> Voir toutes les archives <span class="circle2"></span></h1>
+        <h2><span class="circle"></span> Voir toutes les archives <span class="circle2"></span></h2>
       </a>
     </div>
   </div>
   <div class="to-top">
-    <h4><a href="#top" title="Retourner en haut">↑ Retourner en haut ↑</a></h4>
+    <h3><a href="#top" title="Retourner en haut">↑ Retourner en haut ↑</a></h3>
   </div>
 </div>
 
