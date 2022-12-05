@@ -26,7 +26,7 @@
           {% include scripts/dates.html %}
           {% if debutdate <= nowdate and findate >= nowdate %}
             <h3 class="encart_titre prems">En cours</h3>
-            <a href="{{ post.url }}">
+            <a href="{{ post.url }}" title="Résidence en cours de {{post.artiste}}">
                 <h4>{{ post.artiste | join: ", " }}</h4>
             </a>
             <div class="event_dates">{{ post.title }}<br>{{ post.dates_publiees }}</div>
@@ -41,7 +41,7 @@
           {% include scripts/dates.html %}
           {% if debutdate >= nowdate %}
           <h3 class="encart_titre prems">À venir</h3>
-          <a href="{{ post.url }}">
+          <a href="{{ post.url }}" title="Résidence à venir de {{post.artiste}}">
               <h4>{{ post.artiste | join: ", " }}</h4>
           </a>
           <div class="event_dates">{{ post.title }}<br>{{ post.dates_publiees }}</div>
@@ -49,7 +49,7 @@
         {% endif %}
       {% endif %}
     {% endfor %}
-    <a href="/category/residence" class="liencat">Toutes les résidences</a>
+    <a href="/category/residence" class="liencat" title="Toutes les résidences">Toutes les résidences</a>
   </div>
   <div class="encart">
     <!-- Sélection des posts d'appel à candidature-->
@@ -58,7 +58,7 @@
       {% if post.draft != true %}
         {% if debutdate <= nowdate and findate >= nowdate %}
             <h2 class="encart_titre color_res">Appel à candidature</h2>
-            <a href="{{ post.url }}">
+            <a href="{{ post.url }}" title="Appel à candidature">
               <h4>{{ post.title }}</h4>
             </a>
             <div class="event_dates">{{ post.dates_publiees }}</div>
@@ -75,7 +75,7 @@
   <iframe src="{{ post.iframeurl }}" height="150px" width="100%" frameborder="0" scrolling="no"></iframe>
   <div class="event_dates">{{ post.title }} &middot; {{ post.artiste }} &middot; {{ post.dates_publiees }}</div>
   <br>
-  <a href="/category/podcast" class="liencat">Tous les podcasts</a>
+  <a href="/category/podcast" class="liencat" title="Tous les podcasts">Tous les podcasts</a>
 </div>
 {% endfor %}
 
@@ -85,11 +85,11 @@
   {% for post in sortedjournal limit:3 %}
     {% assign counter = counter | plus: 1 %}
     {% if counter == 2 %}
-      <a href="/journal/#post_deux">
+      <a href="/journal/#post_deux" title="{{post.title}}">
     {% elsif counter == 3 %}
-      <a href="/journal/#post_trois">
+      <a href="/journal/#post_trois" title="{{post.title}}">
     {% else %}
-      <a href="/journal">
+      <a href="/journal" title="{{post.title}}">
     {% endif %}
     <h4>{{ post.title }}</h4>
   </a>
