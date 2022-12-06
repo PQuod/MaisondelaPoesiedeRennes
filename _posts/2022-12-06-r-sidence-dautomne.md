@@ -15,17 +15,16 @@ partenaires: L'Antre-2, Le Grand Cordel MJC
 ---
 Pour sa résidence de création, **Ian Monk** a choisi de travailler sur le métier d'écrivain, de poète et d'artiste. Il abordera également l'écriture à contraintes, le réel et la compréhension du quotidien par le décalage et l'humour noir.
 
-
 2 événements sont publics :
-
 
 **Mercredi 7 novembre à 14h30**
 
-
 Atelier d'écriture en partenariat avec L'Antre-2
-
 
 **Vendredi 29 novembre à 19h**
 
-
 Temps fort de la résidence au Grand Cordel-MCJ
+
+**Médias**
+
+[Entretien avec Matthieu Dubois pour Radio Univers](http://www.radio-univers.com/ian-monk-loulipien/)
