@@ -2,7 +2,7 @@
 {% assign sortedbreve = site.posts | where: "type", "breve" | sort: "date_debut" %}
 {% if sortedbreve.size != 0 %}
   <div class="encart">
-      <h2 class="color_autres">Brèves</h2>
+    <h2 class="color_autres">Brèves</h2>
     {% for post in sortedbreve %}
       {% include scripts/dates.html %}
         {% if debutdate >= nowdate %}       
@@ -27,7 +27,7 @@
           {% if debutdate <= nowdate and findate >= nowdate %}
             <h3 class="encart_titre prems">En cours</h3>
             <a href="{{ post.url }}" title="Résidence en cours de {{post.artiste}}">
-                <h4>{{ post.artiste | join: ", " }}</h4>
+              <h4>{{ post.artiste | join: ", " }}</h4>
             </a>
             <div class="event_dates">{{ post.title }}<br>{{ post.dates_publiees }}</div>
           {% endif %}
@@ -42,7 +42,7 @@
           {% if debutdate >= nowdate %}
           <h3 class="encart_titre prems">À venir</h3>
           <a href="{{ post.url }}" title="Résidence à venir de {{post.artiste}}">
-              <h4>{{ post.artiste | join: ", " }}</h4>
+            <h4>{{ post.artiste | join: ", " }}</h4>
           </a>
           <div class="event_dates">{{ post.title }}<br>{{ post.dates_publiees }}</div>
           {% endif %}
@@ -57,11 +57,11 @@
       {% include scripts/dates.html %}
       {% if post.draft != true %}
         {% if debutdate <= nowdate and findate >= nowdate %}
-            <h2 class="encart_titre color_res">Appel à candidature</h2>
-            <a href="{{ post.url }}" title="Appel à candidature">
-              <h4>{{ post.title }}</h4>
-            </a>
-            <div class="event_dates">{{ post.dates_publiees }}</div>
+          <h2 class="encart_titre color_res">Appel à candidature</h2>
+          <a href="{{ post.url }}" title="Appel à candidature">
+            <h4>{{ post.title }}</h4>
+          </a>
+          <div class="event_dates">{{ post.dates_publiees }}</div>
         {% endif %}
       {% endif %}
     {% endfor %}
@@ -70,13 +70,13 @@
 <!-- Dernier podcast (posts dans la catégorie podcasts)-->
 {% assign sortedpod = site.categories.podcast | sort: 'date_debut' | reverse %}
 {% for post in sortedpod limit:1 %}
-<div class="encart color_pod">
-  <h2 class="">Dernier podcast</h2>
-  <iframe src="{{ post.iframeurl }}" height="150px" width="100%" frameborder="0" scrolling="no"></iframe>
-  <div class="event_dates">{{ post.title }} &middot; {{ post.artiste }} &middot; {{ post.dates_publiees }}</div>
-  <br>
-  <a href="/category/podcast" class="liencat">Tous les podcasts</a>
-</div>
+  <div class="encart color_pod">
+    <h2 class="">Dernier podcast</h2>
+    <iframe src="{{ post.iframeurl }}" height="150px" width="100%" frameborder="0" scrolling="no"></iframe>
+    <div class="event_dates">{{ post.title }} &middot; {{ post.artiste }} &middot; {{ post.dates_publiees }}</div>
+    <br />
+    <a href="/category/podcast" class="liencat">Tous les podcasts</a>
+  </div>
 {% endfor %}
 
 <div class="encart">
