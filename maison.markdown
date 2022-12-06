@@ -16,6 +16,8 @@ Ses missions :
 
 Elle conduit sa démarche avec le souci permanent de favoriser l’accès du plus grand nombre à la culture et à la création artistique.
 
+Consulter ses Statuts (PDF)
+
 - - -
 
 ## L'équipe
