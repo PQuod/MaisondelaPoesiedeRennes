@@ -16,7 +16,7 @@ Ses missions :
 
 Elle conduit sa démarche avec le souci permanent de favoriser l’accès du plus grand nombre à la culture et à la création artistique.
 
-Consulter ses Statuts (PDF)
+[Consulter ses Statuts](imgs/statuts-valid-s-ag-01-07-2021.pdf) (PDF)
 
 - - -
 
