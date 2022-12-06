@@ -56,7 +56,7 @@ Il appartient au candidat ou à la candidate de s'assurer que toutes les pièces
 
 ## Postuler
 
-Le dossier de candidature (PDF) peut être téléchargé [en cliquant sur ce lien](/imgs/r-sidence-d-criture-dossier-de-candidature.pdf). 
+Le dossier de candidature peut être téléchargé [en cliquant sur ce lien](/imgs/r-sidence-d-criture-dossier-de-candidature.pdf) (PDF, 500Ko). 
 
 - - -
 
