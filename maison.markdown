@@ -16,7 +16,7 @@ Ses missions :
 
 Elle conduit sa démarche avec le souci permanent de favoriser l’accès du plus grand nombre à la culture et à la création artistique.
 
-[Consulter les Statuts](imgs/statuts-valid-s-ag-01-07-2021.pdf) (PDF, 460ko)
+[Consulter les Statuts](imgs/statuts-valid-s-ag-01-07-2021.pdf) (PDF, 460Ko)
 
 - - -
 
@@ -50,13 +50,13 @@ François Trémolières ([Université Rennes 2](http://www.univ-rennes2.fr/)) &m
 
 ## Rapports d'activité[](/docs/2020-2021_RapportActivite.pdf)
 
-[Saison 2021-2022](/docs/2020-2021_RapportActivite.pdf) &middot; [Saison 2020-2021](/imgs/2021_rapportactivit-_ecran.pdf) &middot; [Saison 2019-2020](/imgs/2019-2020_rapportactivite_web.pdf) &middot; [Saison 2018-2019](/imgs/2019_final_screen_rapport-d-activit-.pdf)
+[Saison 2021-2022](/docs/2020-2021_RapportActivite.pdf) (PDF, 3Mo) &middot; [Saison 2020-2021](/imgs/2021_rapportactivit-_ecran.pdf) (PDF, 729Ko) &middot; [Saison 2019-2020](/imgs/2019-2020_rapportactivite_web.pdf) (PDF, 2Mo) &middot; [Saison 2018-2019](/imgs/2019_final_screen_rapport-d-activit-.pdf) (PDF, 2Mo)
 
 - - -
 
 ## Adhésion
 
-[Télécharger le bulletin d'adhésion 2022](/imgs/bulletin-d-adh-sion-2022.pdf) (PDF)
+[Télécharger le bulletin d'adhésion 2022](/imgs/bulletin-d-adh-sion-2022.pdf) (PDF, 21Ko)
 
 L’adhésion est valable une année civile (de janvier à décembre) :
 
