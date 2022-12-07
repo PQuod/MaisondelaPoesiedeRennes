@@ -57,16 +57,26 @@ La revue est composée d'une feuille A3 pliée et collée dans une couverture ca
 
 Chaque numéro a été imprimé en un seul exemplaire dans l'atelier de la Maison de la Poésie. Comme plusieurs numéros ont été perdus ou volés au fil du temps, sur les sept parus, quatre sont encore consultables dans la bibliothèque. 
 
-## Editions scolaires
+## Éditions scolaires
 
-## Les
+*Description à venir...*
 
-Poésie Maxi
+## Projets accueillis
 
-*Poésie Maxi* est une revue
+### Catalogue La Guerrière (2022)
 
-Livres Anaël
+[La Guerrière](https://laguerriere.net/) est une galerie féministe et solidaire rennaise créée par **Charlotte Beltzung, Alix Desabliaux, Lucie Desaubliaux** et **Inès Dobelle**.
 
-Livre La Guerrière
+Pour faire le bilan de leur première saison, un catalogue a été écrit par Alix et Lucie, mis en page par Charlotte et relu par Inès. Il a été imprimé et asemblé (dos carré-collé) à 100 exemplaires à la Maison de la Poésie.
 
-Livre Alix
+### Vie et mort de milliardaires pas illustres & Comment gagner beaucoup d'argent (2022)
+
+*Description à venir...*
+
+### Poésie Maxi (2019-2021)
+
+*[Poésie Maxi](https://poesiemaxi.hotglue.me/)* est une revue de poésie créée par **Charlotte Beltzung** et **Lucie Desaubliaux**. Elle compte huit numéros répartis sur deux saisons.
+
+La revue est une feuille A3 pliée pour chaque numéro avec un pliage original, et qui accueille des textes et créations graphiques inédits. Elle est envoyée par courrier aux personnes abonnées. 
+
+Chaque numéro a été imprimé à une centaine d'exemplaires à la Maison de la Poésie.
