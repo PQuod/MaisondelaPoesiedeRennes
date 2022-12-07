@@ -309,14 +309,22 @@ article ul li:before {
   h2 {
     margin-bottom: var(--line-height);
   }
+
+ .imgbackground{
+    background-color: var(--color_autres);
+    max-width:50%;
+    margin:auto;
+  }
+
   img {
     filter: grayscale(100%);
-    max-width: 50%;
+    mix-blend-mode: multiply;
+    max-width:100%;
     height: auto;
-    transform: translate(50%, 0%);
   }
   img:hover {
     filter: none;
+    mix-blend-mode: normal;
   }
   ul {
     padding-left: 50px;
