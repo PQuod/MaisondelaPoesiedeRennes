@@ -23,6 +23,12 @@ Les objets sont volontairement conçus et produits selon une logique d'objets *p
 
 [En 2023](https://maiporennes.fr/residence/2022/11/15/carr-ment-2.html), les artistes-auteurices invité.es sont **Martin Desinde, Rémi Forte, Lucile Olympe Haute** et **Anne-Sarah Huet**. Leurs objets sont encore à venir...
 
+## Dispersantx (2021)
+
+*Dispersantx* est un livre collectif édité par DQ Press / The Cheapest University, qui rassemble des images et des textes écrits par **Claire Finch, Charlotte Houette, Elsa Vettier, Oriane Déchery, Rosanna Puyol, Kevin Desbouis, France Valliccioni, Julie Sas, Théo Robin-Langlois, Diane Réa, Nina Kennel et Sophie T.Lvoff**.
+
+Le livre a été conçu, maquetté et assemblé par Julie Sas lors de sa résidence de création à la Maison de la Poésie
+
 ## Internet Explorer (2020-2021)
 
 *Internet Explorer* est un site de création littéraire né pendant le premier confinement, au printemps 2020. Il accueille uniquement des poésie, de prose poétique et de prose (pas d'images, de sons ni de vidéos). 
