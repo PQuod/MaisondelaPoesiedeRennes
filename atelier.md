@@ -6,7 +6,7 @@ La Maison de la Poésie de Rennes possède un petit atelier dans lequel elle fab
 
 Les objets sont conçus par les salarié.es, les bénévoles ou les artistes-auteurices accueilli.es dans le cadre de notre programmation ou vivant à Rennes et alentour. 
 
-Pour le matériel, l'atelier dispose d'une imprimante laser monochrome REF, d'un massicot à bras REF, d'une presse à linogravure manuelle, de matériel divers (papeterie, serre-joint, etc.) et de trois plans de travail. 
+Pour le matériel, l'atelier dispose d'une imprimante laser monochrome RICOH MP 2553, d'un massicot à bras IDEAL 4305, d'une presse à linogravure manuelle, d'une relieuse PB55 Fellowes, de matériel divers (papeterie, agrafeuse, serre-joint, etc.) et de trois plans de travail. 
 
 ## Carrément (2021-)
 
@@ -19,15 +19,15 @@ Les objets sont volontairement conçus et produits selon une logique d'objets *p
 * Maxime Actis a réalisé une série de microéditions intitulées *Brutusses et brutus*, qui rassemblent poèmes inédits et collages d'images. Tous les exemplaires ont été imprimés à la Maison de la Poésie.
 * Laurence Cathala a réalisé une série d'affiches en risographie intitulées *Versions*, qui reviennent sur ce projet qu'elle conçoit depuis plusieurs années. Les affiches ont été imprimées chez [Club Couleurs](https://www.instagram.com/clubcouleurs/?hl=fr), puis pliées et assemblées par Candice et Quentin.
 * Josèfa Ntjam a réalisé une cassette audio intitulée *Ring The Alarm*, qui comprend une création sonore inédite. Les cassettes ont été produites par [Edisco](https://www.edisco.pt/). 
-* Théo Robine-Langlois a réalisé une capsule audio avec les élèves du collège Pierre Brossolette à Bruz, ainsi qu'une affiche graphique, qui explore leur rapport à la langue bretonne. L'affiche a été imprimée chez [Copie des Lices](https://www.copiesdeslices.com/). 
+* Théo Robine-Langlois a réalisé une capsule audio avec les élèves du collège Pierre Brossolette à Bruz, ainsi qu'une affiche graphique, qui explore leur rapport à la langue bretonne. L'affiche a été imprimée chez Copie des Lices. 
 
 [En 2023](https://maiporennes.fr/residence/2022/11/15/carr-ment-2.html), les artistes-auteurices invité.es sont **Martin Desinde, Rémi Forte, Lucile Olympe Haute** et **Anne-Sarah Huet**. Leurs objets sont encore à venir...
 
 ## Dispersantx (2021)
 
-*Dispersantx* est un livre collectif édité par DQ Press / The Cheapest University, qui rassemble des images et des textes écrits par **Claire Finch, Charlotte Houette, Elsa Vettier, Oriane Déchery, Rosanna Puyol, Kevin Desbouis, France Valliccioni, Julie Sas, Théo Robin-Langlois, Diane Réa, Nina Kennel et Sophie T.Lvoff**.
+*Dispersantx* est un ouvrage collectif édité par DQ Press / The Cheapest University, qui rassemble des images et des textes écrits par **Claire Finch, Charlotte Houette, Elsa Vettier, Oriane Déchery, Rosanna Puyol, Kevin Desbouis, France Valliccioni, Julie Sas, Théo Robin-Langlois, Diane Réa, Nina Kennel et Sophie T.Lvoff**.
 
-Le livre a été conçu, maquetté et assemblé par Julie Sas lors de sa résidence de création à la Maison de la Poésie
+Le livre a été conçu, maquetté et assemblé (dos carré-collé) par **Julie Sas** lors de [sa résidence de création à la Maison de la Poésie](https://maiporennes.fr/residence/2021/10/18/r-sidence-dautomne.html). Il a été imprimé à la Maison de la Poésie et chez [Copie des Lices](https://www.copiesdeslices.com/) a 100 exemplaires. Il est vendu au prix de 15€.
 
 ## Internet Explorer (2020-2021)
 
