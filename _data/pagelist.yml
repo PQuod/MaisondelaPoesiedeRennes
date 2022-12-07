@@ -1,7 +1,7 @@
 pages_list: Pages du site
 pages:
-  - title: Maison
-    url: /maison/
+  - title: Association
+    url: /association/
   - title: Bibliothèque
     url: /bibli/
   - title: Résidences
@@ -12,3 +12,5 @@ pages:
     url: /journal/
   - title: Contact
     url: /contact/
+  - title: Atelier
+    url: /atelier/
