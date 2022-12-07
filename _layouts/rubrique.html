@@ -30,3 +30,15 @@ layout: default
   </div>
 </article>
 {% include scripts/sommaire.html %}
+<script>
+  const myImages = document.images;
+  console.log(myImages.length);
+  const imgWrapper = document.createElement('div');
+  imgWrapper.className="imgbackground";
+  for (let i = 0; i < myImages.length; i++){
+    if (myImages[i].id != "logo"){
+      myImages[i].parentNode.insertBefore(imgWrapper, myImages[i]);
+      imgWrapper.appendChild(myImages[i]);
+    }
+  }
+</script>
