@@ -1,4 +1,5 @@
 ---
+layout: "rubrique"
 title: Atelier
 permalink: /atelier/
 ---
