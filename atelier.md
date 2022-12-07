@@ -1,5 +1,4 @@
 ---
-layout: "rubrique"
 title: Atelier
 permalink: /atelier/
 ---
@@ -68,7 +67,7 @@ Chaque numéro a été imprimé en un seul exemplaire dans l'atelier de la Maiso
 
 [La Guerrière](https://laguerriere.net/) est une galerie féministe et solidaire rennaise créée par **Charlotte Beltzung, Alix Desabliaux, Lucie Desaubliaux** et **Inès Dobelle**.
 
-Pour faire le bilan de leur première saison, un catalogue a été écrit par Alix et Lucie, mis en page par Charlotte et relu par Inès. Il a été imprimé et asemblé (dos carré-collé) à 100 exemplaires à la Maison de la Poésie.
+Pour faire le bilan de leur première saison, un catalogue a été écrit par Alix et Lucie, mis en page par Charlotte et relu par Inès. Il a été imprimé et assemblé (dos carré-collé) à 100 exemplaires à la Maison de la Poésie.
 
 ### Vie et mort de milliardaires pas illustres & Comment gagner beaucoup d'argent (2022)
 
