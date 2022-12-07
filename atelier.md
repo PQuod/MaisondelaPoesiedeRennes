@@ -4,6 +4,10 @@ permalink: /atelier/
 ---
 La Maison de la Poésie de Rennes possède un petit atelier dans lequel elle fabrique des objets littéraires et numériques. 
 
+Les objets sont conçus par les salarié.es, les bénévoles ou les artistes-auteurices accueilli.es dans le cadre de notre programmation ou vivant à Rennes et alentour. 
+
+Pour le matériel, l'atelier dispose d'une imprimante laser monochrome REF, d'un massicot à bras REF, d'une presse à linogravure manuelle, de matériel divers (papeterie, serre-joint, etc.) et de trois plans de travail. 
+
 ## Carrément (2021-)
 
 *Carrément* est un événement biennale qui accueille à chaque édition quatre artistes-auteurices en résidence et leur passe commande d'un objet littéraire qui sort du circuit traditionnel de l'édition.
@@ -21,7 +25,11 @@ Les objets sont volontairement conçus et produits selon une logique d'objets *p
 
 ## Internet Explorer (2020-2021)
 
-*Internet Explorer* est un site de création littéraire né pendant le premier confinement, au printemps 2020.
+*Internet Explorer* est un site de création littéraire né pendant le premier confinement, au printemps 2020. Il accueille uniquement des poésie, de prose poétique et de prose (pas d'images, de sons ni de vidéos). 
+
+La publication y est ouverte (pas de limite de textes), et ne comprend pas de comité éditorial. L'invitation des participant.es est rizhomique : un.e auteurice invité.e peut inviter trois autres auteurices de son choix, et ainsi de suite. 
+
+Le site est statique et veille à l'accessibilité et la lisibilité du texte sur tous les supports et pour tous les publics. Il a été conçu par Quentin, Lucie et Candice, avec l'aide de Robinson. Il a été développé et designé par Lucie. 
 
 ## Le Pangolin de Confucius (2020)
 
