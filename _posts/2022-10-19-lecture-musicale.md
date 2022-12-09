@@ -8,8 +8,8 @@ artiste:
   - Luc Bénazet
   - Louis Laurain
 categories: rencontre
-date_debut: 2022-12-09T09:48:22.589Z
-date_fin: 2022-12-09T09:48:22.643Z
+date_debut: 2022-12-08T09:48:22.589Z
+date_fin: 2022-12-08T09:48:22.643Z
 dates_publiees: 8 décembre 2022 · 19h
 lieu: Bar Le BabaZula, 182 avenue Général George S. Patton
 tarif: Entrée libre et gratuite
