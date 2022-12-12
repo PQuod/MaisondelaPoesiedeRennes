@@ -32,9 +32,9 @@ Le livre a été conçu, maquetté et assemblé (dos carré-collé) par **Julie 
 
 ## Internet Explorer (2020-2021)
 
-*Internet Explorer* est un site de création littéraire né pendant le premier confinement, au printemps 2020. Il accueille uniquement des poésie, de prose poétique et de prose (pas d'images, de sons ni de vidéos). 
+*Internet Explorer* est un site de création littéraire né pendant le premier confinement, au printemps 2020. Il accueille des textes de poésie, de prose poétique et de prose (pas d'image, de son ni de vidéo). 
 
-La publication y est ouverte (pas de limite de textes), et ne comprend pas de comité éditorial. L'invitation des participant.es est rizhomique : un.e auteurice invité.e peut inviter trois autres auteurices de son choix, et ainsi de suite. 
+La publication y est ouverte (pas de limite de textes), et ne comprend pas de comité éditorial. L'invitation des participant.es est rhizomique : un.e auteurice invité.e peut inviter trois autres auteurices de son choix, et ainsi de suite. 
 
 Le site est statique et veille à l'accessibilité et la lisibilité du texte sur tous les supports et pour tous les publics. Il a été conçu par Quentin, Lucie et Candice, avec l'aide de Robinson. Il a été développé et designé par Lucie. 
 
@@ -66,7 +66,7 @@ Chaque numéro a été imprimé en un seul exemplaire dans l'atelier de la Maiso
 
 ### Catalogue La Guerrière (2022)
 
-[La Guerrière](https://laguerriere.net/) est une galerie féministe et solidaire rennaise créée par **Charlotte Beltzung, Alix Desabliaux, Lucie Desaubliaux** et **Inès Dobelle**.
+[La Guerrière](https://laguerriere.net/) est une galerie féministe et solidaire rennaise créée par **Charlotte Beltzung, Alix Desaubliaux, Lucie Desaubliaux** et **Inès Dobelle**.
 
 Pour faire le bilan de leur première saison, un catalogue a été écrit par Alix et Lucie, mis en page par Charlotte et relu par Inès. Il a été imprimé et assemblé (dos carré-collé) à 100 exemplaires à la Maison de la Poésie.
 
