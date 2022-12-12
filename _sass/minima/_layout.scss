@@ -314,15 +314,28 @@ article ul li:before {
     background-color: var(--color_autres);
     max-width:50%;
     margin:auto;
+    position:relative;
+    image-rendering: pixelated;
   }
+  .imgbackground > img::after{                                                                                                                         
+    content:'';                                                                                                                                        
+    width:100%;                                                                                                                                        
+    height:100%;                                                                                                                                       
+    pointer-events:none;                                                                                                                              
+    position:fixed;                                                                                                                                    
+    display:block;                                                                                                                                     
+    z-index:2;                                                                                                                                         
+    top: 0px;
+    left: 0px;                                                                                                                                 
+    background-image: url(/imgs/bluenoise.png);                                                                                      
+    background-repeat: repeat;                                                                                                                          
+}
 
   img {
-    filter: grayscale(100%);
-    max-width: 50%;
-    mix-blend-mode: multiply;
+    filter: saturate(0) contrast(150);
     max-width:100%;
     height: auto;
-    transform: translate(50%, 0%);
+    mix-blend-mode: multiply;
   }
   img:hover {
     filter: none;
