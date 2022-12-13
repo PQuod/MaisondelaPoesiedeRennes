@@ -24,9 +24,9 @@ Les objets sont volontairement conçus et produits selon une logique d'objets *p
 * Laurence Cathala a réalisé une série d'affiches en risographie intitulées *Versions*, qui reviennent sur ce projet qu'elle conçoit depuis plusieurs années. Les affiches ont été imprimées chez [Club Couleurs](https://www.instagram.com/clubcouleurs/?hl=fr), puis pliées et assemblées par Candice et Quentin.
 
   ![Versions](/imgs/web_p1010824.jpg)
-* Josèfa Ntjam a réalisé une cassette audio intitulée *Ring The Alarm*, qui comprend une création sonore inédite. Les cassettes ont été produites par [Edisco](https://www.edisco.pt/) ![Ring the alarm](../imgs/web_P1010803.JPG) ![Ring the alarm](../imgs/web_P1010800.JPG) ![Ring the alarm](../imgs/web_P1010799.JPG). 
+* Josèfa Ntjam a réalisé une cassette audio intitulée *Ring The Alarm*, qui comprend une création sonore inédite. Les cassettes ont été produites par [Edisco](https://www.edisco.pt/) 
 
-  ![Rin the alarm](/imgs/web_p1010803.jpg)
+  ![Ring the alarm](/imgs/web_p1010803.jpg)
 * Théo Robine-Langlois a réalisé une capsule audio avec les élèves du collège Pierre Brossolette à Bruz, ainsi qu'une affiche graphique, qui explore leur rapport à la langue bretonne. L'affiche a été imprimée chez Copie des Lices. 
 
   ![Affiche -Théo Robine Langlois](/imgs/web_p1010841.jpg)
