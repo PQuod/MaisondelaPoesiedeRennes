@@ -76,9 +76,9 @@ Chaque numéro a été imprimé en un seul exemplaire dans l'atelier de la Maiso
 ## Éditions scolaires
 
 *Description à venir...*
-![Editions Découvreurs](../imgs/web_P1010798.JPG)
-![Editions Découvreurs](../imgs/web_P1010797.JPG)
-![Editions Découvreurs](../imgs/web_P1010796.JPG)
+
+
+![](/imgs/web_p1010798.jpg)
 
 ## Projets accueillis
 
