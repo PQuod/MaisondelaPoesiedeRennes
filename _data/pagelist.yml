@@ -4,6 +4,8 @@ pages:
     url: /association/
   - title: Bibliothèque
     url: /bibli/
+  - title: Atelier
+    url: /atelier/
   - title: Résidences
     url: /residences/
   - title: Scolaires
@@ -12,5 +14,3 @@ pages:
     url: /journal/
   - title: Contact
     url: /contact/
-  - title: Atelier
-    url: /atelier/
