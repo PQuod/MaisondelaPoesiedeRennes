@@ -65,11 +65,13 @@ Elle a été distribuée gratuitement et envoyée par courrier aux personnes qui
 
 *MAIPOLAND* est une revue à parution irrégulière, née suite à l'envie d'accueillir dans un même objet les textes de personnes gravitant autour de la Maison de la Poésie, à Rennes et sur internet. 
 
-7 numéros ont été imprimés : 5 pour la première saison, et 2 pour la deuxième saison. Chaque numéro est conçu autour d'un thème : *Les meubles*, *Emploi du temps*, *Les champignons*, *Les conversations intéressantes*, *Partir*, *Les voitures* et *Respirer* ![Maipoland](../imgs/web_P1010827.JPG)![Maipoland](../imgs/web_P1010828.JPG)![Maipoland](../imgs/web_P1010829.JPG)![Maipoland](../imgs/web_P1010831.JPG).
+7 numéros ont été imprimés : 5 pour la première saison, et 2 pour la deuxième saison. Chaque numéro est conçu autour d'un thème : *Les meubles*, *Emploi du temps*, *Les champignons*, *Les conversations intéressantes*, *Partir*, *Les voitures* et *Respirer*.
 
 La revue est composée d'une feuille A3 pliée et collée dans une couverture cartonnée fermée par un trombone. Elle a été conçue par Quentin et Lucie, qui s'est aussi chargée de la maquette.
 
 Chaque numéro a été imprimé en un seul exemplaire dans l'atelier de la Maison de la Poésie. Comme plusieurs numéros ont été perdus ou volés au fil du temps, sur les sept parus, quatre sont encore consultables dans la bibliothèque. 
+
+![Maipoland](/imgs/web_p1010827.jpg)
 
 ## Éditions scolaires
 
