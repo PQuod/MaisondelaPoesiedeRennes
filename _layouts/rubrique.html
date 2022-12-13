@@ -33,12 +33,14 @@ layout: default
 <script>
   const myImages = document.images;
   console.log(myImages.length);
-  const imgWrapper = document.createElement('div');
-  imgWrapper.className="imgbackground";
+
   for (let i = 0; i < myImages.length; i++){
     if (myImages[i].id != "logo"){
+      const imgWrapper = document.createElement('span');
+      imgWrapper.innerHTML="🖻";
+      imgWrapper.className="voirImg";
+      myImages[i].className="imgHide";
       myImages[i].parentNode.insertBefore(imgWrapper, myImages[i]);
-      imgWrapper.appendChild(myImages[i]);
     }
   }
 </script>

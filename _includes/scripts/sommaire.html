@@ -13,8 +13,10 @@
         })
         const tableOfContent = `<ol>${tableOfContentInner}</ol>`
         // add the generated table of contents to the dive
-        document.querySelector('.sommaire').innerHTML += tableOfContent
-                      document.querySelector('.sommaire').style.display = "block"
+        if (window.matchMedia("(min-width: 1000px)").matches) {
+          document.querySelector('.sommaire').innerHTML += tableOfContent
+          document.querySelector('.sommaire').style.display = "block"
+        }
       }
 })
 </script>

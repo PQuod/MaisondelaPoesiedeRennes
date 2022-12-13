@@ -310,37 +310,37 @@ article ul li:before {
     margin-bottom: var(--line-height);
   }
 
-  .imgbackground{
-    background-color: var(--color_autres);
-    max-width:50%;
-    margin:auto;
-    position:relative;
-    image-rendering: pixelated;
+  .imgHide {
+    display: none;
   }
-  .imgbackground > img::after{                                                                                                                         
-    content:'';                                                                                                                                        
-    width:100%;                                                                                                                                        
-    height:100%;                                                                                                                                       
-    pointer-events:none;                                                                                                                              
-    position:fixed;                                                                                                                                    
-    display:block;                                                                                                                                     
-    z-index:2;                                                                                                                                         
-    top: 0px;
-    left: 0px;                                                                                                                                 
-    background-image: url(/imgs/bluenoise.png);                                                                                      
-    background-repeat: repeat;                                                                                                                          
-}
 
-  img {
-    filter: saturate(0) contrast(150);
-    max-width:100%;
-    height: auto;
-    mix-blend-mode: multiply;
+  .voirImg{
+    font-size:20px;
   }
-  img:hover {
-    filter: none;
-    mix-blend-mode: normal;
+  
+  .voirImg:hover + .imgHide {
+    display: block;
+    position:absolute;
+    padding: 20px;
+    border:1px solid black;
+    max-height:300px;
+    margin-top:-375px;
+    background-color: white;
+    cursor:crosshair;
   }
+
+  .voirImg:active + .imgHide {
+    display: block;
+    position:absolute;
+    padding: 20px;
+    border:1px solid black;
+    max-height:300px;
+    margin-top:-375px;
+    background-color: white;
+    cursor:crosshair;
+  }
+
+
   ul {
     padding-left: 50px;
   }
@@ -496,6 +496,7 @@ footer {
   .liste-posts li {
     margin-bottom: 30px;
   }
+  
 }
 
 @media screen and (max-width: 700px) {
