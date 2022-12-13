@@ -113,6 +113,10 @@ Chaque numéro a été imprimé à une centaine d'exemplaires à la Maison de la
 
 ![Les sentiers qui bifurquent](/imgs/web_p1010809.jpg)
 
+### L'autre Monstre - 2021
+
+*Description à venir...*
+
 ### Tan 2020
 
 *Description à venir...*
