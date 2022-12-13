@@ -35,11 +35,11 @@ Les objets sont volontairement conçus et produits selon une logique d'objets *p
 
 ## Dispersantx (2021)
 
-*Dispersantx* ![Dispersantx](../imgs/web_P1010813.JPG)
-![Dispersantx](../imgs/web_P1010814.JPG)
-![Dispersantx](../imgs/web_P1010815.JPG) est un ouvrage collectif édité par DQ Press / The Cheapest University, qui rassemble des images et des textes écrits par **Claire Finch, Charlotte Houette, Elsa Vettier, Oriane Déchery, Rosanna Puyol, Kevin Desbouis, France Valliccioni, Julie Sas, Théo Robin-Langlois, Diane Réa, Nina Kennel et Sophie T.Lvoff**.
+*Dispersantx* est un ouvrage collectif édité par DQ Press / The Cheapest University, qui rassemble des images et des textes écrits par **Claire Finch, Charlotte Houette, Elsa Vettier, Oriane Déchery, Rosanna Puyol, Kevin Desbouis, France Valliccioni, Julie Sas, Théo Robin-Langlois, Diane Réa, Nina Kennel et Sophie T.Lvoff**.
 
 Le livre a été conçu, maquetté et assemblé (dos carré-collé) par **Julie Sas** lors de [sa résidence de création à la Maison de la Poésie](https://maiporennes.fr/residence/2021/10/18/r-sidence-dautomne.html). Il a été imprimé à la Maison de la Poésie et chez [Copie des Lices](https://www.copiesdeslices.com/) a 100 exemplaires. Il est vendu au prix de 15€.
+
+![Dispersantx](/imgs/web_p1010813.jpg)
 
 ## Internet Exploreur (2020-2021)
 
