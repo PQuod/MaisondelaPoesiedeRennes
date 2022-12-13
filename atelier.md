@@ -17,19 +17,21 @@ Les objets sont volontairement conçus et produits selon une logique d'objets *p
 
 [En 2021](https://maiporennes.fr/rencontre/2022/10/04/carr-ment.html), les artistes-auteurices invité.es sont **Maxime Actis, Laurence Cathala, Josèfa Ntjam** et **Théo Robine-Langlois**.
 
-* Maxime Actis a réalisé une série de microéditions intitulées *Brutusses et brutus*, qui rassemblent poèmes inédits et collages d'images. Tous les exemplaires ont été imprimés à la Maison de la Poésie.
+Maxime Actis a réalisé une série de microéditions intitulées *Brutusses et brutus*, qui rassemblent poèmes inédits et collages d'images. Tous les exemplaires ont été imprimés à la Maison de la Poésie.
 
 ![Brutusses et brutus](/imgs/web_P1010790.JPG)
 
-* Laurence Cathala a réalisé une série d'affiches en risographie intitulées *Versions*, qui reviennent sur ce projet qu'elle conçoit depuis plusieurs années. Les affiches ont été imprimées chez [Club Couleurs](https://www.instagram.com/clubcouleurs/?hl=fr), puis pliées et assemblées par Candice et Quentin.
+Laurence Cathala a réalisé une série d'affiches en risographie intitulées *Versions*, qui reviennent sur ce projet qu'elle conçoit depuis plusieurs années. Les affiches ont été imprimées chez [Club Couleurs](https://www.instagram.com/clubcouleurs/?hl=fr), puis pliées et assemblées par Candice et Quentin.
 
-  ![Versions](/imgs/web_p1010824.jpg)
-* Josèfa Ntjam a réalisé une cassette audio intitulée *Ring The Alarm*, qui comprend une création sonore inédite. Les cassettes ont été produites par [Edisco](https://www.edisco.pt/) 
+![Versions](/imgs/web_p1010824.jpg)
 
-  ![Ring the alarm](/imgs/web_p1010803.jpg)
-* Théo Robine-Langlois a réalisé une capsule audio avec les élèves du collège Pierre Brossolette à Bruz, ainsi qu'une affiche graphique, qui explore leur rapport à la langue bretonne. L'affiche a été imprimée chez Copie des Lices. 
+Josèfa Ntjam a réalisé une cassette audio intitulée *Ring The Alarm*, qui comprend une création sonore inédite. Les cassettes ont été produites par [Edisco](https://www.edisco.pt/) 
 
-  ![Affiche -Théo Robine Langlois](/imgs/web_p1010841.jpg)
+![Ring the alarm](/imgs/web_p1010803.jpg)
+
+Théo Robine-Langlois a réalisé une capsule audio avec les élèves du collège Pierre Brossolette à Bruz, ainsi qu'une affiche graphique, qui explore leur rapport à la langue bretonne. L'affiche a été imprimée chez Copie des Lices. 
+
+![Affiche -Théo Robine Langlois](/imgs/web_p1010841.jpg)
 
 [En 2023](https://maiporennes.fr/residence/2022/11/15/carr-ment-2.html), les artistes-auteurices invité.es sont **Martin Desinde, Rémi Forte, Lucile Olympe Haute** et **Anne-Sarah Huet**. Leurs objets sont encore à venir...
 
@@ -75,7 +77,9 @@ Chaque numéro a été imprimé en un seul exemplaire dans l'atelier de la Maiso
 
 ## Éditions scolaires
 
-*Description à venir...*
+Chaque année la Maison de la Poésie invite deux artistes, parmi la sélection du Prix des Découvreurs, à rencontrer des élèves de la 3ème à la terminale. En 2020, suite au Covid, les rencontres prévues avec Pierre Vinclair et Flora Bonfanti n'ont malheureusement pas pu se faire. Une édition a alors été réalisée, regroupant les textes des élèves qui ont écrit à la manière des deux artistes, ainsi que des entretiens réalisés à distance à partir des questionnements des élèves autour du travail des poètes.
+
+Cette édition a été imprimée en 100 exemplaires, elle comporte 4 livrets de tailles diverses reliées à l'aide de 4 rivets. Elle a été remise aux artistes et aux élèves qui y ont contribué.
 
 ![Editions Découvreurs](/imgs/web_p1010798.jpg)
 
@@ -103,9 +107,15 @@ Chaque numéro a été imprimé à une centaine d'exemplaires à la Maison de la
 
 ![Poésie Maxi](/imgs/web_p1010840.jpg)
 
-### Les sentiers qui bifurquent - Éditions des ateliers d'écriture 2020-2021
+### Les sentiers qui bifurquent (2021-2022)
+
+À l'issue des 10 ateliers menés à la Maison de la Poésie par Lucie durant l'année 2021-2022, les textes des participant &middot; es ont été regroupés dans une édition aux multiples formats, imprimée à 15 exemplaires.
 
 ![Les sentiers qui bifurquent](/imgs/web_p1010809.jpg)
+
+### L'autre Monstre (2021)
+
+*Description à venir...*
 
 ### Tan 2020
 
