@@ -51,13 +51,15 @@ Le site est statique et veille à l'accessibilité et la lisibilité du texte su
 
 ## Le Pangolin de Confucius (2020)
 
-*Le Pangolin de Confucius* est une plaquette née suite à l'annulation de la rencontre prévue autour du *Shijing* avec **Pierre Vinclair** et **Auxeméry** en 2020 ![Edition Shijing](../imgs/web_P1010789.JPG) ![Edition Shijing](../imgs/web_P1010785.JPG) ![Edition Shijing](../imgs/web_P1010784.JPG). 
+*Le Pangolin de Confucius* est une plaquette née suite à l'annulation de la rencontre prévue autour du *Shijing* avec **Pierre Vinclair** et **Auxeméry** en 2020. 
 
 Elle compte 30 pages et comprend deux textes inédits : *La Contrefaçon du pangolin* par Pierre Vinclair, et *Du pangolin considéré comme une arme de fiction massive* par Auxeméry.
 
 Elle a été conçue et maquettée par Lucie et imprimée en risographie (bichromie) chez [Club Couleurs](https://www.instagram.com/clubcouleurs/?hl=fr) à 100 exemplaires ; puis pliée et agrafée par Candice, Quentin et Lucie.
 
 Elle a été distribuée gratuitement et envoyée par courrier aux personnes qui en ont fait la demande. 
+
+![Le Pangolin de Confucius](/imgs/web_p1010789.jpg)
 
 ## MAIPOLAND (2019-2020)
 
