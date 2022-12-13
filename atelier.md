@@ -77,7 +77,6 @@ Chaque numéro a été imprimé en un seul exemplaire dans l'atelier de la Maiso
 
 *Description à venir...*
 
-
 ![](/imgs/web_p1010798.jpg)
 
 ## Projets accueillis
@@ -87,9 +86,8 @@ Chaque numéro a été imprimé en un seul exemplaire dans l'atelier de la Maiso
 [La Guerrière](https://laguerriere.net/) est une galerie féministe et solidaire rennaise créée par **Charlotte Beltzung, Alix Desaubliaux, Lucie Desaubliaux** et **Inès Dobelle**.
 
 Pour faire le bilan de leur première saison, un catalogue a été écrit par Alix et Lucie, mis en page par Charlotte et relu par Inès. Il a été imprimé et assemblé (dos carré-collé) à 100 exemplaires à la Maison de la Poésie.
-![Catalogue La Guerrière](../imgs/web_P1010817.JPG)
-![Catalogue La Guerrière](../imgs/web_P1010819.JPG)
-![Catalogue La Guerrière](../imgs/web_P1010820.JPG)
+
+![](/imgs/web_p1010819.jpg)
 
 ### Vie et mort de milliardaires pas illustres & Comment gagner beaucoup d'argent (2022)
 
@@ -103,14 +101,14 @@ La revue est une feuille A3 pliée pour chaque numéro avec un pliage original, 
 
 Chaque numéro a été imprimé à une centaine d'exemplaires à la Maison de la Poésie.
 
+![](/imgs/web_p1010840.jpg)
+
 ### Les sentiers qui bifurquent - Éditions des ateliers d'écriture 2020-2021
 
-![Edition les sentiers qui bifurquent](../imgs/web_P1010809.JPG)
-![Edition les sentiers qui bifurquent](../imgs/web_P1010810.JPG)
-![Edition les sentiers qui bifurquent](../imgs/web_P1010812.JPG)
+![]()
 
 ### Tan 2020
 
 *Description à venir...*
-![Tan 2020](../imgs/web_P1010807.JPG)
-![Tan 2020](../imgs/web_P1010806.JPG)
+
+![](/imgs/web_p1010807.jpg)
