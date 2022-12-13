@@ -77,7 +77,9 @@ Chaque numéro a été imprimé en un seul exemplaire dans l'atelier de la Maiso
 
 ## Éditions scolaires
 
-*Description à venir...*
+Chaque année la Maison de la Poésie invite deux artistes, parmi la sélection du Prix des Découvreurs, à rencontrer des élèves de la 3ème à la terminale. En 2020, suite au Covid, les rencontres prévues avec Pierre Vinclair et Flora Bonfanti n'ont malheureusement pas pu se faire. Une édition a alors été réalisée, regroupant les textes des élèves qui ont écrit à la manière des deux artistes, ainsi que des entretiens réalisés à distance à partir des questionnements des élèves autour du travail des poètes.
+
+Cette édition a été imprimée en 100 exemplaires, elle comporte 4 livrets de tailles diverses reliées à l'aide de 4 rivets. Elle a été remise aux artistes et aux élèves qui y ont contribué.
 
 ![Editions Découvreurs](/imgs/web_p1010798.jpg)
 
