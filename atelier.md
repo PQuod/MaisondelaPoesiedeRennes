@@ -17,8 +17,14 @@ Les objets sont volontairement conçus et produits selon une logique d'objets *p
 
 [En 2021](https://maiporennes.fr/rencontre/2022/10/04/carr-ment.html), les artistes-auteurices invité.es sont **Maxime Actis, Laurence Cathala, Josèfa Ntjam** et **Théo Robine-Langlois**.
 
-* Maxime Actis a réalisé une série de microéditions intitulées *Brutusses et brutus* ![Brutusses et brutus](/imgs/web_P1010793.JPG) ![Brutusses et brutus](/imgs/web_P1010792.JPG) ![Brutusses et brutus](/imgs/web_P1010790.JPG), qui rassemblent poèmes inédits et collages d'images. Tous les exemplaires ont été imprimés à la Maison de la Poésie.
-* Laurence Cathala a réalisé une série d'affiches en risographie intitulées *Versions* ![Versions](../imgs/web_P1010825.JPG)![Versions](../imgs/web_P1010824.JPG)![Versions](../imgs/web_P1010826.JPG), qui reviennent sur ce projet qu'elle conçoit depuis plusieurs années. Les affiches ont été imprimées chez [Club Couleurs](https://www.instagram.com/clubcouleurs/?hl=fr), puis pliées et assemblées par Candice et Quentin.
+* Maxime Actis a réalisé une série de microéditions intitulées *Brutusses et brutus*, qui rassemblent poèmes inédits et collages d'images. Tous les exemplaires ont été imprimés à la Maison de la Poésie.
+
+![Brutusses et brutus](/imgs/web_P1010790.JPG)
+
+* Laurence Cathala a réalisé une série d'affiches en risographie intitulées *Versions*, qui reviennent sur ce projet qu'elle conçoit depuis plusieurs années. Les affiches ont été imprimées chez [Club Couleurs](https://www.instagram.com/clubcouleurs/?hl=fr), puis pliées et assemblées par Candice et Quentin.
+
+ ![Versions](/imgs/web_P1010825.JPG)
+
 * Josèfa Ntjam a réalisé une cassette audio intitulée *Ring The Alarm*, qui comprend une création sonore inédite. Les cassettes ont été produites par [Edisco](https://www.edisco.pt/) ![Ring the alarm](../imgs/web_P1010803.JPG) ![Ring the alarm](../imgs/web_P1010800.JPG) ![Ring the alarm](../imgs/web_P1010799.JPG). 
 * Théo Robine-Langlois a réalisé une capsule audio avec les élèves du collège Pierre Brossolette à Bruz, ainsi qu'une affiche graphique ![Affiche graphique](../imgs/web_P1010841.JPG), qui explore leur rapport à la langue bretonne. L'affiche a été imprimée chez Copie des Lices. 
 

@@ -30,17 +30,3 @@ layout: default
   </div>
 </article>
 {% include scripts/sommaire.html %}
-<script>
-  const myImages = document.images;
-  console.log(myImages.length);
-
-  for (let i = 0; i < myImages.length; i++){
-    if (myImages[i].id != "logo"){
-      const imgWrapper = document.createElement('span');
-      imgWrapper.innerHTML="🖻";
-      imgWrapper.className="voirImg";
-      myImages[i].className="imgHide";
-      myImages[i].parentNode.insertBefore(imgWrapper, myImages[i]);
-    }
-  }
-</script>

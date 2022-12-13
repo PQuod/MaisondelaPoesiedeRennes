@@ -310,6 +310,13 @@ article ul li:before {
     margin-bottom: var(--line-height);
   }
 
+  img{
+    padding: 20px;
+    border:1px solid black;
+    max-height:300px;
+    margin-left:100px;
+  }
+
   .imgHide {
     display: none;
   }
