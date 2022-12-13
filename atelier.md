@@ -109,6 +109,8 @@ Chaque numéro a été imprimé à une centaine d'exemplaires à la Maison de la
 
 ### Les sentiers qui bifurquent - Éditions des ateliers d'écriture 2020-2021
 
+À l'issue des 10 ateliers menés à la Maison de la Poésie par Lucie durant l'année 2020-2021, les textes des participant &middot; es ont été regroupés dans une édition aux multiples formats, imprimée à 15 exemplaires.
+
 ![Les sentiers qui bifurquent](/imgs/web_p1010809.jpg)
 
 ### Tan 2020
