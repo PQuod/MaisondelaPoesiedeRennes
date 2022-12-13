@@ -107,13 +107,13 @@ Chaque numéro a été imprimé à une centaine d'exemplaires à la Maison de la
 
 ![Poésie Maxi](/imgs/web_p1010840.jpg)
 
-### Les sentiers qui bifurquent 
+### Les sentiers qui bifurquent (2021-2022)
 
-À l'issue des 10 ateliers menés à la Maison de la Poésie par Lucie durant l'année 2020-2021, les textes des participant &middot; es ont été regroupés dans une édition aux multiples formats, imprimée à 15 exemplaires.
+À l'issue des 10 ateliers menés à la Maison de la Poésie par Lucie durant l'année 2021-2022, les textes des participant &middot; es ont été regroupés dans une édition aux multiples formats, imprimée à 15 exemplaires.
 
 ![Les sentiers qui bifurquent](/imgs/web_p1010809.jpg)
 
-### L'autre Monstre - 2021
+### L'autre Monstre (2021)
 
 *Description à venir...*
 
