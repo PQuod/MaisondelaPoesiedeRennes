@@ -77,7 +77,7 @@ Chaque numéro a été imprimé en un seul exemplaire dans l'atelier de la Maiso
 
 *Description à venir...*
 
-![](/imgs/web_p1010798.jpg)
+![Editions Découvreurs](/imgs/web_p1010798.jpg)
 
 ## Projets accueillis
 
@@ -87,7 +87,7 @@ Chaque numéro a été imprimé en un seul exemplaire dans l'atelier de la Maiso
 
 Pour faire le bilan de leur première saison, un catalogue a été écrit par Alix et Lucie, mis en page par Charlotte et relu par Inès. Il a été imprimé et assemblé (dos carré-collé) à 100 exemplaires à la Maison de la Poésie.
 
-![](/imgs/web_p1010819.jpg)
+![Catalogue La Guerrière](/imgs/web_p1010819.jpg)
 
 ### Vie et mort de milliardaires pas illustres & Comment gagner beaucoup d'argent (2022)
 
@@ -95,20 +95,20 @@ Pour faire le bilan de leur première saison, un catalogue a été écrit par Al
 
 ### Poésie Maxi (2019-2021)
 
-*[Poésie Maxi](https://poesiemaxi.hotglue.me/)* est une revue de poésie créée par **Charlotte Beltzung** et **Lucie Desaubliaux**. Elle compte huit numéros répartis sur deux saisons ![Poésie Maxi](../imgs/web_P1010837.JPG) ![Poésie Maxi](../imgs/web_P1010838.JPG) ![Poésie Maxi](../imgs/web_P1010840.JPG).
+*[Poésie Maxi](https://poesiemaxi.hotglue.me/)* est une revue de poésie créée par **Charlotte Beltzung** et **Lucie Desaubliaux**. Elle compte huit numéros répartis sur deux saisons.
 
 La revue est une feuille A3 pliée pour chaque numéro avec un pliage original, et qui accueille des textes et créations graphiques inédits. Elle est envoyée par courrier aux personnes abonnées. 
 
 Chaque numéro a été imprimé à une centaine d'exemplaires à la Maison de la Poésie.
 
-![](/imgs/web_p1010840.jpg)
+![Poésie Maxi](/imgs/web_p1010840.jpg)
 
 ### Les sentiers qui bifurquent - Éditions des ateliers d'écriture 2020-2021
 
-![]()
+![Les sentiers qui bifurquent](/imgs/web_p1010809.jpg)
 
 ### Tan 2020
 
 *Description à venir...*
 
-![](/imgs/web_p1010807.jpg)
+![Tan 2020](/imgs/web_p1010807.jpg)
