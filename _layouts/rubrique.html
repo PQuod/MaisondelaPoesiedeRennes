@@ -30,3 +30,17 @@ layout: default
   </div>
 </article>
 {% include scripts/sommaire.html %}
+<script>
+  const myImages = document.images;
+  console.log(myImages.length);
+  for (let i = 0; i < myImages.length; i++){
+    if (myImages[i].id != "logo"){
+      const imgUrl= myImages[i].src;
+      const imgWrapper = document.createElement('a');
+      imgWrapper.href= imgUrl;
+      imgWrapper.target = "_blank";
+      myImages[i].parentNode.insertBefore(imgWrapper, myImages[i]);
+      imgWrapper.appendChild(myImages[i]);
+    }
+  }
+</script>

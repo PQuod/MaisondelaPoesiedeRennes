@@ -321,36 +321,6 @@ article ul li:before {
     margin-left: 50px;
   }
 
-  .imgHide {
-    display: none;
-  }
-
-  .voirImg {
-    font-size: 20px;
-  }
-
-  .voirImg:hover + .imgHide {
-    display: block;
-    position: absolute;
-    padding: 20px;
-    border: 1px solid black;
-    max-height: 300px;
-    margin-top: -375px;
-    background-color: white;
-    cursor: crosshair;
-  }
-
-  .voirImg:active + .imgHide {
-    display: block;
-    position: absolute;
-    padding: 20px;
-    border: 1px solid black;
-    max-height: 300px;
-    margin-top: -375px;
-    background-color: white;
-    cursor: crosshair;
-  }
-
   ul {
     padding-left: 50px;
   }
