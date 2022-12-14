@@ -3,8 +3,6 @@ layout: rubrique
 title: Atelier
 permalink: /atelier/
 ---
-![]()
-
 La Maison de la Poésie de Rennes possède un petit atelier dans lequel elle fabrique des objets littéraires et numériques. 
 
 Les objets sont conçus par les salarié.es, les bénévoles ou les artistes-auteurices accueilli.es dans le cadre de notre programmation ou vivant à Rennes et alentour. 
