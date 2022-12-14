@@ -131,8 +131,9 @@ Chaque numéro a été imprimé à une centaine d'exemplaires à la Maison de la
 
 *[La liebre dorada](https://laliebreeditions.wordpress.com/)* est une maison d'édition créée et menée par **Marie Audran**. Elle édite dans trois langues : le français, le breton et l’espagnol, dans le but de faire connaître la littérature latino-américaine (et particulièrement, la littérature argentine) ainsi que les pratiques éditoriales *cartoneras* ou artisanales argentines en Bretagne.
 
-Plusieurs projets ont été écrits, imprimés, assemblés ou reliés à la Maison de la Poésie :
+Plusieurs projets ont été écrits, imprimés, assemblés ou reliés à la Maison de la Poésie depuis 2019 :
 
+- *Encrucijadas (fragmentos)* de Santiago Londoño.
 - *Colapso + Ecosistema*, de Carlos Ríos et Eric Schierloh.
 - *Jardin de inverno*, de Valentina Sandoval et Bouvard, *Primavera arabe* de Gabriela Cabezón Cámara et Citlali, *Un cerdo*, de Ariana Harwicz et Chloé Hauser, *Fronteras* de German Beloso et Fanny Legrand.
 - *Más-caras/Mascarades*, de Jane Molair (avec Deleuze et Guattari dans la marge).
