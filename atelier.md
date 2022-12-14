@@ -3,7 +3,7 @@ layout: rubrique
 title: Atelier
 permalink: /atelier/
 ---
-La Maison de la Poésie de Rennes possède un atelier de 18m² dans lequel elle fabrique des objets littéraires et numériques. 
+La Maison de la Poésie de Rennes possède un atelier de 18m² dans lequel elle fabrique des objets littéraires papier et numériques. 
 
 Les objets sont conçus par les salarié.es, les bénévoles ou les artistes-auteurices accueilli.es dans le cadre de notre programmation ou vivant à Rennes et alentour. 
 
