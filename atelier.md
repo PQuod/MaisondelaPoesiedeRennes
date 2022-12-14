@@ -3,6 +3,8 @@ layout: rubrique
 title: Atelier
 permalink: /atelier/
 ---
+![]()
+
 La Maison de la Poésie de Rennes possède un petit atelier dans lequel elle fabrique des objets littéraires et numériques. 
 
 Les objets sont conçus par les salarié.es, les bénévoles ou les artistes-auteurices accueilli.es dans le cadre de notre programmation ou vivant à Rennes et alentour. 
@@ -133,16 +135,22 @@ Chaque numéro a été imprimé à une centaine d'exemplaires à la Maison de la
 
 *Description à venir...*
 
+### Aucune Mesure n'est exacte (cube) (2016-2021)
+
+L'artiste plasticien **[Carlos Bernal Barrera](https://www.mepierdoparaver.com/)** a réédité sa pièce *Aucune Mesure n'est exacte*. Il s'agit d'imprimer le même PDF, page par page, sur la même feuille. Les décalages inhérents à l’imprimante ou les aspérités de la feuille deviennent évidents une fois terminé le processus.
+
+![](/imgs/aucune-mesure-scan07-base-up.jpg)
+
 ### La liebre dorada (2019-)
 
 *[La liebre dorada](https://laliebreeditions.wordpress.com/)* est une maison d'édition créée et menée par **Marie Audran**. Elle édite dans trois langues : le français, le breton et l’espagnol, dans le but de faire connaître la littérature latino-américaine (et particulièrement, la littérature argentine) ainsi que les pratiques éditoriales *cartoneras* ou artisanales argentines en Bretagne.
 
 Plusieurs projets ont été écrits, imprimés, assemblés ou reliés à la Maison de la Poésie depuis 2019 :
 
-- *Encrucijadas (fragmentos)* de Santiago Londoño.
-- *Colapso + Ecosistema*, de Carlos Ríos et Eric Schierloh.
-- *Jardin de inverno*, de Valentina Sandoval et Bouvard, *Primavera arabe* de Gabriela Cabezón Cámara et Citlali, *Un cerdo*, de Ariana Harwicz et Chloé Hauser, *Fronteras* de German Beloso et Fanny Legrand.
-- *Más-caras/Mascarades*, de Jane Molair (avec Deleuze et Guattari dans la marge).
-- *Quieto/Immobile*, de Agustin Lontano et Jane Molair.
+* *Encrucijadas (fragmentos)* de Santiago Londoño.
+* *Colapso + Ecosistema*, de Carlos Ríos et Eric Schierloh.
+* *Jardin de inverno*, de Valentina Sandoval et Bouvard, *Primavera arabe* de Gabriela Cabezón Cámara et Citlali, *Un cerdo*, de Ariana Harwicz et Chloé Hauser, *Fronteras* de German Beloso et Fanny Legrand.
+* *Más-caras/Mascarades*, de Jane Molair (avec Deleuze et Guattari dans la marge).
+* *Quieto/Immobile*, de Agustin Lontano et Jane Molair.
 
 ![Tan 2020](/imgs/web_p1010807.jpg)
