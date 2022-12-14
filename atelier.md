@@ -93,11 +93,11 @@ Chaque numéro a été imprimé en un seul exemplaire dans l'atelier de la Maiso
 
 ## Éditions scolaires
 
-En 2020, à cause du covid, les rencontres prévues avec **Pierre Vinclair** et **Flora Bonfanti** lors du Prix des Découvreurs n'ont malheureusement pas pu avoir lieu. 
+En 2020, à cause du covid, les rencontres prévues avec **Pierre Vinclair** et **Flora Bonfanti** [lors du Prix des Découvreurs](https://maiporennes.fr/scolaires/2022/09/12/prix-des-d-couvreurs-1.html) n'ont malheureusement pas pu avoir lieu. 
 
 Une édition a donc été réalisée, regroupant les textes des élèves qui ont écrit à la manière des deux artistes ainsi que des entretiens réalisés à distance à partir des questionnements des élèves autour du travail des poètes.
 
-Cette édition comporte 4 livrets de tailles diverses reliées à l'aide de 4 rivets. Elle  a été imprimée en 100 exemplaires à la Maison de la Poésie, et remise aux artistes et aux élèves qui y ont contribué.
+Cette édition comporte 4 livrets de tailles diverses reliées à l'aide de 4 rivets. Elle a été imprimée à 100 exemplaires à la Maison de la Poésie, et remise aux artistes et aux élèves qui y ont contribué.
 
 ![Editions Découvreurs](/imgs/web_p1010798.jpg)
 
@@ -135,9 +135,9 @@ Chaque numéro a été imprimé à une centaine d'exemplaires à la Maison de la
 
 *Description à venir...*
 
-### Aucune Mesure n'est exacte (cube) (2016-2021)
+### Aucune Mesure n'est exacte (cube) (2021)
 
-L'artiste plasticien **[Carlos Bernal Barrera](https://www.mepierdoparaver.com/)** a réédité sa pièce *Aucune Mesure n'est exacte* à l'atelier. Il s'agit d'imprimer le même PDF, page par page, sur la même feuille. Les décalages inhérents à l’imprimante ou les aspérités de la feuille deviennent évidents une fois terminé le processus.
+L'artiste plasticien **[Carlos Bernal Barrera](https://www.mepierdoparaver.com/)** a réédité sa pièce *Aucune Mesure n'est exacte* à l'atelier. Il s'agit d'imprimer le même PDF, page par page, sur la même feuille. Les décalages inhérents à l’imprimante ou les aspérités de la feuille deviennent évidents une fois le processus terminé .
 
 ![](/imgs/aucune-mesure-scan07-base-up.jpg)
 
