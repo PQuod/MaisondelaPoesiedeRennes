@@ -63,6 +63,16 @@ Elle a été distribuée gratuitement et envoyée par courrier aux personnes qui
 
 ![Le Pangolin de Confucius](/imgs/web_p1010789.jpg)
 
+## deepmusicanomaly (2020)
+
+*[deepmusicanomaly](https://deepmusicanomaly.neocities.org/)* est un site littéraire créé [lors de la résidence de création](https://maiporennes.fr/residence/2020/10/19/r-sidence-dautomne.html) de **Samuel Rochery**.
+
+C'est un projet d'écriture collaboratif mené par Samuel Rochery, qui a rassemblé une dizaine de participant.es, dont des étudiant.es de l'Université Rennes 2 dans le cadre de la [10ème édition du festival Transversales](https://transversales.hypotheses.org/10e-edition-2020-chanson-chansons).
+
+Il raconte les recherches du *Bureau des anomalies musicales* et de ses membres, qui enquêtent sur des expériences paranormales en lien avec des chansons célèbres.
+
+Le site a été développé et désigné (dans une esthétique du début des années 2000) par Lucie sur la plateforme [neocities.org](https://neocities.org/).
+
 ## MAIPOLAND (2019-2020)
 
 *MAIPOLAND* est une revue à parution irrégulière, née suite à l'envie d'accueillir dans un même objet les textes de personnes gravitant autour de la Maison de la Poésie, à Rennes et sur internet. 
@@ -109,7 +119,7 @@ Chaque numéro a été imprimé à une centaine d'exemplaires à la Maison de la
 
 ### Les sentiers qui bifurquent (2021-2022)
 
-À l'issue des 10 ateliers menés à la Maison de la Poésie par Lucie durant l'année 2021-2022, les textes des participant &middot; es ont été regroupés dans une édition aux multiples formats, imprimée à 15 exemplaires.
+À l'issue des 10 ateliers menés à la Maison de la Poésie par \*\*Lucie Desaubliaux\*\* durant l'année 2021-2022, les textes des participant.es ont été regroupés dans une édition aux multiples formats, imprimée à 15 exemplaires à la Maison de la Poésie.
 
 ![Les sentiers qui bifurquent](/imgs/web_p1010809.jpg)
 
@@ -117,8 +127,15 @@ Chaque numéro a été imprimé à une centaine d'exemplaires à la Maison de la
 
 *Description à venir...*
 
-### Tan 2020
+### La liebre dorada
 
-*Description à venir...*
+*[La liebre dorada](https://laliebreeditions.wordpress.com/)* est une maison d'édition créée et menée par **Marie Audran**. Elle édite dans trois langues : le français, le breton et l’espagnol, dans le but de faire connaître la littérature latino-américaine (et particulièrement, la littérature argentine) ainsi que les pratiques éditoriales *cartoneras* ou artisanales argentines en Bretagne.
+
+Plusieurs projets ont été écrits, imprimés, assemblés ou reliés à la Maison de la Poésie :
+
+- *Colapso + Ecosistema*, de Carlos Ríos et Eric Schierloh.
+- *Jardin de inverno*, de Valentina Sandoval et Bouvard, *Primavera arabe* de Gabriela Cabezón Cámara et Citlali, *Un cerdo*, de Ariana Harwicz et Chloé Hauser, *Fronteras* de German Beloso et Fanny Legrand.
+- *Más-caras/Mascarades*, de Jane Molair (avec Deleuze et Guattari dans la marge).
+- *Quieto/Immobile*, de Agustin Lontano et Jane Molair.
 
 ![Tan 2020](/imgs/web_p1010807.jpg)
