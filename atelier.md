@@ -51,6 +51,8 @@ La publication y est ouverte (pas de limite de textes), et ne comprend pas de co
 
 Le site est statique et veille à l'accessibilité et la lisibilité du texte sur tous les supports et pour tous les publics. Il a été conçu par Quentin, Lucie et Candice, avec l'aide de Robinson. Il a été développé et designé par Lucie. 
 
+![Dispersantx](/imgs/internetexploreur.png)
+
 ## Le Pangolin de Confucius (2020)
 
 *Le Pangolin de Confucius* est une plaquette née suite à l'annulation de la rencontre prévue autour du *Shijing* avec **Pierre Vinclair** et **Auxeméry** en 2020. 
@@ -72,6 +74,8 @@ C'est un projet d'écriture collaboratif mené par Samuel Rochery, qui a rassemb
 Il raconte les recherches du *Bureau des anomalies musicales* et de ses membres, qui enquêtent sur des expériences paranormales en lien avec des chansons célèbres.
 
 Le site a été développé et désigné (dans une esthétique du début des années 2000) par Lucie sur la plateforme [neocities.org](https://neocities.org/).
+
+![Deep Music Anomaly](/imgs/deepmusic.png)
 
 ## MAIPOLAND (2019-2020)
 
