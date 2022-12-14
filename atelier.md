@@ -137,7 +137,7 @@ Chaque numéro a été imprimé à une centaine d'exemplaires à la Maison de la
 
 ### Aucune Mesure n'est exacte (cube) (2016-2021)
 
-L'artiste plasticien **[Carlos Bernal Barrera](https://www.mepierdoparaver.com/)** a réédité sa pièce *Aucune Mesure n'est exacte*. Il s'agit d'imprimer le même PDF, page par page, sur la même feuille. Les décalages inhérents à l’imprimante ou les aspérités de la feuille deviennent évidents une fois terminé le processus.
+L'artiste plasticien **[Carlos Bernal Barrera](https://www.mepierdoparaver.com/)** a réédité sa pièce *Aucune Mesure n'est exacte* à l'atelier. Il s'agit d'imprimer le même PDF, page par page, sur la même feuille. Les décalages inhérents à l’imprimante ou les aspérités de la feuille deviennent évidents une fois terminé le processus.
 
 ![](/imgs/aucune-mesure-scan07-base-up.jpg)
 
