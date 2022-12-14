@@ -87,9 +87,11 @@ Chaque numéro a été imprimé en un seul exemplaire dans l'atelier de la Maiso
 
 ## Éditions scolaires
 
-Chaque année la Maison de la Poésie invite deux artistes, parmi la sélection du Prix des Découvreurs, à rencontrer des élèves de la 3ème à la terminale. En 2020, suite au Covid, les rencontres prévues avec Pierre Vinclair et Flora Bonfanti n'ont malheureusement pas pu se faire. Une édition a alors été réalisée, regroupant les textes des élèves qui ont écrit à la manière des deux artistes, ainsi que des entretiens réalisés à distance à partir des questionnements des élèves autour du travail des poètes.
+En 2020, à cause du covid, les rencontres prévues avec **Pierre Vinclair** et **Flora Bonfanti** lors du Prix des Découvreurs n'ont malheureusement pas pu avoir lieu. 
 
-Cette édition a été imprimée en 100 exemplaires, elle comporte 4 livrets de tailles diverses reliées à l'aide de 4 rivets. Elle a été remise aux artistes et aux élèves qui y ont contribué.
+Une édition a donc été réalisée, regroupant les textes des élèves qui ont écrit à la manière des deux artistes ainsi que des entretiens réalisés à distance à partir des questionnements des élèves autour du travail des poètes.
+
+Cette édition comporte 4 livrets de tailles diverses reliées à l'aide de 4 rivets. Elle  a été imprimée en 100 exemplaires à la Maison de la Poésie, et remise aux artistes et aux élèves qui y ont contribué.
 
 ![Editions Découvreurs](/imgs/web_p1010798.jpg)
 
@@ -119,7 +121,7 @@ Chaque numéro a été imprimé à une centaine d'exemplaires à la Maison de la
 
 ### Les sentiers qui bifurquent (2021-2022)
 
-À l'issue des 10 ateliers menés à la Maison de la Poésie par \*\*Lucie Desaubliaux\*\* durant l'année 2021-2022, les textes des participant.es ont été regroupés dans une édition aux multiples formats, imprimée à 15 exemplaires à la Maison de la Poésie.
+À l'issue des 10 ateliers menés à la Maison de la Poésie par **Lucie Desaubliaux** durant l'année 2021-2022, les textes des participant.es ont été regroupés dans une édition aux multiples formats, imprimée à 15 exemplaires à la Maison de la Poésie.
 
 ![Les sentiers qui bifurquent](/imgs/web_p1010809.jpg)
 
