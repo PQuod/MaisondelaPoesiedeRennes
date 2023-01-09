@@ -111,7 +111,11 @@ Pour faire le bilan de leur première saison, un catalogue a été écrit par Al
 
 ### Vie et mort de milliardaires pas illustres & Comment gagner beaucoup d'argent (2022)
 
-*Description à venir...*
+Il a été écrit par **Anaël Castelein**, qui en dit ceci : 
+
+> Né des frasques d'un corps social toujours plus démonstratif, *Vie et mort des milliardaires* s'inscrit au cœur d'une réflexion portant sur la satire en poésie et sur la question des nouvelles technologies.
+
+Il a été imprimé en riso et assemblé (reliure japonaise au fil doré) à 30 exemplaires. 
 
 ### Poésie Maxi (2019-2021)
 
