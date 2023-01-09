@@ -115,7 +115,7 @@ Il a été écrit par **Anaël Castelein**, qui en dit ceci :
 
 > Né des frasques d'un corps social toujours plus démonstratif, *Vie et mort des milliardaires* s'inscrit au cœur d'une réflexion portant sur la satire en poésie et sur la question des nouvelles technologies.
 
-Il a été imprimé en riso et assemblé (reliure japonaise au fil doré) à 30 exemplaires. 
+Il a été imprimé en riso et assemblé (reliure japonaise au fil doré) à 30 exemplaires. Il est publié aux éditions [Ni fait ni à faire](https://www.editions-nifaitniafaire.fr/). 
 
 ![Vie et mort des milliardaires](/imgs/1jn1.jpg)
 
