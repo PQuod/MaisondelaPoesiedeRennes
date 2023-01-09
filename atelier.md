@@ -117,6 +117,8 @@ Il a été écrit par **Anaël Castelein**, qui en dit ceci :
 
 Il a été imprimé en riso et assemblé (reliure japonaise au fil doré) à 30 exemplaires. 
 
+![Vie et mort des milliardaires](/imgs/1jn1.jpg)
+
 ### Poésie Maxi (2019-2021)
 
 *[Poésie Maxi](https://poesiemaxi.hotglue.me/)* est une revue de poésie créée par **Charlotte Beltzung** et **Lucie Desaubliaux**. Elle compte huit numéros répartis sur deux saisons.
