@@ -11,7 +11,7 @@ artiste:
 categories: rencontre
 date_debut: 2023-02-09T10:13:20.257Z
 date_fin: 2023-02-09T10:13:20.342Z
-dates_publiees: 9 février 2023 · 18h
+dates_publiees: 9 février 2023 · 19h30
 lieu: Libraire Comment dire, 5 rue Jules Simon
 tarif: Entrée libre et gratuite
 partenaires: Librairie Comment dire
