@@ -4,7 +4,7 @@ title: Commission Programmation 10 janvier 2023
 date: 2023-01-11T13:18:05.991Z
 cat: prog
 ---
-**Date :** 19 janvier 2023 à 17h30
+**Date :** 19 janvier 2023 à 17h30  
 **Présent.e.s :** Charlotte, Stéphanie, Quentin   
 **Durée de la commission :** 1 heure
 
