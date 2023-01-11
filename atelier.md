@@ -43,6 +43,14 @@ Le livre a été conçu, maquetté et assemblé (dos carré-collé) par **Julie 
 
 ![Dispersantx](/imgs/web_p1010813.jpg)
 
+## RIP Ricoh (2021)
+
+Durant sa résidence *Poésie Plastique* à la Maison de la Poésie en juin 2021, l'artiste Antoine Giard a organisé une exposition, *RIP Ricoh*, en l'honneur du copieur de l'association, Ricoh, remplacé le lendemain par un copieur en location.
+
+L'exposition a duré une journée et comprenait de nombreuses affiches réalisées durant la dernière nuit du copieur et dont l'ensemble formait un tribute émouvant à Ricoh MP2550 avant son grand départ.
+
+![](/imgs/img_6750_web.jpg)
+
 ## Internet Exploreur (2020-2021)
 
 *Internet Exploreur* est un site de création littéraire né pendant le premier confinement, au printemps 2020. Il accueille des textes de poésie, de prose poétique et de prose (pas d'image, de son ni de vidéo). 
