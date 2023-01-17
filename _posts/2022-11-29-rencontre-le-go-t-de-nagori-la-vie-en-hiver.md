@@ -20,4 +20,4 @@ Dans le cadre du festival Jardins d'hiver, la Maison de la Poésie et Les Champs
 
 > Un dialogue sur les saisons, la temporalité et sur les rêves que font les plantes. 
 
-La rencontre est suivie d'une dégustation de soupes réalisées avec les légumes de saison récoltés à la Ferme d'Artaud.
+La rencontre est suivie d'une dégustation de bouchées réalisées avec les légumes de saison récoltés à la Ferme d'Artaud.
