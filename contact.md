@@ -7,7 +7,7 @@ permalink: /contact/
 
 47 rue Armand Rébillon 35000 RENNES\
 02 99 51 33 32\
-contact@maisondelapoesie-rennes.org\
+contact@maiporennes.fr\
 **Ouvert du lundi au vendredi de 9h à 17h**
 
 # Avant de nous écrire
@@ -23,10 +23,10 @@ Nous ne sommes pas une maison d'édition, ni une MJC. Nous ne programmons pas de
 ## Contacts directs
 
 **Direction - Quentin Leclerc**\
-quentin.leclerc@maisondelapoesie-rennes.org
+quentin.leclerc@maiporennes.fr
 
 **Médiation scolaire - Lucie Desaubliaux**\
-lucie.desaubliaux@maisondelapoesie-rennes.org
+lucie.desaubliaux@maiporennes.fr
 
 # Services de presse
 
