@@ -7,9 +7,9 @@ type: event
 title: Club de lecture
 date: 2022-06-28T08:29:30.328Z
 categories: associatif
-date_debut: 2023-01-17T23:00:00.000Z
-date_fin: 2023-01-18T23:00:00.000Z
-dates_publiees: 18 janvier 2023 · 20h → 21h30
+date_debut: 2023-02-14T23:00:00.000Z
+date_fin: 2023-02-14T23:00:00.000Z
+dates_publiees: 15 février 2023 · 20h → 21h30
 lieu: Maison de la Poésie de Rennes
 ---
 ## Fonctionnement
@@ -26,6 +26,19 @@ lieu: Maison de la Poésie de Rennes
 Vous trouverez ci-dessous tous les livres conseillés ces dernières années par les participant.es.
 
 ---
+
+## 2023
+
+**Club du 19 janvier 2023**
+- *Conversations on Love*, Natasha Lunn, éditions Viking
+- *Fragments d'un discours amoureux*, Roland Barthes, éditions Points
+- *Sarahland*, Sam Cohen, éditions Grand Central Publishing
+- *Marchands de temps*, Daniele Del Giudice (trad. J. Mantganaro), éditions du Seuil
+- *Les manuscrits ninja*, Yamada Futaro (trad F. Suzuki, V. Luciani, P. Honnoré), éditions Philippe Picquier
+- *The Haunting of Hill House*, Shirley Jackson, éditions Pengouin Classics
+- *En salle*, Claire Baglin, éditions de Minuit
+- *Sangliers*, Aurélien Delsaux, éditions Albin Michel
+- *Rohan au Louvre*, Hirohiko Araki, éditions Futuropolis/Musée du Louvre/Shueisha
 
 ## 2022
 
