@@ -12,7 +12,7 @@ date_fin: 2023-03-30T08:44:11.736Z
 dates_publiees: 30 mars 2023 · 18h
 lieu: Auditorium de l'EESAB, 34 rue Hoche
 tarif: Entrée libre et gratuite
-partenaires: EESAB Renes
+partenaires: EESAB Rennes
 ---
 Dans le cadre de son invitation lors de [Carrément #2](https://maiporennes.fr/residence/2022/11/15/carr-ment-2.html), **Anne-Sarah Huet** présente son processus de création au public.
 
