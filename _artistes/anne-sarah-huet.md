@@ -10,6 +10,6 @@ Elle termine actuellement un diplôme supérieur de recherche en art à l’éco
 
 Ses derniers travaux concernent la fictionnalisation du trouble dissociatif de l’identité sur les blogs et média sociaux. Un texte en cours d’écriture est à paraître prochainement aux éditions Burn-Août et ESAAA éds. 
 
-Derniers textes : *Langages de l'élite, 7H3 R345ON* (éditions MoSs, 2020), et *Art After Economics After Art* (in Vikhi Vahavek, Les commissaires anonymes & ESAAA éditions, 2020). 
+Derniers textes : *Super Splash Mundi* (in Liquid Futures, KLIMA, 2022), *Not a Fierce Token, une introduction aux technologies de la valeur au service des minorités dans l’art* (in *Effondrement des Alpes*, ESAAA éditions, 2022)
 
 [Son site internet](https://contrefacruelle.net/)
