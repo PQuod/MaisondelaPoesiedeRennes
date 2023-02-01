@@ -2,7 +2,7 @@
 draft: false
 layout: post
 type: event
-title: "Rencontre : Style Secret"
+title: "Rencontre : Spiraling group"
 date: 2023-01-09T09:44:11.618Z
 artiste:
   - Anne-Sarah Huet
@@ -16,8 +16,6 @@ partenaires: EESAB Renes
 ---
 Dans le cadre de son invitation lors de [Carrément #2](https://maiporennes.fr/residence/2022/11/15/carr-ment-2.html), **Anne-Sarah Huet** présente son processus de création au public.
 
-Comment écrire un journal secret collectif ? À quoi ressemblent son cadenas et sa clé ? 
+> Spiraling group est le nom d’une entité extraite d’un texte en cours d’écriture, et dont la mission (dans la fiction) est de constituer un corpus de Spiral Studies. C’est aussi une invitation à discuter, lire et écrire autour de nos expériences du passing (ethnique, de genre, social, etc.), de la dissociation et de la dissonance. Les échanges ont lieu en même temps qu’une pratique collective de *Milk-Art*.
 
-Imaginons que chacun.e ici possède son propre *secret diary with lock*, quel genre d’écriture nous permettrait de les interconnecter ? Je présenterai un groupe de lecture et d’écriture constitué autour d’une envie commune d’écrire des poèmes sentimentaux sur les clés et les *portals*. 
-
-Le matériel collecté par le groupe sert ensuite à articuler des discussions théoriques et critiques : des technologies blockchain et cryptographiques au « style » poétique, de l’obfuscation des textes de pensée critique à des principes d’économie expérimentale, du gatekeeping aux archives coloniales. 
+Anne-Sarah Huet initiera une session du Spiraling Group, et elle expliquera comment elle l’intègre dans son processus d’écriture. Elle lira enfin des extraits du texte à paraître.
