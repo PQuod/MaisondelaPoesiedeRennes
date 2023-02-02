@@ -1,8 +1,8 @@
 ---
-draft: true
+draft: false
 layout: post
 type: event
-title: "Rencontre : "
+title: "Rencontre : [C]odes et sorts "
 date: 2023-02-01T14:51:48.286Z
 artiste:
   - Lucile Olympe Haute
