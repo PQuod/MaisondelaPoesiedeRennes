@@ -7,9 +7,9 @@ date: 2023-02-01T14:51:48.286Z
 artiste:
   - Lucile Olympe Haute
 categories: rencontre
-date_debut: 2023-03-23T14:51:48.397Z
-date_fin: 2023-03-23T14:51:48.485Z
-dates_publiees: 23 mars 2023 · 19h
+date_debut: 2023-03-16T14:51:48.397Z
+date_fin: 2023-03-16T14:51:48.485Z
+dates_publiees: 16 mars 2023 · 19h
 lieu: Maison de la Poésie de Rennes
 tarif: Entrée libre et gratuite
 ---
