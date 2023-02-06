@@ -17,7 +17,7 @@ partenaires: Les Champs Libres
 Dans le cadre du festival Jardins d'hiver, la Maison de la Poésie et Les Champs Libres invitent l'autrice Ryoko Sekiguchi pour un entretien avec Hélène Reglain, qui à la Ferme d’Artaud « élève » ses légumes avec la même attention et sensibilité qu’on élève des enfants. 
 
 > Nous sommes enclin à considérer l’hiver comme la saison endormie. Mais tout comme nous-mêmes avons besoin d’un bon sommeil pour reprendre de l’énergie, et de rêver surtout, sous la terre les racines reprennent des forces. 
-
+>
 > Un dialogue sur les saisons, la temporalité et sur les rêves que font les plantes. 
 
 La rencontre est suivie d'une dégustation de bouchées réalisées avec les légumes de saison récoltés à la Ferme d'Artaud.
