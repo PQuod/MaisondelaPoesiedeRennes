@@ -1,6 +1,6 @@
 ---
 layout: admin-posts
-title: Commission Programmation du 6 février 2023
+title: Commission Programmation 6 février 2023
 date: 2023-02-08T09:53:04.613Z
 cat: prog
 ---
