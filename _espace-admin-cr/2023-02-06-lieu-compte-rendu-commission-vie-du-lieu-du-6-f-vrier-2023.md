@@ -9,13 +9,6 @@ cat: lieu
 **Excusé.e.s :** Candice, Monique\
 **Durée de la commission :** 1h30
 
-**Ordre du jour :**
-Expertise son BabaZula
-L'atelier
-La bibliothèque
-Problème avec le toit
-L'appartement
-
 ## 1. Expertise son
 
 Tristan est venu parler avec les membres présents pour nous aider à voir le matériel son nécessaire pour les soirées au BabaZula. Le but est d'avoir un matériel facilement transportable, et qui puisse enregistrer en direct le son micro, pour faciliter la mise en ligne en podcast.
