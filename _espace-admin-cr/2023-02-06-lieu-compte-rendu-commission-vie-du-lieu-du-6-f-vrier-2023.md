@@ -41,6 +41,8 @@ Enlever le papier peint et repeindre : proposer une date en juin.
 
 Pour les étagères, des planches avec crémaillères. Avoir des intercalaires rigides pour scinder les linéaires.
 
-Mission Leroy Merlin à 2, et mission à 4 pour installer les étagères. Entre le 11 et le 28 avril. Perceuse à percutions, visseuse, chevilles, vis, planches, crémaillères, niveau, etc.
+Mission Leroy Merlin à 2, et mission à 4 pour installer les étagères. Entre le 11 et le 28 avril. Matériel nécessaire : perceuse à percussion, visseuse, chevilles, vis, planches, crémaillères, niveau, etc.
 
 "Tourner les pages" à partir du 15 mai, mené par Anne-Marie, Marie et Anaël. Envoi de toutes les informations pour fin avril.
+
+**Prise de notes :** Quentin
