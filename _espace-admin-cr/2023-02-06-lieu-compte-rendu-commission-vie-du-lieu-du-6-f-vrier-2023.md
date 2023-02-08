@@ -1,13 +1,13 @@
 ---
 layout: admin-posts
-title: Compte-rendu Commission Vie du lieu du 6 février 2023
+title: Commission Vie du lieu du 6 février 2023
 date: 2023-02-06T10:41:28.587Z
 cat: lieu
 ---
 **Date :** 6 février 2023 à 10 h\
 **Présent.e.s :** Anne-Marie, Stéphanie, Tristan, Lucie, Anaël, Charlotte, Marie, Quentin\
-**Excusé.e.s :** Candice\
-**Durée de la commission :** 
+**Excusé.e.s :** Candice, Monique\
+**Durée de la commission :** 1h30
 
 **Ordre du jour :**
 Expertise son BabaZula
