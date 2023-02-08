@@ -1,6 +1,6 @@
 ---
 layout: admin-posts
-title: Commission Vie du lieu du 6 février 2023
+title: Commission Vie du lieu 6 février 2023
 date: 2023-02-06T10:41:28.587Z
 cat: lieu
 ---
