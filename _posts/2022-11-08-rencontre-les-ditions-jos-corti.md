@@ -26,4 +26,4 @@ Parmi celles-ci : *Épître aux Wisigoths*, de **Pierre Senges**, qui paraît le
 
 > Sous l’égide des Wisigoths de Manganelli, nous voulons faire l’éloge de la littérature comme expérience de pensée : des hypothèses prises au sérieux, des démonstrations par l’absurde, des postulats suivis de leurs corollaires.  
 
-Les livres sont disponibles à la vente à l'issue de la rencontre.
+Les livres sont disponibles à la vente à l'issue de la rencontre. 
