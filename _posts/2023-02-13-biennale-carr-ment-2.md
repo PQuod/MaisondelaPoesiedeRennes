@@ -16,7 +16,7 @@ dates_publiees: 24 juin 2023 · 14h → 23h
 lieu: Maison de la Poésie de Rennes
 tarif: Entrée libre et gratuite
 ---
-Après [le lancement du projet Carrément #2 en mars](https://maiporennes.fr/residence/2022/11/15/carr-ment-2.html), et les quatre résidences d'une semaine de **Rémi Forte, Lucile Olympe Haute, Martin Desinde** et **Anne-Sarah Huet**, il est temps de se retrouver pour une journée à la cool qui conclut le projet !
+Après [le lancement du projet Carrément #2 en mars](https://maiporennes.fr/residence/2022/11/15/carr-ment-2.html), et les quatre résidences d'une semaine de **Rémi Forte**, **Lucile Olympe Haute**, **Martin Desinde** et **Anne-Sarah Huet**, il est temps de se retrouver pour une journée à la cool qui conclut le projet !
 
 A 14h, on ouvre la buvette.
 
@@ -31,4 +31,4 @@ En parallèle, les artistes invité.es présentent les objets de poésie qu'iels
 
 Entre 19h et 21h, il y a restauration sur place avec un stand de galettes et de crêpes. 
 
-A partir de 21h, c’est **l'Open Mike Brant**, un karaoké poétique semi improvisé. Il suffit de laisser parler son cœur et de plonger dans les abysses musicales d'un répertoire inépuisable, celui de son imagination.
+Pour clôturer la journée, à partir de 21h il y a l'**Open Mike Brant**, un karaoké poétique semi improvisé. Il suffit de laisser parler son cœur et de plonger dans les abysses musicales d'un répertoire inépuisable, celui de son imagination.
