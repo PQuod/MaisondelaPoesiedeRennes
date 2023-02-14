@@ -9,12 +9,13 @@ date_debut: 2023-03-10T09:41:18.094Z
 date_fin: 2023-03-10T09:41:18.182Z
 dates_publiees: 10 mars 2023 · 12h → 14h
 lieu: Bibliothèque de L'EESAB, site de Rennes
-tarif: Réservé aux Etudiant.es des Beaux-Arts
+tarif: Entrée libre et gratuite, réservée aux étudiant.es en art, design et
+  communication de l'EESAB
 partenaires: Ecole européenne supérieure d'art de Bretagne
 ---
 ## Fonctionnement
 
-1. Être étudiant.e d'une Ecole des Beaux-Arts de Bretagne
+1. Être étudiant.es en art, design et communication à l'EESAB
 2. Venir avec un livre de poésie lu récemment dont on a envie de parler
 3. Faire tenir sa présentation en 10 minutes environ
 4. Respecter le temps de parole des autres personnes qui participent
