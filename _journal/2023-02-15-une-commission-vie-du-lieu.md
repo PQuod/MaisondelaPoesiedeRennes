@@ -15,7 +15,7 @@ il y aura plusieurs pôles\
 il y aura plusieurs paul\
 il y aura plusieurs pôles 
 
-commission vie du lieu
+*commission vie du lieu*
 
 tristan est venu nous expliquer comment fonctionne le son
 
@@ -84,16 +84,16 @@ charlotte dit « t’as oublié ta brioche stéphanie »
 
 quelle est cette brioche ?
 
-c’est la brioche mystique\ 
-stéphanie en sort pleins de son sac\ 
-c’est des cds\
+c'est la brioche mystique\
+stéphane en sort plein de son sac\
+c'est des cds\
 ils sont beaux\
 on se les passe\
 on les regarde\
 on s’extasie
 
 c’est doré\
-et pleins de couleurs\
+et plein de couleurs\
 et il y a stéphanie en photo avec tristan et une poule
 comme des dieux dans un canapé
 
