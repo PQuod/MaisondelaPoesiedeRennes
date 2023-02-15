@@ -32,3 +32,5 @@ En parallèle, les artistes invité.es présentent et distribuent les objets de 
 Entre 19h et 21h, il y a restauration sur place avec un stand de galettes et de crêpes. 
 
 Et pour clôturer la journée, à partir de 21h il y a l'**Open Mike Brant**, un karaoké poétique semi improvisé. Il suffit de laisser parler son cœur et de plonger dans les abysses musicales d'un répertoire inépuisable, celui de son imagination.
+
+*Ce projet bénéficie du soutien financier de la Région Bretagne, de la DRAC Bretagne, du Centre National du Livre, de la Sofia - Action culturelle et du CFCopie.*
