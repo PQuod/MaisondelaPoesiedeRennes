@@ -51,7 +51,7 @@ le volet est toujours fermé
 
 fin du point volet
 
-- - -
+\*
 
 il y a la question des souris
 
@@ -61,7 +61,7 @@ je les ai entendues
 c’est pas des souris, c’est le vent\
 il n’y a jamais eu de souris, c’est toujours le vent
 
-- - -
+\*
 
 vient la question du manque de place dans la bibliothèque
 
