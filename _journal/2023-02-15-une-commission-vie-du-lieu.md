@@ -21,8 +21,8 @@ tristan est venu nous expliquer comment fonctionne le son
 
 si les champs se rencontrent ça fait larsen 
 
-les gros jacks nuisent\ 
-les gros jacks nuisent à la qualité du micro
+les gros jacks nuisent\
+les gros jacks nuisent à la qualité des micros
 
 les poètes viennent avec leur boîte à rythme\
 maintenant, les poètes viennent avec leur boîte à rythme
