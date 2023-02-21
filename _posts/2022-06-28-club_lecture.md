@@ -7,9 +7,9 @@ type: event
 title: Club de lecture
 date: 2022-06-28T08:29:30.328Z
 categories: associatif
-date_debut: 2023-02-14T23:00:00.000Z
-date_fin: 2023-02-14T23:00:00.000Z
-dates_publiees: 15 février 2023 · 20h → 21h30
+date_debut: 2023-03-14T23:00:00.000Z
+date_fin: 2023-03-14T23:00:00.000Z
+dates_publiees: 15 mars 2023 · 20h → 21h30
 lieu: Maison de la Poésie de Rennes
 ---
 ## Fonctionnement
@@ -28,6 +28,16 @@ Vous trouverez ci-dessous tous les livres conseillés ces dernières années par
 ---
 
 ## 2023
+
+**Club du 15 février 2023**
+- *Plutôt couler en beauté que flotter sans grâce*, Corinne Morel Darleux, éditions Libertalia
+- *Oeuvres*, Alejandra Pizarnik (trad. J. Ancet), éditions Ypsilon
+- *Rouge pute*, Perrine Le Querrec, éditions La Contre Allée
+- *Twilight : Fascination*, Stephenie Meyer (trad. L. Rigoureau, éditions Hachette Romans
+- *Sommes-nous trop "bêtes" pour comprendre l'intelligence des animaux ?*, Frans de Waal (trad. P. et L. Chemla), éditions Les Liens qui Libèrent
+- *Les femmes aussi sont du voyage*, Lucie Azema, éditions Points
+- *Lire et penser ensemble*, Jérôme Vidal, éditions Amsterdam
+- *Dracula*, Bram Stocker (trad. A. Morvan), éditions La Pléiade
 
 **Club du 19 janvier 2023**
 - *Conversations on Love*, Natasha Lunn, éditions Viking
