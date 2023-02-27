@@ -7,7 +7,7 @@ date: 2022-11-15T14:31:13.073Z
 artiste:
   - Jenny Dahan
 categories: scolaires
-date_debut: 2023-03-09T14:31:13.175Z
+date_debut: 2023-03-23T14:31:13.175Z
 date_fin: 2023-03-23T14:31:13.220Z
 dates_publiees: 9 → 23 mars 2023
 lieu: Collège Les Gayeulles & école Jean Rostand (Rennes)
