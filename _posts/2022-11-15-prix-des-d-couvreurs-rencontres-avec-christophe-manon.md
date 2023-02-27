@@ -8,7 +8,7 @@ artiste:
   - Christophe Manon
   - Claude Favre
 categories: scolaires
-date_debut: 2023-03-06T14:05:42.760Z
+date_debut: 2023-04-07T13:05:42.760Z
 date_fin: 2023-04-07T13:05:42.802Z
 dates_publiees: 6 → 10 mars & 3 → 7 avril 2023
 lieu: Région Bretagne
