@@ -8,7 +8,7 @@ artiste:
   - Rémi Forte
 categories: rencontre
 date_debut: 2023-03-06T13:51:26.208Z
-date_fin: 2023-03-12T13:51:26.261Z
+date_fin: 2023-03-09T13:51:26.261Z
 dates_publiees: 9 mars 2023 · 19h
 lieu: Edulab Pasteur, 2 place Pasteur, 1er étage, salle commune
 tarif: Entrée libre et gratuite
