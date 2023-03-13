@@ -7,8 +7,8 @@ date: 2023-02-14T09:41:17.835Z
 categories: scolaires
 date_debut: 2023-03-10T09:41:18.094Z
 date_fin: 2023-03-10T09:41:18.182Z
-dates_publiees: 10 mars 2023 · 12h → 14h
-lieu: Bibliothèque de L'EESAB, site de Rennes
+dates_publiees: 14 avril 2023 · 12h → 14h
+lieu: Maison de la Poésie de Rennes
 tarif: Entrée libre et gratuite, réservée aux étudiant.es en art, design et
   communication de l'EESAB
 partenaires: Ecole européenne supérieure d'art de Bretagne
@@ -28,6 +28,19 @@ Vous trouverez ci-dessous tous les livres conseillés aux clubs précédents par
 ***
 
 ## 2023
+
+**Club du 10 mars 2023**
+
+- *Le Régime parfait*, Estelle Bénazet Heugenhauser, éditions Rotolux Press
+- *La Sauvagerie*, Pierre Vinclair, éditions José Corti
+- *Lettres aux jeunes poétesses*, Collectif, éditions L'Arche
+- *Pourquoi je mange des dunes*, Kevin Brechemier, éditions 10 pages au carré
+- *J'ai un trou dans le cœur de la taille d'une brousse*, Loréna Bur, éditions 10 pages au carré
+- *Poèmes tristes pas mauvais et poèmes joyeux presque bons*, Anaël Castelein, éditions Vanloo
+- *Quelques banalités au sujet de la démocratie qui tend à atteindre son degré zéro*, Fabrica Caravaca, éditions Pli
+- *Lettres révolutionnaires*, Diane di Prima (trad. B. Carde, A. Hummel, E. Poivet et G. Sourice), éditions Zoème
+- *Le Parti pris des choses*, Francis Ponge, éditions Poésie/Gallimard
+- *Les Nuits bleues*, Anne-Fleur Multon, éditions de l'Observatoire
 
 **Club du 9 février 2023**
 
