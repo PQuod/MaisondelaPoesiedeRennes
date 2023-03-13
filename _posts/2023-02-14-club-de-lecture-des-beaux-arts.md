@@ -5,8 +5,8 @@ type: event
 title: Club de lecture des Beaux-Arts
 date: 2023-02-14T09:41:17.835Z
 categories: scolaires
-date_debut: 2023-03-10T09:41:18.094Z
-date_fin: 2023-03-10T09:41:18.182Z
+date_debut: 2023-04-14T08:41:18.094Z
+date_fin: 2023-04-14T08:41:18.182Z
 dates_publiees: 14 avril 2023 · 12h → 14h
 lieu: Maison de la Poésie de Rennes
 tarif: Entrée libre et gratuite, réservée aux étudiant.es en art, design et
