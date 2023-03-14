@@ -1,99 +1,99 @@
 <!-- Post type breve -->
 {% assign sortedbreve = site.posts | where: "type", "breve" | sort: "date_debut" %}
 {% if sortedbreve.size != 0 %}
-  <div class="encart">
-    <h2 class="color_autres">Brèves</h2>
-    {% for post in sortedbreve %}
-      {% include scripts/dates.html %}
-        {% if debutdate >= nowdate %}       
-          <div class="breve">
-            <h4>{{ post.title }}</h4>
-            <div class="event_dates">{{ post.dates_publiees }}</div>
-            <div class="event_dates">{{ post.content }}</div>
-          </div>
-        {% endif %}
-    {% endfor %}
+<div class="encart">
+  <h2 class="color_autres">Brèves</h2>
+  {% for post in sortedbreve %}
+  {% include scripts/dates.html %}
+  {% if debutdate >= nowdate %}
+  <div class="breve">
+    <h4>{{ post.title }}</h4>
+    <div class="event_dates">{{ post.dates_publiees }}</div>
+    <div class="event_dates">{{ post.content }}</div>
   </div>
+  {% endif %}
+  {% endfor %}
+</div>
 {% endif %}
 <div class="encart">
-    <h2 class="color_res">Résidences</h2>
-    <!-- Sélection des posts de résidence (scolaire ou non)-->
-    {% assign sorted2 = site.posts | sort: 'date_debut' %}
-    <div class="encart_res">
+  <h2 class="color_res">Résidences</h2>
+  <!-- Sélection des posts de résidence (scolaire ou non)-->
+  {% assign sorted2 = site.posts | sort: 'date_debut' %}
+  <div class="encart_res">
     {% for post in sorted2 %}
-      {% if post.draft != true %}
-        {% if post.categories contains "residence" or post.categories contains "residence_scolaire" %}
-          {% include scripts/dates.html %}
-          {% if debutdate <= nowdate and findate >= nowdate %}
-            <h3 class="encart_titre prems">En cours</h3>
-            <a href="{{ post.url }}" title="Résidence en cours de {{post.artiste}}">
-              <h4>{{ post.artiste | join: ", " }}</h4>
-            </a>
-            <div class="event_dates">{{ post.title }}<br>{{ post.dates_publiees }}</div>
-          {% endif %}
-        {% endif %}
+    {% if post.draft != true %}
+    {% if post.categories contains "residence" or post.categories contains "residence_scolaire" %}
+    {% include scripts/dates.html %}
+    {% if debutdate <= nowdate and findate>= nowdate %}
+      <h3 class="encart_titre prems">En cours</h3>
+      <a href="{{ post.url }}" title="Résidence en cours de {{post.artiste}}">
+        <h4>{{ post.artiste | join: ", " }}</h4>
+      </a>
+      <div class="event_dates">{{ post.title }}<br>{{ post.dates_publiees }}</div>
       {% endif %}
-    {% endfor %}
+      {% endif %}
+      {% endif %}
+      {% endfor %}
   </div>
   {% for post in sorted2 %}
-    {% if post.draft != true %}
-      {% if post.categories contains "residence" or post.categories contains "residence_scolaire" %}
-          {% include scripts/dates.html %}
-          {% if debutdate > nowdate %}
-          <h3 class="encart_titre prems">À venir</h3>
-          <a href="{{ post.url }}" title="Résidence à venir de {{post.artiste}}">
-            <h4>{{ post.artiste | join: ", " }}</h4>
-          </a>
-          <div class="event_dates">{{ post.title }}<br>{{ post.dates_publiees }}</div>
-          {% endif %}
-        {% endif %}
-      {% endif %}
+  {% if post.draft != true %}
+  {% if post.categories contains "residence" or post.categories contains "residence_scolaire" %}
+  {% include scripts/dates.html %}
+  {% if debutdate > nowdate %}
+  <h3 class="encart_titre prems">À venir</h3>
+  <a href="{{ post.url }}" title="Résidence à venir de {{post.artiste}}">
+    <h4>{{ post.artiste | join: ", " }}</h4>
+  </a>
+  <div class="event_dates">{{ post.title }}<br>{{ post.dates_publiees }}</div>
+  {% endif %}
+  {% endif %}
+  {% endif %}
+  {% endfor %}
+  <a href="/category/residence" class="liencat">Toutes les résidences</a>
+</div>
+<div class="encart">
+  <!-- Sélection des posts d'appel à candidature-->
+  {% for post in site.categories.appel %}
+  {% include scripts/dates.html %}
+  {% if post.draft != true %}
+  {% if debutdate <= nowdate and findate>= nowdate %}
+    <h2 class="encart_titre color_res">Appel à candidature</h2>
+    <a href="{{ post.url }}" title="Appel à candidature">
+      <h4>{{ post.title }}</h4>
+    </a>
+    <div class="event_dates">{{ post.dates_publiees }}</div>
+    {% endif %}
+    {% endif %}
     {% endfor %}
-    <a href="/category/residence" class="liencat">Toutes les résidences</a>
-  </div>
-  <div class="encart">
-    <!-- Sélection des posts d'appel à candidature-->
-    {% for post in site.categories.appel %}
-      {% include scripts/dates.html %}
-      {% if post.draft != true %}
-        {% if debutdate <= nowdate and findate >= nowdate %}
-          <h2 class="encart_titre color_res">Appel à candidature</h2>
-          <a href="{{ post.url }}" title="Appel à candidature">
-            <h4>{{ post.title }}</h4>
-          </a>
-          <div class="event_dates">{{ post.dates_publiees }}</div>
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-  </div>
+</div>
 
 <!-- Dernier podcast (posts dans la catégorie podcasts)-->
 {% assign sortedpod = site.categories.podcast | sort: 'date_debut' | reverse %}
 {% for post in sortedpod limit:1 %}
-  <div class="encart color_pod">
-    <h2 class="">Dernier podcast</h2>
-    <iframe src="{{ post.iframeurl }}" height="150px" width="100%" frameborder="0" scrolling="no"></iframe>
-    <div class="event_dates">{{ post.title }} &middot; {{ post.artiste }} &middot; {{ post.dates_publiees }}</div>
-    <br />
-    <a href="/category/podcast" class="liencat">Tous les podcasts</a>
-  </div>
+<div class="encart color_pod">
+  <h2 class="">Dernier podcast</h2>
+  <iframe src="{{ post.iframeurl }}" height="150px" width="100%" frameborder="0" scrolling="no"></iframe>
+  <div class="event_dates">{{ post.title }} &middot; {{ post.artiste }} &middot; {{ post.dates_publiees }}</div>
+  <br />
+  <a href="/category/podcast" class="liencat">Tous les podcasts</a>
+</div>
 {% endfor %}
 
 <div class="encart">
   <h2 class=" color_asso">Récemment...</h2>
   {% assign sortedjournal = site.journal | sort: 'date' | reverse %}
   {% for post in sortedjournal limit:3 %}
-    {% assign counter = counter | plus: 1 %}
-    {% if counter == 2 %}
-      <a href="/journal/#post_deux" title="{{post.title}}">
+  {% assign counter = counter | plus: 1 %}
+  {% if counter == 2 %}
+  <a href="/journal/#post_deux" title="{{post.title}}">
     {% elsif counter == 3 %}
-      <a href="/journal/#post_trois" title="{{post.title}}">
-    {% else %}
+    <a href="/journal/#post_trois" title="{{post.title}}">
+      {% else %}
       <a href="/journal" title="{{post.title}}">
-    {% endif %}
-    <h3>{{ post.title }}</h3>
-  </a>
-  <div class="event_dates">Le {{ post.date | date: "%d/%m/%Y"}}, par {{ post.auteur }}</div>
-  <br>
-  {% endfor %}
+        {% endif %}
+        <h3>{{ post.title }}</h3>
+      </a>
+      <div class="event_dates">Le {{ post.date | date: "%d/%m/%Y"}}, par {{ post.auteur }}</div>
+      <br>
+      {% endfor %}
 </div>
