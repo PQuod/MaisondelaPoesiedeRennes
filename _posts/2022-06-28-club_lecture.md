@@ -8,7 +8,7 @@ title: Club de lecture
 date: 2022-06-28T08:29:30.328Z
 categories: associatif
 date_debut: 2023-03-14T23:00:00.000Z
-date_fin: 2023-03-14T23:00:00.000Z
+date_fin: 2023-03-15T23:00:00.000Z
 dates_publiees: 15 mars 2023 · 20h → 21h30
 lieu: Maison de la Poésie de Rennes
 ---
