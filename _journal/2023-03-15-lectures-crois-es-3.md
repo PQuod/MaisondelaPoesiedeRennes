@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 layout: post
 title: "Lectures croisées #3"
 date: 2023-03-15T10:10:51.800Z
