@@ -19,4 +19,4 @@ Au cours de sa semaine de résidence, Lucile Olympe Haute cherche à articuler c
 
 Comment communiquer avec les non-humains ? Faut-il parler en langue, ce langage spirituel, surnaturel, qui ne peut être appris ni compris par notre intelligence humaine ?
 
-Il s’agira d’écrire une ode pour eukaryotes et bactéries, de célébrer nos co-dépendances inter-espèces et inter-mondes, de mettre en mots le monde que l’on désire.
+Il s’agira d’écrire une ode pour eukaryotes et bactéries, de célébrer nos co-dépendances inter-espèces et inter-mondes, de mettre en mots le monde que l’on désire. 
