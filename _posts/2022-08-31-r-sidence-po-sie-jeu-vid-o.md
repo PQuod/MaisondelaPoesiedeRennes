@@ -22,4 +22,12 @@ Les deux artistes travaillent avec une classe de 4ème, sans savoir quel sera l'
 
 Les envies sont multiples : faire écrire les élèves à partir d'objets qui ne sont pas des livres, comme des cartes Magic, les amener à déconstruire l'image de la poésie enseignée au collège, travailler sur un imaginaire personnel avec des références de proximité, etc. Toute cette matière textuelle sera ensuite intégrée dans un jeu inédit.
 
-*Cette résidence est co-financée par le Département d'Ille-et-Vilaine et la DRAC Bretagne EAC.*
+**Réalisations**
+
+Le recueil de poèmes écrits par les élèves *C'est la fin des paillettes, on n'a rien fait je vous jure* est disponible [en cliquant sur ce lien](https://fragcie.com/jv/imm/recueil.pdf). 
+
+Le jeu *Infini mini monde*, développé par Maxime Devige, est disponible et jouable [en cliquant sur ce lien](https://fragcie.com/jv/IMM.html).
+
+Toutes les cartes fictives qui ont servi de supports d'écriture aux poèmes et au jeu sont téléchargeables [en cliquant sur ce lien](https://fragcie.com/jv/imm/imm_jdc.zip).
+
+*Cette résidence en milieu scolaire bénéficie du soutien financier du Département d'Ille-et-Vilaine et de la DRAC Bretagne.*
