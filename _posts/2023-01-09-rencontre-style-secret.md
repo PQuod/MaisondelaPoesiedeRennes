@@ -18,4 +18,4 @@ Dans le cadre de son invitation lors de [Carrément #2](https://maiporennes.fr/r
 
 > Spiraling group est le nom d’une entité extraite d’un texte en cours d’écriture, et dont la mission (dans la fiction) est de constituer un corpus de Spiral Studies. C’est aussi une invitation à discuter, lire et écrire autour de nos expériences du passing (ethnique, de genre, social, etc.), de la dissociation et de la dissonance. Les échanges ont lieu en même temps qu’une pratique collective de *Milk-Art*.
 
-Anne-Sarah Huet initiera une session du Spiraling Group, et elle expliquera comment elle l’intègre dans son processus d’écriture. Elle lira enfin des extraits du texte à paraître.
+Anne-Sarah Huet initiera une session du Spiraling Group, et elle expliquera comment elle l’intègre dans son processus d’écriture. Elle lira enfin des extraits du texte à paraître. 
