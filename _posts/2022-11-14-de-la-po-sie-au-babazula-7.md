@@ -24,4 +24,4 @@ Cette fois, c’est avec :
 - Inès Dobelle
 - Claude Favre
 
-Restauration et boisson sur place, tranquillement.
+Restauration et boisson sur place, tranquillement. 
