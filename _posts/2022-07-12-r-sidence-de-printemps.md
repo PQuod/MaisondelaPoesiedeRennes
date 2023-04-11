@@ -20,6 +20,12 @@ Le projet s'intitule *Poèmes-plombiers*, et sabrina soyer y a comme intention l
 
 > Ces sujets techniques dont on délègue le savoir qu'ils créent aux sphères technocratiques paraissent peu sexy pour le poème. Pourquoi ? Le lyrisme masculin qui célèbre la vie de l'eau aurait-il peur de tomber amoureux d'un cyborg ?
 
-sabrina donne cinq ateliers avec une classe de première du lycée Bréquigny (Rennes).
+**Rencontre publique**
 
-*Cette résidence bénéficie du soutien financier de la Région Bretagne et de la DRAC Bretagne.*
+Le 30 mai, [sabrina soyer invite Nelle Gevers](https://maiporennes.fr/rencontre/2023/03/30/lectures-crois-es-notes-de-berges.html) pour une soirée des lecture croisées intitulée *Notes de Berges*.
+
+**Rencontres scolaires**
+
+sabrina soyer donne cinq ateliers avec une classe de première du lycée Bréquigny (Rennes).
+
+*Cette résidence bénéficie du soutien financier de la Région Bretagne.*
