@@ -22,7 +22,7 @@ Le projet s'intitule *Poèmes-plombiers*, et sabrina soyer y a comme intention l
 
 **Rencontre publique**
 
-Le 30 mai, [sabrina soyer invite Nelle Gevers](https://maiporennes.fr/rencontre/2023/03/30/lectures-crois-es-notes-de-berges.html) pour une soirée des lecture croisées intitulée *Notes de Berges*.
+Le 30 mai, [sabrina soyer invite Nelle Gevers](https://maiporennes.fr/rencontre/2023/03/30/lectures-crois-es-notes-de-berges.html) pour une soirée de lectures croisées intitulée *Notes de Berges*.
 
 **Rencontres scolaires**
 
