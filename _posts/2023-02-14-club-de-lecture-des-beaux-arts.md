@@ -8,7 +8,7 @@ categories: scolaires
 date_debut: 2023-05-12T08:41:18.094Z
 date_fin: 2023-05-12T08:41:18.182Z
 dates_publiees: 12 mai 2023 · 12h → 14h
-lieu: Bibliothèque de l'EESAB
+lieu: Bibliothèque de l'EESAB, 34 rue Hoche
 tarif: Entrée libre et gratuite, réservée aux étudiant.es en art, design et
   communication de l'EESAB
 partenaires: Ecole européenne supérieure d'art de Bretagne
