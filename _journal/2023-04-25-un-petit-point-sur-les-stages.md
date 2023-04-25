@@ -7,7 +7,7 @@ auteur: Quentin
 ---
 A partir du 2 mai et jusqu'au 30 juin, on accueille en stage **Mathilde**, étudiante en [4ème année section Arts à l'ESAD-TALM](https://esad-talm.fr/fr/2021/dna-art/mathilde-salic).
 
-Je profite de cette occasion pour faire un petit point stages et graification.
+Je profite de cette occasion pour faire un petit point sur l'accueil des stages et leur gratification.
 
 ## L'accueil en stage
 
