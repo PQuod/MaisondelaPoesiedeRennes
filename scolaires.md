@@ -6,7 +6,7 @@ permalink: /scolaires/
 ---
 Vous souhaitez construire un projet scolaire ou assister à une lecture ? Toute l'année, vous pouvez nous solliciter pour les projets de classe à PAC, des projets Karta, des rencontres via le Pass Culture ou autres dispositifs de soutien financier.
 
-Ecrivez à Lucie Desaubliaux, notre médiatrice scolaire : lucie.desaubliaux@maisondelapoesie-rennes.org
+Ecrivez à Lucie Desaubliaux, notre médiatrice scolaire : lucie.desaubliaux@maiporennes.fr
 
 - - -
 
