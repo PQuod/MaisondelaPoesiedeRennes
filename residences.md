@@ -10,7 +10,7 @@ permalink: /residences/
 
 Chaque saison, à l'automne (octobre-décembre) et au printemps (avril-juin), la Maison de la Poésie accueille deux résidences de création.
 
-Elles sont **réservées à des projets d'écriture de poésie ou de prose poétique**, pour des artistes-auteurs francophones ayant publié au moins un livre à compte d'éditeur.
+Elles sont **réservées à des projets d'écriture de poésie ou de prose poétique**, pour des artistes-auteurices francophones ayant publié au moins un livre à compte d'éditeur.
 
 Elles ont deux enjeux principaux :
 
@@ -52,7 +52,7 @@ Accueil des premières résidences : octobre 2024
 
 Le dossier de candidature est à remplir et à renvoyer avec les pièces jointes obligatoires par email ou par courrier. Tout dossier incomplet ne sera pas pris en compte. 
 
-Il appartient au candidat ou à la candidate de s'assurer que toutes les pièces demandées sont présentes, dans les bons formats et avec la mise en page adéquate.
+Il appartient au candidat ou à la candidate de s'assurer que toutes les pièces demandées sont présentes, dans les bons formats et avec la mise en page adéquate. La commission se réserve le droit de ne pas consulter un dossier s'il est incomplet ou inadapté à la lecture.
 
 ## Postuler
 
@@ -74,7 +74,7 @@ Lors de cette résidence, tout peut être sujet à écriture ou enregistrement :
 
 ## Résidence émergence
 
-Les résidences émergence s'adressent aux artistes-auteurs entre 20 et 35 ans qui vivent sur le territoire rennais, et qui n'ont pas encore eu l'opportunité de publier un premier livre à compte d'éditeur.
+Les résidences émergence s'adressent aux artistes-auteurices entre 20 et 35 ans qui vivent sur le territoire rennais, et qui n'ont pas encore eu l'opportunité de publier un premier livre à compte d'éditeur.
 
 Cette résidence leur permet d'aboutir un premier manuscrit de poésie ou prose poétique, et de profiter de l'expertise de l'équipe salariée de la Maison de la Poésie et des partenaires culturels pour consolider leur projet littéraire.
 
@@ -90,7 +90,7 @@ Cette résidence est dédiée à 100 % à la création, mais des moments de renc
 
 ## Publications de résidence
 
-Nous offrons une aide à l'édition pour chacune de nos résidences de création. Voici les livres qui ont été publiés dans ce cadre :
+Voici les livres qui ont été publiés à la suite des résidences accueillies :
 
 - *Mauviette*, Samuel Rochery, Ni fait ni à faire, 2022
 - *Mettre la gomme*, Guillaume Dorvillé et suf marenda, Vanloo, 2022
@@ -126,7 +126,7 @@ Tous ces livres sont disponibles à l'emprunt dans notre bibliothèque, ou en li
 
 ## Résidence de médiation scolaire
 
-Les résidences de médiation permettent aux élèves de rencontrer un.e auteurice pour créer un projet littéraire ou transdisciplinaire tout en participant à sa démarche artistique.
+Les résidences de médiation permettent aux élèves de rencontrer un.e artiste-auteurice pour créer un projet littéraire ou transdisciplinaire tout en participant à sa démarche artistique.
 
 Elles sont construites au cas par cas avec les acteurs du territoire.
 
