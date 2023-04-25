@@ -50,7 +50,7 @@ Accueil des premières résidences : octobre 2024
 
 **Procédures de candidature**
 
-Le dossier de candidature est à remplir et à renvoyer avec les pièces jointes obligatoires par email ou par courrier. Tout dossier incomplet ne sera pas pris en compte. 
+Le dossier de candidature est à remplir et à renvoyer avec les pièces jointes obligatoires, par email à [contact@maiporennes.fr](mailto:contact@maiporennes.fr), ou par courrier. Tout dossier incomplet ne sera pas pris en compte. 
 
 Il appartient au candidat ou à la candidate de s'assurer que toutes les pièces demandées sont présentes, dans les bons formats et avec la mise en page adéquate. La commission se réserve le droit de ne pas consulter un dossier s'il est incomplet ou inadapté à la lecture.
 
@@ -92,37 +92,37 @@ Cette résidence est dédiée à 100 % à la création, mais des moments de renc
 
 Voici les livres qui ont été publiés à la suite des résidences accueillies :
 
-- *Mauviette*, Samuel Rochery, Ni fait ni à faire, 2022
-- *Mettre la gomme*, Guillaume Dorvillé et suf marenda, Vanloo, 2022
-- *PQR (poèmes quotidiens rennais)*, Ian Monk, Isabelle Sauvage, 2021
-- *L'exercice de la disparition*, Mathieu Brosseau, Le Castor Astral, 2020
-- *Monde de seconde main*, Nicolas Tardy, L'Attente, 2019
-- *... commence une phrase*, Michaël Glück, Lanskine, 2019
-- *Avers*, Dominique Quélen, Louise Bottu, 2017
-- *Le gué*, Remi Checchetto, Dernier Télégramme, 2017
-- *A l'ouest des ombres*, Seyhmus Dagtekin, Le Castor Astral, 2016
-- *Sorrowful Songs*, Deborah Heissler et Peter Maslow, Aencrages&Co, 2015
-- *Tombeaux et taxidermies*, Stéphane Crémer, Artrois, 2015
-- *Les Equinoxiales*, Armelle Leclercq, Le Corridor Bleu, 2014
-- *Sanpatri*, Sylvie Durbec, Jacques Brémond, 2014
-- *Volonté en cavale ou D'*, Bernard Bretonnière, Color Gang, 2013
-- *Crisalida*, Laurine Rousselet, L'Inventaire, 2013
-- *Entre deux livres*, Joël Bastard, Folle Avoine, 2013
-- *Démolition*, Jean-Christophe Belleveaux, Les Carnets du Dessert de Lune, 2013
-- *Qui journal fait voyage*, Edith Azam, L'Atelier de l'agneau, 2012
-- *Résidence absolue*, Sabine Macher, Isabelle Sauvage, 2011
-- *Le retour de Wallada*, Maram Al Masri, Al Manar, 2010
-- *Être ainsi, être tel, être cela*, Magali Thuillier, Maison de la Poésie de Rennes, 2010
-- *Quand je me deux*, Valérie Rouzeau, Le temps qu'il fait, 2009
-- *Le chemin des écluses*, Lionel Bourg, Folle Avoine, 2008
-- *Transversale Nord*, Dominique Grandmont, Apogée, 2007
-- *Le cœur et autres mélancolies*, Denise Desautels, Apogée, 2007
-- *L'Europe en capsaille*, Patrick Beurard-Valdoye, Al Dante, 2006
-- *Nerfs*, Jean-Pascal Dubost, La Dragonne, 2006
+* *Mauviette*, Samuel Rochery, Ni fait ni à faire, 2022
+* *Mettre la gomme*, Guillaume Dorvillé et suf marenda, Vanloo, 2022
+* *PQR (poèmes quotidiens rennais)*, Ian Monk, Isabelle Sauvage, 2021
+* *L'exercice de la disparition*, Mathieu Brosseau, Le Castor Astral, 2020
+* *Monde de seconde main*, Nicolas Tardy, L'Attente, 2019
+* *... commence une phrase*, Michaël Glück, Lanskine, 2019
+* *Avers*, Dominique Quélen, Louise Bottu, 2017
+* *Le gué*, Remi Checchetto, Dernier Télégramme, 2017
+* *A l'ouest des ombres*, Seyhmus Dagtekin, Le Castor Astral, 2016
+* *Sorrowful Songs*, Deborah Heissler et Peter Maslow, Aencrages&Co, 2015
+* *Tombeaux et taxidermies*, Stéphane Crémer, Artrois, 2015
+* *Les Equinoxiales*, Armelle Leclercq, Le Corridor Bleu, 2014
+* *Sanpatri*, Sylvie Durbec, Jacques Brémond, 2014
+* *Volonté en cavale ou D'*, Bernard Bretonnière, Color Gang, 2013
+* *Crisalida*, Laurine Rousselet, L'Inventaire, 2013
+* *Entre deux livres*, Joël Bastard, Folle Avoine, 2013
+* *Démolition*, Jean-Christophe Belleveaux, Les Carnets du Dessert de Lune, 2013
+* *Qui journal fait voyage*, Edith Azam, L'Atelier de l'agneau, 2012
+* *Résidence absolue*, Sabine Macher, Isabelle Sauvage, 2011
+* *Le retour de Wallada*, Maram Al Masri, Al Manar, 2010
+* *Être ainsi, être tel, être cela*, Magali Thuillier, Maison de la Poésie de Rennes, 2010
+* *Quand je me deux*, Valérie Rouzeau, Le temps qu'il fait, 2009
+* *Le chemin des écluses*, Lionel Bourg, Folle Avoine, 2008
+* *Transversale Nord*, Dominique Grandmont, Apogée, 2007
+* *Le cœur et autres mélancolies*, Denise Desautels, Apogée, 2007
+* *L'Europe en capsaille*, Patrick Beurard-Valdoye, Al Dante, 2006
+* *Nerfs*, Jean-Pascal Dubost, La Dragonne, 2006
 
 Tous ces livres sont disponibles à l'emprunt dans notre bibliothèque, ou en librairie pour ceux qui ne sont pas épuisés.
 
----
+- - -
 
 ## Résidence de médiation scolaire
 
@@ -130,7 +130,7 @@ Les résidences de médiation permettent aux élèves de rencontrer un.e artiste
 
 Elles sont construites au cas par cas avec les acteurs du territoire.
 
-Si vous souhaitez développer un projet de ce type dans votre établissement, il suffit d'écrire à Lucie Desaubliaux, notre médiatrice scolaire, qui élaborera avec vous le projet artistique et son budget. Son contact : lucie.desaubliaux@maisondelapoesie-rennes.org
+Si vous souhaitez développer un projet de ce type dans votre établissement, il suffit d'écrire à Lucie Desaubliaux, notre médiatrice scolaire, qui élaborera avec vous le projet artistique et son budget. Son contact : lucie.desaubliaux@maiporennes.fr
 
 La meilleure période pour commencer à réfléchir ensemble à une résidence est vers la fin du deuxième trimestre de l'année scolaire. Par exemple, **pour une résidence durant l'année scolaire 2024, privilégier une construction entre janvier et mars 2023.**
 
