@@ -12,7 +12,7 @@ date_fin: 2023-12-10T08:51:35.325Z
 dates_publiees: 16 octobre → 10 décembre 2023
 lieu: Maison de la Poésie de Rennes
 ---
-**Santiago Londoño** souhaite travailler sur un projet intitulé *Le feu qui attise le vent*, un ensemble de poèmes dans lequel il tente de refléter des instants du conflit armé colombien des 25 dernières années. 
+**Santiago Londoño** souhaite travailler sur un projet intitulé *Le feu qui attise le vent*, un ensemble de poèmes dans lequel il tente de refléter des instants du conflit armé colombien des 25 dernières années, et qui se situe dans le prolongement esthétique et thématique de son dernier projet *Medellín en matière noire*. 
 
 > Ces instantanés n'ont pas de prétention documentaire mais désirent plutôt mettre en lumière le drame humain à travers un regard poétique. De cette manière, j'ai décidé de célébrer le nom des 54 villages de la région d'Antioquia, lieu où par ailleurs je suis né, car la violent y a laissé des traces indélébiles.
 
