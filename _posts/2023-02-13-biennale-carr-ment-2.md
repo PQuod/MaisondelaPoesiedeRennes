@@ -20,7 +20,7 @@ Après [le lancement du projet Carrément #2 en mars](https://maiporennes.fr/res
 
 A 14h, on ouvre la buvette.
 
-De 14h à 19h, vous pouvez retrouver dans le jardin un salon d'une quinzaine de microéditions rennaises. *Les éditeurices présent.es seront bientôt annoncé.es sur cette page...*
+De 14h à 19h, vous pouvez retrouver dans le jardin un salon d'une quinzaine de microéditions rennaises : Animal Debout, Atelier Bonjoure, La liebre dorada, Next Revel, Cosmic Studio Parade, Ni fait ni à faire, Les Ramettes, Lion rouge, Le Marché Noir, Poésie Maxi, Hypnosexe, Pierre Ramine et Vincent Normand, L'Imprimerie nocturne, Anaïs Rallo, Editions Incertaines et Next Revel.
 
 En parallèle, les artistes invité.es présentent et distribuent les objets de poésie qu'iels ont réalisés :
 
@@ -29,7 +29,7 @@ En parallèle, les artistes invité.es présentent et distribuent les objets de 
 * à 17h, Martin Desinde,
 * et à 18h, Anne-Sarah Huet.
 
-Entre 19h et 21h, il y a restauration sur place avec un stand de galettes et de crêpes. 
+Entre 19h et 21h, il y a restauration sur place avec des pizzas cuisinées par **Diane Rabreau**.
 
 Et pour clôturer la journée, à partir de 21h il y a l'**Open Mike Brant**, un karaoké poétique semi improvisé. Il suffit de laisser parler son cœur et de plonger dans les abysses musicales d'un répertoire inépuisable, celui de son imagination.
 
