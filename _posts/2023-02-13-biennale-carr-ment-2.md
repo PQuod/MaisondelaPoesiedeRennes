@@ -20,7 +20,7 @@ Après [le lancement du projet Carrément #2 en mars](https://maiporennes.fr/res
 
 A 14h, on ouvre la buvette.
 
-De 14h à 19h, vous pouvez retrouver dans le jardin un salon d'une quinzaine de microéditions rennaises : Animal Debout, Atelier Bonjoure, La liebre dorada, Next Revel, Cosmic Studio Parade, Ni fait ni à faire, Les Ramettes, Lion rouge, Le Marché Noir, Poésie Maxi, Hypnosexe, Pierre Ramine et Vincent Normand, L'Imprimerie nocturne, Anaïs Rallo, Editions Incertaines et Next Revel.
+De 14h à 19h, vous pouvez retrouver dans le jardin un salon d'une quinzaine de microéditions rennaises : Animal Debout, Atelier Bonjoure, La liebre dorada, Next Revel, Cosmic Studio Parade, Ni fait ni à faire, Les Ramettes, Lion rouge, Le Marché Noir, Poésie Maxi, Hypnosexe, Pierre Ramine et Vincent Normand, L'Imprimerie nocturne, Anaïs Rallo, Editions Incertaines, Alice Baude et Next Revel.
 
 En parallèle, les artistes invité.es présentent et distribuent les objets de poésie qu'iels ont réalisés :
 
