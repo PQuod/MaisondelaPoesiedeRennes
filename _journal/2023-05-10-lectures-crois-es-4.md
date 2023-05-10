@@ -15,11 +15,11 @@ Le croisement n’ira pas beaucoup plus loin, si ce n’est dans la brièveté d
 
 *Ricochet*, publié aux éditions Lansman en octobre 2022, a reçu le Grand Prix des arts du spectacle. L’exergue est donné à toutes les mères, celles qui le deviendront, celles qui choisissent de ne pas le devenir, celles qui regrettent de l’être devenues.
 
-Au sein d’un couple, un enfant de cinq ans décède dans un accident de voiture. En 19 fragments, l’auteur, dans des allers-retours de la vie familiale, pose la question du désir d’enfant, du fantasme de la mort de son enfant. En d’autres termes : Peut-on souhaiter la mort de son enfant ?            
+Au sein d’un couple, un enfant de cinq ans décède dans un accident de voiture. En 19 fragments, l’auteur, dans des allers-retours de la vie familiale, pose la question du désir d’enfant, du fantasme de la mort de son enfant. En d’autres termes : Peut-on souhaiter la mort de son enfant ?\
 Ici, le désir d’enfant a-t-il réellement été partagé ou Claire s’était laissée convaincre que 
 
 > la destinée de toute femme est d’être mère... la plus belle chose qui puisse arriver dans la vie
- 
+
 Au fil du livre, chacun des personnages écrit sa partition face à l’incompréhensible, à l’inconnu, au désenfantement.
 
 *Ricochet*, dont le double sens introduit ce premier texte édité, fait entendre la parole des personnes invisibles.
@@ -28,6 +28,6 @@ Au fil du livre, chacun des personnages écrit sa partition face à l’incompr�
 
 Dans un dialogue de questions-réponses, un frère et une sœur se retrouvent après 40 ans d’éloignement. En 1975, la dictature militaire en Amérique du Sud leur a fait prendre des trajectoires diamétralement opposées. Anna, ex-révolutionnaire, vient chercher au près de celui qu’elle connaît bien la fiabilité de sa mémoire, et va retraverser les cauchemars psychiques et politiques. Comment fait-on pour survivre à…
 
-La question se pose aussi pour son frère qui a endossé le rôle de tortionnaire. Pour chacun d’eux les armes ne sont pas loin, le suspens, les silences, mais aussi les cris nous interrogent.
+La question se pose aussi pour son frère qui a endossé le rôle de tortionnaire. Pour chacun d’eux les armes ne sont pas loin, le suspens, les silences, mais aussi les cris nous interrogent. Qu’est-ce que la vie humaine ? 
 
-Qu’est-ce que la vie humaine ?
+Cette confrontation nocturne et imprévue révèle l’ambiguïté et l’intériorité des personnages dans un monde politiquement trouble. Qui a bouleversé toute une génération.
