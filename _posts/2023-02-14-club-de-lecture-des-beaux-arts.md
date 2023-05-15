@@ -5,9 +5,9 @@ type: event
 title: Club de lecture des Beaux-Arts
 date: 2023-02-14T09:41:17.835Z
 categories: scolaires
-date_debut: 2023-05-12T08:41:18.094Z
-date_fin: 2023-05-12T08:41:18.182Z
-dates_publiees: 12 mai 2023 · 12h → 14h
+date_debut: 2023-06-09T08:41:18.094Z
+date_fin: 2023-06-09T08:41:18.182Z
+dates_publiees: 9 juin 2023 · 12h → 14h
 lieu: Bibliothèque de l'EESAB, 34 rue Hoche
 tarif: Entrée libre et gratuite, réservée aux étudiant.es en art, design et
   communication de l'EESAB
@@ -29,7 +29,17 @@ Vous trouverez ci-dessous tous les livres conseillés aux clubs précédents par
 
 ## 2023
 
+**Club du 12 mai 2023**
 
+* *:Kappa:*, Adrien Lafille et Anaël Castelein, éditions Rrose
+* *Renata n'importe quoi*, Catherine Guérard, éditions du Chemin de fer
+* *Chauffer le dehors*, Marie-Andrée Gill, éditions La Peuplade
+* *Vanités*, Marie de Quatrebarbes, éditions Eric Pesty
+* *Musique de la guerre*, Christopher Logue (trad. C. Recoursé), éditions Tusitala
+* *Flore des friches urbaines*, Myr Muratet, éditions Les Presses du Réel
+* *Néo-chatte*, Joyce Rivière, éditions How To
+* *Beat Attitude*, Collectif, éditions Bruno Doucey
+* *Les carnets du paysage n°39 : La Marche*, Collectif, édition Actes Sud/ENSP
 
 **Club du 14 avril 2023**
 
@@ -42,8 +52,6 @@ Vous trouverez ci-dessous tous les livres conseillés aux clubs précédents par
 * *Les causes et les remèdes*, Hildegarde de Bingen (trad. P. Monat), éditions Jérôme Millon
 * *Desolation*, Verity Spott (trad. E. Boyer et C. Pageard), éditions Même pas l'hiver
 * *Le garçon sauvage*, Paolo Cognetti (trad. A. Rochedy), édition 10/18
-
-
 
 **Club du 10 mars 2023**
 
