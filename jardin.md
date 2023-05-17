@@ -6,7 +6,7 @@ ref: jardin
 ---
 ## Zone 1 : La zone *chill*
 
-### Les espèces plantées
+### Les espèces plantées (25)
 
 - Bleuet
 - Bruyère
@@ -34,7 +34,7 @@ ref: jardin
 - Thym serpolet
 - Vigne
 
-### Les espèces spontanées
+### Les espèces spontanées (33)
 
 - Acanthe à feuilles molles
 - Achillée millefeuille
