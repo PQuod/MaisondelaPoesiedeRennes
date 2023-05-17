@@ -16,7 +16,7 @@ ref: jardin
 - Chélidoine
 - Estragon des moines
 - Figuier
-- Framboisier-fraise du japon (Rubus illecebrosus)
+- Framboisier-fraise du japon
 - Groseillier
 - If
 - Livèche
