@@ -169,6 +169,14 @@ collections:
   - name: "pages"
     label: "Pages"
     files:
+      - label: "Jardin"
+        name: "jardin"
+        file: "jardin.md"
+        fields:
+          - {label: "Layout", name : "layout", widget: "hidden", default: "bibli"}
+          - {label: "Titre", name: "title", widget: "string"}
+          - {label: "Permalink", name: "permalink", widget: "string"}
+          - {label: 'Description', name: 'body', widget: 'markdown'}
       - label: "Bibliothèque"
         name: "bibli"
         file: "bibli.md"
