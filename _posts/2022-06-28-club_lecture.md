@@ -7,9 +7,9 @@ type: event
 title: Club de lecture
 date: 2022-06-28T08:29:30.328Z
 categories: associatif
-date_debut: 2023-05-16T22:00:00.000Z
-date_fin: 2023-05-17T22:00:00.000Z
-dates_publiees: 17 mai 2023 · 20h → 21h30
+date_debut: 2023-09-19T22:00:00.000Z
+date_fin: 2023-09-19T22:00:00.000Z
+dates_publiees: 20 septembre 2023 · 20h → 21h30
 lieu: Maison de la Poésie de Rennes
 ---
 ## Fonctionnement
@@ -29,12 +29,23 @@ Vous trouverez ci-dessous tous les livres conseillés ces dernières années par
 
 ## 2023
 
+**Club du 17 mai 2023**
+
+* *Retour à Reims*, Didier Eribon, éditions Champs essais
+* *L'Ignare*, Shuntaro Tanikawa (trad. D. Palme), éditions Cheyne
+* *Lambeaux*, Charles Juliet, éditions Folio
+* *Journal d'un parfumeur*, Jean-Claude Ellena, éditions Le Livre de Poche
+* *Le Fou d'Elsa*, Louis Aragon, éditions Poésie/Gallimard
+* *L'Aleph*, Jorge Luis Borges (trad. R. Caillois), éditions L'Imaginaire
+* *Zelda : le jardin et le monde*, Victor Moisan, éditions Façonnage
+* *La Vision*, William Beckford (trad. P. Leyris), édition José Corti
+
 **Club du 19 avril 2023**
 
 * *La logique des noms propres*, Saul Kripke (trad. P. Jacob et F. Recanati), éditions de Minuit
 * *Le Monde du Dessous*, Charlotte Bronte, Emily Bronte, Anne Bronte, Patrick Branwell Bronte (trad. P. Reumaux), éditions Les Belles Lettres
 * *Et puis on a compté les jours*, Valérie Poussard-Fournaison, éditions L'échappée belle
-* *Un palais de cendres et de ruines,* Sarah J. Maas, éditions La Martinière
+* *Un palais de cendres et de ruines*, Sarah J. Maas, éditions La Martinière
 * *Rencontres avec Bram Van Velde*, Charles Juliet, éditions POL
 * *La vallée - la brèche*, Tania Maria Elisa, autoédition
 * *Deviens celle que tu es*, Hedwig Dohm (trad. M.-F. de Palacio), édition José Corti
