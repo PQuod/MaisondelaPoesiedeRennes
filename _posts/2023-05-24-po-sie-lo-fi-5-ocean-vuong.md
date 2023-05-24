@@ -4,6 +4,8 @@ layout: post
 type: event
 title: "Poésie Lo-fi #5 - Ocean Vuong"
 date: 2023-05-24T09:56:29.278Z
+artiste:
+  - Paupi Drillet
 categories: podcast
 date_debut: 2023-05-24T09:56:29.426Z
 date_fin: 2023-05-24T09:56:29.472Z
