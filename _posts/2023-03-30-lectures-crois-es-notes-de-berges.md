@@ -20,4 +20,4 @@ On s’est rencontré·es sur des sentiers en cherchant des spots de cruising r�
 
 Nous avons marché dans les villes en suivant ce qui ruisselle mélangé aux poubelles scintillantes mélangées à la boue pleine de nitrates et au bout, un des bouts, il y avait un scandale. Une méga-bassine d’eau mise sous cloche par des kékés. Ils voulaient faire pousser du maïs à -3°C comme + 50°C, pour nourrir des cochons dont les cacas voyageant engraissent les algues vertes de Saint-Brieuc. 
 
-À un autre bout il y avait un petit palais de branchages savants abritant un cinéma porno pour les meufs, et aussi pour certains mecs qui se retrouvaient pour faillir ensemble... Venez écouter la suite.
+À un autre bout il y avait un petit palais de branchages savants abritant un cinéma porno pour les meufs, et aussi pour certains mecs qui se retrouvaient pour faillir ensemble... Venez écouter la suite. 
