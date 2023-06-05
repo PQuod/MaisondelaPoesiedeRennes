@@ -1,28 +1,27 @@
 ---
-draft: true
+draft: false
 layout: post
 name: Assemblée Générale
+type: event
 title: Assemblée Générale
-date: 2022-06-28T12:43:27.897Z
+date: 2023-06-29T12:43:27.897Z
 categories: associatif
-date_debut: 2022-07-07
-date_fin: 2022-07-07
-dates_publiees: 7 juillet 2022 • 19h
+date_debut: 2023-06-28T22:00:00.000Z
+date_fin: 2023-06-28T22:00:00.000Z
+dates_publiees: 29 juin 2023 • 19h
 lieu: Maison de la Poésie de Rennes
 ---
-Comme à la fin de chaque saison, l'Assemblée Générale de l'association Maison de la Poésie de Rennes se réunit pour se retrouver, faire le bilan des activités, et élire les membres de son Conseil d'Administration.
-
-Une saison 2021 - 2022 qui, après la sortie des confinements a été riche en soirées, lectures, rencontres et résidences, et dont nous avons hâte de vous présenter le bilan !
+Comme à la fin de chaque saison, l'Assemblée Générale de l'association Maison de la Poésie de Rennes se réunit pour faire le bilan (financier, artistique et moral) de l'année passée, et élire les membres de son Conseil d'Administration.
 
 - - -
 
 Au nom du Bureau de l'association, nous vous prions de bien vouloir assister à **l'Assemblée Générale Ordinaire de la Maison de la Poésie de Rennes.**
 
-**MERCREDI 7 JUILLET 2022 à 19 H**  
+**Jeudi 29 juin à 19h**  
 
 47 rue Armand Rébillon, 35000 Rennes  
 Tél : 02 99 51 33 32  
-Mail : [contact@maisondelapoesie-rennes.org](mailto:contact@maisondelapoesie-rennes.org?subject=Assembl%C3%A9e%20G%C3%A9n%C3%A9rale)
+Mail : [contact@maiporennes.fr](mailto:contact@maiporennes.fr?subject=Assembl%C3%A9e%20G%C3%A9n%C3%A9rale)
 
 **L'ordre du jour sera le suivant :**
 
@@ -30,7 +29,7 @@ Mail : [contact@maisondelapoesie-rennes.org](mailto:contact@maisondelapoesie-ren
 * Présentation et approbation des comptes
 * Présentation et approbation du rapport d'activité
 * Présentation et approbation du rapport moral
-* Election de nouveaux membres du CA
+* Élection de nouveaux membres du CA
 * Pot de fin
 
-Merci de nous **signaler votre présence par téléphone ou par email avant le 1er juillet**. Nous vous rappelons que seul.e.s pourront participer à l'AG les adhérents et adhérentes **à jour de leur cotisation 2022** (année civile) ; vous trouverez ci-dessous le bulletin d'adhésion.
+**Pour rappel :** seul.es les adhérent.es à jour de cotisation pour l'année 2023 pourront participer à l'AG. L'adhésion est possible sur place juste avant la tenue de l'AG. Vous pouvez télécharger le bulletin d'adhésion en cliquant sur ce lien (PDF, xxko).
