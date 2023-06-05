@@ -4,7 +4,7 @@ layout: post
 name: Assemblée Générale
 type: event
 title: Assemblée Générale
-date: 2023-06-29T12:43:27.897Z
+date: 2023-06-05T09:13:24.383Z
 categories: associatif
 date_debut: 2023-06-28T22:00:00.000Z
 date_fin: 2023-06-28T22:00:00.000Z
