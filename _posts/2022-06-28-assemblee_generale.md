@@ -32,4 +32,4 @@ Mail : [contact@maiporennes.fr](mailto:contact@maiporennes.fr?subject=Assembl%C3
 * Élection de nouveaux membres du CA
 * Pot de fin
 
-**Pour rappel :** seul.es les adhérent.es à jour de cotisation pour l'année 2023 pourront participer à l'AG. L'adhésion est possible sur place juste avant la tenue de l'AG. Vous pouvez télécharger le bulletin d'adhésion 2023 [en cliquant sur ce lien](//imgs/bulletin-d-adh-sion-2023.pdf) (PDF, 118ko).
+**Pour rappel :** seul.es les adhérent.es à jour de cotisation pour l'année 2023 pourront participer à l'AG. L'adhésion est possible sur place juste avant la tenue de l'AG. Vous pouvez télécharger le bulletin d'adhésion 2023 [en cliquant sur ce lien](/imgs/bulletin-d-adh-sion-2023.pdf) (PDF, 118ko).
