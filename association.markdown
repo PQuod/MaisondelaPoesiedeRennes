@@ -56,7 +56,7 @@ François Trémolières ([Université Rennes 2](http://www.univ-rennes2.fr/)) &m
 
 ## Adhésion
 
-[Télécharger le bulletin d'adhésion 202](/imgs/bulletin-d-adh-sion-2023.pdf)3 (PDF, 118Ko)
+[Télécharger le bulletin d'adhésion 2023](/imgs/bulletin-d-adh-sion-2023.pdf) (PDF, 118Ko)
 
 L’adhésion est valable une année civile (de janvier à décembre) :
 
