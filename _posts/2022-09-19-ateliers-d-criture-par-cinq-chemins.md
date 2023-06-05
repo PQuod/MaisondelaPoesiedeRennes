@@ -36,4 +36,4 @@ Retourner, par courrier ou en main propre, le **[bulletin d’inscription](/imgs
 **Comment connaître mon quotient familial ?**\
 Le quotient familial est calculé en fonction du foyer et des ressources. Pour le connaître, il faut se connecter à votre espace CAF, puis sur l'espace "Mon Compte". Le quotient familial est visible sur la page d'accueil, à la rubrique "Mes paiements et mes droits". Vous pouvez télécharger une attestation, que vous joindrez à votre paiement.
 
-Si vous ne connaissez pas ou ne pouvez pas accéder à votre quotient familial, c'est le tarif plein maximum (plein ou étudiant) qui s'applique.
+Si vous ne connaissez pas ou ne pouvez pas accéder à votre quotient familial, c'est le tarif maximum (86 € plein ou 74 € étudiant) qui s'applique.
