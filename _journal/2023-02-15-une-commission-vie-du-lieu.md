@@ -5,8 +5,6 @@ title: Une commission Vie du lieu
 date: 2023-02-15T09:19:09.871Z
 auteur: Marie
 ---
-*un texte Anne-Marie Production*
-
 *lundi 6 février 10h*
 
 aujourd’hui,\
@@ -85,7 +83,7 @@ charlotte dit « t’as oublié ta brioche stéphanie »
 quelle est cette brioche ?
 
 c'est la brioche mystique\
-stéphane en sort plein de son sac\
+stéphanie en sort plein de son sac\
 c'est des cds\
 ils sont beaux\
 on se les passe\
@@ -103,4 +101,4 @@ on propose un show case sur la terrasse d’anne-marie
 
 voilà ! 
 
-et il y a aussi le rouge-gorge, le bébé abandonné, la création d’anne-marie production, la brioche non mystique rapportée par anaël, l’hélicoptère et le drone qui nous espionnent, etc.
+et il y a aussi le rouge-gorge, le bébé abandonné, la brioche non mystique rapportée par anaël, l’hélicoptère et le drone qui nous espionnent, etc.
