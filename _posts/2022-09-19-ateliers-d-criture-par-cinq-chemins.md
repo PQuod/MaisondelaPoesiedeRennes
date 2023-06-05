@@ -13,7 +13,7 @@ dates_publiees: A partir du 17 octobre 2023 · 20h → 22h
 lieu: Maison de la Poésie de Rennes
 tarif: Payant, inscription obligatoire
 ---
-À l'heure de repenser notre rapport au monde pour mieux l'habiter et le protéger, que peut l'écriture ? Construire de nouveaux imaginaires de nos corps, en lien avec le vivant est une piste que les ateliers *Écrire vivant* se proposent d'explorer
+À l'heure de repenser notre rapport au monde pour mieux l'habiter et le protéger, que peut l'écriture ? Construire de nouveaux imaginaires de nos corps en lien avec le vivant est une piste que les ateliers *Écrire vivant* se proposent d'explorer
 
 L'écriture est un moyen de nous relier au monde, et de nous y inscrire. Elle permet d'explorer nos manières d'exister et de prendre chair, de lier l'intime et le dehors, d'éprouver les métamorphoses de la nature, de s'inspirer des manières de faire du vivant pour écrire des corps reliés à la fois à nos histoires individuelles et à un devenir collectif.
 
