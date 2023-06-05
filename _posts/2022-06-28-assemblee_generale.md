@@ -19,8 +19,8 @@ Au nom du Bureau de l'association, nous vous prions de bien vouloir assister à 
 
 **Jeudi 29 juin à 19h**  
 
-47 rue Armand Rébillon, 35000 Rennes  
-Tél : 02 99 51 33 32  
+47 rue Armand Rébillon, 35000 Rennes\
+Tél : 02 99 51 33 32\
 Mail : [contact@maiporennes.fr](mailto:contact@maiporennes.fr?subject=Assembl%C3%A9e%20G%C3%A9n%C3%A9rale)
 
 **L'ordre du jour sera le suivant :**
@@ -32,4 +32,4 @@ Mail : [contact@maiporennes.fr](mailto:contact@maiporennes.fr?subject=Assembl%C3
 * Élection de nouveaux membres du CA
 * Pot de fin
 
-**Pour rappel :** seul.es les adhérent.es à jour de cotisation pour l'année 2023 pourront participer à l'AG. L'adhésion est possible sur place juste avant la tenue de l'AG. Vous pouvez télécharger le bulletin d'adhésion en cliquant sur ce lien (PDF, xxko).
+**Pour rappel :** seul.es les adhérent.es à jour de cotisation pour l'année 2023 pourront participer à l'AG. L'adhésion est possible sur place juste avant la tenue de l'AG. Vous pouvez télécharger le bulletin d'adhésion 2023 [en cliquant sur ce lien](//imgs/bulletin-d-adh-sion-2023.pdf) (PDF, 118ko).
