@@ -31,7 +31,7 @@ Plein : entre 68 et 86 €, selon quotient familial.\
 Pas de remboursement.
 
 **Pour s’inscrire**\
-Retourner, par courrier ou en main propre, le **[bulletin d’inscription](/imgs/inscription-ateliers-juliette-thomas.pdf)** (PDF) rempli, ainsi que le **chèque** avec le montant correspondant à votre quotient familial.
+Retourner, par courrier ou en main propre, le **[bulletin d’inscription](/imgs/inscription-ateliers-juliette-thomas.pdf)** (PDF, 202ko) rempli, ainsi que le **chèque** avec le montant correspondant à votre quotient familial.
 
 **Comment connaître mon quotient familial ?**\
 Le quotient familial est calculé en fonction du foyer et des ressources. Pour le connaître, il faut se connecter à votre espace CAF, puis sur l'espace "Mon Compte". Le quotient familial est visible sur la page d'accueil, à la rubrique "Mes paiements et mes droits". Vous pouvez télécharger une attestation, que vous joindrez à votre paiement.
