@@ -56,7 +56,7 @@ François Trémolières ([Université Rennes 2](http://www.univ-rennes2.fr/)) &m
 
 ## Adhésion
 
-[Télécharger le bulletin d'adhésion 2022](/imgs/bulletin-d-adh-sion-2022.pdf) (PDF, 21Ko)
+[Télécharger le bulletin d'adhésion 202](/imgs/bulletin-d-adh-sion-2023.pdf)3 (PDF, 118Ko)
 
 L’adhésion est valable une année civile (de janvier à décembre) :
 
@@ -92,7 +92,7 @@ Les espaces de la villa Beauséjour peuvent être mis à disposition en fonction
 
 Si vous êtes une structure artistique et que vous cherchez à héberger un.e artiste, nous disposons d'un appartement d'environ 40m² avec une salle de bain et une kitchenette. Il peut être mis à disposition en fonction de sa disponibilité, sur des durées allant d'une nuit à une semaine.
 
-Tous les tarifs sont calculés sur mesure, en fonction de la durée de la mise à disposition et des espaces utilisés. Pour les connaître, il suffit de nous écrire : contact@maisondelapoesie-rennes.org
+Tous les tarifs sont calculés sur mesure, en fonction de la durée de la mise à disposition et des espaces utilisés. Pour les connaître, il suffit de nous écrire : contact@maiporennes.fr
 
 - - -
 
