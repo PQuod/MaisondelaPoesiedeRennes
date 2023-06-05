@@ -74,7 +74,7 @@ Merci de nous retourner le bulletin d'adhésion et le paiement (chèque ou espè
 
 Elle permet de prendre part au fonctionnement et à la réalisation du projet associatif.
 
-Les adhérents assistent à l’Assemblée Générale qui a lieu une fois par an, en juin, et ils votent pour élire leurs représentants au Conseil d’Administration. Le Bureau se réunit tous les mois, et le Conseil d'Administration une fois par trimestre.
+Les adhérent.es assistent à l’Assemblée Générale qui a lieu une fois par an, en juin, et iels votent pour élire leurs représentants au Conseil d’Administration. Le Bureau se réunit tous les mois, et le Conseil d'Administration une fois par trimestre.
 
 En plus, l'adhésion soutient les activités de notre association et permet l'emprunt des ouvrages de notre bibliothèque.
 
