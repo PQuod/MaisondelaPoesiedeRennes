@@ -6,7 +6,7 @@ cat: ca
 ---
 **Date :** 1er juin 2023 à 18h  
 **Présent.es :** Charlotte, Monique, Candice, Quentin, Anne-Marie, Marie   
-**Excusé.es :** Anaël, Stéphanie, Lauriane, la balade des livres, François 
+**Excusé.es :** Anaël, Stéphanie, Lauriane, La Balade des Livres, François 
 
 ## Ordre du jour 
 1. AG
