@@ -6,7 +6,7 @@ cat: ca
 ---
 **Date :** 1er juin 2023 à 18h  
 **Présent.es :** Charlotte, Monique, Candice, Quentin, Anne-Marie, Marie   
-**Excusé.es :** Anaël, Stéphanie, Lauriane, Pauline, La Balade des Livres, François 
+**Excusé.es :** Anaël, Stéphanie, Lauriane, Pauline, La Balade des Livres, François   
 **Durée :** 1 heure 30
 
 ## Ordre du jour 
