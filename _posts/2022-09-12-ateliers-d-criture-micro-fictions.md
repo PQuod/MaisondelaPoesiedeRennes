@@ -1,27 +1,31 @@
 ---
-draft: true
+draft: false
 layout: post
 type: event
 title: "Ateliers d'écriture : Micro-fictions"
-date: 2022-09-12T09:00:50.721Z
+date: 2023-06-07T07:52:13.831Z
 artiste:
   - Lucie Desaubliaux
 categories: rencontre
-date_debut: 2022-10-18T08:52:47.082Z
-date_fin: 2023-02-28T09:52:47.192Z
-dates_publiees: A partir du 18 octobre · 18h → 20h
+date_debut: 2023-10-09T08:52:47.082Z
+date_fin: 2024-02-11T09:52:47.192Z
+dates_publiees: A partir du 9 octobre · 18h → 20h
 lieu: Maison de la Poésie de Rennes
 tarif: Payant, inscription obligatoire
 ---
-Durant 5 ateliers, il s'agira de construire cinq objets littéraires indépendants et qui pourtant, se déploient ensemble, liés par le même univers.
+Durant 5 ateliers, il s'agira de construire cinq objets littéraires indépendants et qui pourtant, se déploient ensemble, liés par le même univers. 
 
-Nous essayerons de toujours connaître un début et d'arriver à une fin, en explorant les multiples possibles de ce qui peut se tramer au milieu, afin de façonner les premières planètes d'une galaxie qui restera ensuite ouverte à tous les autres textes possibles, et qui pourra servir de cocon à toutes les autres fictions à venir.
+Nous essayerons de toujours connaître un début et d'arriver à une fin, en explorant les multiples possibles de ce qui peut se tramer au milieu. 
 
-Ces ateliers sont ouverts à tous.tes et souhaitent amener à la création d'un terrain de jeu qui pourra ensuite s'explorer seul.e, comme une chambre à soi dans laquelle on pourra puiser les ressources nécessaires à l'écriture.
+Ces cinq éléments seront les cinq premières planètes d'une galaxie qui restera ensuite ouverte à tous les autres textes possibles, et qui pourra servir de cocon à toutes les autres fictions à venir. 
+
+Ce terrain de jeu pourra ensuite s'explorer seul.e, comme une chambre à soi dans laquelle on pourra puiser les ressources nécessaires à l'écriture.
+
+Ces ateliers sont ouverts à tous.tes. 
 
 **Dates**\
 Un mardi par mois, de 18h à 20h.\
-Les dates retenues : 18 octobre, 15 novembre, 6 décembre, 17 janvier et 28 février.
+Les dates retenues : 9 octobre, 13 novembre, 11 décembre, 15 janvier et 12 février.
 
 **Tarifs pour les 5 ateliers**\
 Plein : entre 68 et 86 €, selon quotient familial.\
@@ -29,4 +33,9 @@ Plein : entre 68 et 86 €, selon quotient familial.\
 Pas de remboursement.
 
 **Pour s’inscrire**\
-Retourner, par courrier ou en main propre, le **[bulletin d’inscription](/imgs/inscription-ateliers-d-criture-micro-fictions.pdf)** (PDF) rempli, ainsi que le **chèque** avec le montant correspondant à votre quotient familial.
+Retourner, par courrier ou en main propre, le **[bulletin d’inscription](/imgs/inscription-ateliers-lucie-desaubliaux.pdf)** (PDF, 202ko) rempli, ainsi que le **chèque** avec le montant correspondant à votre quotient familial.
+
+**Comment connaître mon quotient familial ?**\
+Le quotient familial est calculé en fonction du foyer et des ressources. Pour le connaître, il faut se connecter à votre espace CAF, puis sur l’espace “Mon Compte”. Le quotient familial est visible sur la page d’accueil, à la rubrique “Mes paiements et mes droits”. Vous pouvez télécharger une attestation, que vous joindrez à votre paiement.
+
+Si vous ne connaissez pas ou ne pouvez pas accéder à votre quotient familial, c’est le tarif maximum (86 € plein ou 74 € étudiant) qui s’applique.
