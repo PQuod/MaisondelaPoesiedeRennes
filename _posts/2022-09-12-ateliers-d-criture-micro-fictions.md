@@ -9,7 +9,7 @@ artiste:
 categories: rencontre
 date_debut: 2023-10-09T08:52:47.082Z
 date_fin: 2024-02-11T09:52:47.192Z
-dates_publiees: A partir du 9 octobre · 18h → 20h
+dates_publiees: A partir du 9 octobre 2023 · 18h → 20h
 lieu: Maison de la Poésie de Rennes
 tarif: Payant, inscription obligatoire
 ---
