@@ -29,6 +29,20 @@ Vous trouverez ci-dessous tous les livres conseillés aux clubs précédents par
 
 ## 2023
 
+**Club du 9 juin 2023**
+
+* *Ida*, Hélène Bessette, éditions Points
+* *Toni tout court*, Shane Haddad, éditions Folio
+* *Eloge des arborinidés*, Julien Nouveau, éditions Intervalles
+* *Lettres révolutionnaires*, Diane di Prima (trad. B. Carde, A. Hummel, E. Poivet), éditions Zoème
+* *Des étoiles filantes*, Mélanie Leblanc, éditions Les Venterniers
+* *Voix Off : Imprimerie de femmes*, Cahiers des typotes, éditions Cnap
+* *We Are Not Where We Need To Be But, We Ain't Where We Were*, Collectif Wages For Wages Against, éditions L'Amazone & Privilege
+* *Aujourd'hui, on dit travailleur.ses de l'art*, Julia Burtin Zortea, éditions 369
+* *La résistance des bijoux*, Ariella Aïsha Azoulay (trad. J.-B. Naudy), éditions Rot-Bo-Krik
+* *Anjela Duval*, Roger Laouenan, édition Bretons témoins de leur temps
+* *Les Dépossédés*, Ursula K. Le Guin (trad. S. Guillot), éditions Robert Laffont
+
 **Club du 12 mai 2023**
 
 * *:Kappa:*, Adrien Lafille et Anaël Castelein, éditions Rrose
