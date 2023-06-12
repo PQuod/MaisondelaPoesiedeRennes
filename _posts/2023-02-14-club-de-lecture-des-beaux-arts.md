@@ -5,9 +5,9 @@ type: event
 title: Club de lecture des Beaux-Arts
 date: 2023-02-14T09:41:17.835Z
 categories: scolaires
-date_debut: 2023-06-09T08:41:18.094Z
-date_fin: 2023-06-09T08:41:18.182Z
-dates_publiees: 9 juin 2023 · 12h → 14h
+date_debut: 2023-10-13T08:41:18.094Z
+date_fin: 2023-10-13T08:41:18.182Z
+dates_publiees: 13 octobre 2023 · 12h → 14h
 lieu: Bibliothèque de l'EESAB, 34 rue Hoche
 tarif: Entrée libre et gratuite, réservée aux étudiant.es en art, design et
   communication de l'EESAB
