@@ -2,10 +2,8 @@
 layout: post
 name: Cécile Cayrel
 ---
-**Cécile Cayrel** est une autrice rennaise, associée au collectif [Les Ateliers du Vent](https://www.lesateliersduvent.org/).
+**Cécile Cayrel** est une autrice rennaise née en 1990. Elle est artiste associée au [Collectif Les Ateliers du Vent](https://www.lesateliersduvent.org/lieu-collectif/le-collectif-ateliers-du-vent/) à Rennes, où elle dispose d'un atelier.
 
-Elle s’intéresse à la poésie (récemment publiée dans la revue *Squeeze*), ou au théâtre : sa pièce *Tu peux me dire vous* est jouée au Festival Lynceus (2022). Elle est en cours d'écriture de son second roman et travaille actuellement à une nouvelle création, en lien avec le théâtre rennais La Paillette (2022-23).
+En 2020, elle publie son premier roman, *La couleur de l’air a changé*, aux Editions Stock. Elle écrit depuis pour le théâtre *Y aura-t-il des dauphins dans la Vilaine* (2021, mise en scène Groupe Odyssées) ; *Tu peux me dire vous* (2022, mise en scène collectif Lynceus), et *Les filles penchées* (texte issu d’une résidence au théâtre de la Paillette, publication 2024 aux Editions Goater). En 2024 paraîtra son deuxième roman, aux Editions Phébus.
 
-En parallèle, elle apprécie donner des ateliers d’écriture à divers publics, primaires, collégien.nes, lycéen.nes et adultes.
-
-Son premier roman : *La couleur de l’air a changé* (Stock, 2020).
+[Son site internet](https://www.cecilecayrel.com/)
