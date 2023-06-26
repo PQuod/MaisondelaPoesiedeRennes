@@ -4,14 +4,14 @@
 <div class="encart">
   <h2 class="color_autres">Brèves</h2>
   {% for post in sortedbreve %}
-  {% include scripts/dates.html %}
-  {% if debutdate >= nowdate %}
-  <div class="breve">
-    <h4>{{ post.title }}</h4>
-    <div class="event_dates">{{ post.dates_publiees }}</div>
-    <div class="event_dates">{{ post.content }}</div>
-  </div>
-  {% endif %}
+    {% include scripts/dates.html %}
+    {% if debutdate >= nowdate %}
+      <div class="breve">
+        <h4>{{ post.title }}</h4>
+        <div class="event_dates">{{ post.dates_publiees }}</div>
+        <div class="event_dates">{{ post.content }}</div>
+      </div>
+    {% endif %}
   {% endfor %}
 </div>
 {% endif %}
@@ -22,7 +22,7 @@
   {% for post in sorted2 %}
     {% if post.draft != true %}
       {% if post.categories contains "residence" or post.categories contains "residence_scolaire" %}
-      {% include scripts/dates.html %}
+        {% include scripts/dates.html %}
         {% if debutdate <= nowdate and findate>= nowdate %}
           <div class="encart_res">
               <h3 class="encart_titre prems">En cours</h3>
@@ -36,18 +36,18 @@
     {% endif %}
   {% endfor %}
   {% for post in sorted2 %}
-  {% if post.draft != true %}
-  {% if post.categories contains "residence" or post.categories contains "residence_scolaire" %}
-  {% include scripts/dates.html %}
-  {% if debutdate > nowdate %}
-  <h3 class="encart_titre prems">À venir</h3>
-  <a href="{{ post.url }}" title="Résidence à venir de {{post.artiste}}">
-    <h4>{{ post.artiste | join: ", " }}</h4>
-  </a>
-  <div class="event_dates">{{ post.title }}<br>{{ post.dates_publiees }}</div>
-  {% endif %}
-  {% endif %}
-  {% endif %}
+    {% if post.draft != true %}
+      {% if post.categories contains "residence" or post.categories contains "residence_scolaire" %}
+        {% include scripts/dates.html %}
+        {% if debutdate > nowdate %}
+          <h3 class="encart_titre prems">À venir</h3>
+          <a href="{{ post.url }}" title="Résidence à venir de {{post.artiste}}">
+            <h4>{{ post.artiste | join: ", " }}</h4>
+          </a>
+          <div class="event_dates">{{ post.title }}<br>{{ post.dates_publiees }}</div>
+        {% endif %}
+      {% endif %}
+    {% endif %}
   {% endfor %}
   <a href="/category/residence" class="liencat">Toutes les résidences</a>
 </div>
