@@ -34,7 +34,7 @@ Ecrivez à Lucie Desaubliaux, notre médiatrice scolaire : lucie.desaubliaux@mai
 
 ### Constance Hinfray
 
-*Du 9 au 16 janvier 2023*
+*Du 9 au 16 janvier 2023* 
 
 **Constance Hinfray** est en résidence durant une dizaine de jours à l'école de l'Être de Saint-Georges-de-Reintembault. Elle travaille avec les CE2-CM1 autour de la biodiversité présente sur la commune. Une restitution sous la forme d'un théâtre d'ombres a lieu à l'issue de la résidence.
 
