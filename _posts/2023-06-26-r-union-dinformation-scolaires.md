@@ -3,7 +3,7 @@ draft: false
 layout: post
 type: breve
 title: Réunion d'information - scolaires
-date: 2023-06-26T10:21:57.373Z
+date: 2023-09-06T10:21:57.373Z
 categories: scolaires
 date_debut: 2023-06-26T10:21:57.456Z
 date_fin: 2023-09-06T10:21:57.502Z
