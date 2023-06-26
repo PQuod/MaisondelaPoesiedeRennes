@@ -54,16 +54,16 @@
 <div class="encart">
   <!-- Sélection des posts d'appel à candidature-->
   {% for post in site.categories.appel %}
-  {% include scripts/dates.html %}
-  {% if post.draft != true %}
-  {% if debutdate <= nowdate and findate>= nowdate %}
-    <h2 class="color_res">Appel à candidature</h2>
-    <a href="{{ post.url }}" title="Appel à candidature">
-      <h4>{{ post.title }}</h4>
-    </a>
-    <div class="event_dates">{{ post.dates_publiees }}</div>
-    {% endif %}
-    {% endif %}
+    {% include scripts/dates.html %}
+    {% if post.draft != true %}
+      {% if debutdate <= nowdate and findate>= nowdate %}
+        <h2 class="color_res">Appel à candidature</h2>
+        <a href="{{ post.url }}" title="Appel à candidature">
+          <h4>{{ post.title }}</h4>
+        </a>
+        <div class="event_dates">{{ post.dates_publiees }}</div>
+        {% endif %}
+      {% endif %}
     {% endfor %}
 </div>
 
