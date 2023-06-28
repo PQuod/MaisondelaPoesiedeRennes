@@ -1,4 +1,5 @@
 ---
+layout: rubrique
 title: Association
 permalink: /association/
 ---
