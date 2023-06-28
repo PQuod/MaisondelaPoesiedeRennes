@@ -1,8 +1,8 @@
 ---
 layout: rubrique
-title: Maison
-ref: maison
-permalink: /maison/
+title: Association
+ref: association
+permalink: /association/
 ---
 ## Le projet
 
