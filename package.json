@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "netlify-cli": "^8.14.1"
+  },
+  "dependencies": {
+    "netlify-plugin-password-protection": "^3.0.2"
   }
 }

@@ -1,0 +1,11 @@
+[[redirects]]
+  from = "/espace-admin/*"
+  status = 200
+  force = true
+  conditions = {Role = ["admin"]}
+
+[[redirects]]
+  from = "/espace-admin/*"
+  to = "/login/"
+  status = 302
+  force = true
