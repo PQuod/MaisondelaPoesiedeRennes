@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 layout: post
 name: Assemblée Générale
 type: event
