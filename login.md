@@ -1,5 +1,5 @@
 ---
 permalink: /login/
-title: "Espace administration"
+title: "Se connecter"
 layout: rubrique
 ---
