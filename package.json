@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "netlify-cli": "^8.14.1"
+  },
+  "dependencies": {
+    "staticrypt": "^3.3.1"
   }
 }
