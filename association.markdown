@@ -33,7 +33,7 @@ Jardinier : Sébastien Toron
 Co-Présidentes : Anne-Marie Klapka et Charlotte Beltzung\
 Trésorier : Anaël Castelein\
 Co-Secrétaires : Candice Labrousse et Marie Audran\
-Monique Ormevil &middot; Pauline Guémas &middot; Stéphanie Vivier
+Monique Ormevil &middot; Valentin Godard-Paillat &middot; Rafaëlle Gandini Miletto &middot; Stéphanie Vivier
 
 ### Membres Fondateurs
 
