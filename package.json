@@ -3,6 +3,28 @@
     "netlify-cli": "^8.14.1"
   },
   "dependencies": {
+    "axios": "^1.4.0",
     "netlify-plugin-password-protection": "^3.0.2"
-  }
+  },
+  "name": "maisondelapoesiederennes",
+  "description": "Beta version of a site for Maison de la Poésie de Rennes, a poetry association based in Rennes, France.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PQuod/MaisondelaPoesiedeRennes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PQuod/MaisondelaPoesiedeRennes/issues"
+  },
+  "homepage": "https://github.com/PQuod/MaisondelaPoesiedeRennes#readme"
 }

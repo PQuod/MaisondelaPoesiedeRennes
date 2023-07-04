@@ -9,3 +9,6 @@
   to = "/login/"
   status = 302
   force = true
+
+[functions]
+  directory = "functions"
