@@ -2,10 +2,22 @@
   from = "/_espace-admin/*"
   status = 200
   force = true
-  conditions = {Role = ["admin"]}
+  conditions = {Role = ["caca"]}
 
 [[redirects]]
   from = "/_espace-admin/*"
+  to = "/login/"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "/_espace-admin-pages/*"
+  status = 200
+  force = true
+  conditions = {Role = ["caca"]}
+
+[[redirects]]
+  from = "/_espace-admin-pages/*"
   to = "/login/"
   status = 302
   force = true
