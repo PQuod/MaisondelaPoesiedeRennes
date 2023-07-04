@@ -1,11 +1,11 @@
 <!-- Post type breve -->
 {% assign sortedbreve = site.posts | where: "type", "breve" | sort: "date_debut" %}
 {% if sortedbreve.size != 0 %}
+{% for post in sortedbreve %}
+{% include scripts/dates.html %}
+{% if debutdate <= nowdate && findate >= nowdate %}
 <div class="encart">
   <h2 class="color_autres">Brèves</h2>
-  {% for post in sortedbreve %}
-    {% include scripts/dates.html %}
-    {% if debutdate >= nowdate %}
       <div class="breve">
         <h4>{{ post.title }}</h4>
         <div class="event_dates">{{ post.dates_publiees }}</div>
