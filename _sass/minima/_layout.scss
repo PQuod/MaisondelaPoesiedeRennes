@@ -103,7 +103,7 @@ label {
   margin-bottom: calc(var(--line-height) / 2);
 }
 
-.button {
+.button, button {
   border: 1px solid black;
   background: none;
   padding: 5px;
