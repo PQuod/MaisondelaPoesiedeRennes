@@ -2,13 +2,25 @@
   from = "/espace-admin/*"
   status = 200
   force = true
-  conditions = {Role = ["admin"]}
+  conditions = {Role = ["caca"]}
 
-  [[redirects]]
+[[redirects]]
   from = "/espace-admin-pages/*"
   status = 200
   force = true
-  conditions = {Role = ["admin"]}
+  conditions = {Role = ["caca"]}
+
+[[redirects]]
+  from = "/espace-admin-cr/*"
+  status = 200
+  force = true
+  conditions = {Role = ["caca"]}
+
+[[redirects]]
+  from = "/espace-admin-docs/*"
+  status = 200
+  force = true
+  conditions = {Role = ["caca"]}
 
 [[redirects]]
   from = "/espace-admin/*"
@@ -16,8 +28,20 @@
   status = 302
   force = true
 
-  [[redirects]]
+[[redirects]]
   from = "/espace-admin-pages/*"
+  to = "/login/"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "/espace-admin-cr/*"
+  to = "/login/"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "/espace-admin-docs/*"
   to = "/login/"
   status = 302
   force = true
