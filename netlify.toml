@@ -2,13 +2,13 @@
   from = "/espace-admin/*"
   status = 200
   force = true
-  conditions = {Role = ["caca"]}
+  conditions = {Role = ["admin"]}
 
   [[redirects]]
   from = "/espace-admin-pages/*"
   status = 200
   force = true
-  conditions = {Role = ["caca"]}
+  conditions = {Role = ["admin"]}
 
 [[redirects]]
   from = "/espace-admin/*"
