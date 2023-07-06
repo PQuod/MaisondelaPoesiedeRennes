@@ -32,3 +32,6 @@ Est donc voté, à l'unanimité des présent·es (9 pour, 2 absent.es), le Burea
 ## Prochain CA
 
 Une date de réunion du CA est fixée au 14 septembre 2023 à 18h à la Maison de la Poésie de Rennes.
+
+**Prise de notes :** Anaël  
+**Relecture :** Quentin
