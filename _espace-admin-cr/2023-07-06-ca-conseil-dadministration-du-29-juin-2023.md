@@ -17,7 +17,7 @@ cat: ca
 
 ## Accueil des nouveaux membres du CA
 
-Présentation de chacune et chacun et présentation des commissions (programmation, lieu de vie, communication) et du fonctionnement global de l'association.
+Présentation de chacune et chacun et présentation des commissions (Programmation, Vie du lieu, Communication) et du fonctionnement global de l'association.
 
 ## Élection des membres du Bureau
 
