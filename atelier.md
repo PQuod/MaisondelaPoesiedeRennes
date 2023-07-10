@@ -43,6 +43,12 @@ Théo Robine-Langlois a réalisé une capsule audio avec les élèves du collèg
 
 ![Affiche -Théo Robine Langlois](/imgs/web_p1010841.jpg)
 
+## Quelques habitants du jardin de la Maipo (2023)
+
+*Quelques habitants du jardin de la Maipo* est un livre d'artiste réalisé par **Mathilde Salic**, lors d'un stage de deux mois à la Maison de la Poésie. C'est une flore spontanée à tendance rudérale et peut-être pionnière. Il est composé de petites plantes identifiées, scannées et rassemblées dans le jardin de la villa Beauséjour.
+
+Le livre a été conçu, imprimé sur papier couleur et assemblé (cousu) à la Maison de la Poésie. Il a été imprimé à 2 exemplaires, un pour l'artiste et un pour la bibliothèque.
+
 ## Nous sommes jeunes alors... (2023)
 
 *Nous sommes jeunes alors...* est une collection de traces vues, lues, dites, entendues lors des rencontres scolaires du printemps 2023 avec les poètes **Claude Favre** et **Christophe Manon**, lors du Prix des Découvreurs. 
