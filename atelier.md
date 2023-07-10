@@ -43,31 +43,17 @@ Théo Robine-Langlois a réalisé une capsule audio avec les élèves du collèg
 
 ![Affiche -Théo Robine Langlois](/imgs/web_p1010841.jpg)
 
-## Quelques habitants du jardin de la Maipo (2023)
+## Quelques habitantes du jardin de la Maipo (2023)
 
-*Quelques habitants du jardin de la Maipo* est un livre d'artiste réalisé par **Mathilde Salic**, lors d'un stage de deux mois à la Maison de la Poésie. C'est une flore spontanée à tendance rudérale et peut-être pionnière. Il est composé de petites plantes identifiées, scannées et rassemblées dans le jardin de la villa Beauséjour.
+*Quelques habitantes du jardin de la Maipo* est un livre d'artiste réalisé par **Mathilde Salic**, lors d'un stage de deux mois à la Maison de la Poésie. C'est une flore spontanée à tendance rudérale et peut-être pionnière. Il est composé de petites plantes identifiées, scannées et rassemblées dans le jardin de la villa Beauséjour.
 
 Le livre a été conçu, imprimé sur papier couleur et assemblé (cousu) à la Maison de la Poésie. Il a été imprimé à 2 exemplaires, un pour l'artiste et un pour la bibliothèque.
-
-## Nous sommes jeunes alors... (2023)
-
-*Nous sommes jeunes alors...* est une collection de traces vues, lues, dites, entendues lors des rencontres scolaires du printemps 2023 avec les poètes **Claude Favre** et **Christophe Manon**, lors du Prix des Découvreurs. 
-
-Les textes ont été écrits par les élèves des collèges et lycées Jean Guéhenno (Fougères), Jean Brito (Bain-de-Bretagne), Théodore Monot (Vern-sur-Seiche), Simone Veil (Crevin), Les Ormeaux (Rennes), Bourgchevreuil (Cesson-Sévigné) et Benjamin Franklin (Auray).
-
-L'édition a été conçue, maquettée et assemblée (agrafée ou cousue) par Lucie à la Maison de la Poésie. Elle a été imprimée à 15 exemplaires, et distribuée aux établissements partenaires.
 
 ## Le champ du peu (2023)
 
 *Le champ du peu* est un recueil de textes écrits par les participant.es aux ateliers d'écriture de **Cécile Cayrel** lors de son cycle du même nom, qui a eu lieu entre octobre 2022 et février 2023.
 
 Le recueil a été conçu à l'école de Condé par plusieurs étudiant.es, imprimé et assemblé à la Maison de la Poésie par Cécile, à 18 exemplaires.
-
-## 34 °C_1,75 m2_3,9 kg (2021)
-
-*34 °C_1,75 m2_3,9 kg* est un livre d'artiste édité par les éditions **Les Pinatas**, et réalisé par les artistes-auteurices François Belsoeur, Nastassa Imiolek, Marie Pons et Madeline Wood.
-
-Il a été imprimé à Copie des Lices à 100 exemplaires, et rassemblé dans une enveloppe cousue à la Maison de la Poésie.
 
 ## Dispersantx (2021)
 
@@ -133,6 +119,14 @@ Chaque numéro a été imprimé en un seul exemplaire dans l'atelier de la Maiso
 
 ## Éditions scolaires
 
+## Nous sommes jeunes alors... (2023)
+
+*Nous sommes jeunes alors...* est une collection de traces vues, lues, dites, entendues lors des rencontres scolaires du printemps 2023 avec les poètes **Claude Favre** et **Christophe Manon**, lors du Prix des Découvreurs. 
+
+Les textes ont été écrits par les élèves des collèges et lycées Jean Guéhenno (Fougères), Jean Brito (Bain-de-Bretagne), Théodore Monot (Vern-sur-Seiche), Simone Veil (Crevin), Les Ormeaux (Rennes), Bourgchevreuil (Cesson-Sévigné) et Benjamin Franklin (Auray).
+
+L'édition a été conçue, maquettée et assemblée (agrafée ou cousue) par Lucie à la Maison de la Poésie. Elle a été imprimée à 15 exemplaires, et distribuée aux établissements partenaires.
+
 En 2020, à cause du covid, les rencontres prévues avec **Pierre Vinclair** et **Flora Bonfanti** [lors du Prix des Découvreurs](https://maiporennes.fr/scolaires/2022/09/12/prix-des-d-couvreurs-1.html) n'ont malheureusement pas pu avoir lieu. 
 
 Une édition a donc été réalisée, regroupant les textes des élèves qui ont écrit à la manière des deux artistes ainsi que des entretiens réalisés à distance à partir des questionnements des élèves autour du travail des poètes.
@@ -142,6 +136,12 @@ Cette édition comporte 4 livrets de tailles diverses reliées à l'aide de 4 ri
 ![Editions Découvreurs](/imgs/web_p1010798.jpg)
 
 ## Projets accueillis
+
+## 34 °C_1,75 m2_3,9 kg (2021)
+
+*34 °C_1,75 m2_3,9 kg* est un livre d'artiste édité par les éditions **Les Piñatas**, et réalisé par les artistes-auteurices François Belsoeur, Nastassa Imiolek, Marie Pons et Madeline Wood.
+
+Il a été imprimé à Copie des Lices à 100 exemplaires, et rassemblé dans une enveloppe cousue à la Maison de la Poésie.
 
 ### Catalogue La Guerrière (2022)
 
