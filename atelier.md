@@ -49,11 +49,21 @@ Théo Robine-Langlois a réalisé une capsule audio avec les élèves du collèg
 
 Le livre a été conçu, imprimé sur papier couleur et assemblé (cousu) à la Maison de la Poésie. Il a été imprimé à 2 exemplaires, un pour l'artiste et un pour la bibliothèque.
 
+## Sans titre (2023)
+
+BLABLBLL le livre de sabrina.
+
 ## Le champ du peu (2023)
 
 *Le champ du peu* est un recueil de textes écrits par les participant.es aux ateliers d'écriture de **Cécile Cayrel** lors de son cycle du même nom, qui a eu lieu entre octobre 2022 et février 2023.
 
 Le recueil a été conçu à l'école de Condé par plusieurs étudiant.es, imprimé et assemblé à la Maison de la Poésie par Cécile, à 18 exemplaires.
+
+## Les sentiers qui bifurquent (2021-2022)
+
+À l'issue des 10 ateliers menés à la Maison de la Poésie par **Lucie Desaubliaux** durant l'année 2021-2022, les textes des participant.es ont été regroupés dans une édition aux multiples formats, imprimée à 15 exemplaires à la Maison de la Poésie.
+
+![Les sentiers qui bifurquent](/imgs/web_p1010809.jpg)
 
 ## Dispersantx (2021)
 
@@ -137,6 +147,10 @@ Cette édition comporte 4 livrets de tailles diverses reliées à l'aide de 4 ri
 
 ## Projets accueillis
 
+### Diane Rabreau (2023)
+
+EFVERJVER les livres et CD de Diane.
+
 ### 34 °C_1,75 m2_3,9 kg (2021)
 
 *34 °C_1,75 m2_3,9 kg* est un livre d'artiste édité par les éditions **Les Piñatas**, et réalisé par les artistes-auteurices François Belsoeur, Nastassa Imiolek, Marie Pons et Madeline Wood.
@@ -170,12 +184,6 @@ La revue est une feuille A3 pliée pour chaque numéro avec un pliage original, 
 Chaque numéro a été imprimé à une centaine d'exemplaires à la Maison de la Poésie.
 
 ![Poésie Maxi](/imgs/web_p1010840.jpg)
-
-### Les sentiers qui bifurquent (2021-2022)
-
-À l'issue des 10 ateliers menés à la Maison de la Poésie par **Lucie Desaubliaux** durant l'année 2021-2022, les textes des participant.es ont été regroupés dans une édition aux multiples formats, imprimée à 15 exemplaires à la Maison de la Poésie.
-
-![Les sentiers qui bifurquent](/imgs/web_p1010809.jpg)
 
 ### L'autre Monstre (2021)
 
