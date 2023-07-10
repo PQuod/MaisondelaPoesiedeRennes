@@ -119,7 +119,7 @@ Chaque numéro a été imprimé en un seul exemplaire dans l'atelier de la Maiso
 
 ## Éditions scolaires
 
-## Nous sommes jeunes alors... (2023)
+### Nous sommes jeunes alors... (2023)
 
 *Nous sommes jeunes alors...* est une collection de traces vues, lues, dites, entendues lors des rencontres scolaires du printemps 2023 avec les poètes **Claude Favre** et **Christophe Manon**, lors du Prix des Découvreurs. 
 
@@ -137,7 +137,7 @@ Cette édition comporte 4 livrets de tailles diverses reliées à l'aide de 4 ri
 
 ## Projets accueillis
 
-## 34 °C_1,75 m2_3,9 kg (2021)
+### 34 °C_1,75 m2_3,9 kg (2021)
 
 *34 °C_1,75 m2_3,9 kg* est un livre d'artiste édité par les éditions **Les Piñatas**, et réalisé par les artistes-auteurices François Belsoeur, Nastassa Imiolek, Marie Pons et Madeline Wood.
 
