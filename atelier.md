@@ -55,7 +55,19 @@ Le livre a été conçu, imprimé sur papier couleur et assemblé (cousu) à la 
 
 Les textes ont été écrits par les élèves des collèges et lycées Jean Guéhenno (Fougères), Jean Brito (Bain-de-Bretagne), Théodore Monot (Vern-sur-Seiche), Simone Veil (Crevin), Les Ormeaux (Rennes), Bourgchevreuil (Cesson-Sévigné) et Benjamin Franklin (Auray).
 
-L'édition a été conçue, maquettée et assemblée (agrafée ou cousue) par Lucie à la Maison de la Poésie. Elle a été imprimée à 15 exemplaires, et distribuée gratuitement.
+L'édition a été conçue, maquettée et assemblée (agrafée ou cousue) par Lucie à la Maison de la Poésie. Elle a été imprimée à 15 exemplaires, et distribuée aux établissements partenaires.
+
+## Le champ du peu (2023)
+
+*Le champ du peu* est un recueil de textes écrits par les participant.es aux ateliers d'écriture de **Cécile Cayrel** lors de son cycle du même nom, qui a eu lieu entre octobre 2022 et février 2023.
+
+Le recueil a été conçu à l'école de Condé par plusieurs étudiant.es, imprimé et assemblé à la Maison de la Poésie par Cécile, à 18 exemplaires.
+
+## 34 °C_1,75 m2_3,9 kg (2021)
+
+*34 °C_1,75 m2_3,9 kg* est un livre d'artiste édité par les éditions **Les Pinatas**, et réalisé par les artistes-auteurices François Belsoeur, Nastassa Imiolek, Marie Pons et Madeline Wood.
+
+Il a été imprimé à Copie des Lices à 100 exemplaires, et rassemblé dans une enveloppe cousue à la Maison de la Poésie.
 
 ## Dispersantx (2021)
 
