@@ -49,7 +49,7 @@ Théo Robine-Langlois a réalisé une capsule audio avec les élèves du collèg
 
 Le livre a été conçu, imprimé sur papier couleur et assemblé (cousu) à la Maison de la Poésie. Il a été imprimé à 2 exemplaires, un pour l'artiste et un pour la bibliothèque.
 
-## Sans titre (2023)
+## Je sais, iel sait, on sait (2023)
 
 BLABLBLL le livre de sabrina.
 
