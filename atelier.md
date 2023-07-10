@@ -15,6 +15,16 @@ Pour le matériel, l'atelier dispose d'une imprimante laser monochrome RICOH MP 
 
 Les objets sont volontairement conçus et produits selon une logique d'objets *pauvres*, et distribués gratuitement au public lors du temps de restitution de l'événement.
 
+[En 2023](https://maiporennes.fr/residence/2022/11/15/carr-ment-2.html), les artistes-auteurices invité.es sont **Rémi Forte, Lucile Olympe Haute, Martin Desinde** et **Anne-Sarah Huet**.
+
+Rémi Forte a réalisé une série de 10 poèmes génératifs avec une machine AxiDraw. Ils sont rassemblés dans un objet intitulé *1000 x a-z*. Les 50 exemplaires qui reproduisent ces originaux ont été imprimés et reliés en risographie par [Système Sensible](http://www.systemesensible.fr/). 
+
+Lucile Olympe Haute a réalisé un livre intitulé *<talismans pour celles qui ne savent pas de quoi ils parlent*, composé en HTML et CSS. Les 30 exemplaires de l'édition ont été imprimés et façonnés à Paris.
+
+Martin Desinde a réalisé un objet intitulé *Naxos*, chapitre d'un roman en cours d'écriture intitulé *Kassos*. Les 70 exemplaires de l'édition ont été imprimés et façonnés à Fontenay-sous-Bois.
+
+Anne-Sarah Huet a réalisé un objet intitulé *Spiral Studies*, accompagné de stickers et d'une barrette. Les 50 exemplaires de l'édition ont été réalisées sur LaTeX, imprimées chez Copie des Lices et façonnées à la Maison de la Poésie. 
+
 [En 2021](https://maiporennes.fr/rencontre/2022/10/04/carr-ment.html), les artistes-auteurices invité.es sont **Maxime Actis, Laurence Cathala, Josèfa Ntjam** et **Théo Robine-Langlois**.
 
 Maxime Actis a réalisé une série de microéditions intitulées *Brutusses et brutus*, qui rassemblent poèmes inédits et collages d'images. Tous les exemplaires ont été imprimés à la Maison de la Poésie.
@@ -33,7 +43,13 @@ Théo Robine-Langlois a réalisé une capsule audio avec les élèves du collèg
 
 ![Affiche -Théo Robine Langlois](/imgs/web_p1010841.jpg)
 
-[En 2023](https://maiporennes.fr/residence/2022/11/15/carr-ment-2.html), les artistes-auteurices invité.es sont **Martin Desinde, Rémi Forte, Lucile Olympe Haute** et **Anne-Sarah Huet**. Leurs objets sont encore à venir...
+## Nous sommes jeunes alors... (2023)
+
+*Nous sommes jeunes alors...* est une collection de traces vues, lues, dites, entendues lors des rencontres scolaires du printemps 2023 avec les poètes **Claude Favre** et **Christophe Manon**, lors du Prix des Découvreurs. 
+
+Les textes ont été écrits par les élèves des collèges et lycées Jean Guéhenno (Fougères), Jean Brito (Bain-de-Bretagne), Théodore Monot (Vern-sur-Seiche), Simone Veil (Crevin), Les Ormeaux (Rennes), Bourgchevreuil (Cesson-Sévigné) et Benjamin Franklin (Auray).
+
+L'édition a été conçue, maquettée et assemblée (agrafée ou cousue) par Lucie à la Maison de la Poésie. Elle a été imprimée à 15 exemplaires, et distribuée gratuitement.
 
 ## Dispersantx (2021)
 
