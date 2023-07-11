@@ -151,7 +151,7 @@ Cette édition comporte 4 livrets de tailles diverses reliées à l'aide de 4 ri
 
 ### Diane Rabreau (2023)
 
-EFVERJVER les livres et CD de Diane.
+Pendant une semaine du mois de juin 2023, **Diane Rabreau** a imprimé et façonné à la Maison de la Poésie plusieurs éditions : *La recherche du désert, La plage aux souches, Finistère Mystères* et *Le canapé prend feu sur la rocade*. Le livre *Urselie* a été imprimé à la Maison de la Poésie et façonné chez Identic. 
 
 ### 34 °C_1,75 m2_3,9 kg (2021)
 
@@ -187,13 +187,9 @@ Chaque numéro a été imprimé à une centaine d'exemplaires à la Maison de la
 
 ![Poésie Maxi](/imgs/web_p1010840.jpg)
 
-### L'autre Monstre (2021)
-
-*Description à venir...*
-
 ### Aucune Mesure n'est exacte (cube) (2021)
 
-L'artiste plasticien **[Carlos Bernal Barrera](https://www.mepierdoparaver.com/)** a réédité sa pièce *Aucune Mesure n'est exacte* à l'atelier. Il s'agit d'imprimer le même PDF, page par page, sur la même feuille. Les décalages inhérents à l’imprimante ou les aspérités de la feuille deviennent évidents une fois le processus terminé .
+L'artiste plasticien **[Carlos Bernal Barrera](https://www.mepierdoparaver.com/)** a réédité sa pièce *Aucune Mesure n'est exacte* à l'atelier. Il s'agit d'imprimer le même PDF, page par page, sur la même feuille. Les décalages inhérents à l’imprimante ou les aspérités de la feuille deviennent évidents une fois le processus terminé.
 
 ![](/imgs/aucune-mesure-scan07-base-up.jpg)
 
