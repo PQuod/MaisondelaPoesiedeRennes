@@ -151,7 +151,7 @@ Cette édition comporte 4 livrets de tailles diverses reliées à l'aide de 4 ri
 
 ### Diane Rabreau (2023)
 
-Pendant une semaine du mois de juin 2023, **Diane Rabreau** a imprimé et façonné à la Maison de la Poésie plusieurs éditions : *La recherche du désert, La plage aux souches, Finistère Mystères* et *Le canapé prend feu sur la rocade*. Le livre *Urselie* a été imprimé à la Maison de la Poésie et façonné chez Identic. 
+Pendant une semaine du mois de juin 2023, **Diane Rabreau** a imprimé à 20 exemplaires et façonné à la Maison de la Poésie plusieurs éditions : *La recherche du désert, La plage aux souches, Finistère Mystères* et *Le canapé prend feu sur la rocade*. Le livre *Urselie* a été imprimé à la Maison de la Poésie et façonné chez Identic. 
 
 ### 34 °C_1,75 m2_3,9 kg (2021)
 
