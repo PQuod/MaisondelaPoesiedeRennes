@@ -51,7 +51,9 @@ Le livre a été conçu, imprimé sur papier couleur et assemblé (cousu) à la 
 
 ## Je sais, iel sait, on sait (2023)
 
-BLABLBLL le livre de sabrina.
+*Je sais, iel sait, on sait* est un livre collectif avec des textes de **Charline Biju, Inès Dobelle, Marjorie Garcia, Valentin Godard-Paillat, Elodie Le Bars, Chloé Lécrivain, Samuel R. Delany, Mathilde Salic** et **Annemarie Schwarzenbach**, réalisé lors de la résidence de création de **sabrina soyer**.
+
+Le livre a été conçu, imprimé et façonné (cousu) à 20 exemplaires à la Maison de la Poésie par sabrina, Candice, Mathilde, Inès, Valentin et Quentin. 
 
 ## Le champ du peu (2023)
 
