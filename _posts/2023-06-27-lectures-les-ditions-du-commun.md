@@ -5,9 +5,9 @@ type: event
 title: "Lectures : Les éditions du commun"
 date: 2023-06-27T08:09:32.807Z
 artiste:
-  - Juliette Rousseau
-  - Léa Rivière
   - Gorge Bataille
+  - Léa Rivière
+  - Juliette Rousseau
 categories: rencontre
 date_debut: 2023-11-14T09:09:32.879Z
 date_fin: 2023-11-14T09:09:32.926Z
