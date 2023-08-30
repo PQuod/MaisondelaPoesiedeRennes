@@ -15,6 +15,16 @@ Pour le matériel, l'atelier dispose d'une imprimante laser monochrome RICOH MP 
 
 Les objets sont volontairement conçus et produits selon une logique d'objets *pauvres*, et distribués gratuitement au public lors du temps de restitution de l'événement.
 
+[En 2023](https://maiporennes.fr/residence/2022/11/15/carr-ment-2.html), les artistes-auteurices invité.es sont **Rémi Forte, Lucile Olympe Haute, Martin Desinde** et **Anne-Sarah Huet**.
+
+Rémi Forte a réalisé une série de 10 poèmes génératifs avec une machine AxiDraw. Ils sont rassemblés dans un objet intitulé *1000 x a-z*. Les 50 exemplaires qui reproduisent ces originaux ont été imprimés et reliés en risographie par [Système Sensible](http://www.systemesensible.fr/). 
+
+Lucile Olympe Haute a réalisé un livre intitulé *<talismans pour celles qui ne savent pas de quoi ils parlent*, composé en HTML et CSS. Les 30 exemplaires de l'édition ont été imprimés et façonnés à Paris.
+
+Martin Desinde a réalisé un objet intitulé *Naxos*, chapitre d'un roman en cours d'écriture intitulé *Kassos*. Les 70 exemplaires de l'édition ont été imprimés et façonnés à Fontenay-sous-Bois.
+
+Anne-Sarah Huet a réalisé un objet intitulé *Spiral Studies*, accompagné de stickers et d'une barrette. Les 50 exemplaires de l'édition ont été réalisées sur LaTeX, imprimées chez Copie des Lices et façonnées à la Maison de la Poésie. 
+
 [En 2021](https://maiporennes.fr/rencontre/2022/10/04/carr-ment.html), les artistes-auteurices invité.es sont **Maxime Actis, Laurence Cathala, Josèfa Ntjam** et **Théo Robine-Langlois**.
 
 Maxime Actis a réalisé une série de microéditions intitulées *Brutusses et brutus*, qui rassemblent poèmes inédits et collages d'images. Tous les exemplaires ont été imprimés à la Maison de la Poésie.
@@ -33,7 +43,31 @@ Théo Robine-Langlois a réalisé une capsule audio avec les élèves du collèg
 
 ![Affiche -Théo Robine Langlois](/imgs/web_p1010841.jpg)
 
-[En 2023](https://maiporennes.fr/residence/2022/11/15/carr-ment-2.html), les artistes-auteurices invité.es sont **Martin Desinde, Rémi Forte, Lucile Olympe Haute** et **Anne-Sarah Huet**. Leurs objets sont encore à venir...
+## Quelques habitantes du jardin de la Maipo (2023)
+
+*Quelques habitantes du jardin de la Maipo* est un livre d'artiste réalisé par **Mathilde Salic**, lors d'un stage de deux mois à la Maison de la Poésie. C'est une flore spontanée à tendance rudérale et peut-être pionnière. Il est composé de petites plantes identifiées, scannées et rassemblées dans le jardin de la villa Beauséjour.
+
+Le livre a été conçu, imprimé sur papier couleur et assemblé (cousu) à la Maison de la Poésie. Il a été imprimé à 2 exemplaires, un pour l'artiste et un pour la bibliothèque.
+
+## Je sais, iel sait, on sait (2023)
+
+*Je sais, iel sait, on sait* est un livre collectif avec des textes de **Charline Biju, Inès Dobelle, Marjorie Garcia, Valentin Godard-Paillat, Elodie Le Bars, Chloé Lécrivain, Samuel R. Delany, Mathilde Salic** et **Annemarie Schwarzenbach**, réalisé lors de la résidence de création de **sabrina soyer**.
+
+Le livre a été conçu, imprimé et façonné (cousu) à 20 exemplaires à la Maison de la Poésie par sabrina, Candice, Mathilde, Inès, Valentin et Quentin.
+
+Une lecture collective du livre a eu lieu dans le jardin de la Maison de la Poésie le 26 mai 2023.
+
+## Le champ du peu (2023)
+
+*Le champ du peu* est un recueil de textes écrits par les participant.es aux ateliers d'écriture de **Cécile Cayrel** lors de son cycle du même nom, qui a eu lieu entre octobre 2022 et février 2023.
+
+Le recueil a été conçu à l'école de Condé par plusieurs étudiant.es, imprimé et assemblé à la Maison de la Poésie par Cécile, à 18 exemplaires.
+
+## Les sentiers qui bifurquent (2021-2022)
+
+À l'issue des 10 ateliers menés à la Maison de la Poésie par **Lucie Desaubliaux** durant l'année 2021-2022, les textes des participant.es ont été regroupés dans une édition aux multiples formats, imprimée à 15 exemplaires à la Maison de la Poésie.
+
+![Les sentiers qui bifurquent](/imgs/web_p1010809.jpg)
 
 ## Dispersantx (2021)
 
@@ -99,6 +133,14 @@ Chaque numéro a été imprimé en un seul exemplaire dans l'atelier de la Maiso
 
 ## Éditions scolaires
 
+### Nous sommes jeunes alors... (2023)
+
+*Nous sommes jeunes alors...* est une collection de traces vues, lues, dites, entendues lors des rencontres scolaires du printemps 2023 avec les poètes **Claude Favre** et **Christophe Manon**, lors du Prix des Découvreurs. 
+
+Les textes ont été écrits par les élèves des collèges et lycées Jean Guéhenno (Fougères), Jean Brito (Bain-de-Bretagne), Théodore Monot (Vern-sur-Seiche), Simone Veil (Crevin), Les Ormeaux (Rennes), Bourgchevreuil (Cesson-Sévigné) et Benjamin Franklin (Auray).
+
+L'édition a été conçue, maquettée et assemblée (agrafée ou cousue) par Lucie à la Maison de la Poésie. Elle a été imprimée à 15 exemplaires, et distribuée aux établissements partenaires.
+
 En 2020, à cause du covid, les rencontres prévues avec **Pierre Vinclair** et **Flora Bonfanti** [lors du Prix des Découvreurs](https://maiporennes.fr/scolaires/2022/09/12/prix-des-d-couvreurs-1.html) n'ont malheureusement pas pu avoir lieu. 
 
 Une édition a donc été réalisée, regroupant les textes des élèves qui ont écrit à la manière des deux artistes ainsi que des entretiens réalisés à distance à partir des questionnements des élèves autour du travail des poètes.
@@ -108,6 +150,16 @@ Cette édition comporte 4 livrets de tailles diverses reliées à l'aide de 4 ri
 ![Editions Découvreurs](/imgs/web_p1010798.jpg)
 
 ## Projets accueillis
+
+### Diane Rabreau (2023)
+
+Pendant une semaine du mois de juin 2023, **Diane Rabreau** a imprimé à 20 exemplaires et façonné à la Maison de la Poésie plusieurs éditions : *La recherche du désert, La plage aux souches, Finistère Mystères* et *Le canapé prend feu sur la rocade*. Le livre *Urselie* a été imprimé à la Maison de la Poésie et façonné chez Identic. 
+
+### 34 °C_1,75 m2_3,9 kg (2021)
+
+*34 °C_1,75 m2_3,9 kg* est un livre d'artiste édité par les éditions **Les Piñatas**, et réalisé par les artistes-auteurices François Belsoeur, Nastassa Imiolek, Marie Pons et Madeline Wood.
+
+Il a été imprimé à Copie des Lices à 100 exemplaires, et rassemblé dans une enveloppe cousue à la Maison de la Poésie.
 
 ### Catalogue La Guerrière (2022)
 
@@ -137,19 +189,9 @@ Chaque numéro a été imprimé à une centaine d'exemplaires à la Maison de la
 
 ![Poésie Maxi](/imgs/web_p1010840.jpg)
 
-### Les sentiers qui bifurquent (2021-2022)
-
-À l'issue des 10 ateliers menés à la Maison de la Poésie par **Lucie Desaubliaux** durant l'année 2021-2022, les textes des participant.es ont été regroupés dans une édition aux multiples formats, imprimée à 15 exemplaires à la Maison de la Poésie.
-
-![Les sentiers qui bifurquent](/imgs/web_p1010809.jpg)
-
-### L'autre Monstre (2021)
-
-*Description à venir...*
-
 ### Aucune Mesure n'est exacte (cube) (2021)
 
-L'artiste plasticien **[Carlos Bernal Barrera](https://www.mepierdoparaver.com/)** a réédité sa pièce *Aucune Mesure n'est exacte* à l'atelier. Il s'agit d'imprimer le même PDF, page par page, sur la même feuille. Les décalages inhérents à l’imprimante ou les aspérités de la feuille deviennent évidents une fois le processus terminé .
+L'artiste plasticien **[Carlos Bernal Barrera](https://www.mepierdoparaver.com/)** a réédité sa pièce *Aucune Mesure n'est exacte* à l'atelier. Il s'agit d'imprimer le même PDF, page par page, sur la même feuille. Les décalages inhérents à l’imprimante ou les aspérités de la feuille deviennent évidents une fois le processus terminé.
 
 ![](/imgs/aucune-mesure-scan07-base-up.jpg)
 

@@ -24,7 +24,7 @@ Ce terrain de jeu pourra ensuite s'explorer seul.e, comme une chambre à soi dan
 Ces ateliers sont ouverts à tous.tes. 
 
 **Dates**\
-Un mardi par mois, de 18h à 20h.\
+Un lundi par mois, de 18h à 20h.\
 Les dates retenues : 2 octobre, 16 octobre, 13 novembre, 27 novembre, 11 décembre
 
 **Tarifs pour les 5 ateliers**\
