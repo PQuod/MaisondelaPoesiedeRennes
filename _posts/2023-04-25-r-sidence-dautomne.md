@@ -16,7 +16,7 @@ lieu: Maison de la Poésie de Rennes
 
 > Ces instantanés n'ont pas de prétention documentaire mais désirent plutôt mettre en lumière le drame humain à travers un regard poétique. De cette manière, j'ai décidé de célébrer le nom des 54 villages de la région d'Antioquia, lieu où par ailleurs je suis né, car la violence y a laissé des traces indélébiles.
 
-Les 54 poèmes en vers libres s'adresseront premièrement aux victimes, mais Santiago Londoño désire que les lecteurices s'identifient aux problématiques humaines et à la terreur liée à un conflit armé. 
+Les 54 poèmes en vers libres s'adresseront premièrement aux victimes, mais Sal désire que les lecteurices s'identifient aux problématiques humaines et à la terreur liée à un conflit armé. 
 
 > Ces textes ne viendront pas maquiller la douleur et ne tomberont pas dans un exhibitionnismes victimisant ou dans une obscénité de la violence. Ils suggèrent des images qui invitent les lecteurices à participer à leur élaboration en développant leur empathie.
 
