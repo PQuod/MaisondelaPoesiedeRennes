@@ -5,7 +5,7 @@ type: event
 title: Résidence d'automne
 date: 2023-04-25T07:51:35.095Z
 artiste:
-  - Santiago Londoño
+  - Sal
 categories: residence
 date_debut: 2023-10-16T07:51:35.230Z
 date_fin: 2023-12-10T08:51:35.325Z
