@@ -43,10 +43,10 @@ Les candidat.es sélectionné.es sont contacté.es par email.
 
 **Calendrier**
 
-Dépôt des dossiers : jusqu'au 31 août 2023\
-Commission de sélection : septembre 2023\
-Annonce des sélectionné.es : 30 septembre 2023\
-Accueil des premières résidences : octobre 2024
+Dépôt des dossiers : jusqu'au 31 août 2024\
+Commission de sélection : septembre 2024\
+Annonce des sélectionné.es : 30 septembre 2024\
+Accueil des premières résidences : octobre 2025
 
 **Procédures de candidature**
 
@@ -56,7 +56,7 @@ Il appartient au candidat ou à la candidate de s'assurer que toutes les pièces
 
 ## Postuler
 
-Le dossier de candidature peut être téléchargé [en cliquant sur ce lien](/imgs/r-sidence-d-criture-dossier-de-candidature.pdf) (PDF, 500Ko). 
+*Les candidatures ne sont pas encore ouvertes pour les résidences de la saison 2025-2026.*
 
 - - -
 
