@@ -92,7 +92,7 @@ Vous trouverez dans le menu les dates des prochains rendez-vous, ainsi que des l
 
 15. Karianne Trudeau Beaunoyer
 
-* [Dossier](<../docs/2023_Candidatures/Julien Petoux/Le vent se lève - Julien Petoux & Bertille Canard.pdf>)
+* [Dossier](<../docs/2023_Candidatures/Karianne Trudeau Beaunoyer/Candidature_Résidence_KarianneTrudeauBeaunoyer.pdf>)
 
 16. Laure Samama
 
