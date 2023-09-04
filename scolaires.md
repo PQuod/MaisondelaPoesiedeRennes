@@ -16,15 +16,15 @@ Ecrivez à Lucie Desaubliaux, notre médiatrice scolaire : lucie.desaubliaux@mai
 
 ### Résidence d'automne
 
-17 octobre → 11 décembre 2022
+16 octobre → 10 décembre 2023
 
-**[Luc Bénazet](/residence/2022/07/06/r-sidence-dautomne.html)** anime une session de 5 ateliers auprès d'une classe de 6ème au collège Simone Veil, à Crevin.
+[Sal](https://maiporennes.fr/residence/2023/04/25/r-sidence-dautomne) anime une session de 5 ateliers auprès d'une classe de 4ème au collège La Gautrais, à Plouasne (22).
 
 ### Résidence de printemps
 
-10 avril → 4 juin 2023
+1er avril → 26 mai 2024
 
-**[sabrina soyer](/residence/2022/09/03/r-sidence-de-printemps.html)** anime une session de 5 ateliers auprès d'une classe de 1ere au lycée Bréquigny, à Rennes.
+Laure Mathieu sera en résidence de création à la Maison de la Poésie et animera des ateliers dans un établissement scolaire.
 
 - - -
 
@@ -32,17 +32,17 @@ Ecrivez à Lucie Desaubliaux, notre médiatrice scolaire : lucie.desaubliaux@mai
 
 **Tous niveaux**
 
-### Constance Hinfray
+Cette année, nous initions un jumelage avec le collège Simone Veil à Crevin. Pour pouvoir lancer ce projet en toute sérénité, il n'y a pas de résidence d'artiste sur les territoires durant l'année 2023-2024.
 
-*Du 9 au 16 janvier 2023* 
+L'année dernière, l'école de l'Être de Saint-Georges-de-Reintembault a accueilli **Constance Hinfray** du 9 au 16 janvier 2023 pour créer un théâtre d'ombres et l'école Marie Curie à Redon a accueilli **Coline Pierré** de novembre 2022 à avril 2023 pour des ateliers poésie et musique.
 
-**Constance Hinfray** est en résidence durant une dizaine de jours à l'école de l'Être de Saint-Georges-de-Reintembault. Elle travaille avec les CE2-CM1 autour de la biodiversité présente sur la commune. Une restitution sous la forme d'un théâtre d'ombres a lieu à l'issue de la résidence.
+- - -
 
-### Coline Pierré
+## Jumelage
 
-*Novembre 2022 à avril 2023*
+L'année scolaire 2023-2024 est la première année du jumelage qui lie la Maison de la Poésie de Rennes et le collège **Simone Veil** de Crevin.
 
-**Coline Pierré** anime 14 ateliers auprès des deux classes de CM1-CM2 de l'école Marie Curie à Redon. Ils travaillent ensemble sur le rapport poésie et musique, en collaboration avec la classe orchestre de l'école. Une vidéo est réalisée durant l'année d'après les travaux d'écriture des deux classes, et une exposition a lieu à l'école à l'issue des ateliers.
+Les artistes **Gabriel Gauthier** et **Maxime Devige** (avec qui nous avons déjà eu le plaisir d'organiser la résidence *[Poésie + JV = ?](https://maiporennes.fr/residence_scolaire/2022/08/31/r-sidence-po-sie-jeu-vid-o.html)* au collège Paul Féval à Dol-de-Bretagne en 2022) travailleront pendant trois ans avec une classe de la 5ème à la 3ème autour de la poésie et du jeu vidéo.
 
 - - -
 
@@ -50,36 +50,34 @@ Ecrivez à Lucie Desaubliaux, notre médiatrice scolaire : lucie.desaubliaux@mai
 
 *De la 3ème à la terminale*
 
-Chaque année, la Maison de la Poésie de Rennes soutient le Prix des Découvreurs en invitant deux artistes de la sélection à venir rencontrer les classes des collèges (3èmes) et lycées (tous niveaux) de Bretagne.
+Chaque année, la Maison de la Poésie de Rennes soutient le **Prix des Découvreurs** en invitant deux artistes de la sélection à venir rencontrer les classes des collèges (3èmes) et lycées (tous niveaux) de Bretagne.
 
-**Christophe Manon** est présent en Bretagne la semaine du 6 mars 2023 pour rencontrer les classes des lycées Jean Guéhenno (Fougères), de L'Elorn (Landerneau), Jean Brito (Bain-de-Bretagne) et celles des collèges Théodore Monod (Vern-sur-Seiche) et Simone Veil (Crevin) autour de son ouvrage *Provisoires* (NOUS, 2021).
+**Perrine Le Querrec** est présente en Bretagne la semaine du 11mars 2024 pour rencontrer les classes  autour de son ouvrage *La Fille du chien* (éditions des Lisières, 2023).
 
-**Claude Favre** est présente en Bretagne la semaine du 3 avril 2023 pour rencontrer les classes des lycées Jean Brito (Bain-de-Bretagne) et Benjamin Franklin (Auray) et des collèges Les Ormeaux (Rennes) et Bourgchevreuil (Cesson) autour de son ouvrage *Sur l'échelle danser* (série discrète, 2021).
+**Milène Tournier** est présente en Bretagne la semaine du 8 avril 2024 pour rencontrer les classes autour de son ouvrage *Ce que m'a soufflé la ville* (le Castor Astral, 2023).
 
 - - -
 
-## Carrément
+## Poètes en classe
 
 *Primaires*
 
-Un an sur deux a lieu **Carrément**, un dispositif durant lequel 4 artistes viennent résider chacun.e 1 semaine à la Maison de la Poésie afin de réfléchir à la conception d'un objet littéraire. C'est aussi l'occasion de rencontrer des scolaires, et chacun d'entre eux et elles anime un atelier dans une classe de primaire du département d'Ille-et-Vilaine.
+Un an sur deux a lieu **La Poésie qui vient,** une semaine lors de laquelle nous invitons deux artistes émergent·es en résidence à la Maison de la Poésie. **Poètes en classe** est le prolongement de ce rendez-vous, et permet aux deux artistes de venir donner des ateliers dans 4 établissements de primaire.
 
-Cette année, durant tout le mois de mars 2023, nous invitons **Rémi Forte**, qui rencontre les CM2 de l'école Les Clôteaux (Rennes), **Anne-Sarah Huet**, qui rencontre les CM2 de l'école St-Martin (Guichen), **Lucile Haute**, en partenariat avec l'Edulab Pasteur & **Martin Desinde**, qui rencontre les CM1-CM2 de l'école de Roz Landrieux.
+Cette année, du 19 au 22 mars 2024, nous accueillons **Grégoire Sourice** et **Olivia Tapiero.**
 
 - - -
 
 ## Autres formats de rencontres
 
-**Tous niveaux** : Rencontres avec un.e auteur.trice de la programmation
+**Tous niveaux** : Rencontres avec un·e auteur·ice de la programmation
 
-Toute l'année, il est possible de rencontrer un.e auteur.trice de la programmation lors de sa venue à Rennes (hors dispositif particulier). Le coût de la rencontre est pris en charge par l'établissement scolaire. Pour les collégiens et lycéens, ces rencontres peuvent aussi être organisées via Adage et le Pass Culture. N'hésitez pas à nous contacter pour plus d'informations.
-
-Cette année, les élèves de CM2 de l'école Jean Rostand et de 6ème du collège Les Gayeulles rencontrent **Jenny Dahan** pour une série de quatre ateliers dont la restitution a lieu à la Maison de la Poésie de Rennes le **23 mars 2023**
+Toute l'année, il est possible de rencontrer un.e auteur·ice de la programmation lors de sa venue à Rennes (hors dispositif particulier). Le coût de la rencontre est pris en charge par l'établissement scolaire. Pour les collégien·nes et lycéen·nes, ces rencontres peuvent aussi être organisées via Adage et le Pass Culture. N'hésitez pas à nous contacter pour plus d'informations.
 
 - - -
 
 ## Réaliser ensemble une résidence en milieu scolaire
 
-Nous réalisons chaque année des résidences en milieu scolaire avec les équipes pédagogiques qui le souhaitent. Après des discussions communes sur les envies et les besoins des établissements, la Maison de la Poésie conseille les équipes sur le choix d'un ou de plusieurs artistes et s'occupe ensuite des volets administratifs (rédaction et envoi des dossiers, rémunération des auteurs, etc.) et logistiques (transport, hébergement, etc.) du projet de résidence.
+Nous réalisons chaque année des résidences en milieu scolaire avec les équipes pédagogiques qui le souhaitent. Après des discussions communes sur les envies et les besoins des établissements, la Maison de la Poésie conseille les équipes sur le choix d'un·e ou de plusieurs artistes et s'occupe ensuite des volets administratifs (rédaction et envoi des dossiers, rémunération des auteur·ices, etc.) et logistiques (transport, hébergement, etc.) du projet de résidence.
 
 Si l'élaboration d'un tel projet vous intéresse, n'hésitez pas à nous contacter au plus tôt dans l'année scolaire (les dossiers de demande de subventions sont à rendre au mois de mai, et nous acceptons de démarrer la conception des projets au plus tard à la mi-mars), par mail : lucie.desaubliaux@maiporennes.fr ; ou par téléphone : 02 99 51 33 32.
