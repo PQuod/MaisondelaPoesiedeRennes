@@ -25,7 +25,7 @@ Vous trouverez dans le menu les dates des prochains rendez-vous, ainsi que des l
 3. Arthur Rimadoum
 
 - Dossier
-- Livre
+- Livre : Mélancolie des Ngannbés
 
 4. Camille Ruiz
 
@@ -82,6 +82,7 @@ Vous trouverez dans le menu les dates des prochains rendez-vous, ainsi que des l
 13. Julia Lepère
 
 - Dossier
+- Livre : Par elle se blesse (1 ex papier)
 
 14. Julien Petoux
 
@@ -93,6 +94,7 @@ Vous trouverez dans le menu les dates des prochains rendez-vous, ainsi que des l
 15. Karianne Trudeau Beaunoyer
 
 - Dossier
+- Livre : Je suis l'ennemie (2 ex papier)
 
 16. Laure Samama
 
@@ -124,6 +126,7 @@ Vous trouverez dans le menu les dates des prochains rendez-vous, ainsi que des l
 21. Natasha Lafond
 
 - Dossier
+- Livre : Sur les rives d'argile (1 ex papier)
 
 22. Olivia Tapiero
 
@@ -135,6 +138,7 @@ Vous trouverez dans le menu les dates des prochains rendez-vous, ainsi que des l
 23. Paloma Hermine Hidalgo
 
 - Dossier
+- Livre : Rien, le ciel peut-être (1 ex papier)
 
 24. Sabine Aussenac
 
