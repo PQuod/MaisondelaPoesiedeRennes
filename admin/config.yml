@@ -169,6 +169,13 @@ collections:
   - name: "pages"
     label: "Pages"
     files:
+      - label: "Accueil CA"
+        name: "accueilca"
+        file: "espace-admin/admin.md"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "admin"}
+          - {label: "Titre", name: "title", widget: "string"}
+          - {label: "Description", name: "body", widget: "markdown"}
       - label: "Jardin"
         name: "jardin"
         file: "jardin.md"
