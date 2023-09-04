@@ -14,13 +14,13 @@ Vous trouverez dans le menu les dates des prochains rendez-vous, ainsi que des l
 * [Dossier](<https://maiporennes.fr/docs/2023_Candidatures/Adrien Lafille/dossier Lafille - Maison de la poésie de Rennes.pdf>)
 * [Projet d'écriture](<https://maiporennes.fr/docs/2023_Candidatures/Adrien Lafille/projet d'écriture Lafille - Maison de la poésie de Rennes.pdf>)
 * [Bibliographie](https://maiporennes.fr/docs/2023_Candidatures/Adrien%20Lafille/bilbiographie%20Lafille%20-%20Maison%20de%20la%20po%C3%A9sie%20de%20Rennes.pdf)
-* [Livre : La Transparence](<https://maiporennes.fr/docs/2023_Candidatures/Adrien Lafille/la-transparence_version définitive.pdf>)
+* [Livre : La Transparence](<https://maiporennes.fr/docs/2023_Candidatures/Adrien Lafille/la-transparence_version définitive.pdf>) (+ 1 ex papier)
 
 2. Aron Barbier
 
 * [Dossier](<https://maiporennes.fr/docs/2023_Candidatures/Aron Barbier/Candidature_Aron_Barbier.pdf>)
 * [Bibliographie](<https://maiporennes.fr/docs/2023_Candidatures/Aron Barbier/Bibliographie Aron Barbier.pdf>)
-* [Livre : Le Coeur solide](<https://maiporennes.fr/docs/2023_Candidatures/Aron Barbier/Le_Coeur_solide.pdf>)
+* [Livre : Le Coeur solide](<https://maiporennes.fr/docs/2023_Candidatures/Aron Barbier/Le_Coeur_solide.pdf>) (+ 1 ex papier de Devenir féministe)
 
 3. Arthur Rimadoum
 
@@ -35,7 +35,7 @@ Vous trouverez dans le menu les dates des prochains rendez-vous, ainsi que des l
 5. Charlotte Maréchal
 
 * [Dossier](<../docs/2023_Candidatures/Charlotte Maréchal/candidature CM.pdf>)
-* [Livre : Le sang des amours](<../docs/2023_Candidatures/Charlotte Maréchal/Le sang des amours.pdf>)
+* [Livre : Le sang des amours](<../docs/2023_Candidatures/Charlotte Maréchal/Le sang des amours.pdf>) (+ 1 ex papier)
 
 6. Diane Rivoire
 
@@ -52,36 +52,37 @@ Vous trouverez dans le menu les dates des prochains rendez-vous, ainsi que des l
 * [Dossier](<../docs/2023_Candidatures/Fanny Lambert/Residence-ecriture-MPRennes-F. Lambert.23.pdf>)
 * [Projet d'écriture](<../docs/2023_Candidatures/Fanny Lambert/Presentation-projet-ecriture-FLambert.pdf>)
 * [Bibliographie](<../docs/2023_Candidatures/Fanny Lambert/Biblio-parutions-F.Lambert.23.pdf>)
-* [Livre : Présent antérieur](<../docs/2023_Candidatures/Fanny Lambert/present_anterieur FAB interieur R3.pdf>)
+* [Livre : Présent antérieur](<../docs/2023_Candidatures/Fanny Lambert/present_anterieur FAB interieur R3.pdf>) (+ 1 ex papier)
 
 9. Grégoire Sourice
 
 * [Dossier](<../docs/2023_Candidatures/Grégoire Sourice/1. Fiche de renseignements.pdf>)
 * [Projet d'écriture](<../docs/2023_Candidatures/Grégoire Sourice/2. Note de présentation du projet.pdf>)
 * [Bibliographie](<../docs/2023_Candidatures/Grégoire Sourice/3. Bibliographie.pdf>)
-* [Livre : La Gelée du vivant](<../docs/2023_Candidatures/Grégoire Sourice/4. PDF de la dernière publication.pdf>)
+* [Livre : La Gelée du vivant](<../docs/2023_Candidatures/Grégoire Sourice/4. PDF de la dernière publication.pdf>) (+ 1 ex papier)
 
 10. Gwenn Abgrall-Servettaz
 
 * [Dossier](<../docs/2023_Candidatures/Gwenn Abgrall-Servettaz/Candidature G. Abgrall-Servettaz - Résidence MdP  Rennes 2024-25.pdf>)
 * [Projet d'écriture et bibliographie](<../docs/2023_Candidatures/Gwenn Abgrall-Servettaz/G. Abgrall-Servettaz - présentation + bibliographie.pdf>)
-* [Livre : Maria, des vies trinitaines](<../docs/2023_Candidatures/Gwenn Abgrall-Servettaz/Maria, des vies trinitaines Pages int def.pdf>)
+* [Livre : Maria, des vies trinitaines](<../docs/2023_Candidatures/Gwenn Abgrall-Servettaz/Maria, des vies trinitaines Pages int def.pdf>) (+ 1 ex papier)
 
 11. JB Corteggiani
 
 * [Dossier](<../docs/2023_Candidatures/JB Corteggiani/candidature CORTEGGIANI 2.pdf>)
-* [Livre : Le bel âge](<../docs/2023_Candidatures/JB Corteggiani/Le bel âge DEF 2.pdf>)
+* [Livre : Le bel âge](<../docs/2023_Candidatures/JB Corteggiani/Le bel âge DEF 2.pdf>) (+ 1 ex papier)
 
 12. Jenny Dahan
 
 * [Dossier](<../docs/2023_Candidatures/Jenny Dahan/dossier de candidature.pdf>)
 * [Projet d'écriture](<../docs/2023_Candidatures/Jenny Dahan/Note de présentation.pdf>)
 * [Bibliographie](<../docs/2023_Candidatures/Jenny Dahan/bibliographie.pdf>)
-* [Livre : Folie](<../docs/2023_Candidatures/Jenny Dahan/Folie.pdf>)
+* [Livre : Folie](<../docs/2023_Candidatures/Jenny Dahan/Folie.pdf>) (+ 1 ex papier)
 
 13. Julia Lepère
 
 * [Dossier](<../docs/2023_Candidatures/Julia Lepère/Dossier de candidature Julia Lepère.pdf>)
+* Livre papier : Par elle se blesse
 
 14. Julien Petoux
 
@@ -93,6 +94,7 @@ Vous trouverez dans le menu les dates des prochains rendez-vous, ainsi que des l
 15. Karianne Trudeau Beaunoyer
 
 * [Dossier](<../docs/2023_Candidatures/Karianne Trudeau Beaunoyer/Candidature_Résidence_KarianneTrudeauBeaunoyer.pdf>)
+* Livre papier : Je suis l'ennemie (2 ex)
 
 16. Laure Samama
 
@@ -109,7 +111,7 @@ Vous trouverez dans le menu les dates des prochains rendez-vous, ainsi que des l
 * Dossier [Partie 1](<../docs/2023_Candidatures/Marie Léon/Formulaire Rennes 1.pdf>) / [Partie 2](<../docs/2023_Candidatures/Marie Léon/Formulaire Rennes 2.pdf>)
 * [Projet d'écriture](<../docs/2023_Candidatures/Marie Léon/Présentation de j'envie d'asie.pdf>)
 * [Bibliographie](<../docs/2023_Candidatures/Marie Léon/Bio-bibliographie.pdf>)
-* [Livre : Et la nuit](<../docs/2023_Candidatures/Marie Léon/Et la nuit .pdf>)
+* [Livre : Et la nuit](<../docs/2023_Candidatures/Marie Léon/Et la nuit .pdf>) (+ 1 ex papier)
 
 19. Marine Peyrard
 
@@ -124,6 +126,7 @@ Vous trouverez dans le menu les dates des prochains rendez-vous, ainsi que des l
 21. Natasha Lafond
 
 * [Dossier](<../docs/2023_Candidatures/Natasha Lafond/FichierUniqueNatachaLafondDemandeRésidence24 25.pdf>)
+* Livre papier : Sur les rives d'argile
 
 22. Olivia Tapiero
 
@@ -135,6 +138,7 @@ Vous trouverez dans le menu les dates des prochains rendez-vous, ainsi que des l
 23. Paloma Hermine Hidalgo
 
 * [Dossier](<../docs/2023_Candidatures/Paloma Hermine Hidalgo/Candidature Paloma Hermine Hidalgo.pdf>)
+* Livre papier : Rien, le ciel peut-être
 
 24. Sabine Aussenac
 
@@ -144,7 +148,7 @@ Vous trouverez dans le menu les dates des prochains rendez-vous, ainsi que des l
 25. Stéphane Nowak Papantoniou
 
 * [Dossier](<../docs/2023_Candidatures/Stéphane Nowak Papantoniou/r-sidence-d-criture-dossier-de-candidature.pdf>)
-* [Livre : Ca ne tient plus](<../docs/2023_Candidatures/Stéphane Nowak Papantoniou/CANETIENTPLUS.pdf>)
+* [Livre : Ca ne tient plus](<../docs/2023_Candidatures/Stéphane Nowak Papantoniou/CANETIENTPLUS.pdf>) (+ 1 ex papier)
 
 26. Stéphanie Pommeret
 
