@@ -155,3 +155,8 @@ Vous trouverez dans le menu les dates des prochains rendez-vous, ainsi que des l
 * [Dossier](<../docs/2023_Candidatures/Stéphanie Pommeret/r-sidence-d-criture-dossier-de-candidature.pdf>)
 * [Projet d'écriture](<../docs/2023_Candidatures/Stéphanie Pommeret/projet maison de lapoésie S pommeret.pdf>)
 * [Livre : Huis clos](<../docs/2023_Candidatures/Stéphanie Pommeret/livre huis clos.pdf>)
+
+#### 27. Sara Mychkine
+
+* Dossier
+* Livre papier : De minuit à minuit (1 ex)
