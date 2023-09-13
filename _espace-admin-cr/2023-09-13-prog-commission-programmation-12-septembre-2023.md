@@ -19,10 +19,10 @@ Parmi les artistes-auteurices déjà invité.es ou pressenti.es : Aziyadé Baudo
 ## Propositions artistiques
 
 Les 3 événements à programmer restants sont :
-- De la poésie au BabaZula #8
-- De la poésie au BabaZula #9
-- Résidence émergence 2024
-- Soirée maison d'édition  
+- De la poésie au BabaZula #8 (mai 2024)
+- De la poésie au BabaZula #9 (octobre 2024)
+- Résidence émergence 2024 (septembre-octobre 2024)
+- Soirée maison d'édition (novembre 2024)
 
 Pour les rendez-vous "De la poésie au BabaZula", voici les noms proposés :
 - Marjorie Garcia et Camile Pamart (Hypnosex)
