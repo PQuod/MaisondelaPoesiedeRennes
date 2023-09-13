@@ -18,7 +18,7 @@ partenaires: Frac Bretagne
 
 Un été, Emmanuelle quitte Lyon surchauffée et ravagée par les émeutes urbaines pour s’installer à Rennes où la fraîcheur devrait lui permettre de réfléchir. Elle s’attelle à un projet intitulé *Portrait de la France*, tout en assistant à des procès de jeunes émeutiers. Pendant ce temps, à Lyon où on invente la Funk, Mohamed fait face à quelques ennuis.
 
-Ce Discours de Rennes à pris son élan dans les films de Jeremy Deller sur la musique et la danse :
+Ce Discours de Rennes a pris son élan dans les films de Jeremy Deller sur la musique et la danse :
 
 * Jeremy Deller, *Everybody In The Place - An Incomplete History of Britain 1984-1992*, 2018.
 * Jeremy Deller et Nick Abrahams, *Our Hobby Is Depeche Mode*, 2006.
