@@ -16,7 +16,7 @@ partenaires: Frac Bretagne
 ---
 *Il est urgent de ghoster l’évidence (Discours de Rennes)* est une performance narrative où le discours s’accompagne d’images.
 
-Un été, Emmanuelle quitte Lyon surchauffée et ravagée par les émeutes urbaines pour s’installer à Rennes où la fraîcheur devrait lui permettre de réfléchir. Elle s’attelle à un projet intitulé *Portrait de la France*, tout en assistant à des procès de jeunes émeutiers. Pendant ce temps, à Lyon où on invente la Funk, Mohamed fait face à quelques ennuis."
+Un été, Emmanuelle quitte Lyon surchauffée et ravagée par les émeutes urbaines pour s’installer à Rennes où la fraîcheur devrait lui permettre de réfléchir. Elle s’attelle à un projet intitulé *Portrait de la France*, tout en assistant à des procès de jeunes émeutiers. Pendant ce temps, à Lyon où on invente la Funk, Mohamed fait face à quelques ennuis.
 
 Ce Discours de Rennes à pris son élan dans les films de Jeremy Deller sur la musique et la danse :
 
