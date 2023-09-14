@@ -20,6 +20,6 @@ Olivia Tapiero était invitée début 2023 en [résidence à La Marelle](https:/
 
 > Comment articuler le lien entre violence envers les violences contre les femmes, l’histoire de la philosophie et la catastrophe écologique ? Comment l’acte poétique peut-il être un support pour déconstruire une tradition philosophique souvent misogyne ?
 
-Les travaux les plus récents de Grégoire Sourice questionnent la personnalité juridique de l'eau à partir d'articles du Code civil. Ces textes forment un livre qui paraîtra en 2024 aux éditions José Corti
+Les travaux les plus récents de Grégoire Sourice questionnent la personnalité juridique de l'eau à partir d'articles du Code civil. Ces textes forment un livre qui paraîtra en 2024 aux éditions José Corti.
 
 > Les rivières se font des bras. Les rivières coupent. Les rivières embrassent les champs. Les rivières font des îles. Il ne leur manque que la parole pour tenir un dialogue avec les propriétaires riverains.
