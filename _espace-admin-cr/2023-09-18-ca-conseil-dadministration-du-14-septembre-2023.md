@@ -54,3 +54,6 @@ La commission Communication propose de faire une réunion de mise au point pour 
 Comme il était prévu, Stéphanie, Tristan et Quentin sont allé.es acheter du nouveau matériel son pour la Maison de la Poésie : une sono, des micros et une table de mixage. 
 
 Ce matériel nous permettra d’avoir un bon son pendant les lectures et d’enregistrer facilement ces moments. Stéphanie et Tristan proposent d’organiser une journée de formation en octobre (sans doute la semaine du 9) pour permettre aux personnes intéressées d’apprendre à utiliser ce matériel. 
+
+**Prise de notes :** Charlotte  
+**Relecture :** Quentin
