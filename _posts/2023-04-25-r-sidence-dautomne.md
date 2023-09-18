@@ -28,4 +28,8 @@ Les 54 poèmes en vers libres s'adresseront premièrement aux victimes, mais Sal
 
 Les 22, 23, 29 et 30 novembre, Sal anime [une série de 4 ateliers d'écriture](https://maiporennes.fr/rencontre/2023/08/30/ateliers-d-criture-que-peut-tre-rennes) tout public et gratuits intitulée *Que peut être Rennes ?*
 
+**Ateliers scolaires**
+
+Sal animera quatre ateliers auprès d'une classe de quatrième du collège La Gautrais à Plouasne (22).
+
 *Cette résidence bénéficie du soutien financier de la Région Bretagne.*
