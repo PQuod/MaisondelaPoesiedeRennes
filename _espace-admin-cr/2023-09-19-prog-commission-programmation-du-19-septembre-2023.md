@@ -89,12 +89,12 @@ Lafille : 2 + 1
 
 **Lulla Clowski :** Projet sur l'adolescence intéressant. Bref mais pertinent. Approche public jeunesse/adolescent seule fois de tous les dossiers. Exemples de poèmes sur le projet à venir. Rapport à la narration bien. Nuances : un peu moins singulier. Punchlines pas toujours au niveau.
 
-## 
+## Votes des membres absent.es
 
-Anaël : Kariane Trudeau Beaunoyer
-Anne-Marie : Karianne Trudeau Beaunoyer
-Marie : Olivia Tapiero
-Monique : Camille Ruiz
+Anaël : Kariane Trudeau Beaunoyer  
+Anne-Marie : Karianne Trudeau Beaunoyer  
+Marie : Olivia Tapiero  
+Monique : Camille Ruiz  
 Stéphanie : Camille Ruiz
 
 **Premier tour de votes**
