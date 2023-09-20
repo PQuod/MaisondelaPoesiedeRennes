@@ -1,6 +1,6 @@
 ---
 layout: admin-posts
-title: Commission Programmation du 19 septembre 2023
+title: Commission Programmation 19 septembre 2023
 date: 2023-09-19T14:08:07.204Z
 cat: prog
 ---
@@ -73,11 +73,11 @@ Parfois dossiers avec trop peu de matière. Suffisamment de bons projets pour le
 
 **Résultats**
 
-- Karianne Trudeau Beaunoyer : 6 voix sur 11 
-- Olivia Tapiero : 5 voix + 2 sur 11 
-- Camille Ruiz : 5 voix + 1 sur 11 
-- Grégoire Sourice : 5 voix sur 11 
-- Lulla Clowski : 5 voix sur 11 
+- Karianne Trudeau Beaunoyer : 6 voix sur 12
+- Olivia Tapiero : 5 voix + 2 sur 12
+- Camille Ruiz : 5 voix + 1 sur 12 
+- Grégoire Sourice : 5 voix sur 12 
+- Lulla Clowski : 5 voix sur 12 
 
 ## Discussions plus précises sur la shortlist
 
