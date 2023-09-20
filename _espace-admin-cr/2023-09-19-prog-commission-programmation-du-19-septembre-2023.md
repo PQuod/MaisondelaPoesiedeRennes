@@ -104,8 +104,8 @@ Stéphanie : Camille Ruiz
 - Camille Ruiz et Olivia Tapiero
 - Grégoire Sourice et Olivia Tapiero
 - Grégoire Sourice et Olivia Tapiero
-- Karianne Trudeau Beaunoyer  et Grégoire Sourice
-- Karianne Trudeau Beaunoyer  et Olivia Tapiero
+- Karianne Trudeau Beaunoyer et Grégoire Sourice
+- Karianne Trudeau Beaunoyer et Olivia Tapiero
 - Grégoire Sourice et Karianne Trudeau Beaunoyer 
 - Grégoire Sourice et Karianne Trudeau Beaunoyer 
 - Camille Ruiz
