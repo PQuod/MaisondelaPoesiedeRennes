@@ -121,7 +121,7 @@ Stéphanie : Camille Ruiz
 - Grégoire Sourice : 5 voix
 - Trudeau Beaunoyer : 6 voix
 
-Karianne Trudeau Beaunoyer au 1er tour est sélectionnée par 6 voix sur 11 votant.es. 
+Karianne Trudeau Beaunoyer est sélectionnée au 1er tour par 6 voix sur 11 votant.es. 
 
 **Deuxième tour de votes**
 
@@ -142,4 +142,12 @@ Karianne Trudeau Beaunoyer au 1er tour est sélectionnée par 6 voix sur 11 vota
 
 Au 2ème tour de votes, Grégoire Sourice est sélectionné par 5 voix sur 8 votant.es.
 
-Diane Rivoire peut être pressentie pour la résidence émergence.
+## Remarques
+
+Les deux candidat.es sélectionné.es pour être résident.es lors de la saison 2024-2025, Karianne Trudeau Beaunoyer et Grégoire Sourice, seront contacté.es par email ; il en sera de même pour les candidats refusés.
+
+Il sera notifié aux 3 candidates de la shortlist non-sélectionnées qu’elles ont fait partie de la dernière sélection, cela afin de les encourager dans leurs demandes auprès d’autres structures.
+
+Diane Rivoire peut être pressentie pour la résidence émergence. Elle sera contactée en ce sens.
+
+La commission remercie encore une fois toutes les personnes qui ont participé à la sélection et au vote des candidatures.
