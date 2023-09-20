@@ -2,7 +2,7 @@
 draft: false
 layout: post
 type: event
-title: Club de lecture des Beaux-Arts des doctorant.es (ALL)
+title: Club de lecture des doctorant.es (ALL)
 date: 2023-09-20T11:49:44.454Z
 categories: rencontre
 date_debut: 2023-11-20T12:49:44.613Z
