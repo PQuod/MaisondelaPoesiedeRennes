@@ -31,9 +31,9 @@ Parfois dossiers avec trop peu de matière. Suffisamment de bons projets pour le
 
 **Valentin.** 7 noms : Grégoire Sourice, Aron Barbier, Diane Rivoire, Elise Legal, Olivia Tapiero, Julia Lepère, Lulla Clowski. Dans l'ensemble, beaucoup aimé le projet mais moins certain de l'écriture, ou inversement.
 
-**François.** 4 noms : Julia Lepère, JB Corteggiani, Paloma Hermine Hidalgo, Kariane Trudeau Beaunoyer. Dossiers énergiques. 
+**François.** 4 noms : Julia Lepère, JB Corteggiani, Paloma Hermine Hidalgo, Karianne Trudeau Beaunoyer. Dossiers énergiques. 
 
-**Candice.** 4 noms : Kariane Trudeau Beaunoyer, Laure Samama, Lulla Clowski, Olivia Tapiero (+ 8 en deuxième cercle : Diane Rivoire, Julia Lepère, Marine Peyrard, Paloma Hermine Hidalgo, Sabine Aussenac, Grégoire Sourice, Stéphane Nowak).
+**Candice.** 4 noms : Karianne Trudeau Beaunoyer, Laure Samama, Lulla Clowski, Olivia Tapiero (+ 8 en deuxième cercle : Diane Rivoire, Julia Lepère, Marine Peyrard, Paloma Hermine Hidalgo, Sabine Aussenac, Grégoire Sourice, Stéphane Nowak).
 
 **Lucie.** 5 noms : Grégoire Sourice, Olivia Tapiero, Adrien Lafille, Karianne Trudeau Beaunoyer, Camille Ruiz. Dossiers qui restent en mémoire. Parfois des concepts utilisés sans jamais être utilisés. Projets où se projeter.
 
@@ -93,7 +93,7 @@ Parfois dossiers avec trop peu de matière. Suffisamment de bons projets pour le
 
 ## Votes des membres absent.es
 
-Anaël : Kariane Trudeau Beaunoyer  
+Anaël : Karianne Trudeau Beaunoyer  
 Anne-Marie : Karianne Trudeau Beaunoyer  
 Marie : Olivia Tapiero  
 Monique : Camille Ruiz  
@@ -104,14 +104,14 @@ Stéphanie : Camille Ruiz
 - Camille Ruiz et Olivia Tapiero
 - Grégoire Sourice et Olivia Tapiero
 - Grégoire Sourice et Olivia Tapiero
-- Trudeau Beaunoyer et Grégoire Sourice
-- Trudeau Beaunoyer et Olivia Tapiero
-- Grégoire Sourice et Trudeau Beaunoyer
-- Grégoire Sourice et Trudeau Beaunoyer
+- Karianne Trudeau Beaunoyer  et Grégoire Sourice
+- Karianne Trudeau Beaunoyer  et Olivia Tapiero
+- Grégoire Sourice et Karianne Trudeau Beaunoyer 
+- Grégoire Sourice et Karianne Trudeau Beaunoyer 
 - Camille Ruiz
 - Camille Ruiz
-- Trudeau Beaunoyer
-- Trudeau Beaunoyer
+- Karianne Trudeau Beaunoyer 
+- Karianne Trudeau Beaunoyer 
 - Olivia Tapiero
 
 **Résultats**
@@ -119,9 +119,9 @@ Stéphanie : Camille Ruiz
 - Camille Ruiz : 3 voix
 - Olivia Tapiero : 5 voix
 - Grégoire Sourice : 5 voix
-- Trudeau Beaunoyer : 6 voix
+- Karianne Trudeau Beaunoyer : 6 voix
 
-Karianne Trudeau Beaunoyer est sélectionnée au 1er tour par 6 voix sur 11 votant.es. 
+Karianne Trudeau Beaunoyer est sélectionnée au 1er tour par 6 voix sur 12 votant.es. Le vote suivant se fait à partir des deux autres candidatures ayant reçu le plus de voix : Olivia Tapiero et Grégoire Sourice.
 
 **Deuxième tour de votes**
 
