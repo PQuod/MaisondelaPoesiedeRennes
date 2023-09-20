@@ -8,7 +8,7 @@ title: Club de lecture
 date: 2022-06-28T08:29:30.328Z
 categories: associatif
 date_debut: 2023-09-19T22:00:00.000Z
-date_fin: 2023-09-19T22:00:00.000Z
+date_fin: 2023-09-20T22:00:00.000Z
 dates_publiees: 20 septembre 2023 · 20h → 21h30
 lieu: Maison de la Poésie de Rennes
 ---
