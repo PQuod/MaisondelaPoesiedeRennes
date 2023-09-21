@@ -7,9 +7,9 @@ type: event
 title: Club de lecture
 date: 2022-06-28T08:29:30.328Z
 categories: associatif
-date_debut: 2023-09-19T22:00:00.000Z
-date_fin: 2023-09-20T22:00:00.000Z
-dates_publiees: 20 septembre 2023 · 20h → 21h30
+date_debut: 2023-10-17T22:00:00.000Z
+date_fin: 2023-10-17T22:00:00.000Z
+dates_publiees: 18 octobre 2023 · 20h → 21h30
 lieu: Maison de la Poésie de Rennes
 ---
 ## Fonctionnement
@@ -28,6 +28,16 @@ Vous trouverez ci-dessous tous les livres conseillés ces dernières années par
 - - -
 
 ## 2023
+
+**Club du 20 septembre 2023**
+
+* Marceline Desbordes-Valmore, *Les Pleurs*, éditions GF
+* Bianca Joubert, *L'Amérique n'est blanche qu'en hiver*, éditions Les Avrils
+* Geoffroy Delorme, *L'homme-chevreuil*, éditions Les Arènes
+* Louisa Yousfi, *Rester barbare*, éditions La Fabrique
+* Janet Gleeson, * L'alchimiste de Meissen* (trad. E. Farhi), éditions JC Lattès
+* Edith Wharton, *Ethan Frome* (trad. J. Wolkenstein), éditions POL
+* Tristan Tzara, *L'homme approximatif*, éditions Poésie/Gallimard
 
 **Club du 17 mai 2023**
 
