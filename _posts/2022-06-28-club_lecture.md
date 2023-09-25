@@ -31,13 +31,13 @@ Vous trouverez ci-dessous tous les livres conseillés ces dernières années par
 
 **Club du 20 septembre 2023**
 
-* Marceline Desbordes-Valmore, *Les Pleurs*, éditions GF
-* Bianca Joubert, *L'Amérique n'est blanche qu'en hiver*, éditions Les Avrils
-* Geoffroy Delorme, *L'homme-chevreuil*, éditions Les Arènes
-* Louisa Yousfi, *Rester barbare*, éditions La Fabrique
-* Janet Gleeson, *L'alchimiste de Meissen* (trad. E. Farhi), éditions JC Lattès
-* Edith Wharton, *Ethan Frome* (trad. J. Wolkenstein), éditions POL
-* Tristan Tzara, *L'homme approximatif*, éditions Poésie/Gallimard
+* *Les Pleurs*, Marceline Desbordes-Valmore, éditions GF
+* *L'Amérique n'est blanche qu'en hiver*, Bianca Joubert, éditions Les Avrils
+* *L'homme-chevreuil*, Geoffroy Delorme, éditions Les Arènes
+* *Rester barbare*, Louisa Yousfi, éditions La Fabrique
+* *L'alchimiste de Meissen*, Janet Gleeson (trad. E. Farhi), éditions JC Lattès
+* *Ethan Frome*, Edith Wharton (trad. J. Wolkenstein), éditions POL
+* *L'homme approximatif*, Tristan Tzara, éditions Poésie/Gallimard
 
 **Club du 17 mai 2023**
 
