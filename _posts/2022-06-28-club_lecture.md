@@ -35,7 +35,7 @@ Vous trouverez ci-dessous tous les livres conseillés ces dernières années par
 * Bianca Joubert, *L'Amérique n'est blanche qu'en hiver*, éditions Les Avrils
 * Geoffroy Delorme, *L'homme-chevreuil*, éditions Les Arènes
 * Louisa Yousfi, *Rester barbare*, éditions La Fabrique
-* Janet Gleeson, * L'alchimiste de Meissen* (trad. E. Farhi), éditions JC Lattès
+* Janet Gleeson, *L'alchimiste de Meissen* (trad. E. Farhi), éditions JC Lattès
 * Edith Wharton, *Ethan Frome* (trad. J. Wolkenstein), éditions POL
 * Tristan Tzara, *L'homme approximatif*, éditions Poésie/Gallimard
 
