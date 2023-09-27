@@ -21,8 +21,8 @@ Pendant une heure, au BabaZula, des lectures de poésie.
 
 Cette fois, c’est avec :
 
-- Charlotte Beltzung
-- Tristant Philippon
-- Stéphanie Vivier
+* Charlotte Beltzung
+* Tristan Philippon
+* Stéphanie Vivier
 
 Restauration et boisson sur place, tranquillement.
