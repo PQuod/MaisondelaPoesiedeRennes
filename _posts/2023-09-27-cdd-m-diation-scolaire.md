@@ -20,4 +20,6 @@ PDF détaillé de l'offre d'emploi
 
 Adresser un CV et une lettre de motivation à l'adresse [contact@maiporennes.fr](<mailto:contact@maiporennes.fr?subject=Candidature CDD Médiation scolaire>), avec comme objet : *Candidature CDD Médiation scolaire*. 
 
+L'offre est valade jusqu'au 19 novembre 2023.
+
 Des entretiens auront lieu le 18 décembre 2023 pour les candidat.es retenu.es
