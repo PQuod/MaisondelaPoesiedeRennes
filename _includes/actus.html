@@ -66,14 +66,6 @@
       {% endif %}
     {% endfor %}
 </div>
-{% assign sortedfav = site.favoris | sort: 'date' | reverse %}
-{% for post in sortedfav limit:1 %}
-<div class="encart">
-  <h2 class="color_autres">Sélection du mois</h2>
-  {{ post.content }}
-  <a href="/category/favoris" class="liencat">Toutes les sélections</a>
-</div>
-{% endfor %}
 <!-- Dernier podcast (posts dans la catégorie podcasts)-->
 {% assign sortedpod = site.categories.podcast | sort: 'date_debut' | reverse %}
 {% for post in sortedpod limit:1 %}

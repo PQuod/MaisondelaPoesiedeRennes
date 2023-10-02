@@ -152,18 +152,6 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Nom", name: "name", widget: "string"}
       - {label: 'Bio', name: 'body', widget: 'markdown'}
-  - name: "favoris"
-    label: "Sélections de livres"
-    folder: "_selections"
-    create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    fields:
-      - {label: "Invisible", name: "draft", widget: "boolean", required: false, default: false}
-      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
-      - {label: "Titre", name: "title", widget: "string"}
-      - {label: "Date", name: "date", widget: "datetime"}
-      - {label: "Mois", name: "mois", widget: "string"}
-      - {label: 'Description', name: 'body', widget: 'markdown'}
   - name: "journal"
     label: "Journal"
     folder: "_journal"
