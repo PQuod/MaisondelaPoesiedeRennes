@@ -66,6 +66,7 @@
       {% endif %}
     {% endfor %}
 </div>
+
 <!-- Dernier podcast (posts dans la catégorie podcasts)-->
 {% assign sortedpod = site.categories.podcast | sort: 'date_debut' | reverse %}
 {% for post in sortedpod limit:1 %}
