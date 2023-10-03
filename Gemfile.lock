@@ -9,6 +9,8 @@ GEM
       zeitwerk (~> 2.2, >= 2.2.2)
     addressable (2.8.0)
       public_suffix (>= 2.0.2, < 5.0)
+    airtable (0.0.9)
+      httparty
     bigdecimal (3.1.2)
     colorator (1.1.0)
     concurrent-ruby (1.1.10)
@@ -100,6 +102,7 @@ PLATFORMS
 
 DEPENDENCIES
   activesupport
+  airtable
   bigdecimal
   jekyll (~> 4.0.1)
   jekyll-dotenv
