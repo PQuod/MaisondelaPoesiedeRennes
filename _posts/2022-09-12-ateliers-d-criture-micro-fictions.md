@@ -7,11 +7,11 @@ date: 2023-06-07T07:52:13.831Z
 artiste:
   - Lucie Desaubliaux
 categories: rencontre
-date_debut: 2023-10-02T08:52:47.082Z
-date_fin: 2024-02-11T09:52:47.192Z
+date_debut: 2023-12-11T09:52:47.082Z
+date_fin: 2023-12-11T09:52:47.192Z
 dates_publiees: A partir du 2 octobre 2023 · 18h → 20h
 lieu: Maison de la Poésie de Rennes
-tarif: Payant, inscription obligatoire
+tarif: Inscriptions clôturées
 ---
 Durant 5 ateliers, il s'agira de construire cinq objets littéraires indépendants et qui pourtant, se déploient ensemble, liés par le même univers. 
 
@@ -33,7 +33,7 @@ Plein : entre 68 et 86 €, selon quotient familial.\
 Pas de remboursement.
 
 **Pour s’inscrire**\
-Retourner, par courrier ou en main propre, le **[bulletin d’inscription](/imgs/inscription-ateliers-d-criture-micro-fictions.pdf)** (PDF, 202ko) rempli, ainsi que le **chèque** avec le montant correspondant à votre quotient familial.
+Les inscriptions pour ces ateliers sont clôturées.
 
 **Comment connaître mon quotient familial ?**\
 Le quotient familial est calculé en fonction du foyer et des ressources. Pour le connaître, il faut se connecter à votre espace CAF, puis sur l’espace “Mon Compte”. Le quotient familial est visible sur la page d’accueil, à la rubrique “Mes paiements et mes droits”. Vous pouvez télécharger une attestation, que vous joindrez à votre paiement.
