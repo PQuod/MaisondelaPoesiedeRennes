@@ -30,5 +30,6 @@ gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 gem 'jekyll-liquify'
 gem 'jekyll-dotenv'
+gem 'airtable'
 gem 'activesupport'
 gem 'bigdecimal'
