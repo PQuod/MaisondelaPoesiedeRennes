@@ -1,6 +1,6 @@
 ---
 layout: post
-name: Doriné Lea (Mimi)
+name: Dorine Lea (Mimi)
 ---
 **Dorine Lea (Mimi)** est étudiante en 5ème année option Art à l’EESAB Rennes. 
 
