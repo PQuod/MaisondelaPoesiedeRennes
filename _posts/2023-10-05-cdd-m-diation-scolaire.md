@@ -14,7 +14,7 @@ lieu: Maison de la Poésie de Rennes
 
 La Maison de la Poésie de Rennes recherche un.e médiateurice scolaire pour un CDD à mi-temps (17h30 par semaine) du 8 janvier au 19 avril 2024, en remplacement d'un congé maternité. Le terme définitif est la fin de l'absence de la salariée remplacée.
 
-[PDF détaillé de l'offre d'emploi](/imgs/fiche-de-poste-m-diateurice-scolaire.pdf) (224 Ko) 
+[PDF détaillé de l'offre d'emploi](/imgs/fichedeposte-mediateuricescolaire.pdf) (224 Ko) 
 
 ## Pour postuler
 
