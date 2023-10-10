@@ -8,9 +8,9 @@ permalink: /residences/
 
 **Dispositif**
 
-Chaque saison, à l'automne (octobre-décembre) et au printemps (avril-juin), la Maison de la Poésie accueille deux résidences de création.
+Chaque saison, la Maison de la Poésie accueille deux résidences de création : une à l'automne (octobre-décembre) et l'autre au printemps (avril-juin).
 
-Elles sont **réservées à des projets d'écriture de poésie ou de prose poétique**, pour des artistes-auteurices francophones ayant publié au moins un livre à compte d'éditeur.
+Elles sont **réservées à des projets d'écriture de poésie ou de prose poétique**, pour des artistes-auteurices francophones ayant publié au moins un livre à compte d'éditeur par une maison diffusée en France.
 
 Elles ont deux enjeux principaux :
 
@@ -19,9 +19,9 @@ Elles ont deux enjeux principaux :
 
 **Localisation**
 
-Les résidences sont accueillies au premier étage de la villa Beauséjour, au 47 rue Armand Rébillon, dans un appartement de 40m2 avec un coin chambre, un coin salon, une kitchenette et une salle de bain.
+Les résidences sont accueillies au premier étage de la villa Beauséjour, au 47 rue Armand Rébillon, dans un appartement de 40 m² avec un coin chambre, un coin salon, une kitchenette et une salle de bain.
 
-Le rez-de-chaussée de la villa Beauséjour comprend une bibliothèque de plus de 3000 références de poésie contemporaine et un atelier de micro-édition.
+Le rez-de-chaussée de la villa Beauséjour comprend une bibliothèque de plus de 4000 références de poésie contemporaine et un atelier de micro-édition.
 
 **Durée du séjour**
 
@@ -35,7 +35,7 @@ Le rez-de-chaussée de la villa Beauséjour comprend une bibliothèque de plus d
 
 **Processus de sélection**
 
-Les résident.es sont sélectionné.es sur dossier par la commission Programmation de l'association, composée de 7 à 10 membres adhérents selon les saisons.
+Les auteurices sont sélectionné.es sur dossier par la commission Programmation de l'association, composée de 7 à 10 membres adhérents selon les saisons.
 
 L'évaluation des dossiers se fait sur la qualité et l'originalité du projet envisagé durant le temps de résidence, ainsi que sur les autres opportunités de bourses ou de résidences dans la même période (une année plus tôt et une année plus tard).
 
