@@ -5,7 +5,7 @@ type: event
 title: "Ateliers d'écriture : Multiples"
 date: 2023-10-05T09:20:41.199Z
 artiste:
-  - Doriné Lea (Mimi)
+  - Dorine Lea (Mimi)
 categories: scolaires
 date_debut: 2023-10-26T09:20:41.326Z
 date_fin: 2024-03-14T10:20:41.377Z
