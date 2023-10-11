@@ -6,7 +6,7 @@ title: CDD Médiation scolaire
 date: 2023-10-05T07:27:28.034Z
 categories: appel
 date_debut: 2023-10-05T07:27:28.098Z
-date_fin: 2023-10-05T07:27:28.147Z
+date_fin: 2023-11-19T08:27:28.147Z
 dates_publiees: Jusqu'au 19 novembre 2023
 lieu: Maison de la Poésie de Rennes
 ---
