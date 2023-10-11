@@ -11,7 +11,7 @@ date_debut: 2024-02-13T09:19:54.690Z
 date_fin: 2024-02-13T09:19:54.732Z
 dates_publiees: A partir du 10 octobre 2023 · 19h → 21h
 lieu: Maison de la Poésie de Rennes
-tarif: Complet, sur liste d'attente
+tarif: Inscriptions clôturées
 ---
 Cécile Cayrel invite à chercher dans ce qui nous entoure - la topographie, les visages, notre passé, celui des autres, la nature, le journal télévisé, les corps, les voyages - des sources pour écrire et transformer le quotidien en récit, en poésie, en jeu. 
 
@@ -27,7 +27,7 @@ Plein : entre 68 et 86 €, selon quotient familial.\
 Pas de remboursement.
 
 **Pour s’inscrire**\
-**Cet atelier est complet.** Pour figurer sur la liste d'attente, vous pouvez retourner, par courrier ou en main propre, le [bulletin d’inscription](/imgs/inscription-ateliers-d-criture-faire-mouche.pdf) (PDF, 200ko) rempli. Vous recevrez un email si jamais une place se libère.
+Les inscriptions pour ces ateliers sont clôturées.
 
 **Comment connaître mon quotient familial ?**\
 Le quotient familial est calculé en fonction du foyer et des ressources. Pour le connaître, il faut se connecter à votre espace CAF, puis sur l’espace “Mon Compte”. Le quotient familial est visible sur la page d’accueil, à la rubrique “Mes paiements et mes droits”. Vous pouvez télécharger une attestation, que vous joindrez à votre paiement.
