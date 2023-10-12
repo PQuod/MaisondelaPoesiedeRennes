@@ -11,8 +11,8 @@ date_debut: 2023-10-26T09:20:41.326Z
 date_fin: 2024-03-14T10:20:41.377Z
 dates_publiees: A partir du 26 octobre 2023 · 14h → 16h
 lieu: Maison de la Poésie de Rennes et EESAB Rennes
-tarif: Gratuit, inscription obligatoire, réservé aux étudiant.es en art, design
-  et communication de l'EESAB
+tarif: Complet, sur liste d'attente, réservé aux étudiant.es en art, design et
+  communication de l'EESAB
 partenaires: EESAB Rennes
 ---
 Hier, j’ai terminé un livre-jeu...\
@@ -40,4 +40,4 @@ Ces ateliers sont gratuits.
 Il est préférable d'assister à toutes les séances. 
 
 **Pour s’inscrire**  
-Il vous suffit d’envoyer un email à [dorine.lea@eesab.fr](mailto:dorine.lea@eesab.fr) avec votre nom, votre prénom et une adresse email à laquelle vous joindre. Ces ateliers sont réservés aux étudiant.es de l’EESAB.
+Les ateliers sont complets. Pour figurer sur la liste d'attente, vous pouvez envoyer un email à [dorine.lea@eesab.fr](mailto:dorine.lea@eesab.fr) avec votre nom, votre prénom et une adresse email à laquelle vous joindre. Vous serez contacté.es si une place se libère. Ces ateliers sont réservés aux étudiant.es de l’EESAB.
