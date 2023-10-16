@@ -9,7 +9,7 @@ artiste:
 categories: rencontre
 date_debut: 2023-11-19T10:58:50.937Z
 date_fin: 2023-11-19T10:58:50.983Z
-dates_publiees: 19 novembre 2023 · 18h
+dates_publiees: 19 novembre 2023 · 14h30
 lieu: Frac Bretagne, 19 avenue André Mussat, auditorium
 tarif: Entrée libre et gratuite
 partenaires: Frac Bretagne
