@@ -5,9 +5,9 @@ type: event
 title: Club de lecture des Beaux-Arts
 date: 2023-02-14T09:41:17.835Z
 categories: scolaires
-date_debut: 2023-10-13T08:41:18.094Z
-date_fin: 2023-10-13T08:41:18.182Z
-dates_publiees: 13 octobre 2023 · 12h → 14h
+date_debut: 2023-11-10T09:41:18.094Z
+date_fin: 2023-11-10T09:41:18.182Z
+dates_publiees: 10 novembre 2023 · 12h → 14h
 lieu: Bibliothèque de l'EESAB, 34 rue Hoche
 tarif: Entrée libre et gratuite, réservée aux étudiant.es en art, design et
   communication de l'EESAB
@@ -28,6 +28,18 @@ Vous trouverez ci-dessous tous les livres conseillés aux clubs précédents par
 - - -
 
 ## 2023
+
+**Club du 13 octobre 2023**
+
+* *Figures du jour* & Mannequins, Debora Vogel (trad. B. Baum), éditions La Barque
+* *Canis minor*, Hugo Pernet, éditions Série discrète
+* *Bleuets*, Maggie Nelson (trad. C. Leroy), éditions du sous-sol
+* *L'odeur des pierres mouillées*, Léa Rivière, éditions du commun
+* *Quelque chose* et *Aberrants et dinosaures*, Amandine André, éditions Al Dante et L'Extrême contemporain
+* *Alphabet*, Inger Christensen (trad. J. et K. E. Poulsen), éditions Ypsilon
+* *Plus rares sont les roses*, Mahmoud Darwich (trad. A. Lâabi), éditions de Minuit
+* *Tombes de verre*, Abbas Beydoun (trad. M. Ayoub et A. Jockey), éditions Actes Sud
+* *Audimat 13*, Collectif, Audimat éditions
 
 **Club du 9 juin 2023**
 
