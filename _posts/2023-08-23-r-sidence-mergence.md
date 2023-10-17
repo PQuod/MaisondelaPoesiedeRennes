@@ -8,8 +8,8 @@ artiste:
   - Victor Hamonic
 categories: residence
 date_debut: 2023-09-11T07:39:51.798Z
-date_fin: 2023-10-15T07:39:51.882Z
-dates_publiees: 11 septembre → 15 octobre 2023
+date_fin: 2023-10-22T07:39:51.882Z
+dates_publiees: 11 septembre → 22 octobre 2023
 lieu: Maison de la Poésie de Rennes
 ---
 **Victor Hamonic** est accueilli en résidence pour travailler sur un livre qui imbriquerait quelques-unes des voix hétéronymiques avec lesquelles il travaille (Jack Torrance, Lazuli, Geneviève Burning, Bistor, Miss Brodway, etc.), pour mettre en tension leurs liens transfictionnels. 
