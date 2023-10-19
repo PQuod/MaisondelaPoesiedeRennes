@@ -11,7 +11,7 @@ date_debut: 2024-02-06T08:35:57.626Z
 date_fin: 2024-02-06T08:35:57.693Z
 dates_publiees: A partir du 17 octobre 2023 · 20h → 22h
 lieu: Maison de la Poésie de Rennes
-tarif: Complet, sur liste d'attente
+tarif: Inscriptions clôturées
 ---
 À l'heure de repenser notre rapport au monde pour mieux l'habiter et le protéger, que peut l'écriture ? Construire de nouveaux imaginaires de nos corps en lien avec le vivant est une piste que les ateliers *Écrire vivant* se proposent d'explorer
 
@@ -31,7 +31,7 @@ Plein : entre 68 et 86 €, selon quotient familial.\
 Pas de remboursement.
 
 **Pour s’inscrire**\
-**Cet atelier est complet.** Pour figurer sur la liste d’attente, vous pouvez retourner, par courrier ou en main propre, le **[bulletin d’inscription](/imgs/inscription-ateliers-juliette-thomas.pdf)** (PDF, 202ko) rempli. Vous recevrez un email si jamais une place se libère.
+Les inscriptions pour ces ateliers sont clôturées.
 
 **Comment connaître mon quotient familial ?**\
 Le quotient familial est calculé en fonction du foyer et des ressources. Pour le connaître, il faut se connecter à votre espace CAF, puis sur l'espace "Mon Compte". Le quotient familial est visible sur la page d'accueil, à la rubrique "Mes paiements et mes droits". Vous pouvez télécharger une attestation, que vous joindrez à votre paiement.
