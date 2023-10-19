@@ -7,9 +7,9 @@ type: event
 title: Club de lecture
 date: 2022-06-28T08:29:30.328Z
 categories: associatif
-date_debut: 2023-10-17T22:00:00.000Z
-date_fin: 2023-10-17T22:00:00.000Z
-dates_publiees: 18 octobre 2023 · 20h → 21h30
+date_debut: 2023-11-14T23:00:00.000Z
+date_fin: 2023-11-14T23:00:00.000Z
+dates_publiees: 15 novembre 2023 · 20h → 21h30
 lieu: Maison de la Poésie de Rennes
 ---
 ## Fonctionnement
@@ -28,6 +28,13 @@ Vous trouverez ci-dessous tous les livres conseillés ces dernières années par
 - - -
 
 ## 2023
+
+**Club du 18 octobre 2023**
+
+* *La Lune de l'Âpre Neige*, Waubgeshig Rice (trad. A. Chainas), éditions Les Arènes
+* *Normal People*, Sally Rooner (trad. S. Roques), éditions de l'Olivier
+* *Nuits blanches en Oklahoma*, Collectif, éditions Okama
+* *Petit manuel philosophique à l'intention des grands émotifs*, Ilaria Gaspari, éditions PUF
 
 **Club du 20 septembre 2023**
 
