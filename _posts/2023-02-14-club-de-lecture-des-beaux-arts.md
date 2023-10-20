@@ -31,7 +31,7 @@ Vous trouverez ci-dessous tous les livres conseillés aux clubs précédents par
 
 **Club du 13 octobre 2023**
 
-* *Figures du jour* & Mannequins, Debora Vogel (trad. B. Baum), éditions La Barque
+* *Figures du jour & Mannequins*, Debora Vogel (trad. B. Baum), éditions La Barque
 * *Canis minor*, Hugo Pernet, éditions Série discrète
 * *Bleuets*, Maggie Nelson (trad. C. Leroy), éditions du sous-sol
 * *L'odeur des pierres mouillées*, Léa Rivière, éditions du commun
