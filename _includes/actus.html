@@ -67,6 +67,15 @@
     {% endfor %}
 </div>
 
+<div class="encart">
+  <h2 class="color_autres">Coups de coeur</h2>
+  <ul>
+    <li>♡ Dorine : Hugo Pernet, <i>Canis Minor</i></li>
+    <li>♡ Quentin : Yvon Le Men, <i>Les Épiphaniques</i></li>
+    <li>♡ Lucie : Maggie Nelson, <i>Bleuets</i></li>
+  </ul>
+</div>
+
 <!-- Dernier podcast (posts dans la catégorie podcasts)-->
 {% assign sortedpod = site.categories.podcast | sort: 'date_debut' | reverse %}
 {% for post in sortedpod limit:1 %}
