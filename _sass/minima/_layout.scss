@@ -212,6 +212,10 @@ button:hover {
   }
 }
 
+
+.cpdecoeur::before{
+  content: '♡';
+}
 .screen-display-none {
   display: none;
 }
