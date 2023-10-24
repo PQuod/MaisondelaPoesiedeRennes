@@ -1,5 +1,5 @@
 {
   "site_title": "Maison<br> de la Poésie<br> de Rennes",
   "site_logo": "/imgs/logo.png",
-  "cpdecoeur": "<li>Dorine : Hugo Pernet, <i>Canis Minor</i></li><li>Quentin : Yvon Le Men, <i>Les Épiphaniques</i></li><li>Lucie : Maggie Nelson, <i>Bleuets</i></li>"
+  "cpdecoeur": "<li class=\"cpdecoeur\">Dorine : Hugo Pernet, <i>Canis Minor</i></li><li class=\"cpdecoeur\">Quentin : Yvon Le Men, <i>Les Épiphaniques</i></li><li class=\"cpdecoeur\">Lucie : Maggie Nelson, <i>Bleuets</i></li>"
 }
