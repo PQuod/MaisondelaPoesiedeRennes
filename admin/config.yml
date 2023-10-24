@@ -48,8 +48,6 @@ collections:
           - { label: 'Commission Programmation', name: 'prog', widget: 'string'}
           - { label: "Commission Communication", name: "comm", widget: "string"}
           - { label: "Commission Vie du Lieu", name: "lieu", widget: "string" }
-        
-
   - name: "evenements" # Used in routes, e.g., /admin/collections/blog
     label: "Evenements" # Used in the UI
     folder: "_posts" # The path to the folder where the documents are stored
@@ -151,8 +149,7 @@ collections:
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Nom", name: "name", widget: "string"}
-      - {label: 'Bio', name: 'body', widget: 'markdown'}
-      
+      - {label: 'Bio', name: 'body', widget: 'markdown'}     
   - name: "journal"
     label: "Journal"
     folder: "_journal"
@@ -165,7 +162,6 @@ collections:
       - {label: "Date", name: "date", widget: "datetime"}
       - {label: "Auteur", name: "auteur", widget: "string", required: false }
       - {label: 'Description', name: 'body', widget: 'markdown'}
-
   - name: "pages"
     label: "Pages"
     files:
@@ -247,16 +243,17 @@ collections:
     delete: false
     editor:
       preview: false
-    file: '_data/settings.json'
-    description: 'Liste des coups de coeur'
-    fields: 
-      - { label: 'Coup de coeur n°1 :', name: 'coeur_1', widget: 'string'}
-      - { label: 'Coup de coeur n°2 :', name: 'coeur_2', widget: 'string'}
-      - { label: 'Coup de coeur n°3 :', name: 'coeur_3', widget: 'string'}
-      - { label: 'Coup de coeur n°4 :', name: 'coeur_4', widget: 'string'}
-      - { label: 'Coup de coeur n°5 :', name: 'coeur_5', widget: 'string'}
-
-  
+    files: 
+      - name: "listcpdecoeurs"
+        label: 'Liste des Coups de cœur'
+        file: '_data/settings.json'
+        description: 'Liste des coups de cœur'
+        fields: 
+          - { label: 'Coup de cœur n°1 :', name: 'coeur_1', widget: 'string'}
+          - { label: 'Coup de cœur n°2 :', name: 'coeur_2', widget: 'string'}
+          - { label: 'Coup de cœur n°3 :', name: 'coeur_3', widget: 'string'}
+          - { label: 'Coup de cœur n°4 :', name: 'coeur_4', widget: 'string'}
+          - { label: 'Coup de cœur n°5 :', name: 'coeur_5', widget: 'string'}
   - name: "options"
     label: "Options"
     delete: false
