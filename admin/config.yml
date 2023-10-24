@@ -242,6 +242,21 @@ collections:
           - {label: "Layout", name : "layout", widget: "hidden", default: "rubrique"}
           - {label: "Permalink", name: "permalink", widget: "hidden", default:"/mentions/"}
           - {label: 'Description', name: 'body', widget: 'markdown'}
+  - name: "coupdecoeur"
+    label: "Coups de coeur"
+    delete: false
+    editor:
+      preview: false
+    file: '_data/settings.json'
+    description: 'Liste des coups de coeur'
+    fields: 
+      - { label: 'Coup de coeur n°1 :', name: 'coeur_1', widget: 'string'}
+      - { label: 'Coup de coeur n°2 :', name: 'coeur_2', widget: 'string'}
+      - { label: 'Coup de coeur n°3 :', name: 'coeur_3', widget: 'string'}
+      - { label: 'Coup de coeur n°4 :', name: 'coeur_4', widget: 'string'}
+      - { label: 'Coup de coeur n°5 :', name: 'coeur_5', widget: 'string'}
+
+  
   - name: "options"
     label: "Options"
     delete: false

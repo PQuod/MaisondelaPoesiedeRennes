@@ -2,5 +2,10 @@
   "nb_posts_home": 10,
   "horaires": "47 rue Armand Rébillon<br><br>\nOuvert<br>\ndu lundi au vendredi<br>\nde 9h à 17h<br><br>",
   "site_title": "Maison<br> de la Poésie<br> de Rennes",
-  "site_logo": "/imgs/logo.png"
+  "site_logo": "/imgs/logo.png",
+  "coeur_1": "Dorine : Hugo Pernet, <i>Canis Minor</i>",
+  "coeur_2": "Quentin : Yvon Le Men, <i>Les Épiphaniques</i>",
+  "coeur_3": "Lucie : Maggie Nelson, <i>Bleuets</i>",
+  "coeur_4": "Lucie : Dennis Cooper, <i>Dieu jr.</i>",
+  "coeur_5": "??? : ???"
 }
