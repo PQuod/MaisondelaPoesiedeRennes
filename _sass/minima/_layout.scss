@@ -217,7 +217,7 @@ button:hover {
   line-height: calc(var(--line-height) / 1.5);
 }
 
-.cpdecoeur::before{
+.cpdecoeur li::before{
   content: '♡  ';
 }
 .screen-display-none {

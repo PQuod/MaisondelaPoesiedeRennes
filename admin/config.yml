@@ -249,11 +249,7 @@ collections:
         file: '_data/settings.json'
         description: 'Liste des coups de cœur'
         fields: 
-          - { label: 'Coup de cœur n°1 :', name: 'coeur_1', widget: 'string'}
-          - { label: 'Coup de cœur n°2 :', name: 'coeur_2', widget: 'string'}
-          - { label: 'Coup de cœur n°3 :', name: 'coeur_3', widget: 'string'}
-          - { label: 'Coup de cœur n°4 :', name: 'coeur_4', widget: 'string'}
-          - { label: 'Coup de cœur n°5 :', name: 'coeur_5', widget: 'string'}
+          - { label: 'Coups de cœur :', name: 'cpdecoeur', widget: 'string'}
   - name: "options"
     label: "Options"
     delete: false
