@@ -1,5 +1,10 @@
+@font-face {
+  font-family: Adelpheregular;
+  src: url("assets/fonts/Adelphe-FructidorRegular.woff") format("woff");
+}
+
 :root {
-  --text-font: "Amaranth", sans-serif;
+  --text-font: "Adelpheregular", sans-serif;
   --line-height: 30px;
   --text-color: black;
   --color_res:#a1dbb2;
