@@ -2,7 +2,7 @@
 draft: false
 layout: post
 type: breve
-title: Rencontres de la troisième à la terminale
+title: Prix des Découvreurs - De la troisième à la terminale
 date: 2023-10-30T12:51:28.656Z
 categories: scolaires
 date_debut: 2023-10-30T12:51:28.755Z
