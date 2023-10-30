@@ -52,9 +52,9 @@ Les artistes **Gabriel Gauthier** et **Maxime Devige** (avec qui nous avons déj
 
 Chaque année, la Maison de la Poésie de Rennes soutient le **Prix des Découvreurs** en invitant deux artistes de la sélection à venir rencontrer les classes des collèges (3èmes) et lycées (tous niveaux) de Bretagne.
 
-**Perrine Le Querrec** est présente en Bretagne la semaine du 11mars 2024 pour rencontrer les classes  autour de son ouvrage *La Fille du chien* (éditions des Lisières, 2023).
+**Perrine Le Querrec** est présente en Bretagne la semaine du 11mars 2024 pour rencontrer les classes  autour de son ouvrage *La Fille du chien* (éditions des Lisières, 2023). Des créneaux sont encore disponibles pour organiser une rencontre dans les classes.
 
-**Milène Tournier** est présente en Bretagne la semaine du 8 avril 2024 pour rencontrer les classes autour de son ouvrage *Ce que m'a soufflé la ville* (le Castor Astral, 2023).
+**Milène Tournier** est présente en Bretagne la semaine du 8 avril 2024 pour rencontrer les classes autour de son ouvrage *Ce que m'a soufflé la ville* (le Castor Astral, 2023). Elle rencontre les classes de 3ème des collège Le Querpon (Val d'Anast), Le Landry (Rennes), Théodore Monod (Vern-sur-Seiche) et Simone Veil (Crevin), ainsi qu'une classe de Terminale BMA du lycée Jean Jaurès (Rennes).
 
 - - -
 
@@ -64,7 +64,7 @@ Chaque année, la Maison de la Poésie de Rennes soutient le **Prix des Découvr
 
 Un an sur deux a lieu **La Poésie qui vient,** une semaine lors de laquelle nous invitons deux artistes émergent·es en résidence à la Maison de la Poésie. **Poètes en classe** est le prolongement de ce rendez-vous, et permet aux deux artistes de venir donner des ateliers dans 4 établissements de primaire.
 
-Cette année, du 19 au 22 mars 2024, nous accueillons **Grégoire Sourice** et **Olivia Tapiero.**
+Cette année, du 19 au 22 mars 2024, nous accueillons **Grégoire Sourice** et **Olivia Tapiero**, qui rencontrent les classes des écoles Jean Rostand, Les Clôteaux et Roz-Landrieux.
 
 - - -
 
