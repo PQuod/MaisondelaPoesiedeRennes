@@ -5,10 +5,10 @@ type: event
 title: Club de lecture des Beaux-Arts
 date: 2023-02-14T09:41:17.835Z
 categories: scolaires
-date_debut: 2023-11-10T09:41:18.094Z
-date_fin: 2023-11-10T09:41:18.182Z
-dates_publiees: 10 novembre 2023 · 12h → 14h
-lieu: Bibliothèque de l'EESAB, 34 rue Hoche
+date_debut: 2023-12-08T09:41:18.094Z
+date_fin: 2023-12-08T09:41:18.182Z
+dates_publiees: 8 décembre 2023 · 12h → 14h
+lieu: Maison de la Poésie de Rennes
 tarif: Entrée libre et gratuite, réservée aux étudiant.es en art, design et
   communication de l'EESAB
 partenaires: Ecole européenne supérieure d'art de Bretagne
@@ -28,6 +28,16 @@ Vous trouverez ci-dessous tous les livres conseillés aux clubs précédents par
 - - -
 
 ## 2023
+
+**Club du 10 novembre 2023**
+
+* *La Cartothèque*, Lev Rubinstein (trad. H. Henry), éditions Le Tripode
+* *Le supplément télévision*, Elisabeth Jacquet, éditions de l'Attente
+* *Caramel*, Zoé Philibert, éditions Riga Le Lait
+* *ROSE2RAGE*, Téophylle DCX, éditions Burn~Août
+* *Les pédales et leurs ami.es entre les révolutions*, Larry Mitchell & Ned Asta, éditions du commun
+* *L'Araignée et la rose*, Marcela Delpastre, Edicions dau chamin de sent jaume
+* *Verdicts*, Lida Youssoupova (trad. M. Skalova), éditions Zoème
 
 **Club du 13 octobre 2023**
 
