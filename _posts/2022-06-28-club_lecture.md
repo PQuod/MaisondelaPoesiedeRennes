@@ -7,9 +7,9 @@ type: event
 title: Club de lecture
 date: 2022-06-28T08:29:30.328Z
 categories: associatif
-date_debut: 2023-11-14T23:00:00.000Z
-date_fin: 2023-11-14T23:00:00.000Z
-dates_publiees: 15 novembre 2023 · 20h → 21h30
+date_debut: 2023-12-19T23:00:00.000Z
+date_fin: 2023-12-19T23:00:00.000Z
+dates_publiees: 20 décembre 2023 · 20h → 21h30
 lieu: Maison de la Poésie de Rennes
 ---
 ## Fonctionnement
@@ -28,6 +28,17 @@ Vous trouverez ci-dessous tous les livres conseillés ces dernières années par
 - - -
 
 ## 2023
+
+**Club du 15 novembre 2023**
+
+* *Le Livre du Graal, Tome II*, Anonyme (trad. A. Berthelot, M. Demaules et J.-M. Fritz), éditions La Pléiade
+* *Les Impératifs*, Ma'Arri (trad. P. Megarbane), éditions Actes Sud
+* *Croire aux fauves*, Nastassja Martin, éditions Verticales
+* *The Corpse Queen*, Heather M. Herrman, éditions Fibs
+* *Vous qui faites la narse*, Richard Pereira de Moura et Floriane Pilon, autoédition
+* *Le Passe-Miroir, tome 1 : Les fiancés de l'hiver*, Christelle Dabos, éditions Gallimard
+* *Tous les arbres au-dessous*, Antoine Jaquier, éditions Au Diable Vauvert
+* *Xenogenesis : L'Aube*, Octavia E. Butler (trad. J. Shapiro), éditions Au Diable Vauvert
 
 **Club du 18 octobre 2023**
 
