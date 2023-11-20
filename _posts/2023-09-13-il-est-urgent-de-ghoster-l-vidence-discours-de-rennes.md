@@ -23,4 +23,4 @@ Ce Discours de Rennes a pris son élan dans les films de Jeremy Deller sur la mu
 * Jeremy Deller, *Everybody In The Place - An Incomplete History of Britain 1984-1992*, 2018.
 * Jeremy Deller et Nick Abrahams, *Our Hobby Is Depeche Mode*, 2006.
 
-Cette performance est la restitution de [la résidence Avec la langue #3](https://maiporennes.fr/residence/2022/11/29/r-sidence-avec-la-langue-3). Elle a lieu pendant l'événement We Frac 2023.
+Cette performance est la restitution de [la résidence Avec la langue #3](https://maiporennes.fr/residence/2022/11/29/r-sidence-avec-la-langue-3). Elle a lieu pendant l'événement We Frac 2023. 
