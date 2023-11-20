@@ -7,9 +7,9 @@ date: 2023-04-25T07:51:35.095Z
 artiste:
   - Sal
 categories: residence
-date_debut: 2023-10-31T08:51:35.230Z
-date_fin: 2023-12-10T08:51:35.325Z
-dates_publiees: 31 octobre → 10 décembre 2023
+date_debut: 2023-11-27T08:51:35.230Z
+date_fin: 2024-01-21T08:51:35.325Z
+dates_publiees: 27 novembre 2023 → 21 janvier 2024
 lieu: Maison de la Poésie de Rennes
 ---
 **Sal** souhaite travailler sur un projet intitulé *Le feu qui attise le vent*, un ensemble de poèmes dans lequel il tente de refléter des instants du conflit armé colombien des 25 dernières années, et qui se situe dans le prolongement esthétique et thématique de son dernier projet *Medellín en matière noire*. 
