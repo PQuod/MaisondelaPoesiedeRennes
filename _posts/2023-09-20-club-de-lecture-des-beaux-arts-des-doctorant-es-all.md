@@ -5,9 +5,9 @@ type: event
 title: Club de lecture des doctorant.es (ALL)
 date: 2023-09-20T11:49:44.454Z
 categories: scolaires
-date_debut: 2023-11-20T12:49:44.613Z
-date_fin: 2023-11-21T12:49:44.688Z
-dates_publiees: 20 novembre 2023 · 18h → 19h30
+date_debut: 2023-12-18T12:49:44.613Z
+date_fin: 2023-12-18T12:49:44.688Z
+dates_publiees: 18 décembre 2023 · 18h → 19h30
 lieu: Maison de la Poésie de Rennes ou Discord
 tarif: Entrée libre et gratuite, réservée aux doctorant.es ALL de l'Université
   Rennes 2
@@ -24,6 +24,16 @@ Vous trouverez ci-dessous tous les livres conseillés aux clubs précédents par
 ***
 
 ## 2023
+
+**Club du 20 novembre 2023**
+
+- Lola Lafon, *Quand tu écouteras cette chanson*, éditions Stock
+- Jeanne Burgart Goutal et Aurore Chapon, *Resisters*, éditions Tana
+- Mariana Enriquez, *Les Dangers de fumer au lit* (trad. A. Plantagenet), éditions du sous-sol
+- Ali Hazelwood, *Love On The Brain* (trad. N. Guillaume), éditions Hauteville
+- Fabrine Neaud, *Les riches heures, tome 4*, éditions Ego Comme X
+- Mike Mignola et Christopher Golden, *Hellboy, tome 17 : Les os des géants*, éditions Glénat
+- Collectif, *Anthologie de la poésie palestinienne d'aujourd'hui* (trad. A. Laâbi), éditions Points
 
 **Club du 18 septembre 2023**
 
