@@ -5,7 +5,7 @@ date: 2023-12-05T12:33:24.549Z
 cat: ca
 ---
 **Date :** 28 novembre 2023 à 18 h 30  
-**Présent.es :** Charlotte, Anne-Marie, Rafaëlle, Valentin, François, Stéphanie, Quentin
+**Présent.es :** Charlotte, Anne-Marie, Rafaëlle, Valentin, François, Stéphanie, Quentin  
 **Excusé.es :** Marie, Anaël, Monique, La Balade des Livres  
 **Durée de la réunion :** 1 heure 30
 
