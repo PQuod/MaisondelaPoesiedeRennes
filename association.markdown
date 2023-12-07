@@ -60,7 +60,7 @@ François Trémolières ([Université Rennes 2](http://www.univ-rennes2.fr/)) &m
 L’adhésion est valable une année civile (de janvier à décembre) :
 
 * 10 euros pour les particuliers
-* Gratuit pour les étudiants et demandeurs d'emploi
+* Gratuit pour les étudiant.es et demandeureuses d'emploi
 * 30 euros pour les personnes morales
 
 Merci de nous retourner le bulletin d'adhésion et le paiement (chèque ou espèce) par voie postale à :
