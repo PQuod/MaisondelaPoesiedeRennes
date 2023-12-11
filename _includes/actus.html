@@ -19,13 +19,17 @@
   <h2 class="color_res">Résidences</h2>
   <!-- Sélection des posts de résidence (scolaire ou non)-->
   {% assign sorted2 = site.posts | sort: 'date_debut' %}
+  {% assign encourscount = 0 %}
   {% for post in sorted2 %}
     {% if post.draft != true %}
       {% if post.categories contains "residence" or post.categories contains "residence_scolaire" %}
         {% include scripts/dates.html %}
         {% if debutdate <= nowdate and findate>= nowdate %}
           <div class="encart_res">
-              <h3 class="encart_titre prems">En cours</h3>
+              {% if encourscount == 0 %}
+                <h3 class="encart_titre prems">En cours</h3>
+              {% endif %}
+              {% increment encourscount %}
               <a href="{{ post.url }}" title="Résidence en cours de {{post.artiste}}">
                 <h4>{{ post.artiste | join: ", " }}</h4>
               </a>
@@ -67,11 +71,12 @@
     {% endfor %}
 </div>
 
+<!--
 <div class="encart">
   <h2 class="color_autres">Coups de c&#339;ur</h2>
     {{ site.data.settings.cpdecoeur }}
   </ul>
-</div>
+</div> -->
 
 <!-- Dernier podcast (posts dans la catégorie podcasts)-->
 {% assign sortedpod = site.categories.podcast | sort: 'date_debut' | reverse %}
