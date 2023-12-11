@@ -25,8 +25,11 @@
         {% include scripts/dates.html %}
         {% if debutdate <= nowdate and findate>= nowdate %}
           <div class="encart_res">
+            {% assign counter = counter | plus: 1 %}
+            {{ counter }}
+            {% if counter == 1 %}
                 <h3 class="encart_titre prems">En cours</h3>
-                lala
+            {% endif %}
               <a href="{{ post.url }}" title="Résidence en cours de {{post.artiste}}">
                 <h4>{{ post.artiste | join: ", " }}</h4>
               </a>
