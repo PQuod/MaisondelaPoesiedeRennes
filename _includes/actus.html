@@ -26,7 +26,6 @@
         {% if debutdate <= nowdate and findate>= nowdate %}
           <div class="encart_res">
             {% assign counter = counter | plus: 1 %}
-            {{ counter }}
             {% if counter == 1 %}
                 <h3 class="encart_titre prems">En cours</h3>
             {% endif %}
