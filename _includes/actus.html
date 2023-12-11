@@ -43,7 +43,10 @@
       {% if post.categories contains "residence" or post.categories contains "residence_scolaire" %}
         {% include scripts/dates.html %}
         {% if debutdate > nowdate %}
-          <h3 class="encart_titre prems">À venir</h3>
+        {% assign counter = counter | plus: 1 %}
+            {% if counter == 1 %}
+              <h3 class="encart_titre prems">À venir</h3>
+            {% endif %}
           <a href="{{ post.url }}" title="Résidence à venir de {{post.artiste}}">
             <h4>{{ post.artiste | join: ", " }}</h4>
           </a>
