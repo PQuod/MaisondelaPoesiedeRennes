@@ -24,8 +24,11 @@
       {% if post.categories contains "residence" or post.categories contains "residence_scolaire" %}
         {% include scripts/dates.html %}
         {% if debutdate <= nowdate and findate>= nowdate %}
+        {% assign counterrez = counter | plus: 1 %}
           <div class="encart_res">
+              {% if counterrez == 1 %}
                 <h3 class="encart_titre prems">En cours</h3>
+              {% endif %}
               <a href="{{ post.url }}" title="Résidence en cours de {{post.artiste}}">
                 <h4>{{ post.artiste | join: ", " }}</h4>
               </a>
