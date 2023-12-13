@@ -7,7 +7,7 @@ date: 2023-10-05T09:20:41.199Z
 artiste:
   - Dorine Lea (Mimi)
 categories: scolaires
-date_debut: 2024-03-14T10:20:41.326Z
+date_debut: 2023-12-12T10:20:41.326Z
 date_fin: 2023-12-12T10:20:41.377Z
 dates_publiees: A partir du 26 octobre 2023 · 14h → 16h
 lieu: Maison de la Poésie de Rennes et EESAB Rennes
