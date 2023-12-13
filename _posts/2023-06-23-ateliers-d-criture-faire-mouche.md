@@ -8,7 +8,7 @@ artiste:
   - Cécile Cayrel
 categories: rencontre
 date_debut: 2024-02-13T09:19:54.690Z
-date_fin: 2024-02-13T09:19:54.732Z
+date_fin: 2023-12-12T09:19:54.732Z
 dates_publiees: A partir du 10 octobre 2023 · 19h → 21h
 lieu: Maison de la Poésie de Rennes
 tarif: Inscriptions clôturées
