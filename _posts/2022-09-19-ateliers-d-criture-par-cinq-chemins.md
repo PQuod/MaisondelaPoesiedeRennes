@@ -7,7 +7,7 @@ date: 2023-06-05T14:30:03.085Z
 artiste:
   - Juliette Thomas
 categories: rencontre
-date_debut: 2024-02-06T08:35:57.626Z
+date_debut: 2023-12-12T08:35:57.626Z
 date_fin: 2023-12-12T08:35:57.693Z
 dates_publiees: A partir du 17 octobre 2023 · 20h → 22h
 lieu: Maison de la Poésie de Rennes
