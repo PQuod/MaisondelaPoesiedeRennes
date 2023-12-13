@@ -5,9 +5,9 @@ type: event
 title: Club de lecture des Beaux-Arts
 date: 2023-02-14T09:41:17.835Z
 categories: scolaires
-date_debut: 2023-12-08T09:41:18.094Z
-date_fin: 2023-12-08T09:41:18.182Z
-dates_publiees: 8 décembre 2023 · 12h → 14h
+date_debut: 2024-01-12T09:41:18.094Z
+date_fin: 2024-01-12T09:41:18.182Z
+dates_publiees: 12 janvier 2024 · 12h → 14h
 lieu: Maison de la Poésie de Rennes
 tarif: Entrée libre et gratuite, réservée aux étudiant.es en art, design et
   communication de l'EESAB
@@ -28,6 +28,14 @@ Vous trouverez ci-dessous tous les livres conseillés aux clubs précédents par
 - - -
 
 ## 2023
+
+**Club du 8 décembre 2023**
+
+* *Wait Til I'm Dead*, Allen Ginsberg, éditions Penguin Modern Classics
+* *Colza*, Al Baylac, éditions Blast
+* *Sur la page, abandonnés*, Collectif, éditions Extensible
+* *Musée britannique*, Jorn H. Svaeren (trad. E. Reymond), éditions Eric Pesty
+* *Nous allons perdre deux minutes de lumière*, Frédéric Forte, éditions POL
 
 **Club du 10 novembre 2023**
 
