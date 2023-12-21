@@ -7,9 +7,9 @@ type: event
 title: Club de lecture
 date: 2022-06-28T08:29:30.328Z
 categories: associatif
-date_debut: 2023-12-19T23:00:00.000Z
-date_fin: 2023-12-19T23:00:00.000Z
-dates_publiees: 20 décembre 2023 · 20h → 21h30
+date_debut: 2024-01-16T23:00:00.000Z
+date_fin: 2024-01-16T23:00:00.000Z
+dates_publiees: 17 janvier 2024 · 20h → 21h30
 lieu: Maison de la Poésie de Rennes
 ---
 ## Fonctionnement
@@ -28,6 +28,12 @@ Vous trouverez ci-dessous tous les livres conseillés ces dernières années par
 - - -
 
 ## 2023
+
+**Club du 20 décembre 2023**
+
+* *The Sun and Her Flowers*, Rupi Kaur, Andrews McMeel Publishing
+* *Traces*, Niki de Saint Phalle, éditions Gallimard/L'Imaginaire
+* *Bouvard et Pécuchet*, Gustave Flaubert, éditions Folio
 
 **Club du 15 novembre 2023**
 
