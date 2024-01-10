@@ -12,7 +12,7 @@ date_fin: 2024-05-26T08:51:32.638Z
 dates_publiees: 1er avril → 26 mai 2024
 lieu: Maison de la Poésie de Rennes
 ---
-Laure Mathieu souhaite travailler sur un texte qui n'a pas encore de nom, autour des vers, de la mémoire, et de la répétition historique. 
+**Laure Mathieu** souhaite travailler sur un texte qui n'a pas encore de nom, autour des vers, de la mémoire, et de la répétition historique. 
 
 > C'est un ensemble de fragments que j'aimerai travailler en livre. Ça part de différents éléments à la fois scientifique (la transmission de mémoire par les vers dont j'ai déjà parlé dans une performance, la formation des trous de vers) et historiques. Il y a des bouts drôles et d'autres encore à travailler.
 
