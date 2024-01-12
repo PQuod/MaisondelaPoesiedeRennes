@@ -6,6 +6,6 @@ name: Olivia Tapiero
 
 Elle est notamment l'autrice de *Rien du tout* (Mémoire d'encrier, 2021), *Phototaxie* (Mémoire d'encrier, 2017), *Espaces* (XYZ, 2012) et *Les murs* (VLB, 2009). 
 
-Elle est rédactrice en chef de la revue [Moebius].(https://www.revuemoebius.com/) 
+Elle est rédactrice en chef de la revue [Moebius](https://www.revuemoebius.com). 
 
 [Son site internet](https://oliviatapiero.com/)
