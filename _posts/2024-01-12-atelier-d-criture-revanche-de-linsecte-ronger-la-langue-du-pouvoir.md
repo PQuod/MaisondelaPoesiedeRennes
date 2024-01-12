@@ -19,10 +19,10 @@ Une discussion autour de cette pratique et de ses ramifications politiques et po
 
 Les participant.es sont invité.es à se poser les questions suivantes : qu’est-ce qui disparaît quand on décrit ? Qu’est-ce qui est révélé quand on efface ? Comment la langue du pouvoir peut-elle être détournée, voir retournée contre elle-même ?
 
-**Pour s'inscrire**
+**Pour s'inscrire**  
 Il suffit de nous transmettre votre nom, votre prénom et votre adresse email à [contact@maiporennes.fr](mailto:contact@maiporennes.fr) ou par téléphone au 02 99 51 33 32.
 
-**La poésie qui vient**
+**La poésie qui vient**  
 Pendant [La poésie qui vient](https://maiporennes.fr/rencontre/2023/09/14/la-po-sie-qui-vient-4), **Olivia Tapiero** et **Grégoire Sourice** proposent chacun.e un atelier d’écriture de 2 heures.
 
 Ces ateliers d’écriture sont ouverts à toutes et à tous, peu importe le niveau ou les habitudes d’écriture.
