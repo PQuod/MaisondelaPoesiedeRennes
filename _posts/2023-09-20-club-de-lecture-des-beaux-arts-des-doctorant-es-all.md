@@ -6,8 +6,8 @@ title: Club de lecture des doctorant.es (ALL)
 date: 2023-09-20T11:49:44.454Z
 categories: scolaires
 date_debut: 2024-01-15T12:49:44.613Z
-date_fin: 2024-01-15T12:49:44.688Z
-dates_publiees: 15 janvier 2024 · 18h → 19h30
+date_fin: 2024-02-12T12:49:44.688Z
+dates_publiees: 12 février 2024 · 18h → 19h30
 lieu: Maison de la Poésie de Rennes ou Discord
 tarif: Entrée libre et gratuite, réservée aux doctorant.es ALL de l'Université
   Rennes 2
@@ -22,6 +22,16 @@ Un club de lecture sur deux se déroule à la Maison de la Poésie ou sur le ser
 Vous trouverez ci-dessous tous les livres conseillés aux clubs précédents par les participant.es.
 
 ***
+
+## 2024
+
+**Club du 15 janvier 2024**
+
+- Kevin Lambert, *Tu aimeras ce que tu as tué*, éditions Le Nouvel Attila
+- Donna Tartt, *The Goldfinch*, éditions Abacus
+- Natalie Haynes, *Les Invaincues* (trad. M. Malais), éditions Michel Lafon
+- Ann Radcliffe, *Les Mystères d'Udolphe* (trad. V. de Chastenay), éditions Folio
+- Salman Rushdie, *Les enfants de minuit* (trad. J. Guiloineau), éditions Folio
 
 ## 2023
 
