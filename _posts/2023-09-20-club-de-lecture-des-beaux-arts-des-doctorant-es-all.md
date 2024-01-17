@@ -5,7 +5,7 @@ type: event
 title: Club de lecture des doctorant.es (ALL)
 date: 2023-09-20T11:49:44.454Z
 categories: scolaires
-date_debut: 2024-01-15T12:49:44.613Z
+date_debut: 2024-02-12T12:49:44.613Z
 date_fin: 2024-02-12T12:49:44.688Z
 dates_publiees: 12 février 2024 · 18h → 19h30
 lieu: Maison de la Poésie de Rennes ou Discord
