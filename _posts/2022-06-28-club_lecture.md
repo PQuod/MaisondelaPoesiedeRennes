@@ -37,7 +37,7 @@ Vous trouverez ci-dessous tous les livres conseillés ces dernières années par
 * *Anne de Green Gables*, Lucy Maud Montgomery (trad. H. Charrier), éditions Monsieur Toussaint Louverture
 * *La Voie des rois I*, Brandon Sanderson (trad. M. Fazi), éditions J'ai lu
 * *L'abat-jour*, Anne-Lise Grobéty, éditions D'autre part
-* *Noir*, Elias Soma, Harpo&
+* *Noir*, Elias Soma, éditions Harpo&
 
 ## 2023
 
