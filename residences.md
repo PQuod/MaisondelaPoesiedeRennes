@@ -29,7 +29,7 @@ Le rez-de-chaussée de la villa Beauséjour comprend une bibliothèque de plus d
 
 **Conditions d'accueil**
 
-1. Une bourse de 2000 euros brut en droits d'auteur par mois de résidence.  
+1. Une bourse de 2200 euros brut en droits d'auteur par mois de résidence.  
 2. Un aller-retour depuis le domicile en train ou en voiture.  
 3. 100 euros de documentation.
 
