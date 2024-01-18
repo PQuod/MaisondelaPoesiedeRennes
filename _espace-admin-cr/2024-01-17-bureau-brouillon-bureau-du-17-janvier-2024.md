@@ -1,6 +1,6 @@
 ---
 layout: admin-posts
-title: (Brouillon) Bureau du 17 janvier 2024
+title: Bureau du 17 janvier 2024
 date: 2024-01-17T13:05:59.080Z
 cat: bureau
 ---
@@ -56,4 +56,4 @@ Sofia : 6500 € (identique à 2023)
 *Date à venir*
 
 **Prise de notes :** Quentin  
-**Relecture :** ???
+**Relecture :** Charlotte
