@@ -7,9 +7,9 @@ type: event
 title: Club de lecture
 date: 2022-06-28T08:29:30.328Z
 categories: associatif
-date_debut: 2024-01-16T23:00:00.000Z
-date_fin: 2024-01-16T23:00:00.000Z
-dates_publiees: 17 janvier 2024 · 20h → 21h30
+date_debut: 2024-02-19T23:00:00.000Z
+date_fin: 2024-02-19T23:00:00.000Z
+dates_publiees: 20 février 2024 · 20h → 21h30
 lieu: Maison de la Poésie de Rennes
 ---
 ## Fonctionnement
@@ -26,6 +26,17 @@ lieu: Maison de la Poésie de Rennes
 Vous trouverez ci-dessous tous les livres conseillés ces dernières années par les participant.es.
 
 - - -
+
+## 2024
+
+**Club du 17 janvier 2024**
+
+* *Antisionisme, une histoire juive*, Béatrice Orès, Michèle Sibony et Sonia Fayman, éditions Syllepse
+* *Ermites dans la taïga*, Vassili Peskov (trad. Y. Gauthier), éditions Actes Sud
+* *Songe à la douceur*, Clémentine Beauvais, éditions Sarbacane
+* *Anne de Green Gables*, Lucy Maud Montgomery (trad. H. Charrier), éditions Monsieur Toussaint Louverture
+* *La Voie des rois I*, Brandon Sanderson (trad. M. Fazi), éditions J'ai lu
+* *Noir*, Elias Soma, Harpo&
 
 ## 2023
 
