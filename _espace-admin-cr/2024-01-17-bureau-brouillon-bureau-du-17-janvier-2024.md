@@ -6,7 +6,7 @@ cat: bureau
 ---
 **Date :** 17 janvier 2024 à 14 h  
 **Présent.e.s :** Charlotte, Anne-Marie, Valentin, Quentin   
-**Durée de la réunion :** 
+**Durée de la réunion :** 1 heure
 
 ## Ordre du jour
 
