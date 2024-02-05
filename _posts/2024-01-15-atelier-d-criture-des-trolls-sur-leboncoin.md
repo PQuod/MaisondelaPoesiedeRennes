@@ -9,7 +9,7 @@ artiste:
 categories: rencontre
 date_debut: 2024-03-20T09:39:05.728Z
 date_fin: 2024-03-20T09:39:05.778Z
-dates_publiees: 20 mars · 19h30 → 21h30
+dates_publiees: 20 mars 2024 · 19h30 → 21h30
 lieu: Maison de la Poésie
 tarif: Gratuit, inscription obligatoire
 ---
