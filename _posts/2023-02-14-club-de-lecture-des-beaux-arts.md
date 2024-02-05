@@ -8,7 +8,7 @@ categories: scolaires
 date_debut: 2024-02-09T09:41:18.094Z
 date_fin: 2024-02-09T09:41:18.182Z
 dates_publiees: 9 février 2024 · 12h → 14h
-lieu: Maison de la Poésie de Rennes
+lieu: EESAB Rennes, 34 rue Hoche
 tarif: Entrée libre et gratuite, réservée aux étudiant.es en art, design et
   communication de l'EESAB
 partenaires: Ecole européenne supérieure d'art de Bretagne
