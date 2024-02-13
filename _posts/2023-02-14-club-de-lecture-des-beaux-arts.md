@@ -5,9 +5,9 @@ type: event
 title: Club de lecture des Beaux-Arts
 date: 2023-02-14T09:41:17.835Z
 categories: scolaires
-date_debut: 2024-02-09T09:41:18.094Z
-date_fin: 2024-02-09T09:41:18.182Z
-dates_publiees: 9 février 2024 · 12h → 14h
+date_debut: 2024-03-08T09:41:18.094Z
+date_fin: 2024-03-08T09:41:18.182Z
+dates_publiees: 8 mars 2024 · 12h → 14h
 lieu: EESAB Rennes, 34 rue Hoche
 tarif: Entrée libre et gratuite, réservée aux étudiant.es en art, design et
   communication de l'EESAB
@@ -28,6 +28,14 @@ Vous trouverez ci-dessous tous les livres conseillés aux clubs précédents par
 - - -
 
 ## 2024
+
+**Club du 9 février 2024**
+
+* *Grammaire pour cesser d'exister*, Amélie Durand, éditions Le Sabot
+* *Toute raison de m'aimer est forcément bonne*, Orane Thibaud, éditions L'oie de cravan
+* *De la destruction*, Amandine André, éditions Al Dante
+* *Textes sans sépulture*, Collectif, éditions Farrago
+* *Des îles 1*, Marie Cosnay, éditions de l'Ogre
 
 **Club du 12 janvier 2024**
 
