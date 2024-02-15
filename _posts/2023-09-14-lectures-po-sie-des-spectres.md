@@ -19,9 +19,10 @@ partenaires: Université Rennes 2
 Cette soirée propose de rassembler **Amandiné André, Amélie Durand** et **Muriel Pic**, trois poétesses dont les écrits récents témoignent d'une attention au spectral, au fantomatique et aux morts. 
 
 Chacune fait une lecture de 20 minutes d'extraits de livres publiés ou en cours d'écriture : 
-- *L'argument du rêve* et *Dialogue des morts sur l'amour et la jouissance* pour Muriel Pic
-- *Aberrants & Dinosaures* pour Amandine André
-- *Grammaire pour cesser d'exister* et *Gaçaça* pour Amélie Durand
+
+* *L'argument du rêve* et *Dialogue des morts sur l'amour et la jouissance* pour Muriel Pic
+* *Aberrants & Dinosaures* pour Amandine André
+* *Grammaire pour cesser d'exister* et *Gaçaça* pour Amélie Durand
 
 > On appelle *images fantômes* les traces d'anciens motifs qui apparaissent dans l'impression. Ces traces sont surtout visibles dans les aplats. On pourrait dire lisibles, car parfois on reconnaît nettement une impression que l'on a faite plusieurs mois auparavant.
 
