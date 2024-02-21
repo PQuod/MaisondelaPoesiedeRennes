@@ -8,7 +8,7 @@ title: Club de lecture
 date: 2022-06-28T08:29:30.328Z
 categories: associatif
 date_debut: 2024-02-20T23:00:00.000Z
-date_fin: 2024-02-20T23:00:00.000Z
+date_fin: 2024-02-21T23:00:00.000Z
 dates_publiees: 21 février 2024 · 20h → 21h30
 lieu: Maison de la Poésie de Rennes
 ---
