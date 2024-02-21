@@ -18,7 +18,7 @@ tarif: Entrée libre et gratuite
 
 Olivia Tapiero était invitée début 2023 en [résidence à La Marelle](https://www.la-marelle.org/en-creation/residences/1214-olivia-tapiero-a-la-ciotat.html) pour avancer sur un projet de livre intitulé *Un carré de poussière* (titre provisoire), qui expose ses réflexions en cours : 
 
-> Comment articuler le lien entre violence envers les violences contre les femmes, l’histoire de la philosophie et la catastrophe écologique ? Comment l’acte poétique peut-il être un support pour déconstruire une tradition philosophique souvent misogyne ?
+> Comment articuler le lien entre les violences contre les femmes, l’histoire de la philosophie et la catastrophe écologique ? Comment l’acte poétique peut-il être un support pour déconstruire une tradition philosophique souvent misogyne ?
 
 Les travaux les plus récents de Grégoire Sourice questionnent la personnalité juridique de l'eau à partir d'articles du Code civil. Ces textes forment un livre qui paraîtra en 2024 aux éditions José Corti.
 
