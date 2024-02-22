@@ -7,9 +7,9 @@ type: event
 title: Club de lecture
 date: 2022-06-28T08:29:30.328Z
 categories: associatif
-date_debut: 2024-02-20T23:00:00.000Z
-date_fin: 2024-02-21T23:00:00.000Z
-dates_publiees: 21 février 2024 · 20h → 21h30
+date_debut: 2024-04-16T22:00:00.000Z
+date_fin: 2024-04-17T22:00:00.000Z
+dates_publiees: 17 avril 2024 · 20h → 21h30
 lieu: Maison de la Poésie de Rennes
 ---
 ## Fonctionnement
@@ -28,6 +28,14 @@ Vous trouverez ci-dessous tous les livres conseillés ces dernières années par
 - - -
 
 ## 2024
+
+**Club du 21 février 2024**
+
+* *Splines,* luvan, éditions La Volte
+* *Porcelaine sous les ruines*, Ada Vivalda, éditions Olympe
+* *Triste tigre*, Neige Sinno, éditions POL
+* *Le Rire de la Méduse*, Hélène Cixous, éditions Gallilée
+* *Poème d'amour postcoloniaI*, Natalie Diaz (trad. M. Capelle), éditions Globe
 
 **Club du 17 janvier 2024**
 
