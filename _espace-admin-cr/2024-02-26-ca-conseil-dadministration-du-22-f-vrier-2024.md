@@ -61,13 +61,17 @@ Un bilan de la situation actuelle de la Maison de la poésie a été fait :
 
 Propositions :
 
-- Pour assurer la pérennité de l’association : changer les statuts concernant le nombre minimum de bénévoles au CA à 3 (au lieu de 7, le maximum de bénévoles au CA restant identique : 11).
+- Pour assurer la pérennité de l’association :
 
-- Pour impliquer davantage :\
+Changer les statuts concernant le nombre minimum de bénévoles au CA à 3 (au lieu de 7, le maximum de bénévoles au CA restant identique : 11).
+
+- Pour impliquer davantage :
+
 Communiquer davantage auprès des adhérent.es lors de l’inscription et sur la newsletter :
 quand nous cherchons des bénévoles pour un projet préexistant ; pour proposer d’apporter son propre projet poétique (pas de budget mais mise à disposition du local et communication), éventuellement lors d’actions dédiées ; faire connaître la MaiPo aux habitant.es du quartier par des animations bénévoles.
 
-- Revoir les contrats des salarié.es afin de les adapter. Pistes possibles :\
+- Revoir les contrats des salarié.es afin de les adapter. Pistes possibles :
+
 Passer en forfait jours, adapté aux cadres et aux employés gérant leur temps de façon autonome.\
 Réduire les horaires d’ouverture au public (actuellement la fréquentation est trop faible).\
 Adapter les fiches de poste.
