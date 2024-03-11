@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 layout: post
 type: event
 title: "De la poésie au BabaZula #9"
