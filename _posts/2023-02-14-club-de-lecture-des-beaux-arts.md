@@ -5,9 +5,9 @@ type: event
 title: Club de lecture des Beaux-Arts
 date: 2023-02-14T09:41:17.835Z
 categories: scolaires
-date_debut: 2024-03-08T09:41:18.094Z
-date_fin: 2024-03-08T09:41:18.182Z
-dates_publiees: 8 mars 2024 · 12h → 14h
+date_debut: 2024-05-10T08:41:18.094Z
+date_fin: 2024-05-10T08:41:18.182Z
+dates_publiees: 10 mai 2024 · 12h → 14h
 lieu: EESAB Rennes, 34 rue Hoche
 tarif: Entrée libre et gratuite, réservée aux étudiant.es en art, design et
   communication de l'EESAB
@@ -28,6 +28,15 @@ Vous trouverez ci-dessous tous les livres conseillés aux clubs précédents par
 - - -
 
 ## 2024
+
+**Club du 8 mars 2024**
+
+* *L'Oncle Silas*, Joseph Sheridan Le Fanu (trad. J. Finné), éditions Corti
+* *Pour en finir avec la passion*, Sarah Delale, Elodie Pinel et Marie-Pierre Tachet, éditions Amsterdam
+* *Problèmes de localisation*, Elise Legal, éditions Même pas l'hiver
+* *La fin du monde*, Elias Soma, éditions Hourra
+* *Syrie et autres poèmes*, Salim Barakat (trad. A. Jockey), éditions Actes Sud 
+* *Rien qu'une autre année*, Mahmoud Darwich (trad. A. Laâbi), éditions de Minuit
 
 **Club du 9 février 2024**
 
