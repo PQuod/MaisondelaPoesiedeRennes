@@ -31,4 +31,4 @@ Il suffit de nous transmettre votre nom, votre prénom et votre adresse email à
 **La poésie qui vient**\
 Pendant [La poésie qui vient](https://maiporennes.fr/rencontre/2023/09/14/la-po-sie-qui-vient-4), Olivia Tapiero et Grégoire Sourice proposent chacun.e un atelier d’écriture de 2 heures.
 
-Ces ateliers d’écriture sont ouverts à toutes et à tous, peu importe le niveau ou les habitudes d’écriture.
+Ces ateliers d’écriture sont ouverts à toutes et à tous, peu importe le niveau ou les habitudes d’écriture. 
