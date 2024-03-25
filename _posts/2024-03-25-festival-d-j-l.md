@@ -24,30 +24,30 @@ Déjà-là a été pensé et réalisé par un groupe de 5 étudiantx de l'EESAB 
 
 Vendredi
  
-14h-18h : Salon de microéditions d'étudiantx des Beaux-Arts  
-14h-18h : Ateliers d'écriture autogérés  
+14h → 18h : Salon de microéditions d'étudiantx des Beaux-Arts  
+14h → 18h : Ateliers d'écriture autogérés  
 
-16h-18h : Table ronde : "Écrire en école d'art"
+16h → 18h : Table ronde : "Écrire en école d'art"
 
-20h-21h : Le régime parfait - The Drama, performance d'Estelle Bénazet Heugenhauser
+20h → 21h : Le régime parfait - The Drama, performance d'Estelle Bénazet Heugenhauser
 
 *Cette performance peut heurter la sensibilité des spectateurices. Tournez-vous vers les organisateurices pour plus d'informations.*
 
 Samedi
 
-14h-18h : Salon de microéditions d'étudiantx des Beaux-Arts  
-14h-18h : Ateliers d'écriture autogérés  
-14h-18h : Lectures ouvertes  
+14h → 18h : Salon de microéditions d'étudiantx des Beaux-Arts  
+14h → 18h : Ateliers d'écriture autogérés  
+14h → 18h : Lectures ouvertes  
 
-14h-18h : Langues Batardxes, atelier d'écriture créatif et collectif avec Gorge Bataille (inscriptions sur place)
+14h → 18h : Langues Batardxes, atelier d'écriture créatif et collectif avec Gorge Bataille (inscriptions sur place)
 
 > Quelle serait une langue débarrassée de ce qu'on attend d'elle ? L'idée de cet atelier est de s'amuser à déconstruire une langue normée et androcentrée. On ira du côté du poème et du manifeste. Michèle Cause (auteure expérimentale et lesbienne radicale) sera notre guide.
 
-16h-18h : Atelier "La soupe aux Lettres"  
+16h → 18h : Atelier "La soupe aux Lettres"  
 
 > Venez vous attabler quelques minutes pour la soupe aux lettres. Retour en enfance : triez les lettres de papier dans votre bol et concoctez des mots-poèmes, cris de guerre, sorts conjurateurs, messages votifs et autres interventions linguistiques de votre cru. Mieux qu'au Scrabble : vos bizarreries langagières seront directement incluses dans la pâte à papier.
 
-20h-22h : Atelier d'écriture x DJ Set avec Solène Rigaut
+20h → 22h : Atelier d'écriture x DJ Set avec Solène Rigaut
 
 > L'atelier est composé de deux temps : une première heure d'écriture libre inspirée du dj set, et une seconde heure de restitution des textes.
 
