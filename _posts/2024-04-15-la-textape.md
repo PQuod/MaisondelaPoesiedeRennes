@@ -23,4 +23,6 @@ Depuis le rire numérique, en passant par l’élocution poétique et les probl�
 
 L’événement se poursuivra avec une scène ouverte au cours de laquelle celles et ceux du public qui le souhaitent pourront lire un texte de leur cru ou de quelqu’un.e d’autre, chanter une chanson, partager une anecdote, une recette de cuisine, un conseil de vie. Les inscriptions se feront sur place.
 
-*La Textape est la carte blanche faite à Laure Mathieu-Hanen durant sa [résidence de création](https://maiporennes.fr/residence/2024/01/10/r-sidence-de-printemps).*
+**La Textape** est un collectif créé en 2022, qui regroupe une dizaine de personnes et organise régulièrement des scènes ouvertes en région parisienne.
+
+*Cette soirée est la carte blanche faite à Laure Mathieu-Hanen durant sa [résidence de création](https://maiporennes.fr/residence/2024/01/10/r-sidence-de-printemps).*
