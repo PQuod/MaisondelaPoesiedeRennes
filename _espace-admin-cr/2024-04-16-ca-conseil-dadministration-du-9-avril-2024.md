@@ -5,7 +5,7 @@ date: 2024-04-16T12:41:54.729Z
 cat: ca
 ---
 **Date :** 9 avril 2024 à 18 h 30    
-**Présent.e.s :** Charlotte, Anne-Marie, Marie, Monique, Stéphanie, Rafa, François, Valentin, Quentin
+**Présent.e.s :** Charlotte, Anne-Marie, Marie, Monique, Stéphanie, Rafa, François, Valentin, Quentin  
 **Excusé :** Anaël  
 **Absent :** La Balades des Livres  
 **Durée de la réunion :** 1 heure 30  
@@ -36,12 +36,13 @@ Les rencontres en librairie se sont « très bien passées ».
 
 Perrine Le Querrec : implication inégale des établissements + une rencontre en librairie (Comment dire) mais peu de monde. « Une super personne à découvrir ».
 
-Olivia et Grégoire : la lecture au BabaZula s’est « très bien passée » ; les ateliers d’écriture le lendemain « super » (notamment Olivia, au témoignage de Valentin) ; bon bilan aussi des ateliers scolaires (Quentin a assisté au deuxième de Grégoire ; retours très positifs aussi d’Anaëlle pour Olivia).
+Olivia et Grégoire : la lecture au BabaZula s’est « très bien passée » ; les ateliers d’écriture le lendemain « super » (notamment Olivia, au témoignage de Valentin) ; bon bilan aussi des ateliers scolaires (Quentin a assisté au deuxième de Grégoire ; retours très positifs aussi d’Annaëlle pour Olivia).
 
 Grégoire revient en résidence cet automne. Olivia a envie de « retenter » les candidatures pour les résidences de création.
+
 Grégoire et Olivia ont aussi eu leurs rencontres en libraire, en partenariat avec la Fédération des cafés librairies de Bretagne.
 
-Raphaël a beaucoup apprécié la séance au BabaZula, « jauge optimale ». C’est dommage qu’on ne puisse pas s’y restaurer.
+Raphaël a beaucoup apprécié la séance au BabaZula, « jauge optimale ». C’est dommage qu’on ne puisse plus s’y restaurer.
 
 Réfléchir à un autre lieu pour la saison prochaine, ex. L’Autruche ?
 
