@@ -11,7 +11,7 @@ artiste:
 categories: rencontre
 date_debut: 2024-05-21T14:40:16.621Z
 date_fin: 2024-05-21T14:40:16.828Z
-dates_publiees: 21 mai 2024 · 19h30
+dates_publiees: 21 mai 2024 · 19h
 lieu: Bar Le BabaZula, 182 avenue Général George S. Patto
 tarif: Entrée libre et gratuite
 ---
