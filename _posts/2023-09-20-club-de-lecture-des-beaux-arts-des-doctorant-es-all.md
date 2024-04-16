@@ -5,9 +5,9 @@ type: event
 title: Club de lecture des doctorant.es (ALL)
 date: 2023-09-20T11:49:44.454Z
 categories: scolaires
-date_debut: 2024-04-15T11:49:44.613Z
-date_fin: 2024-04-15T11:49:44.688Z
-dates_publiees: 15 avril 2024 · 18h → 19h30
+date_debut: 2024-05-20T11:49:44.613Z
+date_fin: 2024-05-20T11:49:44.688Z
+dates_publiees: 20 mai 2024 · 18h → 19h30
 lieu: Maison de la Poésie de Rennes ou Discord
 tarif: Entrée libre et gratuite, réservée aux doctorant.es ALL de l'Université
   Rennes 2
@@ -24,6 +24,14 @@ Vous trouverez ci-dessous tous les livres conseillés aux clubs précédents par
 - - -
 
 ## 2024
+
+**Club du 15 avril 2024**
+
+* Katia Lanero Zamora, *La Machine*, éditions ActuSF
+* Marie Cosnay, *Des îles I*, éditions de l'Ogre
+* Donna Tartt, *Le Maître des illusions* (trad. P. Alien), éditions Pocket
+* Emmanuel Venet, *Marcher droit, tourner en rond*, éditions Verdier
+* Emmanuel Venet, *Contrefeu*, éditions Verdier
 
 **Club du 18 mars 2024**
 
