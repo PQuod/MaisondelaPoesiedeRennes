@@ -7,9 +7,9 @@ type: event
 title: Club de lecture
 date: 2022-06-28T08:29:30.328Z
 categories: associatif
-date_debut: 2024-04-16T22:00:00.000Z
-date_fin: 2024-04-17T22:00:00.000Z
-dates_publiees: 17 avril 2024 · 20h → 21h30
+date_debut: 2024-05-14T22:00:00.000Z
+date_fin: 2024-05-14T22:00:00.000Z
+dates_publiees: 15 mai 2024 · 20h → 21h30
 lieu: Maison de la Poésie de Rennes
 ---
 ## Fonctionnement
@@ -29,13 +29,21 @@ Vous trouverez ci-dessous tous les livres conseillés ces dernières années par
 
 ## 2024
 
+**Club du 17 avril 2024**
+
+* *Le journal d'un manœuvre*, Thierry Metz, éditions Folio
+* *Prison-palais*, Martin Högström (trad. D. Lespiau et l'auteur), éditions Eric Pesty
+* *L'homme aux mille visages*, Sonia Kronlund, éditions Grasset
+* *Fouloscopie*, Mehdi Moussaid, éditions humenSciences
+* *L'homme sans tête*, Sergio Gonzalez Rodriguez (trad. I. Gugnon), éditions de l'Ogre
+
 **Club du 21 février 2024**
 
-* *Splines,* luvan, éditions La Volte
+* *Splines*, luvan, éditions La Volte
 * *Porcelaine sous les ruines*, Ada Vivalda, éditions Olympe
 * *Triste tigre*, Neige Sinno, éditions POL
 * *Le Rire de la Méduse*, Hélène Cixous, éditions Gallilée
-* *Poème d'amour postcoloniaI*, Natalie Diaz (trad. M. Capelle), éditions Globe
+* *Poème d'amour postcolonial*, Natalie Diaz (trad. M. Capelle), éditions Globe
 
 **Club du 17 janvier 2024**
 
