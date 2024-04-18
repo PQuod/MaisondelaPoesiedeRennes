@@ -6,7 +6,7 @@ title: La Textape
 date: 2024-04-15T14:40:16.315Z
 artiste:
   - Loubar
-  - Laure Mathieu
+  - Laure Mathieu-Hanen
   - Anouk Schavelzon
 categories: rencontre
 date_debut: 2024-05-21T14:40:16.621Z
