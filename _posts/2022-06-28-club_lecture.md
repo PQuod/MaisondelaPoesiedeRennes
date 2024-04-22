@@ -35,6 +35,7 @@ Vous trouverez ci-dessous tous les livres conseillés ces dernières années par
 * *Prison-palais*, Martin Högström (trad. D. Lespiau et l'auteur), éditions Eric Pesty
 * *L'homme aux mille visages*, Sonia Kronlund, éditions Grasset
 * *Fouloscopie*, Mehdi Moussaid, éditions humenSciences
+* *Simplement nager, simplement filmer*, Anthony Divad, éditions Sombres torrents
 * *L'homme sans tête*, Sergio Gonzalez Rodriguez (trad. I. Gugnon), éditions de l'Ogre
 
 **Club du 21 février 2024**
