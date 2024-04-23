@@ -2,13 +2,13 @@
 draft: false
 layout: post
 type: event
-title: Résidence de printemps
+title: Résidence de d'automne
 date: 2024-01-10T09:51:32.497Z
 artiste:
   - Grégoire Sourice
 categories: residence
-date_debut: 2024-04-01T08:51:32.578Z
-date_fin: 2024-05-26T08:51:32.638Z
+date_debut: 2024-10-28T09:51:32.578Z
+date_fin: 2024-12-22T09:51:32.638Z
 dates_publiees: 28 octobre → 22 décembre 2024
 lieu: Maison de la Poésie de Rennes
 ---
