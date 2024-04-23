@@ -44,7 +44,7 @@
         {% include scripts/dates.html %}
         {% if debutdate > nowdate %}
         {% assign counter = counter | plus: 1 %}
-        {{ counter }}
+        <p>Compteur = {{ counter }}</p>
             {% if counter == 1 %}
               <h3 class="encart_titre prems">À venir</h3>
             {% endif %}
