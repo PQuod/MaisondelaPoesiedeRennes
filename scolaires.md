@@ -24,7 +24,7 @@ Ecrivez à Lucie Desaubliaux, notre médiatrice scolaire : lucie.desaubliaux@mai
 
 Automne 2024
 
-[](https://maiporennes.fr/residence/2023/04/25/r-sidence-dautomne)[Grégoire Sourice](https://maiporennes.fr/residence/2024/01/10/r-sidence-de-printemps) anime des ateliers auprès d'une classe au collège Théodore Monod, à Vern-sur-Seiche.
+[](https://maiporennes.fr/residence/2024/04/23/r-sidence-dautomne)[Grégoire Sourice](https://maiporennes.fr/residence/2024/01/10/r-sidence-de-printemps) anime des ateliers auprès d'une classe au collège Théodore Monod, à Vern-sur-Seiche.
 
 - - -
 
