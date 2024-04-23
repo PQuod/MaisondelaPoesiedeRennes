@@ -25,7 +25,7 @@ Nous ne sommes pas une maison d'édition, ni une MJC. Nous ne programmons pas de
 **Direction - Quentin Leclerc**\
 quentin.leclerc@maiporennes.fr
 
-**Médiation scolaire - Annaëlle Toussaere**, en remplacement congé maternité de **Lucie Desaubliaux**\
+**Médiation scolaire -** **Lucie Desaubliaux**\
 lucie.desaubliaux@maiporennes.fr
 
 # Services de presse
