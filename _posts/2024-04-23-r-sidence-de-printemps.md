@@ -3,7 +3,7 @@ draft: true
 layout: post
 type: event
 title: Résidence de printemps
-date: 2024-04-23T10:06:00.530Z
+date: 2024-04-01T10:06:00.530Z
 artiste:
   - Laure Mathieu-Hanen
 categories: residence
