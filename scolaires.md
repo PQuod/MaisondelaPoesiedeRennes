@@ -18,7 +18,7 @@ Ecrivez à Lucie Desaubliaux, notre médiatrice scolaire : lucie.desaubliaux@mai
 
 1er avril → 26 mai 2024
 
-[Laure Mathieu](https://maiporennes.fr/residence/2024/01/10/r-sidence-de-printemps) sera en résidence de création à la Maison de la Poésie et animera des ateliers dans un établissement scolaire.
+[Laure Mathieu](https://maiporennes.fr/residence/2024/01/10/r-sidence-de-printemps) est en résidence de création à la Maison de la Poésie et anime des ateliers auprès des étudiant·es des DNMADe horlogerie et design graphique des lycées Bréquigny et Jean Jaurès.
 
 ### Résidence d'automne
 
