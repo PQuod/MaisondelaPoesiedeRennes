@@ -14,17 +14,17 @@ Ecrivez à Lucie Desaubliaux, notre médiatrice scolaire : lucie.desaubliaux@mai
 
 **Tous niveaux**
 
-### Résidence d'automne
-
-16 octobre → 10 décembre 2023
-
-[Sal](https://maiporennes.fr/residence/2023/04/25/r-sidence-dautomne) anime une session de 5 ateliers auprès d'une classe de 4ème au collège La Gautrais, à Plouasne (22).
-
 ### Résidence de printemps
 
 1er avril → 26 mai 2024
 
-Laure Mathieu sera en résidence de création à la Maison de la Poésie et animera des ateliers dans un établissement scolaire.
+[Laure Mathieu](https://maiporennes.fr/residence/2024/01/10/r-sidence-de-printemps) sera en résidence de création à la Maison de la Poésie et animera des ateliers dans un établissement scolaire.
+
+### Résidence d'automne
+
+Automne 2024
+
+[](https://maiporennes.fr/residence/2023/04/25/r-sidence-dautomne)Grégoire Sourice anime des ateliers auprès d'une classe au collège Théodore Monod, à Vern-sur-Seiche.
 
 - - -
 
@@ -40,7 +40,7 @@ L'année dernière, l'école de l'Être de Saint-Georges-de-Reintembault a accue
 
 ## Jumelage
 
-L'année scolaire 2023-2024 est la première année du jumelage qui lie la Maison de la Poésie de Rennes et le collège **Simone Veil** de Crevin.
+L'année scolaire 2023-2024 est la première année du [jumelage ](https://maiporennes.fr/residence_scolaire/2023/09/04/jumelage)qui lie la Maison de la Poésie de Rennes et le collège **Simone Veil** de Crevin.
 
 Les artistes **Gabriel Gauthier** et **Maxime Devige** (avec qui nous avons déjà eu le plaisir d'organiser la résidence *[Poésie + JV = ?](https://maiporennes.fr/residence_scolaire/2022/08/31/r-sidence-po-sie-jeu-vid-o.html)* au collège Paul Féval à Dol-de-Bretagne en 2022) travailleront pendant trois ans avec une classe de la 5ème à la 3ème autour de la poésie et du jeu vidéo.
 
@@ -52,7 +52,7 @@ Les artistes **Gabriel Gauthier** et **Maxime Devige** (avec qui nous avons déj
 
 Chaque année, la Maison de la Poésie de Rennes soutient le **Prix des Découvreurs** en invitant deux artistes de la sélection à venir rencontrer les classes des collèges (3èmes) et lycées (tous niveaux) de Bretagne.
 
-**Perrine Le Querrec** est présente en Bretagne la semaine du 11mars 2024 pour rencontrer les classes  autour de son ouvrage *La Fille du chien* (éditions des Lisières, 2023). Des créneaux sont encore disponibles pour organiser une rencontre dans les classes.
+**Perrine Le Querrec** est présente en Bretagne la semaine du 11 mars 2024 pour rencontrer les classes  autour de son ouvrage *La Fille du chien* (éditions des Lisières, 2023). Elle rencontre les classes de 1ère du lycée Victor & Hélène Basch (Rennes), de 1ère et de Terminale du lycée Jean Macé (Rennes) et de 3ème du collège Bourgchevreuil (Cesson-Sévigné).
 
 **Milène Tournier** est présente en Bretagne la semaine du 8 avril 2024 pour rencontrer les classes autour de son ouvrage *Ce que m'a soufflé la ville* (le Castor Astral, 2023). Elle rencontre les classes de 3ème des collège Le Querpon (Val d'Anast), Le Landry (Rennes), Théodore Monod (Vern-sur-Seiche) et Simone Veil (Crevin), ainsi qu'une classe de Terminale BMA du lycée Jean Jaurès (Rennes).
 
@@ -64,7 +64,7 @@ Chaque année, la Maison de la Poésie de Rennes soutient le **Prix des Découvr
 
 Un an sur deux a lieu **La Poésie qui vient,** une semaine lors de laquelle nous invitons deux artistes émergent·es en résidence à la Maison de la Poésie. **Poètes en classe** est le prolongement de ce rendez-vous, et permet aux deux artistes de venir donner des ateliers dans 4 établissements de primaire.
 
-Cette année, du 19 au 22 mars 2024, nous accueillons **Grégoire Sourice** et **Olivia Tapiero**, qui rencontrent les classes des écoles Jean Rostand, Les Clôteaux et Roz-Landrieux.
+Cette année, du 19 au 22 mars 2024, nous accueillons **Grégoire Sourice** et **Olivia Tapiero**, qui rencontrent les classes du CE2 au CM2 des écoles Jean Rostand, Les Clôteaux et Roz-Landrieux.
 
 - - -
 
@@ -72,7 +72,7 @@ Cette année, du 19 au 22 mars 2024, nous accueillons **Grégoire Sourice** et *
 
 **Tous niveaux** : Rencontres avec un·e auteur·ice de la programmation
 
-Toute l'année, il est possible de rencontrer un.e auteur·ice de la programmation lors de sa venue à Rennes (hors dispositif particulier). Le coût de la rencontre est pris en charge par l'établissement scolaire. Pour les collégien·nes et lycéen·nes, ces rencontres peuvent aussi être organisées via Adage et le Pass Culture. N'hésitez pas à nous contacter pour plus d'informations.
+Toute l'année, il est possible de rencontrer un·e auteur·ice de la programmation lors de sa venue à Rennes (hors dispositif particulier). Le coût de la rencontre est pris en charge par l'établissement scolaire. Pour les collégien·nes et lycéen·nes, ces rencontres peuvent aussi être organisées via Adage et le Pass Culture. N'hésitez pas à nous contacter pour plus d'informations.
 
 - - -
 
