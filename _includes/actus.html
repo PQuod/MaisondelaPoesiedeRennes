@@ -32,6 +32,7 @@
               <a href="{{ post.url }}" title="Résidence en cours de {{post.artiste}}">
                 <h4>{{ post.artiste | join: ", " }}</h4>
               </a>
+              {{debutdate}}
               <div class="event_dates">{{ post.title }}<br>{{ post.dates_publiees }}</div>
           </div>
         {% endif %}
