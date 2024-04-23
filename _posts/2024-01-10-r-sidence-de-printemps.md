@@ -5,29 +5,29 @@ type: event
 title: Résidence de printemps
 date: 2024-01-10T09:51:32.497Z
 artiste:
-  - Laure Mathieu-Hanen
+  - Grégoire Sourice
 categories: residence
 date_debut: 2024-04-01T08:51:32.578Z
 date_fin: 2024-05-26T08:51:32.638Z
-dates_publiees: 1er avril → 26 mai 2024
+dates_publiees: 28 octobre → 22 décembre 2024
 lieu: Maison de la Poésie de Rennes
 ---
-**Laure Mathieu-Hanen** souhaite travailler sur un texte qui n'a pas encore de nom, autour des vers, de la mémoire, et de la répétition historique. 
+**Grégoire Sourice** souhaite travailler sur un projet qui découle d'écrits publiés sur le site Leboncoin, où il a déjà publié sous le pseudo PeroPerez13 une quarantaine d'annonces [à cette adresse](https://www.leboncoin.fr/ad/sport_plein_air/2370851375). 
 
-> C'est un ensemble de fragments que j'aimerais travailler en livre. Ça part de différents éléments à la fois scientifiques (la transmission de mémoire par les vers dont j'ai déjà parlés dans une performance, la formation des trous de vers) et historiques. Il y a des bouts drôles et d'autres encore à travailler.
+> J'ai découvert la joie et la décomplexion que suscite l'écriture sous pseudonyme, et la satisfaction profonde d'expérimenter un moyen d'expression capable de mettre en jeu la trame matérielle du mode de vie pavillonnaire.
 
-Et à côté, un autre texte sur l'hélium. 
+Grégoire Sourice a ensuite écrit pour la revue *Fig.* un texte, *Le dégradé rouge du sentimental intestinal*, qui amorce des recherches dans le prolongement des réflexions sur les avatars et le numérique. 
 
-> Un jeu de relation entre l'idée de montée, les zeppelins, ces étranges cartouches pour siphon à chantilly qu'on a retrouvées partout en ville ces dernières années. Potentiellement ce serait pour une performance, soit isolée, soit à mettre en relation avec la performance que j'ai écrite en mai dernier, *le sens de la vie*, qui parle elle aussi d'une montée.
+> L'intuition initiale de ce nouveau livre est d'explorer conjointement la maladie et l'identité numérique, deux expérimentations des limites du corps, qui interrogent radicalement le rapport à l'autre et sont prises dans des langages particuliers. 
+>
+> Jérémy, un des personnages, veut réaliser un snuff movie dans lequel serait donné à voir la mort de PeroPerez13, son pseudo. Il souhaite, par un acte volontaire et spectaculaire, sacrifier son double numérique mais ignore quelle forme cela pourrait prendre.
 
 **Rencontre publique**
 
-[Le 21 mai à 19h](https://maiporennes.fr/rencontre/2024/04/15/la-textape), Laure Mathieu-Hanen invite **Anouk Schavelzon** et **Loubar** pour une soirée *La Textape*. 
-
-Laure Mathieu-Hanen donne quatre ateliers avec un groupe du Gérontopôle du Centre Hospitalier Guillaume Régnier.
+En décembre, Grégoire Sourice invite **Antoine Hummel** pour une soirée de lectures.
 
 **Rencontres scolaires**
 
-Laure Mathieu donne quatre ateliers avec une classe DN MADE Horlogerie du Lycée Jean Jaurès (Rennes), et une classe DN MADE Design Graphique du lycée Bréquigny (Rennes).
+Grégoire Sourice donne des ateliers avec une classe du collège Théodore Monod (Vern-sur-Seiche).
 
 *Cette résidence bénéficie du soutien financier de la Région Bretagne.*
