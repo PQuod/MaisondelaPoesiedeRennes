@@ -72,7 +72,7 @@ Cette année, du 19 au 22 mars 2024, nous accueillons **Grégoire Sourice** et *
 
 **Tous niveaux** : Rencontres avec un·e auteur·ice de la programmation
 
-Toute l'année, il est possible de rencontrer un·e auteur·ice de la programmation lors de sa venue à Rennes (hors dispositif particulier). Le coût de la rencontre est pris en charge par l'établissement scolaire. Pour les collégien·nes et lycéen·nes, ces rencontres peuvent aussi être organisées via Adage et le Pass Culture. N'hésitez pas à nous contacter pour plus d'informations.
+Toute l'année, il est possible de rencontrer un·e auteur·ice de la programmation lors de sa venue à Rennes (hors dispositif particulier). Le coût de la rencontre est pris en charge par l'établissement scolaire. Pour les collégien·nes et lycéen·nes, ces rencontres peuvent aussi être organisées *via* Adage et le Pass Culture. N'hésitez pas à nous contacter pour plus d'informations.
 
 - - -
 
