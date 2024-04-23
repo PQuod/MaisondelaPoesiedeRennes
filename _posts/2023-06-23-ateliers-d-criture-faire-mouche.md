@@ -27,7 +27,7 @@ Plein : entre 68 et 86 €, selon quotient familial*.\
 Pas de remboursement.
 
 **Pour s’inscrire**\
-Il suffit de renvoyer, avant le premier atelier, par courrier (Maison de la Poésie de Rennes, 47 rue Armand Rébillon 35000 RENNES) ou en main propre le bulletin d'inscription complété (PDF, XX Ko), avec le chèque de règlement à l'ordre de Maison de la Poésie de Rennes.
+Il suffit de renvoyer, avant le premier atelier, par courrier (Maison de la Poésie de Rennes, 47 rue Armand Rébillon 35000 RENNES) ou en main propre [le bulletin d'inscription complété](/imgs/inscription-ateliers-d-criture-vivarium.pdf) (PDF, 200 Ko), avec le chèque de règlement à l'ordre de Maison de la Poésie de Rennes.
 
 **\*Comment connaître mon quotient familial ?**\
 Le quotient familial est calculé en fonction du foyer et des ressources. Pour le connaître, il faut se connecter à votre espace CAF, puis sur l’espace “Mon Compte”. Le quotient familial est visible sur la page d’accueil, à la rubrique “Mes paiements et mes droits”. Vous pouvez télécharger une attestation, que vous joindrez à votre paiement.
