@@ -2,7 +2,7 @@
 draft: false
 layout: post
 type: event
-title: Résidence de d'automne
+title: Résidence d'automne
 date: 2024-01-10T09:51:32.497Z
 artiste:
   - Grégoire Sourice
