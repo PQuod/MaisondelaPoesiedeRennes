@@ -26,9 +26,8 @@ Et à côté, un autre texte sur l'hélium.
 
 Laure Mathieu-Hanen donne quatre ateliers avec un groupe du Gérontopôle du Centre Hospitalier Guillaume Régnier.
 
-
 **Rencontres scolaires**
 
-Laure Mathieu donne quatre ateliers avec une classe DN MADE Horlogerie du Lycée Jean Jaurès (Rennes), et une classe DN MADE Design Graphique du lycée Bréquigny (Rennes).
+Laure Mathieu-Hanen donne quatre ateliers avec une classe DN MADE Horlogerie du Lycée Jean Jaurès (Rennes), et une classe DN MADE Design Graphique du lycée Bréquigny (Rennes).
 
 *Cette résidence bénéficie du soutien financier de la Région Bretagne.*
