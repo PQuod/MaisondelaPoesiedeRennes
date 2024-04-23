@@ -23,7 +23,7 @@
     {% if post.draft != true %}
       {% if post.categories contains "residence" or post.categories contains "residence_scolaire" %}
         {% include scripts/dates.html %}
-        {% if debutdate <= nowdate and findate>= nowdate %}
+        {% if debutdate <= nowdate and findate >= nowdate %}
           <div class="encart_res">
             {% assign counter = counter | plus: 1 %}
             {% if counter == 1 %}
@@ -32,7 +32,6 @@
               <a href="{{ post.url }}" title="Résidence en cours de {{post.artiste}}">
                 <h4>{{ post.artiste | join: ", " }}</h4>
               </a>
-              {{debutdate}}
               <div class="event_dates">{{ post.title }}<br>{{ post.dates_publiees }}</div>
           </div>
         {% endif %}
@@ -45,6 +44,7 @@
         {% include scripts/dates.html %}
         {% if debutdate > nowdate %}
         {% assign counter = counter | plus: 1 %}
+        {{ counter }}
             {% if counter == 1 %}
               <h3 class="encart_titre prems">À venir</h3>
             {% endif %}
