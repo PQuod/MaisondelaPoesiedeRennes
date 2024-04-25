@@ -24,7 +24,7 @@ Elle conduit sa démarche avec le souci permanent de favoriser l’accès du plu
 ### Salarié.es
 
 Direction : Quentin Leclerc\
-Médiation scolaire : Annaëlle Toussaere, en remplacement de Lucie Desaubliaux\
+Médiation scolaire : Lucie Desaubliaux\
 Chargée d'entretien : Lucie Kerouedan\
 Jardinier : Sébastien Toron
 
