@@ -12,7 +12,7 @@ categories: rencontre
 date_debut: 2024-06-11T08:02:43.750Z
 date_fin: 2024-06-11T08:02:43.793Z
 dates_publiees: 11 juin 2024 · 19h
-lieu: Bar Le BabaZula, 182 avenue Général George S. Patto
+lieu: Bar Le BabaZula, 182 avenue Général George S. Patton
 tarif: Entrée libre et gratuite
 ---
 Un concept hyper simple.
