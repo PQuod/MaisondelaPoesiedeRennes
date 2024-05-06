@@ -12,7 +12,7 @@ categories: rencontre
 date_debut: 2024-05-21T14:40:16.621Z
 date_fin: 2024-05-21T14:40:16.828Z
 dates_publiees: 21 mai 2024 · 19h
-lieu: Bar Le BabaZula, 182 avenue Général George S. Patto
+lieu: Bar Le BabaZula, 182 avenue Général George S. Patton
 tarif: Entrée libre et gratuite
 ---
 La Textape visite le Babazula et vous propose de passer une soirée en sa compagnie. 
