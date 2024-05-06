@@ -5,9 +5,9 @@ type: event
 title: Club de lecture des Beaux-Arts
 date: 2023-02-14T09:41:17.835Z
 categories: scolaires
-date_debut: 2024-05-10T08:41:18.094Z
-date_fin: 2024-05-10T08:41:18.182Z
-dates_publiees: 10 mai 2024 · 12h → 14h
+date_debut: 2024-06-14T08:41:18.094Z
+date_fin: 2024-06-14T08:41:18.182Z
+dates_publiees: 14 juin 2024 · 12h → 14h
 lieu: EESAB Rennes, 34 rue Hoche
 tarif: Entrée libre et gratuite, réservée aux étudiant.es en art, design et
   communication de l'EESAB
