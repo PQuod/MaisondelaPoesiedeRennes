@@ -1,17 +1,17 @@
 pages_list: Pages du site
 pages:
-  - title: Association
-    url: /association/
   - title: Bibliothèque
     url: https://maisondelapoesie-rennes.org/bibli/
-  - title: Atelier
-    url: /atelier/
   - title: Résidences
     url: /residences/
   - title: Rémunérations
     url: /remunerations/
+  - title: Atelier
+    url: /atelier/
   - title: Scolaires
     url: /scolaires/
+  - title: Association
+    url: /association/
   - title: Contact
     url: /contact/
 
