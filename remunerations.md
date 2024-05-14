@@ -108,3 +108,7 @@ Pour les projets plus conséquents, comme les ateliers suivis sur plusieurs sema
 Pour les ateliers qui accompagnent nos résidences annuelles (d'automne et de printemps), aucune contribution des établissements scolaires n'est requise, les honoraires des auteur·ices sont couverts par les subventions que nous recevons pour ces résidences.
 
 ### Cotisations et inscriptions
+
+Tous nos événements sont gratuits. 
+
+A détailler sur les ateliers d'écriture.
