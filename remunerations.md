@@ -52,9 +52,9 @@ A compléter.
 
 ### Assemblée générale
 
-Les bénévoles de l'association ne perçoivent aucune rémunération en contrepartie de leur investissement. Iels peuvent être défrayés pour les trajets faits dans le cadre des activités de l'association, à hauteur de 0,23 €/km.
+Les bénévoles de l'association ne perçoivent aucune rémunération en contrepartie de leur investissement. Iels peuvent être défrayé.es pour les trajets faits dans le cadre des activités de l'association, à hauteur de 0,23 €/km.
 
-### Salarié·es
+### Salarié.es
 
 Les salarié.es de l'association sont rémunéré.es selon [la grille des salaires](https://www.syndeac.org/wp-content/uploads/2023/12/NAO_28_avril_2023_Def.pdf) votée par le **Syndeac** (Syndicat national des entreprises artistiques et culturelles). 
 
@@ -70,9 +70,9 @@ L'association ne souhaite pas augmenter artificiellement ses capacités de trava
 
 La gratification est celle du seuil légal pour toustes les étudiant.es stagiaires accueilli.es. Elle se fait au nombre réel d’heures travaillées, et fluctue donc en fonction des mois et des années. 
 
-Pour 2024, la gratification lissée entre mars et avril 2024 est de 639,45 € par mois.
+Par exemple, la gratification lissée entre mars et avril 2024 est de 639,45 € par mois.
 
-Comme le budget de l'association est restreint, nous limitons nos durées d’accueil par stage à 2 mois maximum.
+Comme le budget de l'association est restreint, on se limite à un ou deux stages par année civile, pour des durées d’accueil par stage de 2 mois maximum.
 
 ## Financements
 
