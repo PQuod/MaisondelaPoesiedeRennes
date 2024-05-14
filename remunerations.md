@@ -78,7 +78,7 @@ Comme le budget de l'association est restreint, nous limitons nos durées d’ac
 
 ### Subventions
 
-La Maison de la Poésie ne fonctionne qu'avec des subventions publiques. 
+La Maison de la Poésie ne fonctionne qu'avec des subventions publiques. C'est un choix politique assumé. Les subventions publiques restent contraignantes, notamment à cause de la disparition progressive des aides au fonctionnement, remplacées par des aides au projet.
 
 Voici les montants totaux versées par les tutelles locales pour 2024 :
 
