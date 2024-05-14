@@ -92,22 +92,3 @@
     <a href="/category/podcast" class="liencat">Tous les podcasts</a>
   </div>
 {% endfor %}
-
-<div class="encart">
-  <h2 class=" color_asso">Récemment...</h2>
-  {% assign sortedjournal = site.journal | sort: 'date' | reverse %}
-  {% for post in sortedjournal limit:3 %}
-    {% assign counter = counter | plus: 1 %}
-    {% if counter == 2 %}
-      <a href="/journal/#post_deux" title="{{post.title}}">
-    {% elsif counter == 3 %}
-      <a href="/journal/#post_trois" title="{{post.title}}">
-    {% else %}
-      <a href="/journal" title="{{post.title}}">
-    {% endif %}
-      <h3>{{ post.title }}</h3>
-    </a>
-    <div class="event_dates">Le {{ post.date | date: "%d/%m/%Y"}}, par {{ post.auteur }}</div>
-    <br>
-  {% endfor %}
-</div>

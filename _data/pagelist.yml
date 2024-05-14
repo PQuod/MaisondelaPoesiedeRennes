@@ -12,8 +12,6 @@ pages:
     url: /remunerations/
   - title: Scolaires
     url: /scolaires/
-  - title: Journal
-    url: /journal/
   - title: Contact
     url: /contact/
 
