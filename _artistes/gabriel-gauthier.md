@@ -2,10 +2,4 @@
 layout: post
 name: Gabriel Gauthier
 ---
-**Gabriel Gauthier** est un poète et artiste diplômé des Beaux-Arts de Paris. Il a publié *Simurgh & Simorgh* (Théâtre Typographique, 2016) et *Speed* (Vies Parallèles, 2020).
-
-Il fait des performances avec Elsa Michaud (*Cover, Rien que pour vos yeux*), de la musique avec Orly sous le nom de Nevers, et des livres avec des personnages.
-
-Son travail a été présenté à La Ménagerie de Verre, aux Laboratoires d’Aubervilliers, au Centre National de la Danse, au Centre International de Poésie Marseille et dans plusieurs festivals : Camping, Actoral, Plastique Danse Flore, Entre Cour et Jardins, etc.
-
-Il écrit depuis plusieurs années *Space* et *Space*, deux livres jumeaux qui paraîtront dans les années à venir, dont la première phrase est : « J’avais le moins voyagé et ce que je connaissais commençait à se diviser ».
+**Gabriel Gauthier** est diplômé des Beaux-arts de Paris. Il écrit des livres, des performances, fait de la musique. Il a publié *Simurgh & Simorgh* et *Contra*  au Théâtre Typographique (2016, 2024) et *Speed* chez Vies Parallèles (2020). Il conçoit des pièces à la lisère de la danse et des arts-plastiques (*Cover*, *Rien que pour vos yeux*) qui ont été présentées à la Ménagerie de Verre, au Centre National de la Danse, au CDCN Dijon-Bourgogne, aux Laboratoires d’Aubervilliers et dans plusieurs festivals : Camping, Actoral, Plastique Danse Flore, Entre Cour et Jardins… *Space*, son premier roman est à paraître aux éditions Corti. 
