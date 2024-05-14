@@ -4,7 +4,7 @@ title: Rémunérations
 ref: remunerations
 permalink: /remunerations/
 ---
-Pour rendre plus lisibles nos modes de paiement et disposer d'un espace 
+Vous trouverez ici toutes les informations en lien avec les finances de l'association : modes de rémunération pour les artistes-auteurices et pour les salarié.es, ainsi que sources de financement.
 
 ## Artistes-auteurices
 
