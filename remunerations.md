@@ -85,7 +85,7 @@ Voici les montants totaux versées par les tutelles locales pour 2024 :
 - 64 300 € de la Ville de Rennes
 - 23 800 € de la DRAC Bretagne
 - 19 400 € de la Région Bretagne
-- 5 800 € du Département d'Ille-et-Vilaine
+- 5800 € du Département d'Ille-et-Vilaine
 
 Voici les montants versés par les autres établissements publics et organismes de collecte pour 2024 :
 
