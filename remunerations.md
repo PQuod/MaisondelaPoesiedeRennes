@@ -60,7 +60,7 @@ Les salarié.es de l'association sont rémunéré.es selon [la grille des salair
 
 Le tableau de référence est celui des emplois autres qu'artistiques.
 
-Le poste de direction est dans le Groupe 3. Le poste de médiation scolaire est dans le Groupe 5. Les postes d'entretien de la maison et du jardin sont dans le Groupe 9.
+Le poste de direction (temps plein) est dans le Groupe 3. Le poste de médiation scolaire (mi-temps) est dans le Groupe 5. Les postes d'entretien de la maison (14h/mois) et du jardin (16h/mois) sont dans le Groupe 9.
 
 L'échelon évolue automatiquement tous les deux ans.
 
@@ -93,7 +93,9 @@ Voici les montants versés par les autres établissements publics et organismes 
 - 3500 € du CFCopies
 - 2000 € du Centre National du Livre
 
-Ces sommes sont complétées par d'autres aides de partenaires culturels. Par exemple, le Frac Bretagne participe à hauteur de 1000 € (50%) à la résidence émergence. 
+Ces sommes sont complétées par d'autres aides de partenaires culturels. Par exemple, le Frac Bretagne participe à hauteur de 1000 € (50%) à la résidence émergence.
+
+L'association est locataire de la villa Beauséjour, propriété de la Ville de Rennes. Le loyer mensuel est de 275 €. Depuis 2023, les charges des fluides ne sont plus refacturées par la Ville de Rennes aux associations locataires.
 
 ### Établissements scolaires
 
