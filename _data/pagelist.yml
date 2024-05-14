@@ -6,10 +6,10 @@ pages:
     url: /residences/
   - title: Rémunérations
     url: /remunerations/
-  - title: Atelier
-    url: /atelier/
   - title: Scolaires
     url: /scolaires/
+  - title: Atelier
+    url: /atelier/
   - title: Association
     url: /association/
   - title: Contact
