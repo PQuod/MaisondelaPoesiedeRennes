@@ -18,14 +18,14 @@ Il est **obligatoire** que l'artiste-auteurice nous facture le montant brut avec
 
 On vous renvoie à [ce tuto très bien détaillé](https://www.lamaisondesartistes.fr/site/identification-fiscale-sociale/) de **La Maison des Artistes** pour créer votre SIRET.  
 
-Pour les tarifs, nous nous référons aux [recommandations tarifaires](https://www.la-charte.fr/inviter-chartiste/recommandations-tarifaires/) de **La Charte des Auteurs et Illustrateurs Jeunesse**. Ils sont mis à jour au début de chaque année civile. 
+Pour les tarifs, on se réfère aux [recommandations tarifaires](https://www.la-charte.fr/inviter-chartiste/recommandations-tarifaires/) de **La Charte des Auteurs et Illustrateurs Jeunesse**. Ils sont mis à jour au début de chaque année civile. 
 
 Voici nos tarifs de rémunération pour 2024 :
 
 * 500 € bruts pour une journée complète ou une lecture/performance
 * 301 € bruts pour une demi-journée ou une table ronde
 
-La Maison de la Poésie n'étant pas une structure de diffusion, nous ne versons pas de contribution diffuseur ni de précompte à l'URSSAF Limousin. On vous invite à lire [cet article détaillé](https://le-trait.fr/remunerer-une-artiste-auteurice-bonnes-pratiques-hors-epo-et-hors-particuliers/#contribution) de l'association **Le Trait** pour mieux comprendre ces questions. 
+La Maison de la Poésie n'étant pas une structure de diffusion, elle ne verse donc pas de contribution diffuseur ni de précompte à l'URSSAF Limousin. On vous invite à lire [cet article détaillé](https://le-trait.fr/remunerer-une-artiste-auteurice-bonnes-pratiques-hors-epo-et-hors-particuliers/#contribution) de l'association **Le Trait** pour mieux comprendre ces questions. 
 
 ### Rémunération artistique sans contrepartie
 
