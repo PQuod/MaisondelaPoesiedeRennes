@@ -8,11 +8,12 @@ pages:
     url: /atelier/
   - title: Résidences
     url: /residences/
+  - title: Rémunérations
+    url: /remunerations/
   - title: Scolaires
     url: /scolaires/
   - title: Journal
     url: /journal/
   - title: Contact
     url: /contact/
-  - title: Rémunérations
-    url: /remunerations/
+
