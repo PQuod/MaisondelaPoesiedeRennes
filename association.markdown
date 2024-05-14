@@ -26,14 +26,14 @@ Elle conduit sa démarche avec le souci permanent de favoriser l’accès du plu
 Direction : Quentin Leclerc\
 Médiation scolaire : Lucie Desaubliaux\
 Chargée d'entretien : Lucie Kerouedan\
-Jardinier : Sébastien Toron
+Jardinier : *En cours de recrutement*
 
 ### Conseil d'Administration
 
 Co-Présidentes : Anne-Marie Klapka et Charlotte Beltzung\
 Trésorier : Anaël Castelein\
 Secrétaire : Valentin Godard-Paillat\
-Monique Ormevil &middot; Marie Audran &middot; Rafaëlle Gandini Miletto &middot; Stéphanie Vivier
+Monique Ormevil &middot; Marie Audran &middot; Rafa Gandini Miletto &middot; Stéphanie Vivier
 
 ### Membres Fondateurs
 
