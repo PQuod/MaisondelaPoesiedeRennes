@@ -46,6 +46,8 @@ Aujourd'hui, pour les résidences de création, il y a 2900 € d'honoraires sui
 
 ### Intermittence
 
+A compléter.
+
 ## Équipe associative
 
 ### Assemblée générale
