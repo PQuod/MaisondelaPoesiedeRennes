@@ -64,6 +64,14 @@ L'échelon évolue automatiquement tous les deux ans.
 
 ### Stagiaires
 
+L'association ne souhaite pas augmenter artificiellement ses capacités de travail en profitant de la précarité des étudiant.es et en transformant les stages en CDD sous-payés. Il n'y a donc jamais d’appels aux stagiaires.
+
+La gratification est celle du seuil légal pour toustes les étudiant.es stagiaires accueilli.es. Elle se fait au nombre réel d’heures travaillées, et fluctue donc en fonction des mois et des années. 
+
+Pour 2024, la gratification lissée entre mars et avril 2024 est de 639,45 € par mois.
+
+Comme le budget de l'association est restreint, nous limitons nos durées d’accueil par stage à 2 mois maximum.
+
 ## Financements
 
 ### Subventions
