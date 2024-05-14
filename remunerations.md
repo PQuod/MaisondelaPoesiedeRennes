@@ -22,12 +22,27 @@ Pour les tarifs, nous nous référons aux [recommandations tarifaires](https://w
 
 Voici nos tarifs de rémunération pour 2024 :
 
-* 500 € bruts pour une journée complète ou une performance
+* 500 € bruts pour une journée complète ou une lecture/performance
 * 301 € bruts pour une demi-journée ou une table ronde
 
 La Maison de la Poésie n'étant pas une structure de diffusion, nous ne versons pas de contribution diffuseur ni de précompte à l'URSSAF Limousin. On vous invite à lire [cet article détaillé](https://le-trait.fr/remunerer-une-artiste-auteurice-bonnes-pratiques-hors-epo-et-hors-particuliers/#contribution) de l'association **Le Trait** pour mieux comprendre ces questions. 
 
 ### Rémunération artistique sans contrepartie
+
+Ce mode de rémunération s'applique aux bourses de création lors des résidences, où au moins 70% du temps est réservé à la création personnelle. Il ne s'applique donc pas aux résidences de commande, ni aux résidences-mission.
+
+Dans ce cas, la facture avec SIRET n'est pas obligatoire. La convention de résidence avec la Maison de la Poésie suffit à justifier le montant reçu.
+
+Les montants des bourses dépendent de chaque tutelle (Ville, Région, Département, DRAC). Aujourd'hui, les professionnel.les préconisent un minimum de 2000 € brut par mois de résidence (4 semaines). 
+
+Voici les montants en Bretagne en 2024 :
+
+- 2200 € bruts par mois pour les résidences de création (Région Bretagne)
+- 2000 € bruts par mois pour la résidence émergence (Ville de Rennes)
+
+Pour plus de transparence, nous pouvons distinguer le montant destiné à la création du montant dédié aux rencontres.
+
+Aujourd'hui, pour les résidences de création, il y a 2900 € d'honoraires suite à une prestation artistique (8 demi-journées d'ateliers et une lecture-performance), et 1500 € de rémunération artistique sans contrepartie.
 
 ### Intermittence
 
