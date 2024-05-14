@@ -50,7 +50,7 @@ Aujourd'hui, pour les résidences de création, il y a 2900 € d'honoraires sui
 
 ### Assemblée générale
 
-Tous les bénévoles 
+Les bénévoles de l'association ne perçoivent aucune rémunération en contrepartie de leur investissement. Iels peuvent être défrayés pour les trajets faits dans le cadre des activités de l'association, à hauteur de 0,23 €/km.
 
 ### Salarié·es
 
@@ -66,7 +66,24 @@ L'échelon évolue automatiquement tous les deux ans.
 
 ## Financements
 
-### Subventions de l'année en cours
+### Subventions
+
+La Maison de la Poésie ne fonctionne qu'avec des subventions publiques. 
+
+Voici les montants totaux versées par les tutelles locales pour 2024 :
+
+- 64 300 € de la Ville de Rennes
+- 23 800 € de la DRAC Bretagne
+- 19 400 € de la Région Bretagne
+- 5 800 € du Département d'Ille-et-Vilaine
+
+Voici les montants versés par les autres établissements publics et organismes de collecte pour 2024 :
+
+- 6500 € de la Sofia
+- 3500 € du CFCopies
+- 2000 € du Centre National du Livre
+
+Ces sommes sont complétées par d'autres aides de partenaires culturels. Par exemple, le Frac Bretagne participe à hauteur de 1000 € à la résidence émergence. 
 
 ### Établissements scolaires
 
