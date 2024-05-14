@@ -6,7 +6,7 @@ permalink: /remunerations/
 ---
 Pour rendre plus lisibles nos modes de paiement et disposer d'un espace 
 
-## Artistes-auteur·ices
+## Artistes-auteurices
 
 ### Honoraires suite à une prestation de service
 
@@ -37,8 +37,8 @@ Les montants des bourses dépendent de chaque tutelle (Ville, Région, Départem
 
 Voici les montants en Bretagne en 2024 :
 
-- 2200 € bruts par mois pour les résidences de création (Région Bretagne)
-- 2000 € bruts par mois pour la résidence émergence (Ville de Rennes)
+* 2200 € bruts par mois pour les résidences de création (Région Bretagne)
+* 2000 € bruts par mois pour la résidence émergence (Ville de Rennes)
 
 Pour plus de transparence, nous pouvons distinguer le montant destiné à la création du montant dédié aux rencontres.
 
@@ -50,7 +50,17 @@ Aujourd'hui, pour les résidences de création, il y a 2900 € d'honoraires sui
 
 ### Assemblée générale
 
+Tous les bénévoles 
+
 ### Salarié·es
+
+Les salarié.es de l'association sont rémunéré.es selon [la grille des salaires](https://www.syndeac.org/wp-content/uploads/2023/12/NAO_28_avril_2023_Def.pdf) votée par le **Syndeac** (Syndicat national des entreprises artistiques et culturelles). 
+
+Le tableau de référence est celui des emplois autres qu'artistiques.
+
+Le poste de direction est dans le Groupe 3. Le poste de médiation scolaire est dans le Groupe 5. Les postes d'entretien de la maison et du jardin sont dans le Groupe 9.
+
+L'échelon évolue automatiquement tous les deux ans.
 
 ### Stagiaires
 
