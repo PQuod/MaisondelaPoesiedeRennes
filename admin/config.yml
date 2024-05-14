@@ -192,6 +192,14 @@ collections:
           - {label: "Titre", name: 'title', widget: "string"}
           - {label: "Permalink", name: "permalink", widget: "string"}
           - {label: "Description", name: "body", widget: "markdown"}
+      - label: "Rémunérations"
+        name: "remunerations"
+        file: "remunerations.md"
+        fields: 
+          - {label: "Layout", name: "layout", widget: "hidden", default: "rubrique"}
+          - {label: "Titre", name: 'title', widget: "string"}
+          - {label: "Permalink", name: "permalink", widget: "string"}
+          - {label: "Description", name: "body", widget: "markdown"}
   - name: "mentions"
     label: "Mentions Légales"
     files:
