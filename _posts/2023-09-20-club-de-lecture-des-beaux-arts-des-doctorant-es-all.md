@@ -5,9 +5,9 @@ type: event
 title: Club de lecture des doctorant.es (ALL)
 date: 2023-09-20T11:49:44.454Z
 categories: scolaires
-date_debut: 2024-05-20T11:49:44.613Z
-date_fin: 2024-05-20T11:49:44.688Z
-dates_publiees: 20 mai 2024 · 18h → 19h30
+date_debut: 2024-05-27T11:49:44.613Z
+date_fin: 2024-05-27T11:49:44.688Z
+dates_publiees: 27 mai 2024 · 18h → 19h30
 lieu: Maison de la Poésie de Rennes ou Discord
 tarif: Entrée libre et gratuite, réservée aux doctorant.es ALL de l'Université
   Rennes 2
