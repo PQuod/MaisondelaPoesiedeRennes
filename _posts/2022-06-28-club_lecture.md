@@ -7,9 +7,9 @@ type: event
 title: Club de lecture
 date: 2022-06-28T08:29:30.328Z
 categories: associatif
-date_debut: 2024-05-14T22:00:00.000Z
-date_fin: 2024-05-15T22:00:00.000Z
-dates_publiees: 15 mai 2024 · 20h → 21h30
+date_debut: 2024-06-18T22:00:00.000Z
+date_fin: 2024-06-18T22:00:00.000Z
+dates_publiees: 19 juin 2024 · 20h → 21h30
 lieu: Maison de la Poésie de Rennes
 ---
 ## Fonctionnement
@@ -28,6 +28,16 @@ Vous trouverez ci-dessous tous les livres conseillés ces dernières années par
 - - -
 
 ## 2024
+
+**Club du 15 mai 2024**
+
+* *Voyage au mont Tamalpaïs*, Etel Adnan, éditions Manuella
+* *La structure des révolutions scientifiques*, Thomas S. Kuhn (trad. L. Meyer), éditions Champs
+* *Mémoires d'une femme de ménage*, Isaure avec Bertrand Ferrier, éditions Points
+* *Pas pleurer*, Lydie Salvayre, éditions du Seuil
+* *L'Or*, Blaise Cendrars, éditions Le Livre de Poche
+* *Requiem des innocents*, Louis Calaferte, éditions Folio
+* *Le Monde glorieux*, Margaret Cavendish (trad. L. Cottegnies), éditions José Corti
 
 **Club du 17 avril 2024**
 
