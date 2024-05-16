@@ -40,13 +40,13 @@ Voici les montants en Bretagne en 2024 :
 * 2200 € bruts par mois pour les résidences de création (Région Bretagne)
 * 2000 € bruts par mois pour la résidence émergence (Ville de Rennes)
 
-Pour plus de transparence, nous pouvons distinguer le montant destiné à la création du montant dédié aux rencontres.
+Pour plus de transparence, on peut distinguer le montant destiné à la création du montant dédié aux rencontres.
 
 Aujourd'hui, pour les résidences de création, il y a 2900 € d'honoraires suite à une prestation artistique (8 demi-journées d'ateliers et une lecture-performance), et 1500 € de rémunération artistique sans contrepartie.
 
 ### Intermittence
 
-A compléter.
+On peut rémunérer en cachets les artistes-auteurices qui disposent du statut d'intermittent.es du spectacle. On demande des informations administratives nécessaires et les fiches de paie et déclarations sociales sont réalisées par la CAGEC (Centre de gestion et de formation au service des professionnels du spectacle et de la culture).
 
 ## Équipe associative
 
@@ -103,7 +103,7 @@ Lorsque nous organisons des ateliers, des rencontres ou des résidences dans les
 
 Nous demandons aux établissements scolaires une contribution financière qui participe aux honoraires des auteur·ices. 
 
-Pour les rencontres et ateliers ponctuels, cette contribution est de l'ordre de 100 euros pour les collèges et les lycées et 50 euros pour les écoles.
+Pour les rencontres et ateliers ponctuels, cette contribution est de l'ordre de 100 € pour les collèges et les lycées et 50 € pour les écoles.
 
 Pour les projets plus conséquents, comme les ateliers suivis sur plusieurs semaines ou les résidences en milieu scolaire, cette contribution est adaptée en fonction du budget du projet déposé lors de nos demandes de subventions.
 
@@ -111,6 +111,10 @@ Pour les ateliers qui accompagnent nos résidences annuelles (d'automne et de pr
 
 ### Cotisations et inscriptions
 
-Tous nos événements sont gratuits. 
+L'adhésion à l'association est de 10 € en plein tarif, et gratuite pour les demandereuses d'emploi et étudiant.es. 
 
-A détailler sur les ateliers d'écriture.
+On a environ 60 adhérent.es au total par an, autant dire que la somme réunie par ce biais est symbolique vu les dizaines de milliers d'euros nécessaires pour faire fonctionner l'association.
+
+Pour les ateliers d'écriture, les tarifs d'inscription sont calculés selon le quotient familial, et la Maison de la Poésie prend en charge la moitié de la rémunération artistique pour proposer des tarifs plus accessibles à toustes. 
+
+Tous nos événements sont gratuits.
