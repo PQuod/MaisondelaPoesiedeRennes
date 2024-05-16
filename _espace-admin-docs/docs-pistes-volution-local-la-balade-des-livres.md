@@ -36,7 +36,7 @@ Installer trois artistes-auteurices qui pourraient travailler sur leurs projets 
 
 Avantages : permet de compenser un manque d'espace pour les artistes de l'écrit à Rennes, plus de présence humaine en même temps dans la villa, ressources de proximité pour des projets artistiques (ateliers d'écriture, commande, etc.)
 
-Mais le local deviendrait finalement un autre bureau, sans possibilité réelle que des gens viennent y voir de nouvelles pratiques. La logistique pour le remplacement des artistes peut également être lourde. La présence peut rester fluctuante car les pratiques artistiques ne nécessitent pas forcément d'être tout la semaine dans l'atelier.
+Mais le local deviendrait finalement un autre bureau, sans possibilité réelle que des gens viennent y voir de nouvelles pratiques. La logistique pour le remplacement des artistes peut également être lourde. La présence peut rester fluctuante car les pratiques artistiques ne nécessitent pas forcément d'être toute la semaine dans l'atelier.
 
 3. Bureau associatif
 
@@ -48,7 +48,7 @@ Cependant, on retombe dans la même logique que la sous-location avec la Balade 
 
 4. Café associatif
 
-C'est une proposition qui prête à rêver, mais lors des discussions elle a posé plusieurs problèmes techniques : quel prestataire ou association pour porter cette activité ? Veut-on condamner la cuisine commune pour cet usage (puisqu'il y aura un lien obligatoire entre la cuisine et le local) ? La Ville de Rennes serait-il d'accord pour ce nouvel usage du lieu ? N'y a-t-il pas u
+C'est une proposition qui prête à rêver, mais lors des discussions elle a posé plusieurs problèmes techniques : quel prestataire ou association pour porter cette activité ? Veut-on condamner la cuisine commune pour cet usage (puisqu'il y aura un lien obligatoire entre la cuisine et le local) ? La Ville de Rennes serait-elle d'accord pour ce nouvel usage du lieu ? Quelles possibilités d'accueil pour un lieu non-PMR ? Etc. Les interrogations sont multiples.
 
 A court terme, cela ne semble pas être une option réalisable, mais elle mérite d'être gardée en tête si la dynamique financière auprès de la Ville s'améliore dans le futur.
 
