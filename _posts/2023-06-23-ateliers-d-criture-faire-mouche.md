@@ -27,7 +27,7 @@ Plein : entre 68 et 86 €, selon quotient familial.\
 Pas de remboursement.
 
 **Pour s’inscrire**\
-Il suffit de renvoyer [le bulletin d'inscription complété](/imgs/inscription-ateliers-d-criture-vivarium.pdf) (PDF, 200 Ko), avant le premier atelier, par courrier (Maison de la Poésie de Rennes, 47 rue Armand Rébillon 35000 Rennes) ou en main propre, avec le chèque de règlement à l'ordre de Maison de la Poésie de Rennes.
+Il suffit de renvoyer [le bulletin d'inscription complété](/imgs/inscription-ateliers-d-criture-vivarium.pdf) (PDF, 200 Ko), avant le premier atelier, par courrier (Maison de la Poésie de Rennes, 47 rue Armand Rébillon 35000 Rennes) ou en main propre, avec le chèque de règlement à l'ordre de Maison de la Poésie de Rennes. 
 
 Pour savoir quel tarif d'inscription correspond à votre quotient familial, [écrivez-nous](mailto:contact@maiporennes.fr).
 
