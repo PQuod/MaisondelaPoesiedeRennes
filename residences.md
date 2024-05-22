@@ -56,7 +56,7 @@ Il appartient au candidat ou à la candidate de s'assurer que toutes les pièces
 
 ## Postuler
 
-*Les candidatures ne sont pas encore ouvertes pour les résidences de la saison 2025-2026.*
+L'appel à candidatures pour **les résidences de la saison 2025-2026** est [accessible en cliquant sur ce lien](https://maiporennes.fr/appel/2022/06/28/appel_23-24)*.*
 
 - - -
 
