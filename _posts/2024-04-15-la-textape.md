@@ -19,7 +19,7 @@ La Textape visite le Babazula et vous propose de passer une soirée en sa compag
 
 Vous pourrez d’abord assister aux performances de trois de ses membres : **Loubar**, **Anouk Schavelzon** et **Laure Mathieu-Hanen**.  
 
-Depuis le rire numérique, en passant par l’élocution poétique et les problèmes de cohabitation dans l’espace, les performeureuses vous proposeront un balayage conceptuel digne de vos meilleur.es coiffeureuses. 
+Depuis le rire numérique, en passant par l’élocution poétique et les problèmes de cohabitation dans l’espace, les performeureuses vous proposeront un balayage conceptuel digne de vos meilleur.es coiffeureuses.  
 
 L’événement se poursuivra avec une scène ouverte au cours de laquelle celles et ceux du public qui le souhaitent pourront lire un texte de leur cru ou de quelqu’un.e d’autre, chanter une chanson, partager une anecdote, une recette de cuisine, un conseil de vie. Les inscriptions se feront sur place.
 
