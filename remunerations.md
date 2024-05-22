@@ -99,9 +99,9 @@ L'association est locataire de la villa Beauséjour, propriété de la Ville de 
 
 ### Établissements scolaires
 
-Lorsque nous organisons des ateliers, des rencontres ou des résidences dans les établissements scolaires, nous rémunérons les auteur·ices en honoraires suite à une prestation de service.
+Lorsque nous organisons des ateliers, des rencontres ou des résidences dans les établissements scolaires, nous rémunérons les auteurices en honoraires suite à une prestation de service.
 
-Nous demandons aux établissements scolaires une contribution financière qui participe aux honoraires des auteur·ices. 
+Nous demandons aux établissements scolaires une contribution financière qui participe aux honoraires des auteurices. 
 
 Pour les rencontres et ateliers ponctuels, cette contribution est de l'ordre de 100 € pour les collèges et les lycées et 50 € pour les écoles.
 
