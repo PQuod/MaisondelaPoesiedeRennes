@@ -5,8 +5,8 @@ type: event
 title: "De la poésie au BabaZula #9"
 date: 2024-03-11T09:03:22.994Z
 artiste:
-  - Clara Pacotte
   - Marjorie Garcia
+  - Clara Pacotte
   - Guillaume Vissac
 categories: rencontre
 date_debut: 2024-06-11T08:02:43.750Z
@@ -20,8 +20,9 @@ Un concept hyper simple.
 Pendant une heure, au BabaZula, des lectures de poésie.
 
 Cette fois, c’est avec :
-- Clara Pacotte
-- Marjorie Garcia
-- Guillaume Vissac
+
+* Marjorie Garcia
+* Clara Pacotte
+* Guillaume Vissac
 
 Boisson sur place, tranquillement.
