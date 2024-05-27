@@ -25,11 +25,11 @@ Le rez-de-chaussée de la villa Beauséjour comprend une bibliothèque de plus d
 
 **Durée du séjour**
 
-2 mois sans interruption, entre octobre et décembre ou avril et juin.
+2 mois (8 semaines) consécutifs, entre octobre et décembre ou avril et juin.
 
 **Conditions d'accueil**
 
-1. Une bourse de 2200 euros brut en droits d'auteur par mois de résidence.  
+1. Une bourse (rémunération artistique sans contrepartie) de 2200 euros bruts par mois de résidence.  
 2. Un aller-retour depuis le domicile en train ou en voiture.  
 3. 100 euros de documentation.
 
@@ -56,7 +56,7 @@ Il appartient au candidat ou à la candidate de s'assurer que toutes les pièces
 
 ## Postuler
 
-*Les candidatures ne sont pas encore ouvertes pour les résidences de la saison 2025-2026.*
+L'appel à candidatures pour **les résidences de la saison 2025-2026** est [accessible en cliquant sur ce lien](https://maiporennes.fr/appel/2022/06/28/appel_23-24)*.*
 
 - - -
 
