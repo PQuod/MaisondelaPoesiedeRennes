@@ -2,26 +2,26 @@
 layout: default
 ---
 <article>
-    {% if page.ref == 'residences'%}
-      <div class="header_page color_res">
-    {% elsif page.ref == 'maison' %}
-      <div class="header_page color_asso">
-    {% elsif page.ref == 'scolaires' %}
+  {% if page.ref == 'residences'%}
+    <div class="header_page color_res">
+  {% elsif page.ref == 'maison' %}
+    <div class="header_page color_asso">
+  {% elsif page.ref == 'scolaires' %}
     <div class="header_page color_scol">
-    {% elsif page.ref == 'journal' %}
+  {% elsif page.ref == 'journal' %}
     <div class="header_page color_pod">
-    {% else %}
+  {% else %}
     <div class="header_page color_autres">
-    {% endif %}
-        <div class="titre_page"><h1>{{ page.title }}</h1></div>
+  {% endif %}
+      <div class="titre_page"><h1>{{ page.title }}</h1></div>
+  </div>
+  <div class="sommaire">
+  </div>
+  <div class="post_descript">
+    <div class="sommaire-content">
+      {{ page.content | markdownify }}
     </div>
-    <div class="sommaire">
-    </div>
-    <div class="post_descript">
-      <div class="sommaire-content">
-        {{ page.content | markdownify }}
-      </div>
-    </div>
+  </div>
   {% if page.ref == "residences" %}
     {% include scripts/residence_list.html %}
   {% endif %}
