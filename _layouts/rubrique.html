@@ -32,7 +32,6 @@ layout: default
 {% include scripts/sommaire.html %}
 <script>
   const myImages = document.images;
-  console.log(myImages.length);
   for (let i = 0; i < myImages.length; i++){
     if (myImages[i].id != "logo"){
       const imgUrl= myImages[i].src;
