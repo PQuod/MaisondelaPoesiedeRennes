@@ -93,7 +93,7 @@ Voici les montants versés par les autres établissements publics et organismes 
 * 3500 € du CFCopies
 * 2000 € du Centre National du Livre
 
-Ces sommes sont complétées par d'autres aides de partenaires culturels. Par exemple, le Frac Bretagne participe à hauteur de 1000&nbsp;€ (50%) à la résidence émergence.
+Ces sommes sont complétées par d'autres aides de partenaires culturels. Par exemple, le Frac Bretagne participe à hauteur de 1000 € (50%) à la résidence émergence.
 
 L'association est locataire de la villa Beauséjour, propriété de la Ville de Rennes. Le loyer mensuel est de 275 €. Depuis 2023, les charges des fluides ne sont plus refacturées par la Ville de Rennes aux associations locataires.
 
