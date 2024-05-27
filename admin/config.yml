@@ -198,18 +198,6 @@ collections:
           - {label: "Layout", name : "layout", widget: "hidden", default: "rubrique"}
           - {label: "Permalink", name: "permalink", widget: "hidden", default:"/mentions/"}
           - {label: 'Description', name: 'body', widget: 'markdown'}
-  - name: "coupdecoeur"
-    label: "Coups de coeur"
-    delete: false
-    editor:
-      preview: false
-    files: 
-      - name: "listcpdecoeurs"
-        label: 'Liste des Coups de cœur'
-        file: '_data/settings.json'
-        description: 'Liste des coups de cœur'
-        fields: 
-          - { label: 'Coups de cœur :', name: 'cpdecoeur', widget: 'string'}
   - name: "options"
     label: "Options"
     delete: false
