@@ -2,28 +2,28 @@
 draft: false
 layout: post
 type: event
-title: "Ateliers d'écriture : Ecrire vivant"
+title: "Ateliers d'écriture : Prendre corps"
 date: 2023-06-05T14:30:03.085Z
 artiste:
   - Juliette Thomas
 categories: rencontre
-date_debut: 2023-12-12T08:35:57.626Z
-date_fin: 2023-12-12T08:35:57.693Z
-dates_publiees: A partir du 17 octobre 2023 · 20h → 22h
+date_debut: 2024-10-01T07:35:57.626Z
+date_fin: 2024-12-01T08:35:57.693Z
+dates_publiees: A partir du 1er octobre 2024 · 19h → 21h
 lieu: Maison de la Poésie de Rennes
-tarif: Inscriptions clôturées
+tarif: Payant, inscription obligatoire
 ---
-À l'heure de repenser notre rapport au monde pour mieux l'habiter et le protéger, que peut l'écriture ? Construire de nouveaux imaginaires de nos corps en lien avec le vivant est une piste que les ateliers *Écrire vivant* se proposent d'explorer
+Prendre corps ce serait éprouver ses propres contours, ce serait la possibilité du geste comme celle de l'immobilité. Ce serait connaître d'où l'on parle, et puis avoir une bouche. Ce serait la possibilité d'habiter quelque part, de rencontrer les autres corps, ce serait tout ce qui est vivant, ce serait les histoires écrites juste sous la peau, héritées, transmises ou inventées. Ce serait l'hybridité, la mutation, la métamorphose. Ce serait raconter des histoires de corps qui aident à habiter le monde et considérer qu'un corps peut être composé de mille autres corps - humains et non humains.
 
-L'écriture est un moyen de nous relier au monde, et de nous y inscrire. Elle permet d'explorer nos manières d'exister et de prendre chair, de lier l'intime et le dehors, d'éprouver les métamorphoses de la nature, de s'inspirer des manières de faire du vivant pour écrire des corps reliés à la fois à nos histoires individuelles et à un devenir collectif.
+Le temps de cinq ateliers, nous explorerons ces pistes pour en faire des contes, des histoires et des poèmes. Il y aura des lectures pour accompagner la lecture et la nourrir.
 
-Durant ces cinq ateliers nous imaginerons ces liens et ces mutations, nous nous inventerons paysage, faune, flore, vivants, etc.
+Prendre corps, ce sera donc aussi se rassembler pour écrire, suivre ces chemins ensemble, partager nos textes à voix haute.
 
-Cet atelier est ouvert à tous·tes, que vous écriviez déjà ou non. Atelier de poésie mais pas que, ouvert à la prose et au récit poétique, et aux expérimentations diverses. 
+Ces ateliers sont ouverts à toustes, que vous ayez ou non une pratique de l'écriture. Ateliers de poésie mais pas que, ouvert à la prose et au récit poétique, et aux expérimentations diverses. 
 
 **Dates**\
-Un mardi par mois, de 20h à 22h.\
-Les dates : 17 octobre, 7 novembre, 5 décembre, 9 janvier, 6 février.
+Un mardi par mois, de 19h à 21h.\
+Les dates : 1er octobre, 5 novembre, 3 décembre, 7 janvier, 4 février.
 
 **Tarifs pour les 5 ateliers**\
 Plein : entre 68 et 86 €, selon quotient familial.\
@@ -31,7 +31,9 @@ Plein : entre 68 et 86 €, selon quotient familial.\
 Pas de remboursement.
 
 **Pour s’inscrire**\
-Les inscriptions pour ces ateliers sont clôturées.
+Il suffit de renvoyer [le bulletin d’inscription complété](https://maiporennes.fr/imgs/inscription-ateliers-d-criture-prendre-corps.pdf) (PDF, 201 Ko), avant le premier atelier, par courrier (Maison de la Poésie de Rennes, 47 rue Armand Rébillon 35000 Rennes) ou en main propre, avec le chèque de règlement à l’ordre de Maison de la Poésie de Rennes.
+
+Pour savoir quel tarif d’inscription correspond à votre quotient familial, [écrivez-nous](mailto:contact@maiporennes.fr).
 
 **Comment connaître mon quotient familial ?**\
 Le quotient familial est calculé en fonction du foyer et des ressources. Pour le connaître, il faut se connecter à votre espace CAF, puis sur l'espace "Mon Compte". Le quotient familial est visible sur la page d'accueil, à la rubrique "Mes paiements et mes droits". Vous pouvez télécharger une attestation, que vous joindrez à votre paiement.
