@@ -26,7 +26,7 @@ Elle conduit sa démarche avec le souci permanent de favoriser l’accès du plu
 Direction : Quentin Leclerc\
 Médiation scolaire : Lucie Desaubliaux\
 Chargée d'entretien : Lucie Kerouedan\
-Jardinier : *En cours de recrutement*
+Jardinier : Mérovée Dubois
 
 ### Conseil d'Administration
 
