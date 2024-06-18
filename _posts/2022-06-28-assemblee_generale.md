@@ -26,9 +26,10 @@ Mail : [contact@maiporennes.fr](mailto:contact@maiporennes.fr?subject=Assembl%C3
 **L'ordre du jour sera le suivant :**
 
 * Accueil
-* Présentation et approbation des comptes
-* Présentation et approbation du rapport d'activité
-* Présentation et approbation du rapport moral
+* Présentation et approbation des comptes 2023
+* Présentation et approbation du rapport d'activité 2023
+* Présentation et approbation du rapport moral 2023
+* Évolution des statuts
 * Élection de nouveaux membres du CA
 * Pot de fin
 
