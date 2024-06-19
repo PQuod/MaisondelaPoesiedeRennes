@@ -25,6 +25,13 @@ Vous trouverez ci-dessous tous les livres conseillés aux clubs précédents par
 
 ## 2024
 
+**Club du 17 juin 2024**
+
+* Johan Heliot, *Les Enfants de la Terreur*, éditions L'Atalante
+* Fabrice Neaud, *Le Dernier Sergent 1 : Les Guerres immobiles*, éditions Delcourt
+* Elizabeth Taylor, *Hester Lilly (trad. J. Odin)*, éditions Rivages
+* Quentin Leclerc, *Casca la couronnée*, éditions de l'Ogre
+
 **Club du 27 mai 2024**
 
 * William Faulkner, *Absalon, Absalon !* (trad. R.-N. Raimbault), éditions L'Imaginaire/Gallimard
