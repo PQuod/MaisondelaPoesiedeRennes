@@ -29,6 +29,12 @@ Vous trouverez ci-dessous tous les livres conseillés aux clubs précédents par
 
 ## 2024
 
+**Club du 14 juin 2024**
+
+* *La nuit juste avant les forêts*, Bernard-Marie Koltès, éditions de Minuit
+* *Histoires de vent*, Adelheid Duvanel (trad. C. Fagnot), éditions José Corti
+* *Molly*, Blake Butler, Archway Editions
+
 **Club du 8 mars 2024**
 
 * *L'Oncle Silas*, Joseph Sheridan Le Fanu (trad. J. Finné), éditions Corti
