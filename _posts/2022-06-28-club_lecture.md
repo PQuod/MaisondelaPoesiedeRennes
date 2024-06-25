@@ -1,14 +1,14 @@
 ---
 draft: false
 layout: post
-tarif: Entrée libre et gratuite
-name: Club de lecture
 type: event
 title: Club de lecture
-date: 2022-06-28T08:29:30.328Z
 categories: associatif
-date_debut: 2024-06-18T22:00:00.000Z
 date_fin: 2024-06-18T22:00:00.000Z
+tarif: Entrée libre et gratuite
+name: Club de lecture
+date: 2022-06-28T08:29:30.328Z
+date_debut: 2024-06-18T22:00:00.000Z
 dates_publiees: 19 juin 2024 · 20h → 21h30
 lieu: Maison de la Poésie de Rennes
 ---
@@ -28,6 +28,16 @@ Vous trouverez ci-dessous tous les livres conseillés ces dernières années par
 - - -
 
 ## 2024
+
+**Club du 19 juin 2024**
+
+* *En attendant Godot*, Samuel Beckett, éditions de Minuit
+* *Maman, regarde !*, Amelia Cavarzan, Antiga Edizioni
+* *Rage de vivre*, René Depestre, éditions Seghers
+* *At the Bottom of the River*, Jamaica Kincaid, Picador
+* *Insomniaques*, Makato Ojiro, éditions Soleil Manga
+* *Bakemonogatari*, Nisioisin & Oh! Great, éditions Monster Tale
+* *La côte sauvage*, Jean-René Huguenin, éditions Points
 
 **Club du 15 mai 2024**
 
