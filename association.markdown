@@ -34,7 +34,7 @@ Jardinier : Mérovée Dubois
 
 Charlotte Beltzung &middot; Anaël Castelein &middot; Valentin Godard-Paillat &middot; Monique Ormevil &middot; Marie Audran &middot; Rafa Gandini Miletto &middot; Stéphanie Vivier
 
-#### Membres Fondateurs
+#### Membres fondateurs
 
 Dominique Vaugeois ([Université Rennes 2](http://www.univ-rennes2.fr/)) &middot; Marylin Degrenne ([La Balade des Livres](http://www.la-balade-des-livres.fr/)) 
 
