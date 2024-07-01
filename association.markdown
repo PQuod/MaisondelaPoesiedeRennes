@@ -28,16 +28,15 @@ Médiation scolaire : Lucie Desaubliaux\
 Chargée d'entretien : Lucie Kerouedan\
 Jardinier : Mérovée Dubois
 
-### Conseil d'Administration
+### Conseil d'Administration collégial
 
-Co-Présidentes : Anne-Marie Klapka et Charlotte Beltzung\
-Trésorier : Anaël Castelein\
-Secrétaire : Valentin Godard-Paillat\
-Monique Ormevil &middot; Marie Audran &middot; Rafa Gandini Miletto &middot; Stéphanie Vivier
+#### Membres élus
 
-### Membres Fondateurs
+Charlotte Beltzung &middot; Anaël Castelein &middot; Valentin Godard-Paillat &middot; Monique Ormevil &middot; Marie Audran &middot; Rafa Gandini Miletto &middot; Stéphanie Vivier
 
-François Trémolières ([Université Rennes 2](http://www.univ-rennes2.fr/)) &middot; Marylin Degrenne ([La Balade des Livres](http://www.la-balade-des-livres.fr/)) 
+#### Membres Fondateurs
+
+Dominique Vaugeois ([Université Rennes 2](http://www.univ-rennes2.fr/)) &middot; Marylin Degrenne ([La Balade des Livres](http://www.la-balade-des-livres.fr/)) 
 
 - - -
 
