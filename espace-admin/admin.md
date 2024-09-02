@@ -80,8 +80,8 @@ Vous trouverez dans le menu les dates des prochains rendez-vous, ainsi que des l
 - [Dossier + Ouvrage](../imgs/laure_morali_dossier_ouvrage.pdf)
 
 ### Lou Schweitzer
-- [Dossier](../
-- [Projet](../
+- [Dossier](../imgs/01lou_schweitzer_dossier.pdf)
+- [Projet](../imgs/02lou_schweitzer_projet_biblio.pdf)
 - [Ouvrage](../
 
 ### Lulla Clowski
