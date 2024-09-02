@@ -63,7 +63,7 @@ Vous trouverez dans le menu les dates des prochains rendez-vous, ainsi que des l
 
 ### 13. Justin Delareux
 - [Dossier](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Justin%20Delareux/Justin_Delareux_Dossier.pdf)
-- Pas de PDF // Ouvrage disponible à la Maipo
+- [Ouvrage](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Justin%20Delareux/Justin_Delareux_Ouvrage.pdf)
 
 ### 14. Justine Langella
 - [Dossier](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Justine%20Langella/01Justine_Langella_Dossier.pdf)
