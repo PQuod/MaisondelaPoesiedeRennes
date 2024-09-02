@@ -125,3 +125,10 @@ Vous trouverez dans le menu les dates des prochains rendez-vous, ainsi que des l
 - [Projet](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Zo%C3%A9%20Besmond%20de%20Senneville/02Zoe_Besmond_Projet.pdf)
 - [Biblio](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Zo%C3%A9%20Besmond%20de%20Senneville/03Zoe_Besmond_Biblio.pdf)
 - [Ouvrage](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Zo%C3%A9%20Besmond%20de%20Senneville/04Zoe_Besmond_Ouvrage.pdf)
+
+### 27. Séverine É
+- [Dossier](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/S%C3%A9verine%20%C3%A9/dossier%20candidature%20S%C3%A9verine%20%C3%A9.pdf)
+- [Ouvrage](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/S%C3%A9verine%20%C3%A9/Habiter%20de%20travers%20-%20Severine%20%C3%A9.pdf)
+
+### 28. Myriam Oh
+- [Dossier + Ouvrage](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Myriam%20Oh/Candidature%20Myriam%20OH.pdf)
