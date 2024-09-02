@@ -50,13 +50,13 @@ Vous trouverez dans le menu les dates des prochains rendez-vous, ainsi que des l
 - [Dossier + Ouvrage](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Francesco%20Pittau/Francesco_Pittau_Dossier_Ouvrage.pdf)
 
 ### Hélène Tyrtoff
-- [Dossier](../imgs/01helene_tyrtoff_dossier.pdf)
-- [Projet d'écriture](../imgs/02helene_tyrtoff_projet.pdf)
+- [Dossier](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/H%C3%A9l%C3%A8ne%20Tyrtoff/01Helene_Tyrtoff_Dossier.pdf)
+- [Projet d'écriture](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/H%C3%A9l%C3%A8ne%20Tyrtoff/02Helene_Tyrtoff_Projet.pdf)
 - [Bibliographie](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/H%C3%A9l%C3%A8ne%20Tyrtoff/03Helene_Tyrtoff_Biblio.pdf)
 - [Ouvrage]()
 
 ### Jason Mache
-- [Dossier](../imgs/01jason_mache_dossier.pdf)
+- [Dossier](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Jason%20Mache/01Jason_Mache_Dossier.pdf)
 - [Projet d'écriture](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Jason%20Mache/02Jason_Mache_Projet.pdf)
 - [Bibliographie](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Jason%20Mache/03Jason_Mache_Biblio.pdf)
 - [Ouvrage](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/04Jason_Mache_Ouvrage.pdf)
@@ -66,8 +66,8 @@ Vous trouverez dans le menu les dates des prochains rendez-vous, ainsi que des l
 - Dernier ouvrage épuisé, mais nous possédons ses autres publications à la bibliothèque
 
 ### Justine Langella
-- [Dossier](../imgs/01justine_langella_dossier.pdf)
-- [Projet](../imgs/02justine_langella_projet.pdf)
+- [Dossier](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Justine%20Langella/01Justine_Langella_Dossier.pdf)
+- [Projet](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Justine%20Langella/02Justine_Langella_Projet.pdf)
 - [Ouvrage](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/03Justine_Langella_Ouvrage.pdf)
 
 ### Lancelot Roumier
