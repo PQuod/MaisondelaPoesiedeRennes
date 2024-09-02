@@ -59,21 +59,21 @@ Vous trouverez dans le menu les dates des prochains rendez-vous, ainsi que des l
 - [Dossier](../imgs/01jason_mache_dossier.pdf)
 - [Projet d'écriture](../imgs/02jason_mache_projet.pdf)
 - [Bibliographie](../imgs/03jason_mache_biblio.pdf)
-- [Ouvrage]--> Trop lourd à uploader
+- [Ouvrage](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/04Jason_Mache_Ouvrage.pdf)
 
 ### Justin Delareux
 - [Dossier](../imgs/justin_delareux_dossier.pdf)
 - Dernier ouvrage épuisé, mais nous possédons ses autres publications à la bibliothèque
 
 ### Justine Langella
-- [Dossier](../
-- [Projet](../
-- [Ouvrage](../
+- [Dossier](../imgs/01justine_langella_dossier.pdf)
+- [Projet](../imgs/02justine_langella_projet.pdf)
+- [Ouvrage]--> trop lourd à uploader
 
 ### Lancelot Roumier
-- [Dossier](../
-- [Projet](../
-- [Bibliographie](../
+- [Dossier](../imgs/01lancelot_roumier_dossier.pdf)
+- [Projet](../imgs/02lancelot_roumier_projet.pdf)
+- [Bibliographie](../imgs/03lancelot_roumier_biblio.pdf)
 - [Ouvrage](../
 
 ### Laure Morali
@@ -111,4 +111,11 @@ Vous trouverez dans le menu les dates des prochains rendez-vous, ainsi que des l
 - [Ouvrage](../
 
 ### Tristan Mertens
+
+### Zahra Pourazizi
+- [Dossier](../
+- [Projet](../
+- [Biblio](../
+- [Ouvrage](../
+- [Promesse de publication](../
 
