@@ -47,11 +47,20 @@ Vous trouverez dans le menu les dates des prochains rendez-vous, ainsi que des l
 - Pas de Pdf // Ouvrage : Exemplaire papier pas encore reçu ?
 
 ### Francesco Pittau
-- [Dossier + Ouvrage](../
+- [Dossier + Ouvrage](
 
 ### Hélène Tyrtoff
+- [Dossier](../imgs/01helene_tyrtoff_dossier.pdf)
+- [Projet d'écriture](../imgs/02helene_tyrtoff_projet.pdf)
+- [Bibliographie](../imgs/03helene_tyrtoff_biblio.pdf)
+- [Ouvrage](../
 
 ### Jason Mache
+- [Dossier](../
+- [Projet d'écriture](../
+- [Bibliographie](../
+- [Ouvrage](../
 
 ### Justin Delareux
-
+- [Dossier](../
+- Dernier ouvrage épuisé, mais nous possédons ses autres publications à la bibliothèque
