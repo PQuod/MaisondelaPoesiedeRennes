@@ -11,58 +11,58 @@ Vous trouverez dans le menu les dates des prochains rendez-vous, ainsi que des l
 
 ### Anne Peyrouse
 
-- [Dossier](../imgs/01anne_peyrouse_dossier.pdf.pdf)
-- [Ouvrage](../imgs/02anne_peyrouse_ouvrage.pdf.pdf)
+- [Dossier](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Anne%20Peyrouse/01Anne_Peyrouse_Dossier.pdf.pdf)
+- [Ouvrage](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Anne%20Peyrouse/02Anne_Peyrouse_Ouvrage.pdf.pdf)
 
 ### Béatrice Mouchel
-- [Dossier](../imgs/01beatrice_mouchel-dossier_candidature.pdf)
-- [Projet d'écriture](../imgs/02beatrice_mouchel-projet_ecriture.pdf)
-- [Bio-Bibliographie](../imgs/03beatrice_mouchel-bio_bibliographie.pdf)
-- [Ouvrage](../imgs/04beatrice_mouchel-maquette-livre-de-plier-les-silences.pdf)
+- [Dossier](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/B%C3%A9atrice%20Mouchel/01Beatrice_Mouchel-DOSSIER_CANDIDATURE.pdf)
+- [Projet d'écriture](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/B%C3%A9atrice%20Mouchel/02Beatrice_Mouchel-PROJET_ECRITURE.pdf)
+- [Bio-Bibliographie](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/B%C3%A9atrice%20Mouchel/03Beatrice_Mouchel-BIO_BIBLIOGRAPHIE.pdf)
+- [Ouvrage](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/B%C3%A9atrice%20Mouchel/04Beatrice_Mouchel-maquette-livre-déplier-les-silences.pdf)
 
 ### Blanche Baudouin
-- [Dossier](../imgs/01blanche_baudoin_dossier.pdf)
-- [Ouvrage](../imgs/02blanche_baudoin_ouvrage.pdf)
+- [Dossier](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Blanche%20Baudouin/01Blanche_Baudoin_Dossier.pdf)
+- [Ouvrage](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Blanche%20Baudouin/02Blanche_Baudoin_Ouvrage.pdf)
 
 ### Claire Audhuy
-- [Ouvrage + Dossier](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Claire_Audhuy_dossier_ouvrage.pdf)
+- [Ouvrage + Dossier](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Claide%20Audhuy/Claire_Audhuy_dossier_ouvrage.pdf)
 
 ### Cléa Chopard
-- [Dossier](../imgs/01clea_chopard_dossier.pdf)
-- [Ouvrage](../imgs/02clea_chopard_ouvrage.pdf)
+- [Dossier](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Cl%C3%A9a%20Chopard/01Clea_Chopard_Dossier.pdf)
+- [Ouvrage](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Cl%C3%A9a%20Chopard/02Clea_Chopard_Ouvrage.pdf)
 
 ### Elias Soma
-- [Dossier](../imgs/01elias_soma_dossier.pdf)
+- [Dossier](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Elias%20Soma/01Elias_Soma_Dossier.pdf)
 - Pas de Pdf // Ouvrage à consulter à la Maipo
 
 ### Elodie Chan
-- [Dossier](../imgs/01elodie_chan_dossier.pdf)
-- [Ouvrage](../imgs/02elodie_chan_ouvrage.pdf)
+- [Dossier](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Elodie%20Chan/01Elodie_Chan_Dossier.pdf)
+- [Ouvrage](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Elodie%20Chan/02Elodie_Chan_Ouvrage.pdf)
 
 ### Eva Pechova
-- [Dossier + Ouvrage](../imgs/eva_pechova_dossier_ouvrage.pdf)
+- [Dossier + Ouvrage](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Eva%20Pechova/Eva_Pechova_Dossier_Ouvrage.pdf)
 
 ### Fémi Peters
-- [Dossier](../imgs/femi_peters_dossier.pdf)
+- [Dossier](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/F%C3%A9mi%20Peters/Femi_Peters_Dossier.pdf)
 - Pas de Pdf // Ouvrage : Exemplaire papier pas encore reçu ?
 
 ### Francesco Pittau
-- [Dossier + Ouvrage] --> trop lourd à uploader
+- [Dossier + Ouvrage](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Francesco%20Pittau/Francesco_Pittau_Dossier_Ouvrage.pdf)
 
 ### Hélène Tyrtoff
 - [Dossier](../imgs/01helene_tyrtoff_dossier.pdf)
 - [Projet d'écriture](../imgs/02helene_tyrtoff_projet.pdf)
-- [Bibliographie](../imgs/03helene_tyrtoff_biblio.pdf)
-- [Ouvrage](../imgs/04helene_tyrtoff_ouvrage.pdf)
+- [Bibliographie](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/H%C3%A9l%C3%A8ne%20Tyrtoff/03Helene_Tyrtoff_Biblio.pdf)
+- [Ouvrage]()
 
 ### Jason Mache
 - [Dossier](../imgs/01jason_mache_dossier.pdf)
-- [Projet d'écriture](../imgs/02jason_mache_projet.pdf)
-- [Bibliographie](../imgs/03jason_mache_biblio.pdf)
+- [Projet d'écriture](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Jason%20Mache/02Jason_Mache_Projet.pdf)
+- [Bibliographie](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Jason%20Mache/03Jason_Mache_Biblio.pdf)
 - [Ouvrage](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/04Jason_Mache_Ouvrage.pdf)
 
 ### Justin Delareux
-- [Dossier](../imgs/justin_delareux_dossier.pdf)
+- [Dossier](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Justin%20Delareux/Justin_Delareux_Dossier.pdf)
 - Dernier ouvrage épuisé, mais nous possédons ses autres publications à la bibliothèque
 
 ### Justine Langella
