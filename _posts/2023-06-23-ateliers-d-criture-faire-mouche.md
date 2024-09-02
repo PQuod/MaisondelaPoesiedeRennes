@@ -11,7 +11,7 @@ date_debut: 2024-10-15T08:19:54.690Z
 date_fin: 2025-02-11T09:19:54.732Z
 dates_publiees: A partir du 15 octobre 2024 · 19h → 21h
 lieu: Maison de la Poésie de Rennes
-tarif: Payant, inscription obligatoire
+tarif: Complet
 ---
 Cécile Cayrel invite à explorer le quotidien comme enjeu de création, de la routine aux coups d'éclats. Il s'agira alors de transformer, sublimer, fictionnaliser ce matériau d'écriture. Au fil des séances, des figures tutélaires comme Margaret Atwood, Romain Gary, Christophe Tarkos, et des voix nouvelles - Laura Vazquez, Elodie Petit, Kae Tempest - infuseront pour faire naître des textes originaux et personnels.
 
@@ -27,7 +27,7 @@ Plein : entre 68 et 86 €, selon quotient familial.\
 Pas de remboursement.
 
 **Pour s’inscrire**\
-Il suffit de renvoyer [le bulletin d'inscription complété](/imgs/inscription-ateliers-d-criture-vivarium.pdf) (PDF, 200 Ko), avant le premier atelier, par courrier (Maison de la Poésie de Rennes, 47 rue Armand Rébillon 35000 Rennes) ou en main propre, avec le chèque de règlement à l'ordre de Maison de la Poésie de Rennes. 
+Cet atelier est complet. Pour vous inscrire sur la liste d'attente, il suffit de nous envoyer votre nom et votre prénom [par email](mailto:contact@maiporennes.fr). Nous vous contacterons si jamais une place si libère.
 
 Pour savoir quel tarif d'inscription correspond à votre quotient familial, [écrivez-nous](mailto:contact@maiporennes.fr).
 
