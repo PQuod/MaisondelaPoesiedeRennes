@@ -25,7 +25,7 @@ Vous trouverez dans le menu les dates des prochains rendez-vous, ainsi que des l
 - [Ouvrage](../imgs/02blanche_baudoin_ouvrage.pdf)
 
 ### Claire Audhuy
-- [Ouvrage + Dossier] --> trop lourd à uploader
+- [Ouvrage + Dossier](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Claire_Audhuy_dossier_ouvrage.pdf)
 
 ### Cléa Chopard
 - [Dossier](../imgs/01clea_chopard_dossier.pdf)
@@ -89,4 +89,26 @@ Vous trouverez dans le menu les dates des prochains rendez-vous, ainsi que des l
 
 ### Maud Thiria
 - [Ouvrage + Dossier](../
+
+### Michel Gendarme
+- [Dossier](../
+- [Projet](../
+- [Biblio](../
+- [Ouvrage](../
+
+### Mouloud Akkouche
+- [Dossier + Ouvrage](../
+
+### Nadine Agostini
+- [Dossier](../
+- [Projet](../
+- [Biblio](../
+- [Ouvrage 1](../
+- [Ouvrage 2](../
+
+### Raphaël Laiguillée
+- [Dossier](../
+- [Ouvrage](../
+
+### Tristan Mertens
 
