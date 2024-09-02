@@ -25,7 +25,7 @@ Vous trouverez dans le menu les dates des prochains rendez-vous, ainsi que des l
 - [Ouvrage](../imgs/02blanche_baudoin_ouvrage.pdf)
 
 ### Claire Audhuy
-- [Ouvrage + Dossier en fin de document] --> trop lourd à uploader
+- [Ouvrage + Dossier] --> trop lourd à uploader
 
 ### Cléa Chopard
 - [Dossier](../imgs/01clea_chopard_dossier.pdf)
@@ -47,20 +47,46 @@ Vous trouverez dans le menu les dates des prochains rendez-vous, ainsi que des l
 - Pas de Pdf // Ouvrage : Exemplaire papier pas encore reçu ?
 
 ### Francesco Pittau
-- [Dossier + Ouvrage](
+- [Dossier + Ouvrage] --> trop lourd à uploader
 
 ### Hélène Tyrtoff
 - [Dossier](../imgs/01helene_tyrtoff_dossier.pdf)
 - [Projet d'écriture](../imgs/02helene_tyrtoff_projet.pdf)
 - [Bibliographie](../imgs/03helene_tyrtoff_biblio.pdf)
-- [Ouvrage](../
+- [Ouvrage](../imgs/04helene_tyrtoff_ouvrage.pdf)
 
 ### Jason Mache
+- [Dossier](../imgs/01jason_mache_dossier.pdf)
+- [Projet d'écriture](../imgs/02jason_mache_projet.pdf)
+- [Bibliographie](../imgs/03jason_mache_biblio.pdf)
+- [Ouvrage]--> Trop lourd à uploader
+
+### Justin Delareux
+- [Dossier](../imgs/justin_delareux_dossier.pdf)
+- Dernier ouvrage épuisé, mais nous possédons ses autres publications à la bibliothèque
+
+### Justine Langella
 - [Dossier](../
-- [Projet d'écriture](../
+- [Projet](../
+- [Ouvrage](../
+
+### Lancelot Roumier
+- [Dossier](../
+- [Projet](../
 - [Bibliographie](../
 - [Ouvrage](../
 
-### Justin Delareux
+### Laure Morali
+- [Dossier + Ouvrage](../
+
+### Lou Schweitzer
 - [Dossier](../
-- Dernier ouvrage épuisé, mais nous possédons ses autres publications à la bibliothèque
+- [Projet](../
+- [Ouvrage](../
+
+### Lulla Clowski
+- [Dossier + Ouvrage](../
+
+### Maud Thiria
+- [Ouvrage + Dossier](../
+
