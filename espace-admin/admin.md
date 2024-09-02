@@ -11,5 +11,15 @@ Vous trouverez dans le menu les dates des prochains rendez-vous, ainsi que des l
 
 ### Anne Peyrouse
 
-- [Dossier](imgs/01anne_peyrouse_dossier.pdf.pdf)
-- [Ouvrage](imgs/02anne_peyrouse_ouvrage.pdf.pdf)
+- [Dossier](../imgs/01anne_peyrouse_dossier.pdf.pdf)
+- [Ouvrage](../imgs/02anne_peyrouse_ouvrage.pdf.pdf)
+
+### Béatrice Mouchel
+
+### Blanche Baudouin
+
+### Claire Audhuy
+
+### Cléa Chopard
+
+### Elias Soma
