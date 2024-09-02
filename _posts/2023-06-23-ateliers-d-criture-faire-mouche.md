@@ -11,7 +11,7 @@ date_debut: 2024-10-15T08:19:54.690Z
 date_fin: 2025-02-11T09:19:54.732Z
 dates_publiees: A partir du 15 octobre 2024 · 19h → 21h
 lieu: Maison de la Poésie de Rennes
-tarif: Complet
+tarif: Complet, sur liste d'attente
 ---
 Cécile Cayrel invite à explorer le quotidien comme enjeu de création, de la routine aux coups d'éclats. Il s'agira alors de transformer, sublimer, fictionnaliser ce matériau d'écriture. Au fil des séances, des figures tutélaires comme Margaret Atwood, Romain Gary, Christophe Tarkos, et des voix nouvelles - Laura Vazquez, Elodie Petit, Kae Tempest - infuseront pour faire naître des textes originaux et personnels.
 
