@@ -68,59 +68,60 @@ Vous trouverez dans le menu les dates des prochains rendez-vous, ainsi que des l
 ### Justine Langella
 - [Dossier](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Justine%20Langella/01Justine_Langella_Dossier.pdf)
 - [Projet](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Justine%20Langella/02Justine_Langella_Projet.pdf)
-- [Ouvrage](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/03Justine_Langella_Ouvrage.pdf)
+- [Ouvrage](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Justine%20Langella/03Justine_Langella_Ouvrage.pdf)
 
 ### Lancelot Roumier
-- [Dossier](../imgs/01lancelot_roumier_dossier.pdf)
-- [Projet](../imgs/02lancelot_roumier_projet.pdf)
-- [Bibliographie](../imgs/03lancelot_roumier_biblio.pdf)
-- [Ouvrage](../imgs/04lancelot_roumier_ouvrage.pdf)
+- [Dossier](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Lancelot%20Roumier/01Lancelot_Roumier_Dossier.pdf)
+- [Projet](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Lancelot%20Roumier/02Lancelot_Roumier_Projet.pdf)
+- [Bibliographie](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Lancelot%20Roumier/03Lancelot_Roumier_Biblio.pdf)
+- [Ouvrage](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Lancelot%20Roumier/04Lancelot_Roumier_Ouvrage.pdf)
 
 ### Laure Morali
-- [Dossier + Ouvrage](../imgs/laure_morali_dossier_ouvrage.pdf)
+- [Dossier + Ouvrage](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Laure%20Morali/Laure_Morali_Dossier_Ouvrage.pdf)
 
 ### Lou Schweitzer
-- [Dossier](../imgs/01lou_schweitzer_dossier.pdf)
-- [Projet](../imgs/02lou_schweitzer_projet_biblio.pdf)
-- [Ouvrage](../
+- [Dossier](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Lou%20Schweitzer/01Lou_Schweitzer_Dossier.pdf)
+- [Projet](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Lou%20Schweitzer/02Lou_Schweitzer_Projet_Biblio.pdf)
+- [Ouvrage](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Lou%20Schweitzer/03Lou_Schweitzer_Ouvrage.pdf)
 
 ### Lulla Clowski
-- [Dossier + Ouvrage](../
+- [Dossier + Ouvrage](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Lulla%20Clowski/Lulla_Clowski_Dossier_Ouvrage.pdf)
 
 ### Maud Thiria
-- [Ouvrage + Dossier](../
+- [Ouvrage + Dossier](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Maud%20Thiria/Maud_Thiria_Dossier_Ouvrage.pdf)
 
 ### Michel Gendarme
-- [Dossier](../
-- [Projet](../
-- [Biblio](../
-- [Ouvrage](../
+- [Dossier](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Michel%20Gendarme/01Michel_Gendarme_Dossier.pdf)
+- [Projet](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Michel%20Gendarme/02Michel_Gendarme_Projet.pdf)
+- [Biblio](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Michel%20Gendarme/03Michel_Gendarme_Biblio.pdf)
+- [Ouvrage](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Michel%20Gendarme/04Michel_Gendarme_Ouvrage.pdf)
 
 ### Mouloud Akkouche
-- [Dossier + Ouvrage](../
+- [Dossier + Ouvrage](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Mouloud%20Akkouche/Mouloud_Akkouche_Dossier_Ouvrage.pdf)
 
 ### Nadine Agostini
-- [Dossier](../
-- [Projet](../
-- [Biblio](../
-- [Ouvrage 1](../
-- [Ouvrage 2](../
+- [Dossier](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Nadine%20Agostini/01Nadine_Agostini_Dossier.pdf)
+- [Projet](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Nadine%20Agostini/02Nadine_Agostini_Projet.pdf)
+- [Biblio](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Nadine%20Agostini/03Nadine_Agostini_Biblio.pdf)
+- [Ouvrage 1](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Nadine%20Agostini/04Nadine_Agostini_Ouvrage1.pdf)
+- [Ouvrage 2](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Nadine%20Agostini/05Nadine_Agostini_Ouvrage2.pdf)
 
 ### Raphaël Laiguillée
-- [Dossier](../
-- [Ouvrage](../
+- [Dossier](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Rapha%C3%ABl%20Laiguill%C3%A9e/01Raphael_Laiguill%C3%A9e_Dossier.pdf)
+- [Ouvrage](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Rapha%C3%ABl%20Laiguill%C3%A9e/02Raphael_laiguillee_Ouvrage.pdf)
 
 ### Tristan Mertens
+- [Dossier + Ouvrage](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Tristan%20Mertens/Tristan_Mertens_dossier_ouvrage.pdf)
 
 ### Zahra Pourazizi
-- [Dossier](../
-- [Projet](../
-- [Biblio](../
-- [Ouvrage](../
-- [Promesse de publication](../
+- [Dossier](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Zahra%20Pourazizi/01Zahra_Pourazizi_Dossier.pdf)
+- [Projet](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Zahra%20Pourazizi/02Zahra_Pourazizi_Projet.pdf)
+- [Biblio](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Zahra%20Pourazizi/03Zahra_Pourazizi_Biblio.pdf)
+- [Ouvrage](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Zahra%20Pourazizi/04Zahra_Pourazizi_Ouvrage.pdf)
+- [Promesse de publication](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Zahra%20Pourazizi/05Zahra_Pourazizi_PromessePubli.pdf)
 
 ### Zoé Besmond de Senneville
-- [Dossier](../
-- [Projet](../
-- [Biblio](../
-- [Ouvrage](../
+- [Dossier](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Zo%C3%A9%20Besmond%20de%20Senneville/01Zoe_Besmond_Dossier.pdf)
+- [Projet](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Zo%C3%A9%20Besmond%20de%20Senneville/02Zoe_Besmond_Projet.pdf)
+- [Biblio](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Zo%C3%A9%20Besmond%20de%20Senneville/03Zoe_Besmond_Biblio.pdf)
+- [Ouvrage](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Zo%C3%A9%20Besmond%20de%20Senneville/04Zoe_Besmond_Ouvrage.pdf)
