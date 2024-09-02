@@ -68,16 +68,16 @@ Vous trouverez dans le menu les dates des prochains rendez-vous, ainsi que des l
 ### Justine Langella
 - [Dossier](../imgs/01justine_langella_dossier.pdf)
 - [Projet](../imgs/02justine_langella_projet.pdf)
-- [Ouvrage]--> trop lourd à uploader
+- [Ouvrage](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/03Justine_Langella_Ouvrage.pdf)
 
 ### Lancelot Roumier
 - [Dossier](../imgs/01lancelot_roumier_dossier.pdf)
 - [Projet](../imgs/02lancelot_roumier_projet.pdf)
 - [Bibliographie](../imgs/03lancelot_roumier_biblio.pdf)
-- [Ouvrage](../
+- [Ouvrage](../imgs/04lancelot_roumier_ouvrage.pdf)
 
 ### Laure Morali
-- [Dossier + Ouvrage](../
+- [Dossier + Ouvrage](../imgs/laure_morali_dossier_ouvrage.pdf)
 
 ### Lou Schweitzer
 - [Dossier](../
@@ -119,3 +119,8 @@ Vous trouverez dans le menu les dates des prochains rendez-vous, ainsi que des l
 - [Ouvrage](../
 - [Promesse de publication](../
 
+### Zoé Besmond de Senneville
+- [Dossier](../
+- [Projet](../
+- [Biblio](../
+- [Ouvrage](../
