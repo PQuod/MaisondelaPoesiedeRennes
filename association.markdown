@@ -74,7 +74,7 @@ Elle permet de prendre part au fonctionnement et à la réalisation du projet as
 
 Les adhérent.es assistent à l’Assemblée Générale qui a lieu une fois par an, en juin, et iels votent pour élire leurs représentants au Conseil d’Administration. Le Bureau se réunit tous les mois, et le Conseil d'Administration une fois par trimestre.
 
-En plus, l'adhésion soutient les activités de notre association et permet l'emprunt des ouvrages de notre bibliothèque.
+En plus, l'adhésion soutient les activités de notre association et permet l'emprunt des ouvrages de [notre bibliothèque](https://maisondelapoesie-rennes.org/bibli/). Elle permet également l'emprunt des livres de la [Bibliothèque Universitaire de Rennes 2](https://www.bu.univ-rennes2.fr/) sans frais supplémentaires. 
 
 - - -
 
