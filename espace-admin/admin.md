@@ -33,7 +33,7 @@ Vous trouverez dans le menu les dates des prochains rendez-vous, ainsi que des l
 
 ### 6. Elias Soma
 - [Dossier](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Elias%20Soma/01Elias_Soma_Dossier.pdf)
-- Pas de Pdf // Ouvrage à consulter à la Maipo
+- [Ouvrage](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Elias%20Soma/02Elias_Soma_Ouvrage.pdf)
 
 ### 7. Elodie Chan
 - [Dossier](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Elodie%20Chan/01Elodie_Chan_Dossier.pdf)
