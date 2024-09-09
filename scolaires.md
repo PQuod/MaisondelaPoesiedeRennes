@@ -14,17 +14,17 @@ Ecrivez à Lucie Desaubliaux, notre médiatrice scolaire : lucie.desaubliaux@mai
 
 **Tous niveaux**
 
-### Résidence de printemps
-
-1er avril → 26 mai 2024
-
-[Laure Mathieu](https://maiporennes.fr/residence/2024/04/23/r-sidence-de-printemps) est en résidence de création à la Maison de la Poésie et anime des ateliers auprès des étudiant·es des DNMADe horlogerie et design graphique des lycées Bréquigny et Jean Jaurès.
-
 ### Résidence d'automne
 
-Automne 2024
+28 octobre → 22 décembre 2024
 
-[](https://maiporennes.fr/residence/2024/04/23/r-sidence-dautomne)[Grégoire Sourice](https://maiporennes.fr/residence/2024/01/10/r-sidence-de-printemps) anime des ateliers auprès d'une classe au collège Théodore Monod, à Vern-sur-Seiche.
+[Grégoire Sourice](https://maiporennes.fr/residence/2024/04/23/r-sidence-dautomne.html) anime 4 ateliers auprès d'une classe au collège Théodore Monod, à Vern-sur-Seiche.
+
+### Résidence de printemps
+
+7 avril → 1er juin 2025
+
+[Karianne Trudeau-Beaunoyer](https://maiporennes.fr/residence/2024/07/02/r-sidence-de-printemps.html) anime des ateliers auprès d'une classe d'UPE2A du collège Le Landry à Rennes
 
 - - -
 
