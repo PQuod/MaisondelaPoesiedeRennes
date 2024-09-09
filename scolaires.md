@@ -40,7 +40,7 @@ L'année dernière, l'école de l'Être de Saint-Georges-de-Reintembault a accue
 
 ## Jumelage
 
-L'année scolaire 2023-2024 est la première année du [jumelage ](https://maiporennes.fr/residence_scolaire/2023/09/04/jumelage)qui lie la Maison de la Poésie de Rennes et le collège **Simone Veil** de Crevin.
+L'année scolaire 2024-2025 est la deuxième année du [jumelage ](https://maiporennes.fr/residence_scolaire/2023/09/04/jumelage) qui lie la Maison de la Poésie de Rennes et le collège **Simone Veil** de Crevin.
 
 Les artistes **Gabriel Gauthier** et **Maxime Devige** (avec qui nous avons déjà eu le plaisir d'organiser la résidence *[Poésie + JV = ?](https://maiporennes.fr/residence_scolaire/2022/08/31/r-sidence-po-sie-jeu-vid-o.html)* au collège Paul Féval à Dol-de-Bretagne en 2022) travailleront pendant trois ans avec une classe de la 5ème à la 3ème autour de la poésie et du jeu vidéo.
 
