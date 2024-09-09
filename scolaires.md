@@ -77,7 +77,7 @@ En 2024-2025, nous invitons **Antoine Giard**, **Izypt**, **Johana Blanc** et **
 
 **Tous niveaux** : Rencontres avec un·e auteur·ice de la programmation
 
-Toute l'année, il est possible de rencontrer un·e auteur·ice de la programmation lors de sa venue à Rennes (hors dispositif particulier). Le coût de la rencontre est pris en charge par l'établissement scolaire. Pour les collégien·nes et lycéen·nes, ces rencontres peuvent aussi être organisées *via* Adage et le Pass Culture. N'hésitez pas à nous contacter pour plus d'informations.
+Toute l'année, il est possible de rencontrer un·e auteur·ice de la programmation lors de sa venue à Rennes (hors dispositif particulier), si son calendrier le permet. Le coût de la rencontre est pris en charge par l'établissement scolaire (en 2024-2025, le tarif préconisé par le CNL pour une demi-journée de rencontre est de 308 euros bruts). Pour les collégien·nes et lycéen·nes, ces rencontres peuvent aussi être organisées *via* Adage et le Pass Culture. N'hésitez pas à nous contacter pour plus d'informations.
 
 - - -
 
