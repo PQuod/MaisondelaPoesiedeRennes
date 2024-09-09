@@ -68,6 +68,17 @@ Cette année, du 19 au 22 mars 2024, nous accueillons **Grégoire Sourice** et *
 
 - - -
 
+## Carrément
+
+*Primaires*
+
+Une année sur deux, quand *La Poésie qui vient** n'a pas lieu, se tient notre biennale *Carrément*.
+
+4 artistes sont invité·es durant 1 semaine chacun·e à la Maison de la Poésie en mars. Cette semaine est le point de départ de la production d'un objet éditorial qui est restitué lors d'une journée festive dans le jardin en juin.
+
+En 2024-2025, nous invitons **Antoine Giard**, **Izypt**, **Johana Blanc** et **Raphaël Bastide**, qui rencontreront chacun·e durant leur semaine de présence une classe de primaire d'une école d'Ille-et-Vilaine.
+- - -
+
 ## Autres formats de rencontres
 
 **Tous niveaux** : Rencontres avec un·e auteur·ice de la programmation
