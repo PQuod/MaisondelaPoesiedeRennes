@@ -4,12 +4,6 @@ title: Scolaires
 ref: scolaires
 permalink: /scolaires/
 ---
-Vous souhaitez construire un projet scolaire ou assister à une lecture ? Toute l'année, vous pouvez nous solliciter pour les projets de classe à PAC, des projets Karta, des rencontres via le Pass Culture ou autres dispositifs de soutien financier.
-
-Ecrivez à Lucie Desaubliaux, notre médiatrice scolaire : lucie.desaubliaux@maiporennes.fr
-
-- - -
-
 ## Résidence à la Maison de la Poésie
 
 **Tous niveaux**
@@ -87,8 +81,8 @@ Toute l'année, il est possible de rencontrer un·e auteur·ice de la programmat
 
 - - -
 
-## Réaliser ensemble une résidence en milieu scolaire
+## Réaliser ensemble un projet en milieu scolaire
 
-Nous réalisons chaque année des résidences en milieu scolaire avec les équipes pédagogiques qui le souhaitent. Après des discussions communes sur les envies et les besoins des établissements, la Maison de la Poésie conseille les équipes sur le choix d'un·e ou de plusieurs artistes et s'occupe ensuite des volets administratifs (rédaction et envoi des dossiers, rémunération des auteur·ices, etc.) et logistiques (transport, hébergement, etc.) du projet de résidence.
+Nous réalisons chaque année des projets en milieu scolaire (ateliers, résidences...) avec les équipes pédagogiques qui le souhaitent. Après des discussions communes sur les envies et les besoins des établissements, la Maison de la Poésie conseille les équipes sur le choix d'un·e ou de plusieurs artistes et s'occupe ensuite des volets administratifs (rédaction et envoi des dossiers, rémunération des auteur·ices, etc.) et logistiques (transport, hébergement, etc.) du projet.
 
 Si l'élaboration d'un tel projet vous intéresse, n'hésitez pas à nous contacter au plus tôt dans l'année scolaire (les dossiers de demande de subventions sont à rendre au mois de mai, et nous acceptons de démarrer la conception des projets au plus tard à la mi-mars), par mail : lucie.desaubliaux@maiporennes.fr ; ou par téléphone : 02 99 51 33 32.
