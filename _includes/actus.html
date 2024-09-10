@@ -24,7 +24,6 @@
       {% if post.categories contains "residence" or post.categories contains "residence_scolaire" %}
         {% include scripts/dates.html %}
         {% if debutdate <= nowdate and findate >= nowdate %}
-          <div class="encart_res">
             {% assign counter = counter | plus: 1 %}
             {% if counter == 1 %}
                 <h3 class="encart_titre prems">En cours</h3>
@@ -33,7 +32,6 @@
                 <h4>{{ post.artiste | join: ", " }}</h4>
               </a>
               <div class="event_dates">{{ post.title }}<br>{{ post.dates_publiees }}</div>
-          </div>
         {% endif %}
       {% endif %}
     {% endif %}
