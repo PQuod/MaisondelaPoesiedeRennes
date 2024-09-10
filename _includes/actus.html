@@ -19,11 +19,13 @@
   <h2 class="color_res">Résidences</h2>
   <!-- Sélection des posts de résidence (scolaire ou non)-->
   {% assign sorted2 = site.posts | sort: 'date_debut' %}
+  <div class="encart_res">
   {% for post in sorted2 %}
     {% if post.draft != true %}
       {% if post.categories contains "residence" or post.categories contains "residence_scolaire" %}
         {% include scripts/dates.html %}
         {% if debutdate <= nowdate and findate >= nowdate %}
+          
             {% assign counter = counter | plus: 1 %}
             {% if counter == 1 %}
                 <h3 class="encart_titre prems">En cours</h3>
@@ -32,10 +34,12 @@
                 <h4>{{ post.artiste | join: ", " }}</h4>
               </a>
               <div class="event_dates">{{ post.title }}<br>{{ post.dates_publiees }}</div>
+          </div>
         {% endif %}
       {% endif %}
     {% endif %}
   {% endfor %}
+  </div>
   {% assign counter = 0 %}
   {% for post in sorted2 %}
     {% if post.draft != true %}
