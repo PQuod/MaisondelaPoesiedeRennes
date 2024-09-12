@@ -5,10 +5,10 @@ type: event
 title: Club de lecture des doctorant.es (ALL)
 date: 2023-09-20T11:49:44.454Z
 categories: scolaires
-date_debut: 2024-06-17T11:49:44.613Z
-date_fin: 2024-06-17T11:49:44.688Z
-dates_publiees: 17 juin 2024 · 18h → 19h30
-lieu: Maison de la Poésie de Rennes ou Discord
+date_debut: 2024-09-23T11:49:44.613Z
+date_fin: 2024-09-23T11:49:44.688Z
+dates_publiees: 23 septembre 2024 · 18h30 → 20h
+lieu: Maison de la Poésie de Rennes
 tarif: Entrée libre et gratuite, réservée aux doctorant.es ALL de l'Université
   Rennes 2
 partenaires: Association Ad Hoc
@@ -16,8 +16,6 @@ partenaires: Association Ad Hoc
 Ce club de lecture vise à rassembler les doctorant.es de l'ED ALL hors des murs de l'Université Rennes 2 et en dehors de notre champ de recherche de thèse : les lectures "plaisir" sont à l'honneur.
 
 Chacun.e peut présenter le livre de son choix, tous genres confondus. La forme de la présentation est libre mais elle ne doit pas excéder 10 minutes pour que le temps de parole des autres participant.es soit respecté. On peut aussi venir simplement écouter et/ou participer aux discussions.
-
-Un club de lecture sur deux se déroule à la Maison de la Poésie ou sur le serveur Discord dédié.
 
 Vous trouverez ci-dessous tous les livres conseillés aux clubs précédents par les participant.es.
 
