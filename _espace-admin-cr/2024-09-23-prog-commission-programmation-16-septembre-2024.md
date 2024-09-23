@@ -17,13 +17,10 @@ Depuis 3 ans, la Maison de la Poésie propose des rendez-vous hebdomadaires au B
 
 Après avoir fait le point, plusieurs éléments ne correspondent plus à ces envies premières (simplicité, localité, alternative) et viennent mettre en réflexion ce format : 
 
-* Le Babazula ne propose plus de nourriture. Pouvoir proposer à manger aux artistes invité.es devient une charge supplémentaire. Cela joue aussi sur le rapport au public, qui à tendance à partir plus tôt après les lectures, faisant de ces moments des sortes de prestation et non plus des temps d’échange.
-
-* Le lien entre le bar et la Maison de la Poésie, s'il est toujours cordial, ne s’est pas fluidifié durant ces années.
-
-* Le nombre de lectures amène à inviter des artistes qui viennent de plus loin. 
-
-* Il y a un problème de jauge qui ne permet pas d’envisager une évolution de ces moments en volume de public. 
+- Le Babazula ne propose plus de nourriture. Pouvoir proposer à manger aux artistes invité.es devient une charge supplémentaire. Cela joue aussi sur le rapport au public, qui à tendance à partir plus tôt après les lectures, faisant de ces moments des sortes de prestation et non plus des temps d’échange.
+- Le lien entre le bar et la Maison de la Poésie, s'il est toujours cordial, ne s’est pas fluidifié durant ces années.
+- Le nombre de lectures amène à inviter des artistes qui viennent de plus loin. 
+- Il y a un problème de jauge qui ne permet pas d’envisager une évolution de ces moments en volume de public. 
 
 La question se pose pour la Maison de la Poésie de continuer à proposer des formats de lectures aussi réguliers. Surtout que ces derniers, après considération, se font peut-être au détriment d’autres possibilités. 
 
