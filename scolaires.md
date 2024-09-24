@@ -74,17 +74,7 @@ Un an sur deux a lieu **La Poésie qui vient,** une semaine lors de laquelle nou
 
 L'année 2023-2024, du 19 au 22 mars, nous avons accueilli **Grégoire Sourice** et **Olivia Tapiero**, qui ont rencontré les classes du CE2 au CM2 des écoles Jean Rostand, Les Clôteaux et Roz-Landrieux.
 
-
-
-- - -
-
-## Autres formats de rencontres
-
-**Tous niveaux** : Rencontres avec un·e auteur·ice de la programmation
-
-Toute l'année, il est possible de rencontrer un·e auteur·ice de la programmation lors de sa venue à Rennes (hors dispositif particulier), si son calendrier le permet. Le coût de la rencontre est pris en charge par l'établissement scolaire (en 2024-2025, le tarif préconisé par le CNL pour une demi-journée de rencontre est de 308 euros bruts). Pour les collégien·nes et lycéen·nes, ces rencontres peuvent aussi être organisées *via* Adage et le Pass Culture. N'hésitez pas à nous contacter pour plus d'informations.
-
-- - -
+---
 
 ## Réaliser ensemble un projet en milieu scolaire
 
