@@ -40,15 +40,19 @@ Les artistes **Gabriel Gauthier** et **Maxime Devige** (avec qui nous avons déj
 
 - - -
 
-## Prix des Découvreurs
+## NéoDécouvreurs
 
-*De la 3ème à la terminale*
+*Collèges et lycées*
 
-Chaque année, la Maison de la Poésie de Rennes soutient le **Prix des Découvreurs** en invitant deux artistes de la sélection à venir rencontrer les classes des collèges (3èmes) et lycées (tous niveaux) de Bretagne.
+Chaque année, en mars et avril, la Maison de la Poésie de Rennes invite deux artistes qui ont publié un ouvrage récemment à venir rencontrer les classes des collèges et lycées de Bretagne.
 
-**Perrine Le Querrec** est présente en Bretagne la semaine du 11 mars 2024 pour rencontrer les classes  autour de son ouvrage *La Fille du chien* (éditions des Lisières, 2023). Elle rencontre les classes de 1ère du lycée Victor & Hélène Basch (Rennes), de 1ère et de Terminale du lycée Jean Macé (Rennes) et de 3ème du collège Bourgchevreuil (Cesson-Sévigné).
+En mars et avril 2025 (dates à préciser), nous invitons :
+- **Camille Ruiz**, pour son ouvrage *Mon Animal*, Trois Petites Truites Éditions, 2024.
+- **Anaël Castelein**, pour son ouvrage *wtf*, Éditions Vanloo, 2024.
 
-**Milène Tournier** est présente en Bretagne la semaine du 8 avril 2024 pour rencontrer les classes autour de son ouvrage *Ce que m'a soufflé la ville* (le Castor Astral, 2023). Elle rencontre les classes de 3ème des collège Le Querpon (Val d'Anast), Le Landry (Rennes), Théodore Monod (Vern-sur-Seiche) et Simone Veil (Crevin), ainsi qu'une classe de Terminale BMA du lycée Jean Jaurès (Rennes).
+Les rencontres sont organisées dans les établissements scolaires et durent entre 1h et 2h. La Maison de la Poésie de Rennes prend en charge le transport et l'hébergement et la rémunération des artistes. Il reste à la charge des établissements un montant de 100 euros, qu'il est possible de régler *via* le Pass Culture.
+
+Il reste des créneaux pour des rencontres avec Camille Ruiz et Anaël Castelein. N'hésitez pas à nous contacter si vous êtes intéressé·e.
 
 - - -
 
@@ -58,7 +62,7 @@ Chaque année, la Maison de la Poésie de Rennes soutient le **Prix des Découvr
 
 Un an sur deux a lieu **La Poésie qui vient,** une semaine lors de laquelle nous invitons deux artistes émergent·es en résidence à la Maison de la Poésie. **Poètes en classe** est le prolongement de ce rendez-vous, et permet aux deux artistes de venir donner des ateliers dans 4 établissements de primaire.
 
-Cette année, du 19 au 22 mars 2024, nous accueillons **Grégoire Sourice** et **Olivia Tapiero**, qui rencontrent les classes du CE2 au CM2 des écoles Jean Rostand, Les Clôteaux et Roz-Landrieux.
+L'année 2023-2024, du 19 au 22 mars, nous avons accueilli **Grégoire Sourice** et **Olivia Tapiero**, qui ont rencontré les classes du CE2 au CM2 des écoles Jean Rostand, Les Clôteaux et Roz-Landrieux.
 
 - - -
 
