@@ -26,9 +26,7 @@ permalink: /scolaires/
 
 **Tous niveaux**
 
-Cette année, nous initions un jumelage avec le collège Simone Veil à Crevin. Pour pouvoir lancer ce projet en toute sérénité, il n'y a pas de résidence d'artiste sur les territoires durant l'année 2023-2024.
-
-L'année dernière, l'école de l'Être de Saint-Georges-de-Reintembault a accueilli **Constance Hinfray** du 9 au 16 janvier 2023 pour créer un théâtre d'ombres et l'école Marie Curie à Redon a accueilli **Coline Pierré** de novembre 2022 à avril 2023 pour des ateliers poésie et musique.
+Cette année 2024-2025, **Elisa Baron**, autrice de *Samécrou*, un conte multilingue, donne des ateliers d'écriture dans des classes bilingues français-breton du groupe scolaire Cousteau à Val d'Anast.
 
 - - -
 
@@ -56,6 +54,18 @@ Il reste des créneaux pour des rencontres avec Camille Ruiz et Anaël Castelein
 
 - - -
 
+## Carrément
+
+*Primaires*
+
+Une année sur deux se tient notre biennale *Carrément*.
+
+4 artistes sont invité·es durant 1 semaine chacun·e à la Maison de la Poésie en mars. Cette semaine est le point de départ de la production d'un objet éditorial qui est restitué lors d'une journée festive dans le jardin en juin.
+
+En 2024-2025, nous invitons **Antoine Giard**, **Izypt**, **Johana Blanc** et **Raphaël Bastide**, qui rencontreront chacun·e durant leur semaine de présence une classe de primaire d'une école d'Ille-et-Vilaine.
+
+---
+
 ## Poètes en classe
 
 *Primaires*
@@ -64,17 +74,8 @@ Un an sur deux a lieu **La Poésie qui vient,** une semaine lors de laquelle nou
 
 L'année 2023-2024, du 19 au 22 mars, nous avons accueilli **Grégoire Sourice** et **Olivia Tapiero**, qui ont rencontré les classes du CE2 au CM2 des écoles Jean Rostand, Les Clôteaux et Roz-Landrieux.
 
-- - -
 
-## Carrément
 
-*Primaires*
-
-Une année sur deux, quand *La Poésie qui vient** n'a pas lieu, se tient notre biennale *Carrément*.
-
-4 artistes sont invité·es durant 1 semaine chacun·e à la Maison de la Poésie en mars. Cette semaine est le point de départ de la production d'un objet éditorial qui est restitué lors d'une journée festive dans le jardin en juin.
-
-En 2024-2025, nous invitons **Antoine Giard**, **Izypt**, **Johana Blanc** et **Raphaël Bastide**, qui rencontreront chacun·e durant leur semaine de présence une classe de primaire d'une école d'Ille-et-Vilaine.
 - - -
 
 ## Autres formats de rencontres
