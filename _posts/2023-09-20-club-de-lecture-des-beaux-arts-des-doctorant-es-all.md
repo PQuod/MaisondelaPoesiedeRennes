@@ -5,9 +5,9 @@ type: event
 title: Club de lecture des doctorant.es (ALL)
 date: 2023-09-20T11:49:44.454Z
 categories: scolaires
-date_debut: 2024-09-23T11:49:44.613Z
-date_fin: 2024-09-23T11:49:44.688Z
-dates_publiees: 23 septembre 2024 · 18h30 → 20h
+date_debut: 2024-10-14T11:49:44.613Z
+date_fin: 2024-10-14T11:49:44.688Z
+dates_publiees: 14 octobre 2024 · 18h30 → 20h
 lieu: Maison de la Poésie de Rennes
 tarif: Entrée libre et gratuite, réservée aux doctorant.es ALL de l'Université
   Rennes 2
@@ -22,6 +22,14 @@ Vous trouverez ci-dessous tous les livres conseillés aux clubs précédents par
 - - -
 
 ## 2024
+
+**Club du 23 septembre 2024**
+
+* Jean Genet, *Journal du voleur*, éditions Folio
+* Mary Ann Shaffer & Annie Barrows, *Le cercle littéraire des amateurs d'épluchures de patates* (trad. A. Azoulay-Pavcon), éditions 10/18
+* Marlen Haushofer, *Le Mur invisible* (trad. L. Bodo et J. Chambon), éditions Babel
+* Michael McDowell, *Blackwater* (trad. Y. Lacour et H. Charrier), éditions Monsieur Toussaint Louverture
+* J.M. Eça de Queiroz, *Le crime du Padre Amaro* (trad. J. Girodon), éditions Chandeigne
 
 **Club du 17 juin 2024**
 
