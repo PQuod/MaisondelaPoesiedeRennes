@@ -53,13 +53,13 @@ Vous trouverez dans le menu les dates des prochains rendez-vous, ainsi que des l
 - [Dossier](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/H%C3%A9l%C3%A8ne%20Tyrtoff/01Helene_Tyrtoff_Dossier.pdf)
 - [Projet d'écriture](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/H%C3%A9l%C3%A8ne%20Tyrtoff/02Helene_Tyrtoff_Projet.pdf)
 - [Bibliographie](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/H%C3%A9l%C3%A8ne%20Tyrtoff/03Helene_Tyrtoff_Biblio.pdf)
-- [Ouvrage]()
+- [Ouvrage](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/H%C3%A9l%C3%A8ne%20Tyrtoff/04Helene_Tyrtoff_Ouvrage.pdf)
 
 ### 12. Jason Mache
 - [Dossier](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Jason%20Mache/01Jason_Mache_Dossier.pdf)
 - [Projet d'écriture](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Jason%20Mache/02Jason_Mache_Projet.pdf)
 - [Bibliographie](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Jason%20Mache/03Jason_Mache_Biblio.pdf)
-- [Ouvrage](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/04Jason_Mache_Ouvrage.pdf)
+- [Ouvrage](https://maisondelapoesie-rennes.org/docs/Jason%20Mache/candidatures_2025-2026/04Jason_Mache_Ouvrage.pdf)
 
 ### 13. Justin Delareux
 - [Dossier](https://maisondelapoesie-rennes.org/docs/candidatures_2025-2026/Justin%20Delareux/Justin_Delareux_Dossier.pdf)
