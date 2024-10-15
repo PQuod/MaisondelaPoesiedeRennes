@@ -5,9 +5,9 @@ type: event
 title: Club de lecture des doctorant.es (ALL)
 date: 2023-09-20T11:49:44.454Z
 categories: scolaires
-date_debut: 2024-10-14T11:49:44.613Z
-date_fin: 2024-10-14T11:49:44.688Z
-dates_publiees: 14 octobre 2024 · 18h30 → 20h
+date_debut: 2024-11-18T12:49:44.613Z
+date_fin: 2024-11-18T12:49:44.688Z
+dates_publiees: 18 novembre 2024 · 18h30 → 20h
 lieu: Maison de la Poésie de Rennes
 tarif: Entrée libre et gratuite, réservée aux doctorant.es ALL de l'Université
   Rennes 2
@@ -22,6 +22,16 @@ Vous trouverez ci-dessous tous les livres conseillés aux clubs précédents par
 - - -
 
 ## 2024
+
+**Club du 14 octobre 2024**
+
+* Virginia Woolf, *Une chambre à soir* (trad. C. Malraux), éditions 10/18
+* Virginia Woolf, *Mrs Dalloway* (trad. M.-C. Pasquier), éditions Folio
+* Flemming Jensen, *Maurice et Mahmoud* (trad. A. Saint Bonnet), éditions Babel
+* Albertine Sarrazin, *Le times : journal de prison*, Les éditions du chemin de fer
+* Sally Rooney, *Normal People* (trad. S. Roques), éditions Points
+* Pierre Varrod, *Freud chez les Grecs*, éditions de l'Opportun
+* Joanna Reuss, *L'humanité-Femme* (trad. H.-L. Planchat) éditions Mnémos
 
 **Club du 23 septembre 2024**
 
