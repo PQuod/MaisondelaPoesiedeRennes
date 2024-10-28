@@ -9,7 +9,7 @@ artiste:
 categories: rencontre
 date_debut: 2024-11-14T08:42:23.092Z
 date_fin: 2024-11-14T08:42:23.148Z
-dates_publiees: "14 novembre 2024 "
+dates_publiees: 14 novembre 2024 · 19h
 lieu: Frac Bretagne, 19 avenue André Mussat, auditorium
 tarif: Entrée libre et gratuite
 partenaires: Frac Bretagne
