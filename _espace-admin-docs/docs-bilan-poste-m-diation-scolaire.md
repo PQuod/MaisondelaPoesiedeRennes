@@ -1,6 +1,6 @@
 ---
 layout: admin-posts
-title: Bilan poste Médiation Scolaire
+title: Bilan poste Médiation scolaire
 date: 2024-11-08T09:13:50.243Z
 cat: docs
 ---
