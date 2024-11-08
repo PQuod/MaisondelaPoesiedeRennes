@@ -47,7 +47,7 @@ Suggestions de Lucie par rapport à son idée du poste :
 - Poste polyvalent ;
 - Organisation et projection en amont essentielles pour éviter les écueils logistiques et les modifications de dernière minute ;
 - Peut-être aimer construire des outils pédagogiques (corpus, valises, outils numériques), notamment pour compenser l'absence de professeur.e relais ;
-- Sens des responsabilités (en lien avec l'autonomie). 
+- Sens des responsabilités (en lien avec l'autonomie) : savoir dire non si les conditions pour la réalisation d'un projet ne sont pas réunies. 
 
 Parmi les besoins plus généraux :
 
