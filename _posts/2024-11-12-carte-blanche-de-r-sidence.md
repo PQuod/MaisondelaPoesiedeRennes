@@ -2,7 +2,7 @@
 draft: false
 layout: post
 type: event
-title: Carte blanche de résidence
+title: Le Club
 date: 2024-11-12T08:43:59.717Z
 artiste:
   - Antoine Hummel
