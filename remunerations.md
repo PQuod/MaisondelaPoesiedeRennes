@@ -56,7 +56,7 @@ Les bénévoles de l'association ne perçoivent aucune rémunération en contrep
 
 ### Salarié.es
 
-Les salarié.es de l'association sont rémunéré.es selon [la grille des salaires](https://www.syndeac.org/wp-content/uploads/2023/12/NAO_28_avril_2023_Def.pdf) votée par le **Syndeac** (Syndicat national des entreprises artistiques et culturelles). 
+Les salarié.es de l'association sont rémunéré.es selon [la grille des salaires](https://www.syndeac.org/wp-content/uploads/2024/05/Accord_NAO2024-2328.pdf) votée par le **Syndeac** (Syndicat national des entreprises artistiques et culturelles). 
 
 Le tableau de référence est celui des emplois autres qu'artistiques.
 
