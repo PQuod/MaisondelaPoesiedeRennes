@@ -6,7 +6,7 @@ cat: ca
 ---
 **Date :** 13 novembre 2024 à 18 h 30    
 **Présent.e.s :** Marie, Dominique, Rafa, Valentin, Quentin  
-**Excusé.es :** Charlotte, Anaël, Monique, Stéphanie
+**Excusé.es :** Charlotte, Anaël, Monique, Stéphanie  
 **Absent :** La Balades des Livres  
 **Durée de la réunion :** 2 heures 15
 
