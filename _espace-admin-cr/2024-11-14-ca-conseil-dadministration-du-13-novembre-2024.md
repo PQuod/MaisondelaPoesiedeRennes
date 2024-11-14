@@ -31,13 +31,11 @@ Comment gérer le relais de la gestion des CA : ordre du jour, etc. ?
 
 RDV bilan Lucie, Quentin et Charlotte mercredi 6 novembre. Le compte-rendu est lisible [en cliquant sur ce lien](https://maiporennes.fr/espace-admin-docs/docs-bilan-poste-m-diation-scolaire).
 
-Date limite de réception des dossiers : le 8/12
-9-10/12 : lecture des CV et lettres de motivation
-16-17/12 : entretiens
+8/12 : Date limite de réception des dossiers  
+9-10/12 : Lecture des CV et lettres de motivation  
+16-17/12 : Entretiens
 
-Valentin est disponible. Une autre personne est recherchée pour ces dates, afin d'être 3 personnes + Lucie
-.
-Il faut que les personnes qui font passer les entretiens soient présentes à la lecture des CV et lettres de motivation.
+Valentin est disponible. Une autre personne est recherchée pour ces dates, afin d'être 3 personnes + Lucie. Il faut que les personnes qui font passer les entretiens soient aussi présentes à la lecture des CV et lettres de motivation.
 
 L'offre d'emploi sera diffusée au plus tard le vendredi 15 novembre.
 
@@ -45,17 +43,19 @@ Rajouter dans "Description du poste" : *planning adaptable entre le lundi et le 
 
 Parler en entretien de la récupération des heures supplémentaires (non rémunérées).
 
+Ne pas hésiter à convoquer 7 ou 8 personnes aux entretiens en cas de désistements, changements de projet, etc.
+
 ## 3. Invitation Open Mike Brant pour Carrément #3
 
 Volonté de reconduire : à discuter avec les artistes.
 
 ## 4. Local de La Balade des Livres
 
-Organiser une réunion avec les membres de La Balade des Livres. Période prévue pour ce rdv : janvier 2025, pendant la première quinzaine.
+Organiser une réunion avec les membres de La Balade des Livres. Période prévue pour ce rdv : janvier 2025, dans l'idéal pendant la première quinzaine.
 
 4 personnes de la Maison de la Poésie dont Quentin et Marie + peut-être Charlotte et Valentin ou Rafa, pour représenter plusieurs étapes de l'évolution de la Maison de la Poésie (avec des rapports différents à La Balade des Livres).
 
-Quentin a fait un rdv avec Matthéo de l'atelier de risographie "Fête d'abord" qui va devoir quitter son local à cause d'une expulsion en juin 2025. C'est un petit atelier avec un fonctionnement souple. Le courant est très bien passé avec Matthéo.
+Quentin a fait un rdv avec Mathéo de l'atelier de risographie "[Fête d'abord](https://www.atelier-fetedabord.fr/)" qui va devoir quitter son local à cause d'une expulsion en juin 2025. C'est un petit atelier avec un fonctionnement souple. Le courant est très bien passé avec Mathéo.
 
 Que faire si La Balade des Livres dit "non" au moment d'évoquer leur départ du local ?
 - Décision prise par le CA qui fait loi (cf convention avec la Ville) ;
