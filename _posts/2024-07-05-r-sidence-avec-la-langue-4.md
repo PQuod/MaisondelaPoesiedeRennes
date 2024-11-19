@@ -8,7 +8,7 @@ artiste:
   - Manoela Prates
 categories: residence
 date_debut: 2024-07-21T10:15:40.453Z
-date_fin: 2024-11-23T11:15:40.500Z
+date_fin: 2024-11-14T11:15:40.500Z
 dates_publiees: Juillet → novembre 2024
 lieu: Maison de la Poésie de Rennes & Frac Bretagne
 partenaires: Frac Bretagne
