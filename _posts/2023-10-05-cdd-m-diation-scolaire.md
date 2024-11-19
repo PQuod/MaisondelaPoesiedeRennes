@@ -3,7 +3,7 @@ draft: false
 layout: post
 type: event
 title: CDI Chargé.e de médiation scolaire
-date: 2023-10-05T07:27:28.034Z
+date: 2024-11-19T09:34:34.339Z
 categories: appel
 date_debut: 2024-11-19T08:27:28.098Z
 date_fin: 2023-12-06T08:27:28.147Z
