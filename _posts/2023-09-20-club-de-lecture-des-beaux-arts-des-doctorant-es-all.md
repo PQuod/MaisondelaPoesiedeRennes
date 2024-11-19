@@ -5,9 +5,9 @@ type: event
 title: Club de lecture des doctorant.es (ALL)
 date: 2023-09-20T11:49:44.454Z
 categories: scolaires
-date_debut: 2024-11-18T12:49:44.613Z
-date_fin: 2024-11-18T12:49:44.688Z
-dates_publiees: 18 novembre 2024 · 18h30 → 20h
+date_debut: 2024-12-09T12:49:44.613Z
+date_fin: 2024-12-09T12:49:44.688Z
+dates_publiees: 9 décembre 2024 · 18h30 → 20h
 lieu: Maison de la Poésie de Rennes
 tarif: Entrée libre et gratuite, réservée aux doctorant.es ALL de l'Université
   Rennes 2
@@ -22,6 +22,16 @@ Vous trouverez ci-dessous tous les livres conseillés aux clubs précédents par
 - - -
 
 ## 2024
+
+**Club du 18 novembre 2024**
+
+* Julien Gracq, *Le Rivage des Syrtes*, éditions José Corti
+* Nathalie Sarraute, *Enfance*, éditions Folio
+* Albertine Sarrazin, *L'Astragale*, éditions Points
+* Yasmine Ostendorf-Rodriguez, *Let's become fungal! Mycelium Teachings and The Arts*, éditions Valiz
+* Maryse Burgot, *Loin de chez moi*, éditions Fayard
+* Asaki Yumemishi, *Le Dit du Genji T01*, éditions Panini
+* Chimamanda Ngozi Adichie, *Americanah* (trad. A. Damour), éditions Gallimard
 
 **Club du 14 octobre 2024**
 
