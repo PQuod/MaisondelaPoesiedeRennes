@@ -1,25 +1,25 @@
 ---
-draft: true
+draft: false
 layout: post
 type: event
-title: CDD Médiation scolaire
+title: CDI Chargé.e de médiation scolaire
 date: 2023-10-05T07:27:28.034Z
 categories: appel
-date_debut: 2023-10-05T07:27:28.098Z
-date_fin: 2023-11-19T08:27:28.147Z
-dates_publiees: Jusqu'au 19 novembre 2023
+date_debut: 2024-11-19T08:27:28.098Z
+date_fin: 2023-12-06T08:27:28.147Z
+dates_publiees: Jusqu'au 8 décembre 2024
 lieu: Maison de la Poésie de Rennes
 ---
 ## Offre d'emploi
 
-La Maison de la Poésie de Rennes recherche un.e médiateurice scolaire pour un CDD à mi-temps (17h30 par semaine) du 8 janvier au 19 avril 2024, en remplacement d'un congé maternité. Le terme définitif est la fin de l'absence de la salariée remplacée.
+La Maison de la Poésie de Rennes recherche un.e chargé.e de médiation scolaire à mi-temps (17h30 par semaine), en CDI, à partir du 6 janvier 2025. 
 
-[PDF détaillé de l'offre d'emploi](/imgs/fichedeposte-mediateuricescolaire.pdf) (224 Ko) 
+[PDF détaillé de l'offre d'emploi](/imgs/offre-d-emploi-cdi-charg-.e-de-m-diation-scolaire.pdf) (231 Ko) 
 
 ## Pour postuler
 
-Adresser un CV et une lettre de motivation à l'adresse [contact@maiporennes.fr](<mailto:contact@maiporennes.fr?subject=Candidature CDD Médiation scolaire>), avec comme objet : *Candidature CDD Médiation scolaire*. 
+Adresser un CV et une lettre de motivation à l'adresse [contact@maiporennes.fr](<mailto:contact@maiporennes.fr?subject=Candidature CDI Chargé.e de médiation scolaire>), avec comme objet : *Candidature CDI Chargé.e de médiation scolaire*. 
 
-L'offre est valable jusqu'au 19 novembre 2023. 
+L'offre est valable jusqu'au 8 décembre 2024. 
 
-Des entretiens auront lieu le 18 décembre 2023 pour les candidat.es retenu.es
+Des entretiens auront lieu la semaine du 16 décembre 2024 pour les candidat.es retenu.es
