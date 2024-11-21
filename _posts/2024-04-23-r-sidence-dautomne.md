@@ -24,7 +24,7 @@ Grégoire Sourice a ensuite écrit pour la revue *Fig.* un texte, *Le dégradé 
 
 **Rencontre publique**
 
-En décembre, Grégoire Sourice invite **Antoine Hummel** pour une soirée de lectures.
+[Le 3 décembre à 19h](https://maiporennes.fr/rencontre/2024/11/12/carte-blanche-de-r-sidence), Grégoire Sourice invite **Antoine Hummel** pour une soirée de lectures intitulée *Le Club*.
 
 **Rencontres scolaires**
 
