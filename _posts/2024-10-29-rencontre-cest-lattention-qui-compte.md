@@ -13,7 +13,7 @@ dates_publiees: 16 janvier 2025 · 19h
 lieu: Maison de la Poésie de Rennes
 tarif: Entrée libre et gratuite
 ---
-Dans le cadre de son invitation lors de Carrément #3, Antoine Giard présente son processus de création au public.
+Dans le cadre de son invitation lors de [Carrément #3](https://maiporennes.fr/residence/2024/11/19/carr-ment-3), Antoine Giard présente son processus de création au public.
 
 A propos des images amies, des plantes badass, des vacances fantasmées et de l'urssaf limousin.
 
