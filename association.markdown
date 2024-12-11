@@ -48,7 +48,7 @@ Dominique Vaugeois ([Université Rennes 2](http://www.univ-rennes2.fr/)) &middot
 
 ## Rapports d'activité[](/docs/2020-2021_RapportActivite.pdf)
 
-[Année 2023](/imgs/2023_rapportactivite.pdf) (PDF, 976Ko) &middot; [Année 2022](/imgs/2022-rapportactivite.pdf) (PDF, 1,5Mo) &middot; [Saison 2021-2022](/imgs/2021-2022_rapportactivit-_numerique.pdf) (PDF, 1,9Mo) &middot; [Saison 2020-2021](/imgs/2021_rapportactivit-_ecran.pdf) (PDF, 729Ko) &middot; [Saison 2019-2020](/imgs/2019-2020_rapportactivite_web.pdf) (PDF, 2Mo) &middot; [Saison 2018-2019](/imgs/2019_final_screen_rapport-d-activit-.pdf) (PDF, 2Mo)
+[Année 2024](/imgs/2024_rapportactivit-.pdf) (PDF, 1,4Mo) &middot; [Année 2023](/imgs/2023_rapportactivite.pdf) (PDF, 976Ko) &middot; [Année 2022](/imgs/2022-rapportactivite.pdf) (PDF, 1,5Mo) &middot; [Saison 2021-2022](/imgs/2021-2022_rapportactivit-_numerique.pdf) (PDF, 1,9Mo) &middot; [Saison 2020-2021](/imgs/2021_rapportactivit-_ecran.pdf) (PDF, 729Ko) &middot; [Saison 2019-2020](/imgs/2019-2020_rapportactivite_web.pdf) (PDF, 2Mo) &middot; [Saison 2018-2019](/imgs/2019_final_screen_rapport-d-activit-.pdf) (PDF, 2Mo)
 
 - - -
 
