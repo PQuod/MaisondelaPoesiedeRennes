@@ -23,6 +23,8 @@ Karaoké de clôture pour les motivé.es !
 
 **Pour s’inscrire**
 
-C'est très simple, il suffit de nous écrire à l'adresse [contact@maiporennes.fr](mailto:contact@maiporennes.fr) en nous donnant votre nom et prénom, avec comme objet *Atelier Tout est chaos*
+C'est très simple, il suffit de nous écrire à l'adresse [contact@maiporennes.fr](mailto:contact@maiporennes.fr) en nous donnant votre nom et prénom, avec comme objet *Atelier Tout est chaos*.
 
 L'inscription à cet atelier est gratuite mais vous engage.
+
+*Port du masque obligatoire, plusieurs formes FFP2 disponibles sur place.*
