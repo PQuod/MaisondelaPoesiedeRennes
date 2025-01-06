@@ -24,8 +24,8 @@ Elle conduit sa démarche avec le souci permanent de favoriser l’accès du plu
 ### Salarié.es
 
 Direction : Quentin Leclerc\
-Médiation scolaire : Lucie Desaubliaux\
-Chargée d'entretien : Lucie Kerouedan\
+Médiation scolaire : Marie Derrien\
+Chargée d'entretien : *en recherche*\
 Jardinier : Mérovée Dubois
 
 ### Conseil d'Administration collégial
