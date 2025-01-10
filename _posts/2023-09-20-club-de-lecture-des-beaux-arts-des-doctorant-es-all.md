@@ -5,9 +5,9 @@ type: event
 title: Club de lecture des doctorant.es (ALL)
 date: 2023-09-20T11:49:44.454Z
 categories: scolaires
-date_debut: 2024-12-09T12:49:44.613Z
-date_fin: 2024-12-09T12:49:44.688Z
-dates_publiees: 9 décembre 2024 · 18h30 → 20h
+date_debut: 2025-01-13T12:49:44.613Z
+date_fin: 2025-01-13T12:49:44.688Z
+dates_publiees: 13 janvier 2025 · 18h30 → 20h
 lieu: Maison de la Poésie de Rennes
 tarif: Entrée libre et gratuite, réservée aux doctorant.es ALL de l'Université
   Rennes 2
@@ -22,6 +22,13 @@ Vous trouverez ci-dessous tous les livres conseillés aux clubs précédents par
 - - -
 
 ## 2024
+
+**Club du 9 décembre 2024**
+
+* Neige Sinno, *Triste Tigre*, éditions POL
+* Kev Lambert, *Les sentiers de neige*, éditions Le Nouvel Attila
+* Madame de Staël, *Delphine*, éditions Folio
+* Collectif, *Brouillon pour une encyclopédie féministe des mythes*, éditions iXe
 
 **Club du 18 novembre 2024**
 
