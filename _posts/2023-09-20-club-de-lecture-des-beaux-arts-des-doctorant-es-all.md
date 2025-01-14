@@ -28,7 +28,7 @@ Vous trouverez ci-dessous tous les livres conseillés aux clubs précédents par
 * Irène Frain, *Beauvoir in love*, éditions Michel Lafon
 * Inès Léraud et Pierre Van Hove, *Champs de bataille*, éditions Delcourt
 * Henry James, *Le tour d'écrou* (trad. M. Nemer), éditions Le Livre de Poche
-* L. Frank Baum, *The Wonderful Wizard of Oz*, éditions ???
+* L. Frank Baum, *The Wonderful Wizard of Oz*, éditions Livraria Lello
 * Christian Rochefort, *Les petits enfants du siècle*, éditions Le Livre de Poche
 
 ## 2024
