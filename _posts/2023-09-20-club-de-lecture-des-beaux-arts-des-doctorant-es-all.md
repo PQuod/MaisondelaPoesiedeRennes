@@ -5,9 +5,9 @@ type: event
 title: Club de lecture des doctorant.es (ALL)
 date: 2023-09-20T11:49:44.454Z
 categories: scolaires
-date_debut: 2025-01-13T12:49:44.613Z
-date_fin: 2025-01-13T12:49:44.688Z
-dates_publiees: 13 janvier 2025 · 18h30 → 20h
+date_debut: 2025-02-10T12:49:44.613Z
+date_fin: 2025-02-10T12:49:44.688Z
+dates_publiees: 10 février 2025 · 18h30 → 20h
 lieu: Maison de la Poésie de Rennes
 tarif: Entrée libre et gratuite, réservée aux doctorant.es ALL de l'Université
   Rennes 2
@@ -20,6 +20,16 @@ Chacun.e peut présenter le livre de son choix, tous genres confondus. La forme 
 Vous trouverez ci-dessous tous les livres conseillés aux clubs précédents par les participant.es.
 
 - - -
+
+## 2025
+
+**Club du 13 janvier 2025**
+
+* Irène Frain, *Beauvoir in love*, éditions Michel Lafon
+* Inès Léraud et Pierre Van Hove, *Champs de bataille*, éditions Delcourt
+* Henry James, *Le tour d'écrou* (trad. M. Nemer), éditions Le Livre de Poche
+* L. Frank Baum, *The Wonderful Wizard of Oz*, éditions ???
+* Christian Rochefort, *Les petits enfants du siècle*, éditions Le Livre de Poche
 
 ## 2024
 
