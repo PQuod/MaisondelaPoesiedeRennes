@@ -20,10 +20,10 @@ On vous renvoie à [ce tuto très bien détaillé](https://www.lamaisondesartist
 
 Pour les tarifs, on se réfère aux [recommandations tarifaires](https://www.la-charte.fr/inviter-chartiste/recommandations-tarifaires/) de **La Charte des Auteurs et Illustrateurs Jeunesse**. Ils sont mis à jour au début de chaque année civile. 
 
-Voici nos tarifs de rémunération pour 2024 :
+Voici nos tarifs de rémunération pour 2025 :
 
-* 500 € bruts pour une journée complète ou une lecture/performance
-* 301 € bruts pour une demi-journée ou une table ronde
+* 511 € brut pour une journée complète ou une lecture/performance
+* 308 € brut pour une demi-journée ou une table ronde
 
 La Maison de la Poésie n'étant pas une structure de diffusion, elle ne verse donc pas de contribution diffuseur ni de précompte à l'URSSAF Limousin. On vous invite à lire [cet article détaillé](https://le-trait.fr/remunerer-une-artiste-auteurice-bonnes-pratiques-hors-epo-et-hors-particuliers/#contribution) de l'association **Le Trait** pour mieux comprendre ces questions. 
 
@@ -35,7 +35,7 @@ Dans ce cas, la facture avec SIRET n'est pas obligatoire. La convention de rési
 
 Les montants des bourses dépendent de chaque tutelle (Ville, Région, Département, DRAC). Aujourd'hui, les professionnel.les préconisent un minimum de 2000 € brut par mois de résidence (4 semaines). 
 
-Voici les montants en Bretagne en 2024 :
+Voici les montants en Bretagne en 2025 :
 
 * 2200 € bruts par mois pour les résidences de création (Région Bretagne)
 * 2000 € bruts par mois pour la résidence émergence (Ville de Rennes)
@@ -85,15 +85,15 @@ Voici les montants totaux versées par les tutelles locales pour 2024 :
 * 64 300 € de la Ville de Rennes
 * 23 800 € de la DRAC Bretagne
 * 19 400 € de la Région Bretagne
-* 5800 € du Département d'Ille-et-Vilaine
+* 5 800 € du Département d'Ille-et-Vilaine
 
-Voici les montants versés par les autres établissements publics et organismes de collecte pour 2024 :
+Voici les montants versés par les autres établissements publics et organismes de collecte pour 2025 :
 
-* 6500 € de la Sofia
-* 3500 € du CFCopies
-* 2000 € du Centre National du Livre
+* 5 500 € de la Sofia
+* 3 500 € du CFCopies
+* 2 000 € du Centre National du Livre
 
-Ces sommes sont complétées par d'autres aides de partenaires culturels. Par exemple, le Frac Bretagne participe à hauteur de 1000 € (50%) à la résidence Avec la langue.
+Ces sommes sont complétées par d'autres aides de partenaires culturels. Par exemple, le Frac Bretagne participe à hauteur de 1 000 € (50%) à la résidence Avec la langue.
 
 L'association est locataire de la villa Beauséjour, propriété de la Ville de Rennes. Le loyer mensuel est de 297 €. Depuis 2023, les charges des fluides ne sont plus refacturées par la Ville de Rennes aux associations locataires.
 
@@ -113,7 +113,7 @@ Pour les ateliers qui accompagnent nos résidences annuelles (d'automne et de pr
 
 L'adhésion à l'association est de 10 € en plein tarif, et gratuite pour les demandereuses d'emploi et étudiant.es. 
 
-On a environ 60 adhérent.es au total par an, autant dire que la somme réunie par ce biais est symbolique vu les dizaines de milliers d'euros nécessaires pour faire fonctionner l'association.
+On a environ 70 adhérent.es au total par an, autant dire que la somme réunie par ce biais est symbolique vu les dizaines de milliers d'euros nécessaires pour faire fonctionner l'association.
 
 Pour les ateliers d'écriture, les tarifs d'inscription sont calculés selon le quotient familial, et la Maison de la Poésie prend en charge la moitié de la rémunération artistique pour proposer des tarifs plus accessibles à toustes. 
 
