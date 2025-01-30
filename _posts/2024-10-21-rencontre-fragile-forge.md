@@ -2,7 +2,7 @@
 draft: false
 layout: post
 type: event
-title: "Rencontre : Fragile Forge"
+title: "ANNULÉ - Rencontre : Fragile Forge"
 date: 2024-10-21T14:02:46.873Z
 artiste:
   - Raphaël Bastide
