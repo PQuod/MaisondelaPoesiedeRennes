@@ -11,7 +11,7 @@ date_debut: 2025-03-20T14:51:57.574Z
 date_fin: 2025-03-20T14:51:57.677Z
 dates_publiees: 20 mars 2025 · 18h → 21h
 lieu: Maison de la Poésie de Rennes
-tarif: Gratuit, inscription obligatoire
+tarif: Complet, sur liste d'attente
 ---
 Dans le cadre de son invitation lors de [Carrément #3](https://maiporennes.fr/residence/2024/11/19/carr-ment-3), **izypt** propose un temps d'atelier public pour aborder son processus de création.
 
@@ -23,7 +23,7 @@ Karaoké de clôture pour les motivé.es !
 
 **Pour s’inscrire**
 
-C'est très simple, il suffit de nous écrire à l'adresse [contact@maiporennes.fr](mailto:contact@maiporennes.fr) en nous donnant votre nom et prénom, avec comme objet *Atelier Tout est chaos*.
+L'atelier est complet. Pour vous inscrire sur liste d'attente, il suffit de nous écrire à l'adresse [contact@maiporennes.fr](mailto:contact@maiporennes.fr) en nous donnant votre nom et prénom, avec comme objet *Atelier Tout est chaos*.
 
 L'inscription à cet atelier est gratuite mais vous engage.
 
