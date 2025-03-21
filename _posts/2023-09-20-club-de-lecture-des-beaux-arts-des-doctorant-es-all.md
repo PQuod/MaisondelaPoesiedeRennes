@@ -23,6 +23,14 @@ Vous trouverez ci-dessous tous les livres conseillés aux clubs précédents par
 
 ## 2025
 
+**Club de lecture du 10 mars 2025**
+
+* Toni Morrison, *Beloved* (trad. J. Alikavazovic), éditions Christian Bourgois
+* Goliarda Sapienza, *L'Université de Rebibbia* (trad. N. Castagné), éditions Le Tripode
+* Marie-France Doray, *La Comtesse de Ségur : une étrange paroissienne*, éditions Rivages
+* Dan Franck, *Le roman des artistes*, éditions Grasset
+* Dostoïevski, *Les Frères Karamazov* (trad. H. Mongault, B. de Shloezer, L. Désormonts et S. Luneau), éditions La Pléiade
+
 **Club du 13 janvier 2025**
 
 * Irène Frain, *Beauvoir in love*, éditions Michel Lafon
