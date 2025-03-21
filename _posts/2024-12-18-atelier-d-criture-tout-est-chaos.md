@@ -2,7 +2,7 @@
 draft: false
 layout: post
 type: event
-title: "Atelier d'écriture : Tout est chaos"
+title: "ANNULÉ - Atelier d'écriture : Tout est chaos"
 date: 2024-12-18T08:37:08.467Z
 artiste:
   - izypt
@@ -13,6 +13,8 @@ dates_publiees: 20 mars 2025 · 18h → 21h
 lieu: Maison de la Poésie de Rennes
 tarif: Complet, sur liste d'attente
 ---
+*Suite à l'appel à la [grève des travailleureses de l'art et de la culture du 20 mars](https://solidaires.org/sinformer-et-agir/actualites-et-mobilisations/sectorielles/appel-a-la-greve-des-travailleureuses-de-lart-et-de-la-culture-le-20-mars/), qui a été suivie par les salarié.es et artistes-auteurices de l'association, cet atelier n'a pas eu lieu.* 
+
 Dans le cadre de son invitation lors de [Carrément #3](https://maiporennes.fr/residence/2024/11/19/carr-ment-3), **izypt** propose un temps d'atelier public pour aborder son processus de création.
 
 Atelier d'écriture et petit fanzine animé autour du txt et des images : celles qui zonent dans notre téléphone, un meme, une photocopie qui traîne sur le bureau, celle punaisée sur le mur ou encore cette banderole croisée en manif qu'on s'enlève pas de la tête.
