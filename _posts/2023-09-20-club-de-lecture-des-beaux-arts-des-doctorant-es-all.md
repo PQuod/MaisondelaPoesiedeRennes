@@ -5,7 +5,7 @@ type: event
 title: Club de lecture des doctorant.es (ALL)
 date: 2023-09-20T11:49:44.454Z
 categories: scolaires
-date_debut: 2025-02-10T12:49:44.613Z
+date_debut: 2025-05-12T11:49:44.613Z
 date_fin: 2025-05-12T11:49:44.688Z
 dates_publiees: 12 mai 2025 · 18h30 → 20h
 lieu: Maison de la Poésie de Rennes
