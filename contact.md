@@ -35,8 +35,8 @@ Nous acceptons les services de presse des livres de poésie et de prose contempo
 ## Accès
 
 **Bus**\
-Ligne 12, arrêt Auberge de jeunesse\
-Ligne C2, arrêt Cimetière Nord
+Ligne 12, arrêt Auberge de jeunesse ou Cimetière Nord\
+Ligne C1, arrêt Cimetière Nord
 
 **Métro**\
 Station Anatole France ou Sainte-Anne
