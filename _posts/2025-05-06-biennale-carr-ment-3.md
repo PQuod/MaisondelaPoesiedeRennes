@@ -33,4 +33,4 @@ Entre 19h et 21h, il y a restauration sur place avec des pizzas cuisinées par *
 
 Et pour clôturer la journée, à partir de 21h il y a l’**Open Mike Brant**, un karaoké poétique semi improvisé animé par Morgane Joanin, Fanny Alizon, Stéphanie Vivier, Tristan Philippon, Joe Popi et Gigi. Il suffit de laisser parler son cœur et de plonger dans les abysses musicales d’un répertoire inépuisable, celui de son imagination. Vous pourrez écrire toute l'après-midi des textes à chanter le soir !
 
-Ce projet bénéficie du soutien financier de la Ville de Rennes, de la Région Bretagne, de la DRAC Bretagne et de la Sofia - Action culturelle.
+*Ce projet bénéficie du soutien financier de la Ville de Rennes, de la Région Bretagne, de la DRAC Bretagne et de la Sofia - Action culturelle.*
