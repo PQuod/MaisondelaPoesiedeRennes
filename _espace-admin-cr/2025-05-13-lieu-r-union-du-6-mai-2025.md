@@ -1,10 +1,10 @@
 ---
 layout: admin-posts
-title: Réunion du 6 mai 2025
+title: Commission du 6 mai 2025
 date: 2025-05-13T08:49:39.268Z
 cat: lieu
 ---
-**Date :** 24 mars 2025 à 18 h 30  
+**Date :** 6 mai 2025 à 18 h 30  
 **Présent.e.s :** Charlotte, Valentin, Marie, Stéphanie, Dominique, Rafa, Quentin  
 **Excusé.es :** Anaël, Monique  
 **Durée de la réunion :** 2 heures
