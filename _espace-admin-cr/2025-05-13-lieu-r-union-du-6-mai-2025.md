@@ -14,9 +14,7 @@ cat: lieu
 **Date et lieu :** 12 juin en début d'après-midi (horaire à confirmer), à l'Hôtel de ville. 
 
 Deux grandes lignes de ce rendez-vous sont la question du renouvellement de la convention d'occupation : 
-
 - Parler du projet d'accueil de "Fête d'abord" et donc du départ de l’association "La Balade des Livres".
-
 - En profiter pour présenter à la Ville la suite de l’association. La Ville est au courant du départ de Quentin et donc nous pourrions en profiter pour proposer le modèle vers lequel nous voulons aller. 
 
 La réunion aura lieu en présence de l'élu à la Culture, Benoit Careil, et de la technicienne de la ville, Virginie Le Sénéchal.
