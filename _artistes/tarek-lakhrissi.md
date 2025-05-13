@@ -8,4 +8,4 @@ Nourri par la littérature et la culture visuelle populaire, son travail explore
 
 Sa pratique récente du dessin donne forme à une poétique visuelle traversée par des récits spéculatifs et des imaginaires collectifs.
 
-Les oeuvres de Lakhrissi sont notamment dans les collections du CNAP, du FRAC Aquitaine, de l’IAC, du FRAC Grand Large, Defares ou encore de la Fondation Sandretto. Il enseigne actuellement à la ZHDK (CH) et il est représenté par la Galerie Allen (FR).
+Ses œuvres sont notamment dans les collections du CNAP, du FRAC Aquitaine, de l’IAC, du FRAC Grand Large, Defares ou encore de la Fondation Sandretto. Il enseigne actuellement à la ZHDK (CH) et il est représenté par la Galerie Allen (FR).
