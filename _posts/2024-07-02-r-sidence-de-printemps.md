@@ -22,7 +22,7 @@ Ses réflexions et sa recherche sont informées par la pratique de *land artiste
 
 **Rencontre publique**
 
-Karianne Trudeau Beaunoyer invite **Amandine André** pour une soirée de lectures.
+[Le 27 mai à 19h](https://maiporennes.fr/rencontre/2025/05/15/les-oubliettes), Karianne Trudeau Beaunoyer invite **Amandine André** pour une soirée de lectures intitulée *Les oubliettes*.
 
 **Rencontres scolaires**
 
