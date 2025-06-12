@@ -51,4 +51,21 @@ Elle se tiendra le 24 juin à 19h.
 - On peut se retrouver dans l'aprem pour préparer un peu 
 - Pendant le soir il faudra voter quelques mesures afin de savoir comment on attaque la rentrée (notamment par rapport à la convention avec la Balade des Livres.). C.A. post A.G. qui risque d'être un poil plus long que d'habitude. 
 
-## RDV du 12 juin avec la ville
+## RDV du 12 juin avec la Ville
+
+Quentin, Valentin et Rafa seront présents et rencontreront Benoit Careil et Virginie Le Sénéchal. L'idée est de demander environ 15 000€ de subvention au fonctionnement en plus afin de maintenir un organigramme salarié identique, de palier au déficit de 10 000 € annuel, et d'envisager de nouveaux projets artistiques.
+
+L'idée est aussi de défendre un nouveau projet associatif pour la Maison : un lieu de création, d'accueil et de partage. 
+
+En fonction de leur réponse et des possibilités financières, nous saurons à quoi nous en tenir pour l'Assemblée Générale, et à quel point il y aura de la pression sur les activités bénévoles.
+
+## Point sur La Balade des Livres
+
+Avant d'envisager une nouvelle convention, il est nécessaire que le CA vote pour celle-ci, sans doute à l'issue de la prochaine AG.
+
+La Balade des Livres doit désigner dans un courrier adressé à la Maison de la Poésie les membres de leur CA aptes à représenter l'association. La présence de deux membres lors de ce CA était une exception.
+
+Sont toujours attendues les données chiffrées sur l'occupation du local, qui n'apparaissent pas dans le Rapport d'activité 2024 founi lors du CA.
+
+**Rédaction :** Valentin  
+** Relecture :** Quentin
