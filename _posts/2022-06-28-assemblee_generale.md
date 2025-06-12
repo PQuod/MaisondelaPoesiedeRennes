@@ -32,7 +32,7 @@ Mail : [contact@maiporennes.fr](mailto:contact@maiporennes.fr?subject=Assembl%C3
 * Élection de nouveaux membres du CA
 * Pot de fin
 
-**Pour rappel :** seul.es les adhérent.es à jour de cotisation pour l'année 2024 pourront participer à l'AG. L'adhésion est possible sur place juste avant la tenue de l'AG. Vous pouvez télécharger le bulletin d'adhésion 2025 [en cliquant sur ce lien](/imgs/bulletin-d-adh-sion-2025.pdf) (PDF, 113Ko).
+**Pour rappel :** seul.es les adhérent.es à jour de cotisation pour l'année 2025 pourront participer à l'AG. L'adhésion est possible sur place juste avant la tenue de l'AG. Vous pouvez télécharger le bulletin d'adhésion 2025 [en cliquant sur ce lien](/imgs/bulletin-d-adh-sion-2025.pdf) (PDF, 113Ko).
 
 **Marie**, la médiatrice scolaire de l'association, a tenu à rédiger une lettre ouverte car cette Assemblée Générale est importante :
 
