@@ -2,28 +2,27 @@
 draft: false
 layout: post
 type: event
-title: "Ateliers d'écriture : Prendre corps"
-date: 2023-06-05T14:30:03.085Z
+title: "Ateliers d'écriture : Endroits"
+date: 2025-06-19T12:48:38.102Z
 artiste:
   - Juliette Thomas
 categories: rencontre
-date_debut: 2024-10-01T07:35:57.626Z
-date_fin: 2024-10-13T07:35:57.693Z
-dates_publiees: A partir du 1er octobre 2024 · 19h → 21h
+date_debut: 2025-10-14T07:35:57.626Z
+date_fin: 2026-01-06T08:35:57.693Z
+dates_publiees: A partir du 14 octobre 2025 · 19h30 → 21h30
 lieu: Maison de la Poésie de Rennes
-tarif: Complet, sur liste d'attente
+tarif: Payant, inscription obligatoire
 ---
-Prendre corps ce serait éprouver ses propres contours, ce serait la possibilité du geste comme celle de l'immobilité. Ce serait connaître d'où l'on parle, et puis avoir une bouche. Ce serait la possibilité d'habiter quelque part, de rencontrer les autres corps, ce serait tout ce qui est vivant, ce serait les histoires écrites juste sous la peau, héritées, transmises ou inventées. Ce serait l'hybridité, la mutation, la métamorphose. Ce serait raconter des histoires de corps qui aident à habiter le monde et considérer qu'un corps peut être composé de mille autres corps - humains et non humains.
+D'où on vient, où on va, les lieux nous composent, nous décomposent, on y laisse des petits morceaux de nous, on cueille les souvenirs, on imprime des trajets dans nos peaux, on rêve de partir mais où ? Et parfois même on a juste envie de rester.
+Impressions, mémoires, quêtes et histoires peuvent se dire et se raconter par les lieux. Ce sera l'objet des propositions d'écriture, un atelier après l'autre pour cartographier ces endroits, tracer les chemins qui nous y mènent, nous y ramènent.
 
-Le temps de cinq ateliers, nous explorerons ces pistes pour en faire des contes, des histoires et des poèmes. Il y aura des lectures pour accompagner la lecture et la nourrir.
+Les ateliers souvent c'est : un thème, une consigne, quelques lectures pour ouvrir les possibles, un temps d'écriture puis le partage à voix haute des textes écrits. Parfois aussi on explore l'écriture collective... 
 
-Prendre corps, ce sera donc aussi se rassembler pour écrire, suivre ces chemins ensemble, partager nos textes à voix haute.
-
-Ces ateliers sont ouverts à toustes, que vous ayez ou non une pratique de l'écriture. Ateliers de poésie mais pas que, ouvert à la prose et au récit poétique, et aux expérimentations diverses. 
+Le cycle est ouvert à toustes, que vous ayez ou non une pratique de l’écriture. Ateliers de poésie mais pas que, ouvert à la prose, au récit poétique, et aux expérimentations diverses.
 
 **Dates**\
-Un mardi par mois, de 19h à 21h.\
-Les dates : 1er octobre, 5 novembre, 3 décembre, 7 janvier, 4 février.
+Un mardi toutes les trois semaines, de 19h30 à 21h30.\
+Les dates : 14 octobre, 4 novembre, 25 novembre, 16 décembre, 6 janvier.
 
 **Tarifs pour les 5 ateliers**\
 Plein : entre 68 et 86 €, selon quotient familial.\
@@ -31,7 +30,7 @@ Plein : entre 68 et 86 €, selon quotient familial.\
 Pas de remboursement.
 
 **Pour s’inscrire**\
-Cet atelier est complet. Pour vous inscrire sur la liste d’attente, il suffit de nous envoyer votre nom et votre prénom [par email](mailto:contact@maiporennes.fr). Nous vous contacterons si jamais une place si libère.
+Il suffit de nous renvoyer le [bulletin d'inscription](/imgs/inscription-ateliers-d-criture-juliette-thomas.pdf) (PDF, 19 Ko) complété [par email](mailto:contact@maiporennes.fr) ou par courrier postal, ainsi que le chèque correspondant à votre tarif par courrier postal à l'ordre de *Maison de la Poésie de Rennes*, à l'adresse Maison de la Poésie de Rennes, 47 rue Armand Rébillon 35000 Rennes.
 
 Pour savoir quel tarif d’inscription correspond à votre quotient familial, [écrivez-nous](mailto:contact@maiporennes.fr).
 
