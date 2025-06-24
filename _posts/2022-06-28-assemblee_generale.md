@@ -7,7 +7,7 @@ title: Assemblée Générale
 date: 2023-06-05T09:13:24.383Z
 categories: associatif
 date_debut: 2025-06-23T22:00:00.000Z
-date_fin: 2025-06-23T22:00:00.000Z
+date_fin: 2025-06-24T22:00:00.000Z
 dates_publiees: 24 juin 2025 • 19h
 lieu: Maison de la Poésie de Rennes
 ---
