@@ -2,24 +2,24 @@
 draft: false
 layout: post
 type: event
-title: "Ateliers d'écriture : Vivarium"
+title: "Ateliers d'écriture : On pourrait"
 date: 2023-06-23T08:19:54.591Z
 artiste:
   - Cécile Cayrel
 categories: rencontre
-date_debut: 2024-10-15T08:19:54.690Z
-date_fin: 2024-10-14T08:19:54.732Z
-dates_publiees: A partir du 15 octobre 2024 · 19h → 21h
+date_debut: 2025-10-07T08:19:54.690Z
+date_fin: 2026-02-03T09:19:54.732Z
+dates_publiees: A partir du 7 octobre 2025 · 19h → 21h
 lieu: Maison de la Poésie de Rennes
-tarif: Complet, sur liste d'attente
+tarif: Payant, inscription obligatoire
 ---
-Cécile Cayrel invite à explorer le quotidien comme enjeu de création, de la routine aux coups d'éclats. Il s'agira alors de transformer, sublimer, fictionnaliser ce matériau d'écriture. Au fil des séances, des figures tutélaires comme Margaret Atwood, Romain Gary, Christophe Tarkos, et des voix nouvelles - Laura Vazquez, Elodie Petit, Kae Tempest - infuseront pour faire naître des textes originaux et personnels.
+Cécile Cayrel vous invite à explorer différents chemins d'écriture pour découvrir votre voix, originale et personnelle. Des textes d'auteur.ices tutélaires, comme Georges Perec ou Nancy Huston, viendront côtoyer des écritures nouvelles, comme celles de Etaïnn Zwer ou Andrea Thominot, et seront nos guides, au fil des ateliers. 
 
-Pour suivre cet atelier, il n'est pas nécessaire de "savoir" écrire, ou d'avoir une pratique de l'écriture établie mais bien plus d'avoir l'intuition que l'on pourrait aimer ça. 
+Pour suivre ce cycle, il n’est pas nécessaire de “savoir” écrire, ou d’avoir une pratique de l’écriture établie mais bien plus d’avoir l’intuition que l’on pourrait aimer ça.
 
 **Dates**\
 Un mardi par mois, de 19h à 21h.\
-Les dates retenues : 15 octobre, 12 novembre, 10 décembre, 14 janvier et 11 février.
+Les dates retenues : 7 octobre, 18 novembre, 2 décembre, 20 janvier et 3 février.
 
 **Tarifs pour les 5 ateliers**\
 Plein : entre 68 et 86 €, selon quotient familial.\
@@ -27,11 +27,11 @@ Plein : entre 68 et 86 €, selon quotient familial.\
 Pas de remboursement.
 
 **Pour s’inscrire**\
-Cet atelier est complet. Pour vous inscrire sur la liste d'attente, il suffit de nous envoyer votre nom et votre prénom [par email](mailto:contact@maiporennes.fr). Nous vous contacterons si jamais une place si libère.
+Il suffit de nous renvoyer le bulletin d’inscription (PDF, 19 Ko) complété par email ou par courrier postal, ainsi que le chèque correspondant à votre tarif par courrier postal à l’ordre de Maison de la Poésie de Rennes, à l’adresse Maison de la Poésie de Rennes, 47 rue Armand Rébillon 35000 Rennes.
 
 Pour savoir quel tarif d'inscription correspond à votre quotient familial, [écrivez-nous](mailto:contact@maiporennes.fr).
 
-**\*Comment connaître mon quotient familial ?**\
+**Comment connaître mon quotient familial ?**  
 Le quotient familial est calculé en fonction du foyer et des ressources. Pour le connaître, il faut se connecter à votre espace CAF, puis sur l’espace “Mon Compte”. Le quotient familial est visible sur la page d’accueil, à la rubrique “Mes paiements et mes droits”. Vous pouvez télécharger une attestation, que vous joindrez à votre paiement.
 
 Si vous ne connaissez pas ou ne pouvez pas accéder à votre quotient familial, c’est le tarif maximum (86 € plein ou 74 € étudiant) qui s’applique.
