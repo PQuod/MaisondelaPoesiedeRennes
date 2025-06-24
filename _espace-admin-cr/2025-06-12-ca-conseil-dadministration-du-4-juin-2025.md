@@ -11,9 +11,9 @@ cat: ca
 
 ## La barrière avec les nuages et les réparations de la maison
 
-- Durant le weekend, certains nuages de la barrière ont été peints en rose. Un technicien de la ville (DVPF) est venu. Il se pourrait qu'il y ait une enveloppe pour repeindre les nuages et le mur du garage. On attend d'en savoir plus.
+* Durant le weekend, certains nuages de la barrière ont été peints en rose. Un technicien de la ville (DVPF) est venu. Il se pourrait qu'il y ait une enveloppe pour repeindre les nuages et le mur du garage. On attend d'en savoir plus.
 
-- Il y a eu des pannes d'eau chaude. Suite à l'intervention d'un technicien, c'est la panne complète. Un mail à été envoyé mais pas encore de date de réparation. Quid des prochains accueils en résidence ? 
+* Il y a eu des pannes d'eau chaude. Suite à l'intervention d'un technicien, c'est la panne complète. Un mail à été envoyé mais pas encore de date de réparation. Quid des prochains accueils en résidence ? 
 
 ## Carrément
 
@@ -68,4 +68,4 @@ La Balade des Livres doit désigner dans un courrier adressé à la Maison de la
 Sont toujours attendues les données chiffrées sur l'occupation du local, qui n'apparaissent pas dans le Rapport d'activité 2024 founi lors du CA.
 
 **Rédaction :** Valentin  
-** Relecture :** Quentin
+**Relecture :** Quentin
