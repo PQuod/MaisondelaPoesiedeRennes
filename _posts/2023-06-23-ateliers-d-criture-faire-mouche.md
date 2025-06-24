@@ -3,7 +3,7 @@ draft: false
 layout: post
 type: event
 title: "Ateliers d'écriture : On pourrait"
-date: 2023-06-23T08:19:54.591Z
+date: 2025-06-24T08:27:33.003Z
 artiste:
   - Cécile Cayrel
 categories: rencontre
@@ -27,7 +27,7 @@ Plein : entre 68 et 86 €, selon quotient familial.\
 Pas de remboursement.
 
 **Pour s’inscrire**\
-Il suffit de nous renvoyer le bulletin d’inscription (PDF, 19 Ko) complété par email ou par courrier postal, ainsi que le chèque correspondant à votre tarif par courrier postal à l’ordre de Maison de la Poésie de Rennes, à l’adresse Maison de la Poésie de Rennes, 47 rue Armand Rébillon 35000 Rennes.
+Il suffit de nous renvoyer le [bulletin d’inscription](/imgs/inscription-ateliers-c-cile-cayrel.pdf) (PDF, 19 Ko) complété par email ou par courrier postal, ainsi que le chèque correspondant à votre tarif par courrier postal à l’ordre de Maison de la Poésie de Rennes, à l’adresse Maison de la Poésie de Rennes, 47 rue Armand Rébillon 35000 Rennes.
 
 Pour savoir quel tarif d'inscription correspond à votre quotient familial, [écrivez-nous](mailto:contact@maiporennes.fr).
 
