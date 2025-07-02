@@ -44,3 +44,6 @@ En plus, les bonnes idées et les pistes de réflexion pour les prochains CA :
 - On pourrait aussi prendre en charge des tours de ménage avec un planning.
 - On pourrait articuler la programmation avec un club de lecture interne afin de rester en "veille" sur la poésie. On pourrait se former entre nous. 
 - On pourrait aller rencontrer directement la librairie Le Silence de la mer, à Vannes. 
+
+**Prise de notes :** Valentin  
+**Relecture :** Quentin
