@@ -9,7 +9,7 @@ cat: ca
 **Excusé.es :** Anaël, Marie, Dominique, Lucie, Aleks, Métal, MarDi  
 **Durée de la réunion :** 1 heure 30
 
-Premier C.A. qui s'est tenu juste après l'AG du même jour. Accueil des nouvelles personnes participantes au C.A.
+Premier CA qui s'est tenu juste après l'AG du même jour. Accueil des nouvelles personnes participantes au C.A.
 
 ## Prévoir un CA à la rentrée
 
