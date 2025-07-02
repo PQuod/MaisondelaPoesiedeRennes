@@ -31,32 +31,12 @@ Le rez-de-chaussée de la villa Beauséjour comprend une bibliothèque de plus d
 
 1. Une bourse (rémunération artistique sans contrepartie) de 2200 euros bruts par mois de résidence.  
 2. Un aller-retour depuis le domicile en train ou en voiture.  
-3. 100 euros de documentation.
 
 **Processus de sélection**
 
-Les auteurices sont sélectionné.es sur dossier par la commission Programmation de l'association, composée de 7 à 10 membres adhérents selon les saisons.
+Les auteurices sont sélectionné.es par la commission Programmation de l'association, composée de 7 à 13 membres adhérents selon les saisons.
 
-L'évaluation des dossiers se fait sur la qualité et l'originalité du projet envisagé durant le temps de résidence, ainsi que sur les autres opportunités de bourses ou de résidences dans la même période (une année plus tôt et une année plus tard).
-
-Les candidat.es sélectionné.es sont contacté.es par email.
-
-**Calendrier**
-
-Dépôt des dossiers : jusqu'au 31 août 2024\
-Commission de sélection : septembre 2024\
-Annonce des sélectionné.es : 30 septembre 2024\
-Accueil des premières résidences : octobre 2025
-
-**Procédures de candidature**
-
-Le dossier de candidature est à remplir et à renvoyer avec les pièces jointes obligatoires, par email à [contact@maiporennes.fr](mailto:contact@maiporennes.fr), ou par courrier. Tout dossier incomplet ne sera pas pris en compte. 
-
-Il appartient au candidat ou à la candidate de s'assurer que toutes les pièces demandées sont présentes, dans les bons formats et avec la mise en page adéquate. La commission se réserve le droit de ne pas consulter un dossier s'il est incomplet ou inadapté à la lecture.
-
-## Postuler
-
-L'appel à candidatures pour **les résidences de la saison 2025-2026** est [accessible en cliquant sur ce lien](https://maiporennes.fr/appel/2022/06/28/appel_23-24)*.*
+Nous ne sommes plus en mesure de proposer d'appel à candidatures.
 
 - - -
 
