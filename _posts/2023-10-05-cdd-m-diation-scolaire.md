@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 layout: post
 type: event
 title: CDD Chargé.e d'administration
@@ -14,7 +14,7 @@ lieu: Maison de la Poésie de Rennes
 
 La Maison de la Poésie de Rennes recherche un.e chargé.e d'administration à mi-temps (17h30 par semaine), pour un CDD de 11 mois (septembre 2025 à juillet 2026), à partir du 8 septembre 2025. 
 
-[PDF détaillé de l'offre d'emploi](/imgs/offre-d-emploi-cdi-charg-.e-de-m-diation-scolaire.pdf) (231 Ko) 
+[PDF détaillé de l'offre d'emploi](/imgs/fiche-de-poste-charg-.e-d-administration.pdf) (231 Ko) 
 
 ## Pour postuler
 
