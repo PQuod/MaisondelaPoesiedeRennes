@@ -11,7 +11,7 @@ date_debut: 2025-10-07T08:19:54.690Z
 date_fin: 2026-02-03T09:19:54.732Z
 dates_publiees: A partir du 7 octobre 2025 · 19h → 21h
 lieu: Maison de la Poésie de Rennes
-tarif: Payant, inscription obligatoire
+tarif: Complet, sur liste d'attente
 ---
 Cécile Cayrel vous invite à explorer différents chemins d'écriture pour découvrir votre voix, originale et personnelle. Des textes d'auteur.ices tutélaires, comme Georges Perec ou Nancy Huston, viendront côtoyer des écritures nouvelles, comme celles de Etaïnn Zwer ou Andrea Thominot, et seront nos guides, au fil des ateliers. 
 
@@ -27,7 +27,7 @@ Plein : entre 68 et 86 €, selon quotient familial.\
 Pas de remboursement.
 
 **Pour s’inscrire**\
-Il suffit de nous renvoyer le [bulletin d’inscription](/imgs/inscription-ateliers-c-cile-cayrel.pdf) (PDF, 19 Ko) complété par email ou par courrier postal, ainsi que le chèque correspondant à votre tarif par courrier postal à l’ordre de Maison de la Poésie de Rennes, à l’adresse Maison de la Poésie de Rennes, 47 rue Armand Rébillon 35000 Rennes.
+**Cet atelier est désormais complet.** Pour vous inscrire sur liste d'attente, merci de nous [écrire par email](mailto:contact@maiporennes.fr) avec votre nom et votre prénom. Nous vous recontacterons si jamais une place se libère. 
 
 Pour savoir quel tarif d'inscription correspond à votre quotient familial, [écrivez-nous](mailto:contact@maiporennes.fr).
 
