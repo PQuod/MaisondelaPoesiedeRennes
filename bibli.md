@@ -10,7 +10,7 @@ La Maison de la Poésie de Rennes possède un fonds spécialisé en poésie cont
 * 470 ouvrages de poésie en langue étrangère traduite
 * 180 ouvrages de poésie jeunesse
 * 100 anthologies de poésie francophone et étrangère
-* 200 revues de poésie et 2000 numéros
+* 200 revues de poésie et 2000 numéros 
 
 **Consultation et emprunt**
 
