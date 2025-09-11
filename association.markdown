@@ -23,16 +23,15 @@ Elle conduit sa démarche avec le souci permanent de favoriser l’accès du plu
 
 ### Salarié.es
 
-Direction : Quentin Leclerc\
+Administration : Coline Dupont\
 Médiation scolaire : Marie Derrien\
-Chargée d'entretien : *en recherche*\
 Jardinier : Mérovée Dubois
 
 ### Conseil d'Administration collégial
 
 #### Membres élus
 
-Charlotte Beltzung &middot; Anaël Castelein &middot; Valentin Godard-Paillat &middot; Monique Ormevil &middot; Marie Audran &middot; Rafa Gandini Miletto &middot; Stéphanie Vivier
+Charlotte Beltzung &middot; Lucie Desaubliaux &middot; Dorine Lea &middot; Mardi Dilasser &middot; Métal Grellier &middot; Aleks A. Dupraz &middot; Gilles Chezeau &middot; Valentin Godard-Paillat &middot; Monique Ormevil &middot; Marie Audran &middot; Rafa Gandini Miletto &middot; Stéphanie Vivier
 
 #### Membres fondateurs
 
@@ -42,7 +41,7 @@ Dominique Vaugeois ([Université Rennes 2](http://www.univ-rennes2.fr/)) &middot
 
 ## Partenaires financiers
 
-[Ville de Rennes](https://metropole.rennes.fr/) &middot; [Région Bretagne](https://www.bretagne.bzh/) &middot; [Département d'Ille-et-Vilaine](https://www.ille-et-vilaine.fr/) &middot; [DRAC Bretagne](http://www.culture.gouv.fr/Regions/Drac-Bretagne) &middot; [Centre National du Livre](https://centrenationaldulivre.fr/) &middot; [SOFIA - Action culturelle](https://www.la-sofia.org/) &middot; [CFCopies](https://www.cfcopies.com/)
+[Ville de Rennes](https://metropole.rennes.fr/) &middot; [Région Bretagne](https://www.bretagne.bzh/) &middot; [Département d'Ille-et-Vilaine](https://www.ille-et-vilaine.fr/) &middot; [DRAC Bretagne](http://www.culture.gouv.fr/Regions/Drac-Bretagne) &middot; [SOFIA - Action culturelle](https://www.la-sofia.org/) &middot; [CFCopies](https://www.cfcopies.com/)
 
 - - -
 
