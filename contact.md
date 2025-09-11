@@ -22,8 +22,8 @@ Nous ne sommes pas une maison d'édition, ni une MJC. Nous ne programmons pas de
 
 ## Contacts directs
 
-**Direction - Quentin Leclerc**\
-quentin.leclerc@maiporennes.fr
+**Administration - Coline Dupont**\
+contact@maiporennes.fr
 
 **Médiation scolaire -** **Marie Derrien**\
 marie.derrien@maiporennes.fr
