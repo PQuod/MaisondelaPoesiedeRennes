@@ -8,7 +8,7 @@ permalink: /contact/
 47 rue Armand Rébillon 35000 RENNES\
 02 99 51 33 32\
 contact@maiporennes.fr\
-**Ouvert du lundi au vendredi de 9h à 17h**
+**Ouvert le mardi et le mercredi de 10h à 18h et le jeudi de 14h30 à 18h**
 
 # Avant de nous écrire
 
