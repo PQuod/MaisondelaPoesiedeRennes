@@ -4,14 +4,18 @@ title: Commission Vie du lieu - 11/09/25
 date: 2025-09-12T09:56:59.521Z
 cat: lieu
 ---
-Personnes présentes : Marie D., Coline, Marie A., Valentin, Rafa, Charlotte, Monique, Aleks, Mardi, Juls, Métal, Mimi + Aurore (il me semble) venue pour observer
+**Date :** jeudi 11 septembre 2025 à 19h
 
-**Les rendez-vous importants qui arrivent bientôt :**
+**Durée :** 3h
+
+**Personnes présentes :** Marie D., Coline, Marie A., Valentin, Rafa, Charlotte, Monique, Aleks, Mardi, Juls, Métal, Mimi + Aurore (il me semble) venue pour observer
+
+### **Les rendez-vous importants qui arrivent bientôt :**
 
 * 25 septembre convention avec la ville (inclure les champs importants du projet de l’association)
 * Dossier Sofia fin septembre
 
-**Écriture autour de ces trois questions :** 
+### **Écriture autour de ces trois questions :** 
 
 1 - Quel est l'élément (au singulier) de l'association de la maipo qui est le plus important pour vous en tant que bénévole, sans lequel vous ne resteriez pas ? 
 
@@ -24,9 +28,9 @@ Personnes présentes : Marie D., Coline, Marie A., Valentin, Rafa, Charlotte, Mo
 3 - Qu'est ce que vous mettait derrière le mot Poésie de la Maison de la poésie ? 
 
 \
-Réponses
+**Réponses**
 
-1 - en tant que bénévole
+#### 1 - en tant que bénévole
 
 découvrir et faire ensemble
 
@@ -60,7 +64,7 @@ activer l’atelier, faire des projets collectifs, plus de pratique, moins de sp
 
 soutien à la création par les résidences, rémunération des auteurices
 
-2 - en tant qu’usager·e
+#### 2 - en tant qu’usager·e
 
 inclusivité des personnes minorisé·es, place des enfants par rapport à la maison, lieu transgénérationnel 
 
@@ -90,9 +94,7 @@ soirées de lecture où on vient écouter, moments de découverte
 
 valoriser les nouveautés, les zines
 
-
-
-**Commission rédaction du nouveau projet :** 
+### **Commission rédaction du nouveau projet :** 
 
 Avec Coline mercredi ou vendredi prochain 9-17h
 
@@ -100,7 +102,7 @@ Rendez-vous mercredi 17 à 10h pour rédiger le projet 
 
 deuxième rendez-vous vendredi ?
 
-**Horaires d’ouverture temporaires de la maison:** 
+### **Horaires d’ouverture temporaires de la maison:** 
 
 mardi 10h-18h
 
