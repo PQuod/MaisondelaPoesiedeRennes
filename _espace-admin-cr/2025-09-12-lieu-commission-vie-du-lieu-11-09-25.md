@@ -1,6 +1,6 @@
 ---
 layout: admin-posts
-title: Commission Vie du lieu - 11/09/25
+title: Commission Vie du lieu du 11 septembre 2025
 date: 2025-09-12T09:56:59.521Z
 cat: lieu
 ---
