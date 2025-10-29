@@ -1,6 +1,6 @@
 ---
 layout: admin-posts
-title: Commission Prgrammation 27 octobre 2025
+title: Commission Programmation 27 octobre 2025
 date: 2025-10-29T07:51:17.909Z
 cat: prog
 ---
