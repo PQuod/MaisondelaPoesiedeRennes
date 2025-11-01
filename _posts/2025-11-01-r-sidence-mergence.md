@@ -8,7 +8,7 @@ artiste:
   - Marjorie Garcia
 categories: residence
 date_debut: 2025-09-29T12:33:57.226Z
-date_fin: 2025-11-01T13:33:57.232Z
+date_fin: 2026-03-08T13:33:57.232Z
 dates_publiees: Du 29 septembre au 18 octobre et du 14 février au 8 mars
 lieu: Maison de la Poésie de Rennes
 ---
