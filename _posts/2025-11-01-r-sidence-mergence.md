@@ -3,7 +3,7 @@ draft: false
 layout: post
 type: event
 title: Résidence Émergence
-date: 2025-11-01T15:21:45.652Z
+date: 2025-09-29T14:21:45.652Z
 artiste:
   - Marjorie Garcia
 categories: residence
