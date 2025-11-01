@@ -9,7 +9,7 @@ artiste:
 categories: residence
 date_debut: 2025-09-29T12:33:57.226Z
 date_fin: 2025-11-01T13:33:57.232Z
-dates_publiees: Du 29 septembre au 18 ocotbre et du 14 février au 8 mars
+dates_publiees: Du 29 septembre au 18 octobre et du 14 février au 8 mars
 lieu: Maison de la Poésie de Rennes
 ---
 Marjorie Garcia est accueillie à la Maison de la Poésie pour travailler sur un recueil explorant l'identité comme une matière à mâcher et rebouillir. Elle cultive le péché du goût, l'art du souffle, et d'effondrer la continuité des vouloirs et des fictions du soi. 
