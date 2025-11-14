@@ -8,7 +8,9 @@ permalink: /contact/
 47 rue Armand Rébillon 35000 RENNES\
 02 99 51 33 32\
 contact@maiporennes.fr\
-**Ouvert le mardi et le mercredi de 10h à 18h et le jeudi de 14h30 à 18h**
+**Ouvert le mercredi et le jeudi de 14h à 18h**
+
+**Pour vous abonner à notre newsletter**
 
 # Avant de nous écrire
 
@@ -34,12 +36,17 @@ Nous acceptons les services de presse des livres de poésie et de prose contempo
 
 ## Accès
 
+L'atelier, la bibliothèque et les toilettes sont au rez-de-chaussée et accessibles PMR, pas de marches.
+
+Pour venir en voiture il y a des places gratuites dans le quartier pour se garer.\
+Pour l'instant nous ne disposons pas de place de parking PMR proche de la Maison.
+
 **Bus**\
-Ligne 12, arrêt Auberge de jeunesse ou Cimetière Nord\
-Ligne C1, arrêt Cimetière Nord
+Ligne 12, arrêt *Auberge de jeunesse*, 10 minutes à pied ou *Cimetière Nord*, 6 minutes à pied\
+Ligne C1, arrêt *Cimetière Nord*, 6 minutes à pied
 
 **Métro**\
-Station Anatole France ou Sainte-Anne
+Station *Anatole France,* 16 minutes à pied ou *Sainte-Anne,* 20 minutes à pied
 
 **Vélo STAR**\
 Station Auberge de Jeunesse
