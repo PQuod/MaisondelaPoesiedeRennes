@@ -10,8 +10,6 @@ permalink: /contact/
 contact@maiporennes.fr\
 **Ouvert le mercredi et le jeudi de 14h à 18h**
 
-**Pour vous abonner à notre newsletter**
-
 # Avant de nous écrire
 
 N'hésitez pas à nous écrire si vous souhaitez imaginer et construire une action en partenariat avec nous.
