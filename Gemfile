@@ -33,3 +33,10 @@ gem 'jekyll-dotenv'
 gem 'airtable'
 gem 'activesupport'
 gem 'bigdecimal'
+  gem "liquid", "~> 4.0.4"
+
+  gem "csv", "~> 3.3"
+
+  gem "base64", "~> 0.3.0"
+
+  gem "webrick", "~> 1.9"
