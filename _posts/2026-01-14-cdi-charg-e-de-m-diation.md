@@ -1,7 +1,7 @@
 ---
 draft: true
 layout: post
-type: breve
+type: event
 title: CDI Chargé.e de médiation
 date: 2026-01-14T13:57:37.301Z
 categories: divers
