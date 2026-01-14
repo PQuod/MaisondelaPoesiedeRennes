@@ -7,7 +7,7 @@ date: 2026-01-14T13:57:37.301Z
 categories: divers
 date_debut: 2026-01-14T13:57:37.308Z
 date_fin: 2026-02-07T13:57:37.314Z
-dates_publiees: 14/01/2026
+dates_publiees: jusqu'au 8 février
 ---
 ## Offre d'emploi
 
