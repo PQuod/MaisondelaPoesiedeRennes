@@ -13,7 +13,7 @@ dates_publiees: jusqu'au 8 février
 
 La Maison de la Poésie de Rennes recherche un.e chargé.e de médiation à mi-temps (17h30 par semaine), pour un CDI, à partir du 3 mars 2026.
 
-[PDF détaillé de l’offre d’emploi](imgs/fiche-de-poste-charge-.e-de-me-diation.pdf)
+[PDF détaillé de l’offre d’emploi](https://maiporennes.fr/imgs/fiche-de-poste-charge-.e-de-me-diation.pdf)
 
 ## Pour postuler
 
