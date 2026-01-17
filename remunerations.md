@@ -60,7 +60,7 @@ Les salarié.es de l'association sont rémunéré.es selon [la grille des salair
 
 Le tableau de référence est celui des emplois autres qu'artistiques.
 
-Le poste de direction (temps plein) est dans le Groupe 3. Le poste de médiation scolaire (mi-temps) est dans le Groupe 5. Les postes d'entretien de la maison (14h/mois) et du jardin (16h/mois) sont dans le Groupe 9.
+Le poste de chargé·e d'administration (mi-temps) est dans le Groupe 5. Le poste de médiation scolaire (mi-temps) est dans le Groupe 5. Les postes d'entretien de la maison (14h/mois) et du jardin (16h/mois) sont dans le Groupe 9.
 
 L'échelon évolue automatiquement tous les deux ans.
 
