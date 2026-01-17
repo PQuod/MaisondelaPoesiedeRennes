@@ -9,7 +9,7 @@ artiste:
 categories: residence
 date_debut: 2025-10-19T14:47:31.296Z
 date_fin: 2025-12-14T15:47:31.301Z
-dates_publiees: de mi-octobre à mi-décembre
+dates_publiees: de mi-octobre à mi-décembre 2025
 lieu: Maison de la Poésie
 ---
 Pendant sa résidence à la Maison de la Poésie, Cléa Chopard travaille sur plusieurs textes et une micro-édition imprimée en tampons.
