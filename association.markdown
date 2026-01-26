@@ -58,11 +58,14 @@ Dominique Vaugeois ([Université Rennes 2](http://www.univ-rennes2.fr/)) &middot
 L’adhésion est valable une année civile (de janvier à décembre) :
 
 * 10 euros pour les particuliers
-* Gratuit pour les étudiant.es et demandeureuses d'emploi
+* Gratuit pour les étudiant.es, \
+  demandeureuses d'emploi et bénéficiaires des minimas sociaux
 * 30 euros pour les personnes morales
 
-Merci de nous retourner le bulletin d'adhésion et le paiement (chèque ou espèce) par voie postale à :
-
+Pour adhérer, vous pouvez venir nous voir sur nos horaires d'ouvertures et régler votre adhésion par chèque ou en espèce. \
+Vous pouvez nous faire un virement et nous envoyer les infos nécessaires (cf.bulletin d'adhésion) par e-mail : contact@maiporennes.fr\
+Ou, nous retourner le bulletin d'adhésion et le paiement par chèque (à l'ordre de Maison de la Poésie de Rennes) par voie postale :\
+\
 **Maison de la Poésie de Rennes**\
 47 rue Armand Rébillon\
 35000 RENNES
