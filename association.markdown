@@ -53,7 +53,7 @@ Dominique Vaugeois ([Université Rennes 2](http://www.univ-rennes2.fr/)) &middot
 
 ## Adhésion
 
-[Télécharger le bulletin d'adhésion](/imgs/bulletin-d-adh-sion-2025.pdf)
+[Télécharger le bulletin d'adhésion 2026](imgs/bulletinadhe-sion_2026.pdf)
 
 L’adhésion est valable une année civile (de janvier à décembre) :
 
