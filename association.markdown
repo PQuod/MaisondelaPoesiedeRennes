@@ -53,7 +53,7 @@ Dominique Vaugeois ([Université Rennes 2](http://www.univ-rennes2.fr/)) &middot
 
 ## Adhésion
 
-[Télécharger le bulletin d'adhésion 2025](/imgs/bulletin-d-adh-sion-2025.pdf) (PDF, 113Ko)
+[Télécharger le bulletin d'adhésion](/imgs/bulletin-d-adh-sion-2025.pdf)
 
 L’adhésion est valable une année civile (de janvier à décembre) :
 
@@ -63,7 +63,7 @@ L’adhésion est valable une année civile (de janvier à décembre) :
 * 30 euros pour les personnes morales
 
 Pour adhérer, vous pouvez venir nous voir sur nos horaires d'ouvertures et régler votre adhésion par chèque ou en espèce. \
-Vous pouvez nous faire un virement et nous envoyer les infos nécessaires (cf.bulletin d'adhésion) par e-mail : contact@maiporennes.fr\
+Vous pouvez nous faire un virement et nous envoyer les infos nécessaires (cf.bulletin d'adhésion) par e-mail : [contact@maiporennes.fr](mailto:contact@maiporennes.fr)
 Ou, nous retourner le bulletin d'adhésion et le paiement par chèque (à l'ordre de Maison de la Poésie de Rennes) par voie postale :\
 \
 **Maison de la Poésie de Rennes**\
