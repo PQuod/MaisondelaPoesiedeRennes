@@ -18,8 +18,10 @@ Les ouvrages se trouvent dans la Blanchisserie de l'Htel Pasteur, n'hésitez pas
 
 Une série d'ateliers sera proposée tout au long de la résidence de Kaléidoscope. Le premier aura lieu pour l’inauguration de la Mini-Maipo, le 24 Janvier de 16h à 18h, dans la Blanchisserie de l’Hôtel Pasteur. Il s’agira d’un atelier d’écriture autour de la technique du caviardage et de la réappropriation de textes.
 
-La participation est libre et gratuite, une inscription par mail est conseillée : camaipo@proton.me
+Les ateliers suivants auront lieu **le 14 février**, puis **le 14 mars**, toujours **de 16h à 18h** et au même endroit. En février il s’agira d’un arpentage autour d’un livre encore à choisir, et en mars nous ferons certainement un atelier fanzine.
 
-Les ateliers suivants auront lieu le 14 février, puis le 14 mars, toujours de 16h à 18h et au même endroit. En février il s’agira d’un arpentage autour d’un livre encore à choisir, et en mars nous ferons certainement un atelier fanzine.
+
+
+La participation est libre et gratuite, une inscription par mail est conseillée : camaipo@proton.me
 
 N’hésitez pas à suivre la page instagram de l’association Kaléidoscope, [@association.kaleidoscope](https://www.instagram.com/association.kaleidoscope/), pour retrouver le reste du programme.
