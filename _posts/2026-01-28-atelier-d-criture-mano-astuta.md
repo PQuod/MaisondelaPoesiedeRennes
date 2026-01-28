@@ -4,7 +4,9 @@ layout: post
 type: event
 title: "Atelier d'écriture : Mano astuta"
 date: 2026-01-28T16:00:05.652Z
-categories: rencontre
+artiste:
+  - Agustin Lostra
+categories: divers
 date_debut: 2026-01-29T16:00:05.660Z
 date_fin: 2026-01-29T16:00:05.667Z
 dates_publiees: Le jeudi 29 janvier de 18h30 à 21h
