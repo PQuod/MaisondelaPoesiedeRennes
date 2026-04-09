@@ -8,7 +8,7 @@ permalink: /contact/
 47 rue Armand Rébillon 35000 RENNES\
 02 99 51 33 32\
 contact@maiporennes.fr\
-**Ouvert le mercredi et le jeudi de 14h à 18h**
+**Ouvert le mardi et le jeudi de 10h à 18h et mercredi de 14h30 à 18h**
 
 # Avant de nous écrire
 
@@ -25,8 +25,8 @@ Nous ne sommes pas une maison d'édition, ni une MJC. Nous ne programmons pas de
 **Administration - Coline Dupont**\
 contact@maiporennes.fr
 
-**Médiation scolaire -** **Marie Derrien**\
-marie.derrien@maiporennes.fr
+**Médiation scolaire -** **Lucie Robin**\
+mediation@maiporennes.fr
 
 # Services de presse
 
