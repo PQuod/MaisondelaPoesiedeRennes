@@ -24,14 +24,14 @@ Elle conduit sa démarche avec le souci permanent de favoriser l’accès du plu
 ### Salarié.es
 
 Administration : Coline Dupont\
-Médiation scolaire : Marie Derrien\
+Médiation scolaire : Lucie Robin\
 Jardinier : Mérovée Dubois
 
 ### Conseil d'Administration collégial
 
 #### Membres élus
 
-Charlotte Beltzung &middot; Lucie Desaubliaux &middot; Dorine Lea &middot; Mardi Dilasser &middot; Métal Grellier &middot; Aleks A. Dupraz &middot; Gilles Chezeau &middot; Valentin Godard-Paillat &middot; Monique Ormevil &middot; Marie Audran &middot; Rafa Gandini Miletto &middot; Stéphanie Vivier
+Charlotte Beltzung &middot; Lucie Desaubliaux &middot; Dorine Lea &middot; Mardi Dilasser &middot; Métal Grellier &middot; Aleks A. Dupraz &middot; Valentin Godard-Paillat &middot; Monique Ormevil &middot; Marie Audran &middot; Stéphanie Vivier
 
 #### Membres fondateurs
 
