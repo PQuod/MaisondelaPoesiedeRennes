@@ -16,7 +16,7 @@ La Maison de la Poésie de Rennes possède un fonds spécialisé en poésie cont
 
 La consultation est libre et gratuite pour toutes et tous sur place durant nos horaires d'ouverture.
 
-L'emprunt est possible pour tous les ouvrages de la bibliothèque, après adhésion. Le bulletin d'adhésion peut être [téléchargé en cliquant sur ce lien](imgs/bulletinadhe-sion_2026.pdf)[](https://maiporennes.fr/maison/), ou être retiré sur place.
+L'emprunt est possible pour tous les ouvrages de la bibliothèque, après adhésion. Le bulletin d'adhésion peut être [téléchargé en cliquant sur ce lien](maiporennes.fr/imgs/bulletinadhe-sion_2026.pdf)[](https://maiporennes.fr/maison/), ou être retiré sur place.
 
 **Accueil & conseil**
 
