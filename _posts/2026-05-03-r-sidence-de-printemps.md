@@ -14,25 +14,7 @@ lieu: Maison de la Poésie
 ---
 Pour la résidence de printemps 2026, nous accueillons l'auteur Elias Soma pour une période de deux mois.  
 
-"Il s’agit d’écrire les poèmes d’un recueil qui aura comme titre
-
-Problèmes imaginaires. L’écriture est déjà en cours. Pendant la
-
-résidence je vais essayer de travailler notamment l’ensemble. C’est le
-
-moment où l’objectif c’est de trouver une cohérence, et où aussi souvent
-
-des nouveaux poèmes émergent et finissent par apporter une force
-
-définitive. Les poèmes touchent le thème de l’enfance, l’identité, la
-
-solitude, le nom, les expériences intransmissibles, singulières, dans
-
-une époque ou la communication totalise l’ensemble des rapports."
-
-
-
-
+"Il s’agit d’écrire les poèmes d’un recueil qui aura comme titre *Problèmes imaginaires*. L’écriture est déjà en cours. Pendant la résidence je vais essayer de travailler notamment l’ensemble. C’est le moment où l’objectif c’est de trouver une cohérence, et où aussi souvent des nouveaux poèmes émergent et finissent par apporter une force définitive. Les poèmes touchent le thème de l’enfance, l’identité, la solitude, le nom, les expériences intransmissibles, singulières, dans une époque ou la communication totalise l’ensemble des rapports."
 
 **Rencontre publique**
 
