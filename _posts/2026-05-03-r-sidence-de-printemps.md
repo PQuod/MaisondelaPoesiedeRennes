@@ -18,6 +18,6 @@ Pour la résidence de printemps 2026, nous accueillons l'auteur Elias Soma pour 
 
 **Rencontre publique**
 
-Des informations sur la restitution de résidence d'Elias Soma seront bientot communiqués. 
+Des informations sur la restitution de résidence d'Elias Soma seront bientot communiquées. 
 
 **Rencontres scolaires**
