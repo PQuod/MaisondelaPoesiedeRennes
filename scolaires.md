@@ -16,9 +16,9 @@ permalink: /scolaires/
 
 ### Résidence de printemps
 
-7 avril → 1er juin 2025
+1 avril → 31 mai 2026
 
-[Karianne Trudeau-Beaunoyer](https://maiporennes.fr/residence/2024/07/02/r-sidence-de-printemps.html) anime des ateliers auprès d'une classe d'UPE2A du collège Le Landry à Rennes
+Elias Soma anime des ateliers auprès d'une classe d'UPE2A du collège Les Gayeulles à Rennes et auprès d'une classe de première au lycée Jean Macé de Rennes.
 
 - - -
 
@@ -26,15 +26,15 @@ permalink: /scolaires/
 
 **Tous niveaux**
 
-Cette année 2024-2025, **Elisa Baron**, autrice de *Samécrou*, un conte multilingue, donne des ateliers d'écriture dans des classes bilingues français-breton du groupe scolaire Cousteau à Val d'Anast.
+Cette année 2025-2026, **Emmanuelle Tornero**, autrice d*'Une femme entre dans le champ*, donnera des ateliers d'écriture créative et d'éveil aux outils du numérique autour du son dans l'objectif de créer un Golden Record, dans une classe multi-niveaux de l'école primaire Jean de la Varende à Bovel.
 
 - - -
 
 ## Jumelage
 
-L'année scolaire 2024-2025 est la deuxième année du [jumelage ](https://maiporennes.fr/residence_scolaire/2023/09/04/jumelage) qui lie la Maison de la Poésie de Rennes et le collège **Simone Veil** de Crevin.
+L'année scolaire 2025-2026 est la troisième année du [jumelage ](https://maiporennes.fr/residence_scolaire/2023/09/04/jumelage) qui lie la Maison de la Poésie de Rennes et le collège **Simone Veil** de Crevin.
 
-Les artistes **Gabriel Gauthier** et **Maxime Devige** (avec qui nous avons déjà eu le plaisir d'organiser la résidence *[Poésie + JV = ?](https://maiporennes.fr/residence_scolaire/2022/08/31/r-sidence-po-sie-jeu-vid-o.html)* au collège Paul Féval à Dol-de-Bretagne en 2022) travailleront pendant trois ans avec une classe de la 5ème à la 3ème autour de la poésie et du jeu vidéo.
+Les artistes **Gabriel Gauthier** et **Maxime Devige** (avec qui nous avons déjà eu le plaisir d'organiser la résidence *[Poésie + JV = ?](https://maiporennes.fr/residence_scolaire/2022/08/31/r-sidence-po-sie-jeu-vid-o.html)* au collège Paul Féval à Dol-de-Bretagne en 2022) travailleront pendant trois ans avec une classe de la 6ème à la 4ème autour de la poésie et du jeu vidéo.
 
 - - -
 
@@ -44,13 +44,12 @@ Les artistes **Gabriel Gauthier** et **Maxime Devige** (avec qui nous avons déj
 
 Chaque année, en mars et avril, la Maison de la Poésie de Rennes invite deux artistes qui ont publié un ouvrage récemment à venir rencontrer les classes des collèges et lycées de Bretagne.
 
-En mars et avril 2025 (dates à préciser), nous invitons :
-- **Camille Ruiz**, pour son ouvrage *Mon Animal*, Trois Petites Truites Éditions, 2024.
-- **Anaël Castelein**, pour son ouvrage *wtf*, Éditions Vanloo, 2024.
+En février et mars 2026, nous invitons :
+
+* Camille Sova pour son ouvrage, Les branches des autres, aux éditions MF, 2025
+*  Fabien Drouet pour son ouvrage, Soirées Solo, éditions Le Sabot, 2024.
 
 Les rencontres sont organisées dans les établissements scolaires et durent entre 1h et 2h. La Maison de la Poésie de Rennes prend en charge le transport et l'hébergement et la rémunération des artistes. Il reste à la charge des établissements un montant de 100 euros, qu'il est possible de régler *via* le Pass Culture.
-
-Il reste des créneaux pour des rencontres avec Camille Ruiz et Anaël Castelein. N'hésitez pas à nous contacter si vous êtes intéressé·e.
 
 - - -
 
@@ -64,7 +63,7 @@ Une année sur deux se tient notre biennale *Carrément*.
 
 En 2024-2025, nous invitons **Antoine Giard**, **Izypt**, **Johana Blanc** et **Raphaël Bastide**, qui rencontreront chacun·e durant leur semaine de présence une classe de primaire d'une école d'Ille-et-Vilaine.
 
----
+- - -
 
 ## Poètes en classe
 
@@ -72,9 +71,9 @@ En 2024-2025, nous invitons **Antoine Giard**, **Izypt**, **Johana Blanc** et **
 
 Un an sur deux a lieu **La Poésie qui vient,** une semaine lors de laquelle nous invitons deux artistes émergent·es en résidence à la Maison de la Poésie. **Poètes en classe** est le prolongement de ce rendez-vous, et permet aux deux artistes de venir donner des ateliers dans 4 établissements de primaire.
 
-L'année 2023-2024, du 19 au 22 mars, nous avons accueilli **Grégoire Sourice** et **Olivia Tapiero**, qui ont rencontré les classes du CE2 au CM2 des écoles Jean Rostand, Les Clôteaux et Roz-Landrieux.
+L'année 2025-2026, du 11 au 12 mai, nous accueillons **Héloïse Brézillon** et **Margot Ferrera** qui rencontrent les classes du CE2 au CM2 des écoles de Tinténiac et Roz-Landrieux.
 
----
+- - -
 
 ## Réaliser ensemble un projet en milieu scolaire
 
