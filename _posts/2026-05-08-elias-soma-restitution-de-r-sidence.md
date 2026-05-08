@@ -14,7 +14,7 @@ lieu: dans l’hémicycle de l’EESAB Rennes
 tarif: entrée libre
 partenaires: EESAB Rennes
 ---
-**Rendez-vous le vendredi 15 mai à 18h, dans l'hémicycle de l'EESAB Rennes, pour la lecture performance *Les problèmes imaginaires* par Elias Soma, Lula Wyss Bocq et Michel Blazy.**
+**Rendez-vous le vendredi 15 mai à 18h, dans l'hémicycle de l'EESAB Rennes, pour la lecture performance *Les problèmes imaginaires* par Elias Soma, Lula Wyss Le Bocq et Michel Blazy.**
 
 \
 «Les problèmes peuvent ouvrir le drame qui engendre plastiquement les mots. Les mains s’impliquent comme les bouches. Les bouches méritent souvent le sens. Les restes, on se demande ce qu'ils sont devenus. On peut les retrouver. Aussi la vie.»
