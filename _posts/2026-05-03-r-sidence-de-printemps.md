@@ -18,6 +18,27 @@ Pour la résidence de printemps 2026, nous accueillons l'auteur Elias Soma pour 
 
 **Rencontre publique**
 
-Des informations sur la restitution de résidence d'Elias Soma seront bientot communiquées. 
+Invité en résidence par la Maison de la poésie de Rennes, le poète Elias Soma propose une restitution de son travail, à la croisée de l’écriture et du geste, entouré des artistes Michel Blazy et Lula Wyss Le Brocq.\
+Ensemble, iels ouvrent un terrain où les mots se fabriquent, se déplacent, se transforment et où la matière et le langage se rencontrent.
+
+Michel Blazy, artiste plasticien et chef d’atelier aux Beaux-Arts de Paris, développe une pratique attentive aux transformations du vivant et des matériaux.\
+Lula Wyss Le Brocq, est une artiste plasticienne franco-anglaise qui explore des formes de représentation expérimentales, visant à dépasser la fixation de l’image et de l’identité.\
+Elias Soma, poète, inscrit son travail dans une attention au langage comme expérience physique et sensible.
+
+
+
+**Vendredi 15 mai à 18h,** dans l'hémicycle de l'EESAB Rennes, 
+
+lecture performance *Les problèmes imaginaires* par Elias Soma, Lula Wyss Bocq et Michel Blazy.
+
+«Les problèmes peuvent ouvrir le drame qui engendre plastiquement les mots. Les mains s’impliquent comme les bouches. Les bouches méritent souvent le sens. Les restes, on se demande ce qu'ils sont devenus. On peut les retrouver. Aussi la vie.»
 
 **Rencontres scolaires**
+
+Ateliers :
+
+Collège les Gayeulles : avec le dispositif UPE2A : 18 élèves\
+Ateliers et restitution
+
+Lycée Jean Macé avec une classe de 32 premières\
+Lecture / rencontre + atelier d'écriture
