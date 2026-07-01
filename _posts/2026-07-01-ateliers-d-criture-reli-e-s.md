@@ -11,6 +11,7 @@ date_debut: 2026-10-13T10:03:52.112Z
 date_fin: ""
 dates_publiees: A partir du 13 octobre 2026 · 19h30 → 21h30
 lieu: Maison de la Poésie de Rennes
+tarif: Sur inscription
 ---
 On se lie, se relie, se noue, on se dénoue. Invisibles souvent, ces liens nous composent, nous traversent, nous attachent aux êtres et au monde qui nous entourent. On les désire, les choisit, les chéris et parfois on peut les défaire aussi. Si la relation c'est être relié·es oui, c'est aussi raconter. Alors la poésie et les histoires permettent de dire les entrelacs qui nous tissent et d'inventer des manières de faire lien.
 Ce sera l'objet de ces cinq ateliers, durant lesquels nous explorerons les façons plurielles d'être en relation avec les vivants et les choses et de le raconter.
