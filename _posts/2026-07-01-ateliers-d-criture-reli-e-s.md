@@ -18,9 +18,6 @@ Ce sera l'objet de ces cinq ateliers, durant lesquels nous explorerons les faço
 Les ateliers souvent c’est : un thème, une consigne, quelques lectures pour ouvrir les possibles, un temps d’écriture puis le partage à voix haute des textes écrits. Parfois aussi on explore l’écriture collective…
 Le cycle est ouvert à toustes, que vous ayez ou non une pratique de l’écriture. Ateliers de poésie mais pas que, ouvert à la prose, au récit poétique, et aux expérimentations diverses.
 
-**Juliette Thomas** est autrice et anime des ateliers d’écriture. Ses textes sont traversés par le lien au vivant et les métamorphoses possibles des corps. Elle est publiée dans plusieurs revues et donne voix à ses textes dans des performances sensibles et immersives. Avec trois complices, elle a co-créé à Rennes la Collective Bouche, une scène ouverte poétique qui donne voix à toustes.
-Dans ses ateliers, elle s’appuie sur la puissance du collectif pour amener chacun·e à s’emparer du langage et des mots et à relier l'intime et le dehors pour écrire des corps reliés aux histoires individuelles et à un devenir commun.
-
 Cet atelier est limité à 12 personnes. 
 
 **Dates**\
@@ -43,9 +40,7 @@ Pas de remboursement.
 Il suffit de nous renvoyer le [bulletin d'inscription](imgs/inscription-ateliers-d-ecriture-juliette-thomas2.pdf) (PDF, 19 Ko) complété par [email](mailto:contact@maiporennes.fr) ou par courrier postal.\
 Paiement : par [Hello Asso](https://www.helloasso.com/associations/maison-de-la-poesie-beausejour/evenements/ateliers-d-ecriture-juliette-thomas) ou par chèque (à l’ordre de Maison de la Poésie de Rennes) à remettre en main propre à l'équipe salariée ; ou à envoyer par courrier à Maison de la Poésie de Rennes, 47 rue Armand Rébillon, 35000 RENNES.
 
-Pour savoir quel tarif d’inscription correspond à votre quotient familial, voici notre grille par tranche :
-
-![](imgs/tableau-quotient-familial_2026-800px.jpg "Grille tarifaire - quotient familial")
+Pour savoir quel tarif d’inscription correspond à votre quotient familial, voici notre [grille tarifaire par tranche](imgs/tableau-quotient-familial_2026-800px.jpg). 
 
 **Comment connaître mon quotient familial ?**\
 Le quotient familial est calculé en fonction du foyer et des ressources. Pour le connaître, il faut se connecter à votre espace CAF, puis sur l'espace "Mon Compte". Le quotient familial est visible sur la page d'accueil, à la rubrique "Mes paiements et mes droits". Vous pouvez télécharger une attestation, que vous joindrez à votre paiement.
