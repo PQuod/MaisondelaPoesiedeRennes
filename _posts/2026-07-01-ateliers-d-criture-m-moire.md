@@ -37,7 +37,7 @@ Pas de remboursement.
 
 **Pour s’inscrire**\
 Il suffit de nous renvoyer [le bulletin d’inscription](https://maiporennes.fr/imgs/inscription-ateliers-d-ecriture-cecile-cayrel2.pdf) (PDF, 19 Ko) complété par [email](mailto:contact@maiporennes.fr) ou par courrier postal.\
-Paiement : par [Hello Asso](https://www.helloasso.com/associations/maison-de-la-poesie-beausejour/evenements/ateliers-d-ecriture-juliette-thomas) ou par chèque (à l’ordre de Maison de la Poésie de Rennes) à remettre en main propre à l’équipe salariée ; ou à envoyer par courrier à Maison de la Poésie de Rennes, 47 rue Armand Rébillon, 35000 RENNES.
+Paiement : par [Hello Asso](https://www.helloasso.com/associations/maison-de-la-poesie-beausejour/evenements/ateliers-d-ecriture-cecile-cayrel) ou par chèque (à l’ordre de Maison de la Poésie de Rennes) à remettre en main propre à l’équipe salariée ; ou à envoyer par courrier à Maison de la Poésie de Rennes, 47 rue Armand Rébillon, 35000 RENNES.
 
 Pour savoir quel tarif d’inscription correspond à votre quotient familial, voici notre [grille tarifaire par tranche](https://maiporennes.fr/imgs/tableau-quotient-familial_2026-800px.jpg).
 
