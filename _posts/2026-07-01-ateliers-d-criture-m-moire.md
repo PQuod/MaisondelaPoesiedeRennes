@@ -10,8 +10,8 @@ categories: rencontre
 date_debut: 2026-10-06T10:24:17.397Z
 date_fin: ""
 dates_publiees: A partir du 6 octobre 2026 · 19h00 → 21h00
-lieu: Maison de la poésie de Rennes
-tarif: sur inscription
+lieu: Maison de la Poésie de Rennes
+tarif: Sur inscription
 ---
 Cet atelier d’écriture invite les participant.es à puiser dans leurs souvenirs pour inventer des récits situés entre réalité et invention. À partir d’images, d’objets, de sensations, de chansons, chacun.e sera amené.e à se raconter en transformant sa propre histoire, par de l'imaginaire. La mémoire se transforme en une matière littéraire, à malaxer, réinventer, transmettre.
 
