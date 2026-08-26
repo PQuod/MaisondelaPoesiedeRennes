@@ -10,9 +10,9 @@ permalink: /scolaires/
 
 ### Résidence d'automne
 
-28 octobre → 22 décembre 2024
+26 octobre → 20 décembre 2026
 
-[Grégoire Sourice](https://maiporennes.fr/residence/2024/04/23/r-sidence-dautomne.html) anime 4 ateliers auprès d'une classe au collège Théodore Monod, à Vern-sur-Seiche.
+[](https://maiporennes.fr/residence/2024/04/23/r-sidence-dautomne.html)Cléa Chopard anime 3 ateliers auprès des L2 UEDC de l'Université de Rennes 2 et un atelier auprès des lycéens du Lycée Benjamin Franklin à Auray.
 
 ### Résidence de printemps
 
@@ -47,7 +47,7 @@ Chaque année, en mars et avril, la Maison de la Poésie de Rennes invite deux a
 En février et mars 2026, nous invitons :
 
 * Camille Sova pour son ouvrage, Les branches des autres, aux éditions MF, 2025
-*  Fabien Drouet pour son ouvrage, Soirées Solo, éditions Le Sabot, 2024.
+* Fabien Drouet pour son ouvrage, Soirées Solo, éditions Le Sabot, 2024.
 
 Les rencontres sont organisées dans les établissements scolaires et durent entre 1h et 2h. La Maison de la Poésie de Rennes prend en charge le transport et l'hébergement et la rémunération des artistes. Il reste à la charge des établissements un montant de 100 euros, qu'il est possible de régler *via* le Pass Culture.
 
