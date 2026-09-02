@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 layout: post
 type: event
 title: Résidence Émergence
@@ -14,7 +14,7 @@ lieu: Maison de la Poésie de Rennes
 ---
 Hellahag est accueilli·e à la Maison de la Poésie pour poursuivre plusieurs projets de recherche à la croisée de l’écriture et des arts visuels.
 
-Iel travaille notamment sur un projet textuel et plastique autour d’un corpus de films de loups-garous, mettant en scène des femmes ou des personnes LGBTQIA+. À travers une micro-édition en sérigraphie et risographie, iel explorer la figure de lae louvegarou. comme une créature hors-norme et queer, entre monstruosité, émancipation et lien à l’écosystème.
+Iel travaille notamment sur un projet textuel et plastique autour d’un corpus de films de loups-garous, mettant en scène des femmes ou des personnes LGBTQIA+. À travers une micro-édition en sérigraphie et risographie, iel explorer la figure de lae louvegarou comme une créature hors-norme et queer, entre monstruosité, émancipation et lien à l’écosystème.
 
 Iel poursuivra également *Croc-Croc*, un fanzine consacré aux représentations dans le cinéma horrifique, développé avec Merlo Mermet-Bouvier-Hatzfeld, doctorant en études cinématographiques à l’Université Lyon 2, à partir d’un corpus de films de crocodiles.
 
