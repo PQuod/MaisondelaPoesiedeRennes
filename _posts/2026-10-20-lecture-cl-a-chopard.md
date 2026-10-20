@@ -2,7 +2,7 @@
 draft: false
 layout: post
 type: event
-title: Lecture Cléa Chopard
+title: "Lecture-rencontre : Cléa Chopard"
 date: 2026-10-20T14:34:06.137Z
 artiste:
   - Cléa Chopard
