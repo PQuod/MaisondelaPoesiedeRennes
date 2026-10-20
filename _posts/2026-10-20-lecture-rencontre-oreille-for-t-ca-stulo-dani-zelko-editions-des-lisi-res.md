@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 layout: post
 type: event
 title: "Lecture - rencontre : Oreille forêt – Caístulo & Dani Zelko, Editions
