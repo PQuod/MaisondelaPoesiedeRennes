@@ -61,14 +61,9 @@ L’adhésion est valable une année civile (de janvier à décembre) :
 * Gratuit pour les étudiant.es, \
   demandeureuses d'emploi et bénéficiaires des minimas sociaux
 * 30 euros pour les personnes morales
+* Adhésion de soutien - Prix Libre : L'adhésion de soutien permet à chacun·e de contribuer au projet de l'association selon ses possibilités. Elle donne accès au vote en Assemblée générale mais ne comprend pas le prêt de livres de la bibliothèque.
 
-Pour adhérer, vous pouvez venir nous voir sur nos horaires d'ouvertures et régler votre adhésion par chèque ou en espèce. \
-Vous pouvez nous faire un virement et nous envoyer les infos nécessaires (cf.bulletin d'adhésion) par e-mail : [contact@maiporennes.fr](mailto:contact@maiporennes.fr)\
-Ou, nous retourner le bulletin d'adhésion et le paiement par chèque (à l'ordre de Maison de la Poésie de Rennes) par voie postale :\
-\
-**Maison de la Poésie de Rennes**\
-47 rue Armand Rébillon\
-35000 RENNES
+Pour adhérer, vous pouvez venir nous voir sur nos horaires d'ouvertures et régler votre adhésion en espèce ou bien via HelloAsso : https://www.helloasso.com/associations/maison-de-la-poesie-beausejour/adhesions/adhesion-a-l-association
 
 **A quoi sert l'adhésion ?**
 
@@ -98,6 +93,6 @@ Tous les tarifs sont calculés sur mesure, en fonction de la durée de la mise �
 
 ## Bénévolat
 
-Nous ne recherchons pas de bénévoles pour des missions précises. 
+Ponctuellement ou plus régulièrement, selon vos envies et vos disponibilités, toutes les bonnes volontés sont les bienvenues ! Pour nous rejoindre, écrivez-nous à contact@maiporennes.fr.
 
-Le mieux pour intégrer la vie de l'association est de participer aux événements (rencontres, ateliers, club de lecture, etc.), de fréquenter les lieux pour discuter avec les personnes qui sont déjà investies, et d'assister aux temps associatifs officiels comme l'Assemblée Générale, qui a lieu chaque année en juin.
+Envie de découvrir l’association avant de vous engager ? Venez participer à nos rencontres, ateliers ou clubs de lecture, échanger avec les personnes impliquées et prendre part à notre Assemblée Générale, organisée chaque année en juin.
