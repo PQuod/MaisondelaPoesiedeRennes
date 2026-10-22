@@ -15,3 +15,15 @@ Le Club de lecture fait sa rentrée !
 
 L’idée est de venir avec un livre de son choix lu récemment, dont on a envie de parler (tous les genres littéraires sont acceptés) et de le présenter de la façon que l’on souhaite.\
 Il n’y a pas de lecture suivie, ni de lectures communes. Celleux qui préfèrent écouter sont également les bienvenu·es.
+
+Vous trouverez ci-dessous tous les livres conseillés par les participantes.
+
+**Club du 21 octobre 2026**
+
+* *Mon cœur crépite à mort,* Yoann Thommerel, Vroum
+* *A toute blinde !* *De l'Irlande à l'Inde avec un vélo, douze stylos et un revolver,* Dervla Murphy, Editions Payot
+* *Les gens heureux lisent et boivent du café,* Agnès Martin-Lugand, Editions Michèle Lafon
+* *Le deuxième corps, femmes au travail, de la honte à la solidarité,* Karen Messing, Ecosociété
+* *Jacky,* Anthony Passeron, Grasset
+
+<!--EndFragment-->
