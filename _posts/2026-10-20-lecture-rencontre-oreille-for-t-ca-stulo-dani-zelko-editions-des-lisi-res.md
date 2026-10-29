@@ -8,7 +8,7 @@ date: 2026-10-20T15:40:02.623Z
 categories: rencontre
 date_debut: 2026-10-29T16:40:02.705Z
 date_fin: 2026-10-29T16:40:02.758Z
-dates_publiees: 29 octobre 2026 à 18h
+dates_publiees: 29 octobre 2026 à 19h
 lieu: Maison de la poésie de Rennes
 tarif: gratuit, dans la limite des places disponibles. Sans réservation.
 partenaires: Editions des Lisières
