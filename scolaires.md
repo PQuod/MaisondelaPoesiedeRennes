@@ -42,12 +42,12 @@ Les artistes **Gabriel Gauthier** et **Maxime Devige** (avec qui nous avons déj
 
 *Collèges et lycées*
 
-Chaque année, en mars et avril, la Maison de la Poésie de Rennes invite deux artistes qui ont publié un ouvrage récemment à venir rencontrer les classes des collèges et lycées de Bretagne.
+Chaque année, la Maison de la Poésie de Rennes invite deux artistes qui ont publié un ouvrage récemment à venir rencontrer les classes des collèges et lycées de Bretagne.
 
-En février et mars 2026, nous invitons :
+En février 2027, nous invitons :
 
-* Camille Sova pour son ouvrage, Les branches des autres, aux éditions MF, 2025
-* Fabien Drouet pour son ouvrage, Soirées Solo, éditions Le Sabot, 2024.
+* Yoann Thommerel pour son ouvrage, Mon cœur crépite à mort, VROUM, 2026
+* Hortense Raynal pour son ouvrage, Botte de foin, Cambourakis, 2026
 
 Les rencontres sont organisées dans les établissements scolaires et durent entre 1h et 2h. La Maison de la Poésie de Rennes prend en charge le transport et l'hébergement et la rémunération des artistes. Il reste à la charge des établissements un montant de 100 euros, qu'il est possible de régler *via* le Pass Culture.
 
