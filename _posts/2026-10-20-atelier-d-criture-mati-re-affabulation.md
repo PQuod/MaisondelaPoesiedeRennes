@@ -11,7 +11,7 @@ date_debut: 2026-11-17T15:44:07.353Z
 date_fin: 2026-11-17T15:44:07.391Z
 dates_publiees: 17 novembre 2026, 14h30-16h30
 lieu: Bibliothèque de la Bellangerais, 5 bis rue du Morbihan, 35700 Rennes
-tarif: "gratuit, dans la limite des places disponibles. Sur réservation :
+tarif: "L'atelier est complet, liste d'attente possible :
   bibliothèque.bellangerais@ville-rennes.fr."
 partenaires: "Bibliothèque de la Bellangerais "
 ---
