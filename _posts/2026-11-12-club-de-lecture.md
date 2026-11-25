@@ -1,12 +1,12 @@
 ---
-draft: true
+draft: false
 layout: post
 type: event
 title: Club de lecture
 date: 2026-11-12T14:31:24.436Z
 categories: divers
-date_debut: 2026-11-12T14:31:24.522Z
-date_fin: 2026-11-12T14:31:24.610Z
+date_debut: 2026-12-16T14:31:24.522Z
+date_fin: ""
 dates_publiees: Mercredi 16 décembre de 18h30 à 20h30
 lieu: Maison de la poésie de Rennes
 tarif: gratuit et sans réservation
@@ -17,6 +17,14 @@ Il n’y a pas de lecture suivie, ni de lectures communes. Celleux qui préfère
 Vous trouverez ci-dessous les livres présentés par les participantes lors du dernier club.
 
 **Club du 19 novembre 2026**
+
+<!--StartFragment-->
+
+* *La plastiqueuse à bicyclette* de Jeanne Bohec
+* *J'ai choisi la tempête* de Marie Chamming's
+* *Voir venir* de Lucile Novat
+
+<!--EndFragment-->
 
 **Club du 21 octobre 2026**
 
